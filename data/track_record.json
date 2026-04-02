@@ -1,0 +1,30 @@
+{
+  "date": "April 02, 2026",
+  "week": "2026-W14",
+  "ideas": [
+    {
+      "ticker": "QQQ",
+      "price": 584.31,
+      "direction": "long",
+      "desc": "Nasdaq 100"
+    },
+    {
+      "ticker": "SPY",
+      "price": 655.24,
+      "direction": "long",
+      "desc": "S&P 500"
+    },
+    {
+      "ticker": "BLOK",
+      "price": 49.95,
+      "direction": "long",
+      "desc": "Blockchain"
+    },
+    {
+      "ticker": "GDX",
+      "price": 96.01,
+      "direction": "long",
+      "desc": "Gold Miners"
+    }
+  ]
+}
