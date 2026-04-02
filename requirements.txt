@@ -1,0 +1,16 @@
+# ETF Market Intelligence Dashboard
+# pip install -r requirements.txt
+
+numpy
+pandas
+yfinance
+
+# News Scanner (run_news.py)
+feedparser
+requests
+beautifulsoup4
+groq
+
+# Full MIS Scanner (run_market_intelligence.py)
+pymupdf
+xlsxwriter
