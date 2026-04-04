@@ -1,5 +1,5 @@
 {
-  "generated": "2026-04-02T18:52:40.669852",
+  "generated": "2026-04-04T08:28:06.403724",
   "lookback_days": 7,
   "total_articles": 50,
   "sector_news": {
@@ -7,72 +7,72 @@
       "count": 42,
       "top": [
         {
-          "headline": "Asia-Pacific markets plunge as oil surges after Trump's speech on Iran war",
-          "summary": "During his speech, Trump reiterated that the U.S. objectives in Iran were almost met and said that \"we have all the cards\" in the conflict.",
-          "impact": "mixed",
-          "source": "CNBC World",
-          "score": 10.0,
-          "link": "https://www.cnbc.com/2026/04/02/asia-markets-today-live-trump-address-iran-war.html",
-          "etf_tickers": []
-        },
-        {
-          "headline": "EV demand is getting a boost from the Iran war — just as auto giants pivot back to combustion engines",
-          "summary": "Various car selling platforms have reported a sharp increase in consumer interest for EVs since the Middle East crisis began.",
-          "impact": "bearish",
-          "source": "CNBC World",
-          "score": 10.0,
-          "link": "https://www.cnbc.com/2026/04/02/evs-autos-energy-oil-iran-war-electric-transport-fossil-fuels.html",
-          "etf_tickers": []
-        },
-        {
-          "headline": "CNBC Daily Open: All eyes on Trump address as markets rise on ceasefire hopes",
-          "summary": "All eyes are on U.S. President Donald Trump's national address this morning, as investors hope that a resolution to the Iran war could be coming soon.",
+          "headline": "Trump's Iran war speech paints a grim picture for oil markets with more than 600 million barrels at risk",
+          "summary": "Oil prices are surging as the market prepares for a longer U.S. war with Iran after President Donald Trump's national address.",
           "impact": "neutral",
           "source": "CNBC World",
           "score": 10.0,
-          "link": "https://www.cnbc.com/2026/04/02/cnbc-daily-open-us-markets-rise-trump-iran-ceasefire-spacex-ipo-nasa-moon-launch.html",
+          "link": "https://www.cnbc.com/2026/04/02/trumps-iran-war-speech-oil-price-strait-hormuz.html",
+          "etf_tickers": []
+        },
+        {
+          "headline": "U.S. oil prices soar 11% as Trump's Iran war speech stokes fears of further escalation",
+          "summary": "Oil surged as Trump in his address to the nation on Iran war said that he expected the conflict to last another two to three weeks.",
+          "impact": "mixed",
+          "source": "CNBC World",
+          "score": 10.0,
+          "link": "https://www.cnbc.com/2026/04/02/oil-prices-today-wti-brent-trump-speech-iran-war-.html",
+          "etf_tickers": []
+        },
+        {
+          "headline": "Faced with new energy shock, Europe asks if reviving nuclear is the answer",
+          "summary": "As war drives up gas and fuel prices, Europeans turn again to the issue of energy independence.",
+          "impact": "bullish",
+          "source": "BBC World",
+          "score": 10.0,
+          "link": "https://www.bbc.com/news/articles/c4g8k8vq8gno?at_medium=RSS&at_campaign=rss",
           "etf_tickers": []
         }
       ]
     },
     "International": {
-      "count": 40,
+      "count": 42,
       "top": [
         {
-          "headline": "CNBC Daily Open: Trump threatens to put Iran in 'stone ages,' dampening ceasefire hopes",
-          "summary": "Asia-Pacific markets reacted negatively to Trump's speech, while oil prices jumped",
+          "headline": "Experts dispute US account of deadly Iran sports hall strike in Lamerd",
+          "summary": "Six weapons experts have contested the US claim that video evidence suggests an Iranian missile could have hit the hall.",
           "impact": "bearish",
-          "source": "CNBC World",
+          "source": "BBC World",
           "score": 10.0,
-          "link": "https://www.cnbc.com/2026/04/02/cnbc-daily-open-trump-threatens-to-put-iran-in-stone-ages-dampening-ceasefire-hopes-.html",
+          "link": "https://www.bbc.com/news/articles/c4gx8e1x5j3o?at_medium=RSS&at_campaign=rss",
           "etf_tickers": []
         },
         {
-          "headline": "Trump says Iran's president asked for ceasefire, but U.S. wants Hormuz Strait open first",
-          "summary": "The war began in late February when the U.S. and Israel launched strikes on Iran, causing economic turmoil and massive global energy disruptions.",
+          "headline": "'This has got me worried': Iranians fear what comes next after US strike on Karaj bridge",
+          "summary": "President Trump has warned Iran of strikes on bridges and electric power plants if its leaders do not agree to his terms to end the war.",
+          "impact": "bearish",
+          "source": "BBC World",
+          "score": 10.0,
+          "link": "https://www.bbc.com/news/articles/cp86mrj40e2o?at_medium=RSS&at_campaign=rss",
+          "etf_tickers": []
+        },
+        {
+          "headline": "When will the Iran war end? Tracing the Trump administration's timelines",
+          "summary": "Experts say many US presidents have offered a timeline for a conflict - only to then shift their estimates.",
           "impact": "neutral",
-          "source": "CNBC World",
+          "source": "BBC World",
           "score": 10.0,
-          "link": "https://www.cnbc.com/2026/04/01/trump-iran-war-ceasefire.html",
-          "etf_tickers": []
-        },
-        {
-          "headline": "Inside India newsletter: The worst might not be over for Indian equities",
-          "summary": "Indian equities plunged as the Iran war triggered a record wave of foreign investor sell‑offs. Experts warn the downturn may not be over yet.",
-          "impact": "bearish",
-          "source": "CNBC World",
-          "score": 10.0,
-          "link": "https://www.cnbc.com/2026/04/02/iran-war-indian-stocks-meltdown-worsen.html",
+          "link": "https://www.bbc.com/news/articles/c4g4e6z9960o?at_medium=RSS&at_campaign=rss",
           "etf_tickers": []
         }
       ]
     },
     "Tech & Semiconductors": {
-      "count": 6,
+      "count": 8,
       "top": [
         {
-          "headline": "Buffett: venduto Apple troppo presto",
-          "summary": "Warren Buffett afferma di aver venduto Apple troppo presto e che acquisterebbe ancora, anche se non in questo mercato. Apple rimane la principale partecipazione di Berkshire Hathaway.",
+          "headline": "Buffett vende Apple troppo presto",
+          "summary": "Warren Buffett afferma di aver venduto Apple troppo presto e acquisterebbe ancora, sebbene non in questo mercato. Apple rimane la partecipazione più grande di Berkshire Hathaway.",
           "impact": "bullish",
           "source": "CNBC Finance",
           "score": 8.7,
@@ -95,7 +95,7 @@
         },
         {
           "headline": "Iran minaccia giganti tech",
-          "summary": "La Guardia Rivoluzionaria iraniana ha avvertito diverse aziende tech con operazioni in Medio Oriente di essere considerate 'bersagli legittimi'. Ciò potrebbe avere un impatto negativo sui settori tech e del mercato più ampio.",
+          "summary": "La Guardia Rivoluzionaria dell'Iran ha avvertito diverse aziende tech con operazioni in Medio Oriente di essere considerate \"bersagli legittimi\". Ciò potrebbe avere un impatto negativo sui settori tech e del mercato più ampio.",
           "impact": "bearish",
           "source": "CNBC World",
           "score": 8.7,
@@ -108,32 +108,8 @@
       ]
     },
     "Healthcare": {
-      "count": 3,
+      "count": 1,
       "top": [
-        {
-          "headline": "Tariffe farmaceutiche USA",
-          "summary": "L'amministrazione Trump sta preparando nuove tariffe per le case farmaceutiche che non hanno raggiunto accordi per ridurre i prezzi dei farmaci negli USA. Ciò potrebbe avere un impatto significativo sul settore farmaceutico.",
-          "impact": "bearish",
-          "source": "CNBC World",
-          "score": 8.7,
-          "link": "https://www.cnbc.com/2026/04/02/trump-pharmaceutical-tariffs-100percent.html",
-          "etf_tickers": [
-            "XLV"
-          ]
-        },
-        {
-          "headline": "Maggiori movimenti azionari",
-          "summary": "Le azioni di AstraZeneca, Unity Software e Coinbase guidano i movimenti pre-mercato. Ciò potrebbe avere un impatto significativo sugli ETF di settore.",
-          "impact": "mixed",
-          "source": "CNBC Finance",
-          "score": 7.4,
-          "link": "https://www.cnbc.com/2026/03/27/stocks-making-the-biggest-moves-premarket-azn-u-coin.html",
-          "etf_tickers": [
-            "IBB",
-            "QQQ",
-            "XLK"
-          ]
-        },
         {
           "headline": "Irlanda dipende dal farmaco",
           "summary": "L'Irlanda è diventata il terzo maggiore esportatore di farmaci al mondo, con i medicinali che rappresentano circa il 20% del PIL irlandese. La forte dipendenza dell'Irlanda dall'industria farmaceutica potrebbe essere a rischio a causa di dazi, scadenze di brevetti e tensioni geopolitiche.",
@@ -148,7 +124,7 @@
       ]
     },
     "Financials": {
-      "count": 12,
+      "count": 9,
       "top": [
         {
           "headline": "Piero Cipollone: The digital euro in a fragmenting world: ensuring Europe’s resilience and autonomy in payments",
@@ -169,44 +145,48 @@
           "etf_tickers": []
         },
         {
-          "headline": "ECB Consumer Expectations Survey results – February 2026",
-          "summary": "The European Central Bank (ECB) is the central bank of the European Union countries which have adopted the euro. Our main task is to maintain price stability in the euro area and so preserve the purchasing power of the single currency.",
-          "impact": "neutral",
-          "source": "ECB",
-          "score": 10.0,
-          "link": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr260327~d8261341ca.en.html",
-          "etf_tickers": []
+          "headline": "Powell: inflazione sotto controllo",
+          "summary": "Il presidente della Fed, Jerome Powell, ritiene che l'inflazione sia sotto controllo e non ci sia bisogno di aumentare i tassi di interesse a causa dello shock petrolifero. Ciò potrebbe avere un impatto positivo sui mercati.",
+          "impact": "bullish",
+          "source": "CNBC Finance",
+          "score": 9.4,
+          "link": "https://www.cnbc.com/2026/03/30/powell-sees-inflation-outlook-in-check-no-wider-crisis-yet-in-private-credit.html",
+          "etf_tickers": [
+            "SPY",
+            "XLE",
+            "XLF"
+          ]
         }
       ]
     },
     "Energy": {
-      "count": 39,
+      "count": 42,
       "top": [
         {
-          "headline": "U.S. oil prices top Brent for the first time since 2022 after Trump vows to hit Iran ‘extremely hard’",
-          "summary": "President Donald Trump’s address on Wednesday has left investors with concerns over a potential escalation for the Iran conflict.",
+          "headline": "Watch: Trump's shifting deadlines for ending Iran war",
+          "summary": "The BBC's chief international correspondent analyses the US President's latest White House address.",
           "impact": "neutral",
-          "source": "MarketWatch",
+          "source": "BBC World",
           "score": 10.0,
-          "link": "https://www.marketwatch.com/story/oil-prices-rise-over-7-as-trump-speech-leads-to-uncertainty-on-iran-war-c544dd6e?mod=mw_rss_topstories",
+          "link": "https://www.bbc.com/news/videos/ce8jz0239jxo?at_medium=RSS&at_campaign=rss",
           "etf_tickers": []
         },
         {
-          "headline": "Iran war proves this golden Wall Street rule right, yet again",
-          "summary": "Before President Trump even started speaking Wednesday night, investors had already factored in a swift end to the crisis.",
-          "impact": "mixed",
-          "source": "MarketWatch",
+          "headline": "Ros Atkins on…the cost of the Iran war",
+          "summary": "The BBC's Analysis Editor Ros Atkins takes a closer look at US costs as it continues its war with with Iran.",
+          "impact": "neutral",
+          "source": "BBC World",
           "score": 10.0,
-          "link": "https://www.marketwatch.com/story/iran-war-proves-this-golden-wall-street-rule-right-yet-again-049fb6d1?mod=mw_rss_topstories",
+          "link": "https://www.bbc.com/news/videos/c1d9nnqqld0o?at_medium=RSS&at_campaign=rss",
           "etf_tickers": []
         },
         {
-          "headline": "Mortgage rates rise for the fifth week in a row. Here’s how much more homebuyers are paying since the Iran war started.",
-          "summary": "Just before the start of fighting in the Middle East, mortgage rates had dropped to their lowest level since 2022, with the 30-year rate at 5.98% on Feb. 26, Freddie Mac data show.",
+          "headline": "Iran war: What is happening on day 36 of US-Israeli attacks?",
+          "summary": "Iran claims responsibility for downing two US warplanes, as search under way for missing crewmember.",
           "impact": "bearish",
-          "source": "MarketWatch",
+          "source": "Al Jazeera",
           "score": 10.0,
-          "link": "https://www.marketwatch.com/story/mortgage-rates-rise-for-the-fifth-week-in-a-row-heres-how-much-more-homebuyers-are-paying-since-the-iran-wars-start-910bd100?mod=mw_rss_topstories",
+          "link": "https://www.aljazeera.com/news/2026/4/4/iran-war-what-is-happening-on-day-36-of-us-israeli-attacks?traffic_source=rss",
           "etf_tickers": []
         }
       ]
@@ -215,101 +195,140 @@
       "count": 41,
       "top": [
         {
-          "headline": "Iran's two largest steel plants shut down due to strikes, companies say",
-          "summary": "The strikes, which Iran says were first launched by Israel in co-ordination with the US last week, could cause major damage to the Iranian economy.",
-          "impact": "neutral",
-          "source": "BBC World",
+          "headline": "Will force be used to reopen Strait of Hormuz?",
+          "summary": "Some countries threaten action against Iran&#039;s blockade of waterway.",
+          "impact": "bullish",
+          "source": "Al Jazeera",
           "score": 10.0,
-          "link": "https://www.bbc.com/news/articles/c1w4pdexxqpo?at_medium=RSS&at_campaign=rss",
+          "link": "https://www.aljazeera.com/video/inside-story/2026/4/3/will-force-be-used-to-reopen-strait-of-hormuz?traffic_source=rss",
           "etf_tickers": []
         },
         {
-          "headline": "Iran's focus on survival means same regime still firmly in place",
-          "summary": "Tehran is showing resilience despite Trump's claims of regime change, writes BBC Persian editor Amir Azimi.",
-          "impact": "neutral",
-          "source": "BBC World",
+          "headline": "Iranian missile attack hits residential areas in central Israel",
+          "summary": "An Iranian missile attack has caused damage across residential areas in central Israel, according to Israeli media.",
+          "impact": "bearish",
+          "source": "Al Jazeera",
           "score": 10.0,
-          "link": "https://www.bbc.com/news/articles/cq8wzyz998xo?at_medium=RSS&at_campaign=rss",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/4/4/iranian-missile-attack-hits-residential-areas-in-central-israel?traffic_source=rss",
           "etf_tickers": []
         },
         {
-          "headline": "What do Trump's latest comments on leaving Nato mean for the alliance?",
-          "summary": "Trump has criticised Nato members for showing a lack of support for US objectives in Iran.",
+          "headline": "Iran war live: Tehran downs 2 US warplanes; Israel bombs Lebanon bridges",
+          "summary": "Celebrations in Tehran as Iran&#039;s military says the strikes show its forces still have fighting capability.",
           "impact": "neutral",
-          "source": "BBC World",
+          "source": "Al Jazeera",
           "score": 10.0,
-          "link": "https://www.bbc.com/news/articles/c79je4vldq5o?at_medium=RSS&at_campaign=rss",
+          "link": "https://www.aljazeera.com/news/liveblog/2026/4/4/iran-war-live-tehran-downs-2-us-warplanes-israel-bombs-lebanon-bridges?traffic_source=rss",
           "etf_tickers": []
         }
       ]
     },
-    "Industrials": {
-      "count": 36,
+    "Real Estate": {
+      "count": 1,
       "top": [
         {
-          "headline": "'Be serious... don't speak every day': Macron criticises Trump approach to Iran war",
-          "summary": "The comments were an apparent jab at the US leader's sometimes contradictory stance on the US-Israeli war against Iran.",
-          "impact": "bullish",
-          "source": "BBC World",
+          "headline": "Trump minaccia l'Iran",
+          "summary": "La minaccia di Trump potrebbe aumentare la volatilità del mercato energetico e avere un impatto sulla stabilità globale. Ciò potrebbe influenzare gli ETF legati all'energia e al mercato azionario.",
+          "impact": "bearish",
+          "source": "CNBC World",
+          "score": 8.7,
+          "link": "https://www.cnbc.com/2026/04/03/trump-iran-threats-un-resolution-blocked-strait-of-hormuz-f35-shot-down.html",
+          "etf_tickers": [
+            "SPY",
+            "XLE"
+          ]
+        }
+      ]
+    },
+    "Industrials": {
+      "count": 42,
+      "top": [
+        {
+          "headline": "Christians in Lebanon observe Good Friday under Israeli attacks",
+          "summary": "Christians across Lebanon observed Good Friday, praying for peace as Israeli strikes and evacuation orders continue.",
+          "impact": "neutral",
+          "source": "Al Jazeera",
           "score": 10.0,
-          "link": "https://www.bbc.com/news/articles/cevk0e4ykwko?at_medium=RSS&at_campaign=rss",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/4/3/christians-in-lebanon-observe-good-friday-under-israeli-attacks?traffic_source=rss",
           "etf_tickers": []
         },
         {
-          "headline": "Iranian Nobel laureate suffered suspected heart attack in prison, family says",
-          "summary": "Narges Mohammadi's brother says he fears her life is in imminent danger and she needs to be transferred to a hospital.",
+          "headline": "Survivors of Iran bridge attack recall terror of US-Israeli strike",
+          "summary": "Survivors of an Israeli-US attack on Iran’s biggest road bridge have spoken of their terror as missiles hit it.",
           "impact": "bearish",
-          "source": "BBC World",
+          "source": "Al Jazeera",
           "score": 10.0,
-          "link": "https://www.bbc.com/news/articles/cdj7xye8knxo?at_medium=RSS&at_campaign=rss",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/4/3/survivors-of-iran-bridge-attack-recall-terror-of-us-israeli-strike?traffic_source=rss",
           "etf_tickers": []
         },
         {
-          "headline": "Trump leaves key questions unanswered as he seeks to calm nerves over Iran war",
-          "summary": "There were some glaring omissions in the US president's primetime address, writes the BBC's Gary O'Donoghue.",
-          "impact": "bearish",
-          "source": "BBC World",
+          "headline": "More than 20 attacks on Iranian healthcare facilities since March 1: WHO",
+          "summary": "WHO chief Tedros Adhanom Ghebreyesus says &#039;multiple attacks&#039; on Iranian healthcare facilities have been reported.",
+          "impact": "neutral",
+          "source": "Al Jazeera",
           "score": 10.0,
-          "link": "https://www.bbc.com/news/articles/cnv81ven263o?at_medium=RSS&at_campaign=rss",
+          "link": "https://www.aljazeera.com/news/2026/4/3/more-than-20-attacks-on-iranian-healthcare-facilities-since-march-1-who?traffic_source=rss",
           "etf_tickers": []
         }
       ]
     },
     "Bonds": {
-      "count": 12,
+      "count": 7,
       "top": [
         {
-          "headline": "Isabel Schnabel: Monetary policy in times of geopolitical fragmentation",
-          "summary": "",
-          "impact": "neutral",
-          "source": "ECB",
-          "score": 10.0,
-          "link": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp260327~eca8717025.en.pdf",
-          "etf_tickers": []
+          "headline": "Prezzi gas non influenzano Fed",
+          "summary": "I prezzi del gas non dovrebbero influenzare le decisioni della Fed sui tassi di interesse e potrebbero addirittura portare a tagli. Ciò potrebbe avere un impatto positivo sui settori energetico e finanziario.",
+          "impact": "bullish",
+          "source": "CNBC Economy",
+          "score": 8.7,
+          "link": "https://www.cnbc.com/2026/03/31/why-4-a-gallon-gas-prices-wont-trigger-fed-interest-rate-hikes-and-could-lead-to-cuts.html",
+          "etf_tickers": [
+            "SPY",
+            "XLE",
+            "XLF"
+          ]
         },
         {
-          "headline": "(BOJ Review) The Concept and Measurement of Underlying Inflation",
-          "summary": "",
-          "impact": "neutral",
-          "source": "Bank of Japan",
-          "score": 10.0,
-          "link": "http://www.boj.or.jp/en/research/wps_rev/rev_2026/rev26e05.htm",
-          "etf_tickers": []
+          "headline": "Fed: tassi di interesse potrebbero scendere",
+          "summary": "Il governatore della Fed Stephen Miran sostiene che i tassi di interesse potrebbero essere più bassi quest'anno, influenzando i settori finanziari e il mercato azionario. Ciò potrebbe avere un impatto significativo sugli ETF di settore.",
+          "impact": "bullish",
+          "source": "CNBC Finance",
+          "score": 8.7,
+          "link": "https://www.cnbc.com/2026/03/30/fed-governor-miran-still-backs-cuts-says-interest-rates-could-be-about-a-point-lower-this-year.html",
+          "etf_tickers": [
+            "SPY",
+            "TLT",
+            "XLF"
+          ]
         },
         {
-          "headline": "(Research Paper) IMES DPS: Revisiting Shadow Short-term Interest Rate Models: Evidence from the Ultra-Low Interest Rate Environment in Japan",
-          "summary": "",
-          "impact": "neutral",
-          "source": "Bank of Japan",
-          "score": 10.0,
-          "link": "http://www.boj.or.jp/en/research/imes/dps/dpse260330b.htm",
-          "etf_tickers": []
+          "headline": "Timori inflazione",
+          "summary": "I dati sui lavori e la guerra in Iran aumentano i timori di inflazione per i titoli di Stato USA. Ciò potrebbe avere un impatto sui mercati azionari.",
+          "impact": "bearish",
+          "source": "MarketWatch",
+          "score": 8.7,
+          "link": "https://www.marketwatch.com/story/jobs-data-iran-war-add-to-inflation-fears-for-retirees-20175428?mod=mw_rss_topstories",
+          "etf_tickers": [
+            "QQQ",
+            "TLT"
+          ]
         }
       ]
     },
     "Consumers": {
-      "count": 3,
+      "count": 5,
       "top": [
+        {
+          "headline": "Vincitori nascosti nel settore chip",
+          "summary": "La crescente domanda di satelliti porterà a un aumento della richiesta di semiconduttori. Ciò potrebbe favorire aziende meno conosciute del settore.",
+          "impact": "bullish",
+          "source": "MarketWatch",
+          "score": 7.4,
+          "link": "https://www.marketwatch.com/story/these-little-known-chip-stocks-could-be-winners-as-spacex-and-amazon-make-big-satellite-pushes-361000a3?mod=mw_rss_topstories",
+          "etf_tickers": [
+            "SMH"
+          ]
+        },
         {
           "headline": "Oro cinese attraente",
           "summary": "Gli analisti ritengono che questo titolo abbia ancora spazio per crescere nonostante la recente volatilità dei prezzi dell'oro.",
@@ -320,6 +339,18 @@
           "etf_tickers": [
             "GLD"
           ]
+        },
+        {
+          "headline": "Effetti delle tariffe Trump",
+          "summary": "Le tariffe di Trump continuano ad avere un impatto sulle industrie come retail e auto. Le aziende stanno rivedendo i loro modelli di rischio economico e politico.",
+          "impact": "bearish",
+          "source": "CNBC World",
+          "score": 7.4,
+          "link": "https://www.cnbc.com/2026/04/03/trump-tariffs-trade-war-impact.html",
+          "etf_tickers": [
+            "SPY",
+            "XLY"
+          ]
         }
       ]
     }
@@ -327,13 +358,76 @@
   "rotation_signals": [],
   "articles": [
     {
-      "title": "CNBC Daily Open: Trump threatens to put Iran in 'stone ages,' dampening ceasefire hopes",
+      "title": "Trump's Iran war speech paints a grim picture for oil markets with more than 600 million barrels at risk",
       "headline_it": "",
       "summary_it": "",
-      "summary_en": "Asia-Pacific markets reacted negatively to Trump's speech, while oil prices jumped",
+      "summary_en": "Oil prices are surging as the market prepares for a longer U.S. war with Iran after President Donald Trump's national address.",
       "source": "CNBC World",
-      "link": "https://www.cnbc.com/2026/04/02/cnbc-daily-open-trump-threatens-to-put-iran-in-stone-ages-dampening-ceasefire-hopes-.html",
-      "date": "2026-04-02 06:34",
+      "link": "https://www.cnbc.com/2026/04/02/trumps-iran-war-speech-oil-price-strait-hormuz.html",
+      "date": "2026-04-02 19:59",
+      "score": 10.0,
+      "impact": "neutral",
+      "sectors": [
+        "Broad Market",
+        "Commodities",
+        "Energy",
+        "Industrials",
+        "International"
+      ],
+      "primary_sector": "Broad Market",
+      "etf_tickers": [],
+      "rotation": ""
+    },
+    {
+      "title": "U.S. oil prices soar 11% as Trump's Iran war speech stokes fears of further escalation",
+      "headline_it": "",
+      "summary_it": "",
+      "summary_en": "Oil surged as Trump in his address to the nation on Iran war said that he expected the conflict to last another two to three weeks.",
+      "source": "CNBC World",
+      "link": "https://www.cnbc.com/2026/04/02/oil-prices-today-wti-brent-trump-speech-iran-war-.html",
+      "date": "2026-04-02 18:56",
+      "score": 10.0,
+      "impact": "mixed",
+      "sectors": [
+        "Broad Market",
+        "Commodities",
+        "Energy",
+        "Industrials",
+        "International"
+      ],
+      "primary_sector": "Broad Market",
+      "etf_tickers": [],
+      "rotation": ""
+    },
+    {
+      "title": "Faced with new energy shock, Europe asks if reviving nuclear is the answer",
+      "headline_it": "",
+      "summary_it": "",
+      "summary_en": "As war drives up gas and fuel prices, Europeans turn again to the issue of energy independence.",
+      "source": "BBC World",
+      "link": "https://www.bbc.com/news/articles/c4g8k8vq8gno?at_medium=RSS&at_campaign=rss",
+      "date": "2026-04-03 23:14",
+      "score": 10.0,
+      "impact": "bullish",
+      "sectors": [
+        "Broad Market",
+        "Commodities",
+        "Energy",
+        "Industrials",
+        "International"
+      ],
+      "primary_sector": "Broad Market",
+      "etf_tickers": [],
+      "rotation": ""
+    },
+    {
+      "title": "Experts dispute US account of deadly Iran sports hall strike in Lamerd",
+      "headline_it": "",
+      "summary_it": "",
+      "summary_en": "Six weapons experts have contested the US claim that video evidence suggests an Iranian missile could have hit the hall.",
+      "source": "BBC World",
+      "link": "https://www.bbc.com/news/articles/c4gx8e1x5j3o?at_medium=RSS&at_campaign=rss",
+      "date": "2026-04-03 13:16",
       "score": 10.0,
       "impact": "bearish",
       "sectors": [
@@ -347,13 +441,262 @@
       "rotation": ""
     },
     {
-      "title": "Asia-Pacific markets plunge as oil surges after Trump's speech on Iran war",
+      "title": "'This has got me worried': Iranians fear what comes next after US strike on Karaj bridge",
       "headline_it": "",
       "summary_it": "",
-      "summary_en": "During his speech, Trump reiterated that the U.S. objectives in Iran were almost met and said that \"we have all the cards\" in the conflict.",
-      "source": "CNBC World",
-      "link": "https://www.cnbc.com/2026/04/02/asia-markets-today-live-trump-address-iran-war.html",
-      "date": "2026-04-02 07:46",
+      "summary_en": "President Trump has warned Iran of strikes on bridges and electric power plants if its leaders do not agree to his terms to end the war.",
+      "source": "BBC World",
+      "link": "https://www.bbc.com/news/articles/cp86mrj40e2o?at_medium=RSS&at_campaign=rss",
+      "date": "2026-04-03 10:35",
+      "score": 10.0,
+      "impact": "bearish",
+      "sectors": [
+        "Broad Market",
+        "Commodities",
+        "Energy",
+        "Industrials",
+        "International"
+      ],
+      "primary_sector": "Broad Market",
+      "etf_tickers": [],
+      "rotation": ""
+    },
+    {
+      "title": "When will the Iran war end? Tracing the Trump administration's timelines",
+      "headline_it": "",
+      "summary_it": "",
+      "summary_en": "Experts say many US presidents have offered a timeline for a conflict - only to then shift their estimates.",
+      "source": "BBC World",
+      "link": "https://www.bbc.com/news/articles/c4g4e6z9960o?at_medium=RSS&at_campaign=rss",
+      "date": "2026-04-03 11:28",
+      "score": 10.0,
+      "impact": "neutral",
+      "sectors": [
+        "Broad Market",
+        "Commodities",
+        "Energy",
+        "Industrials",
+        "International"
+      ],
+      "primary_sector": "Broad Market",
+      "etf_tickers": [],
+      "rotation": ""
+    },
+    {
+      "title": "Watch: Trump's shifting deadlines for ending Iran war",
+      "headline_it": "",
+      "summary_it": "",
+      "summary_en": "The BBC's chief international correspondent analyses the US President's latest White House address.",
+      "source": "BBC World",
+      "link": "https://www.bbc.com/news/videos/ce8jz0239jxo?at_medium=RSS&at_campaign=rss",
+      "date": "2026-04-02 17:13",
+      "score": 10.0,
+      "impact": "neutral",
+      "sectors": [
+        "Broad Market",
+        "Commodities",
+        "Energy",
+        "Industrials",
+        "International"
+      ],
+      "primary_sector": "Broad Market",
+      "etf_tickers": [],
+      "rotation": ""
+    },
+    {
+      "title": "Ros Atkins on…the cost of the Iran war",
+      "headline_it": "",
+      "summary_it": "",
+      "summary_en": "The BBC's Analysis Editor Ros Atkins takes a closer look at US costs as it continues its war with with Iran.",
+      "source": "BBC World",
+      "link": "https://www.bbc.com/news/videos/c1d9nnqqld0o?at_medium=RSS&at_campaign=rss",
+      "date": "2026-04-02 18:29",
+      "score": 10.0,
+      "impact": "neutral",
+      "sectors": [
+        "Broad Market",
+        "Commodities",
+        "Energy",
+        "Industrials",
+        "International"
+      ],
+      "primary_sector": "Broad Market",
+      "etf_tickers": [],
+      "rotation": ""
+    },
+    {
+      "title": "Iran war: What is happening on day 36 of US-Israeli attacks?",
+      "headline_it": "",
+      "summary_it": "",
+      "summary_en": "Iran claims responsibility for downing two US warplanes, as search under way for missing crewmember.",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/news/2026/4/4/iran-war-what-is-happening-on-day-36-of-us-israeli-attacks?traffic_source=rss",
+      "date": "2026-04-04 03:51",
+      "score": 10.0,
+      "impact": "bearish",
+      "sectors": [
+        "Broad Market",
+        "Commodities",
+        "Energy",
+        "Industrials",
+        "International"
+      ],
+      "primary_sector": "Broad Market",
+      "etf_tickers": [],
+      "rotation": ""
+    },
+    {
+      "title": "Iranian missile attack hits residential areas in central Israel",
+      "headline_it": "",
+      "summary_it": "",
+      "summary_en": "An Iranian missile attack has caused damage across residential areas in central Israel, according to Israeli media.",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/4/4/iranian-missile-attack-hits-residential-areas-in-central-israel?traffic_source=rss",
+      "date": "2026-04-04 02:53",
+      "score": 10.0,
+      "impact": "bearish",
+      "sectors": [
+        "Broad Market",
+        "Commodities",
+        "Energy",
+        "Industrials",
+        "International"
+      ],
+      "primary_sector": "Broad Market",
+      "etf_tickers": [],
+      "rotation": ""
+    },
+    {
+      "title": "Iran war live: Tehran downs 2 US warplanes; Israel bombs Lebanon bridges",
+      "headline_it": "",
+      "summary_it": "",
+      "summary_en": "Celebrations in Tehran as Iran&#039;s military says the strikes show its forces still have fighting capability.",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/news/liveblog/2026/4/4/iran-war-live-tehran-downs-2-us-warplanes-israel-bombs-lebanon-bridges?traffic_source=rss",
+      "date": "2026-04-04 00:00",
+      "score": 10.0,
+      "impact": "neutral",
+      "sectors": [
+        "Broad Market",
+        "Commodities",
+        "Energy",
+        "Industrials",
+        "International"
+      ],
+      "primary_sector": "Broad Market",
+      "etf_tickers": [],
+      "rotation": ""
+    },
+    {
+      "title": "Video shows the moment a Russian drone hit an apartment in Ukraine",
+      "headline_it": "",
+      "summary_it": "",
+      "summary_en": "Russia has unleashed a massive round of deadly air strikes across Ukraine, in a so-called &quot;Easter escalation.&quot;",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/4/3/video-shows-the-moment-a-russian-drone-hit-an-apartment-in-ukraine?traffic_source=rss",
+      "date": "2026-04-03 23:40",
+      "score": 10.0,
+      "impact": "neutral",
+      "sectors": [
+        "Broad Market",
+        "Commodities",
+        "Energy",
+        "International"
+      ],
+      "primary_sector": "Broad Market",
+      "etf_tickers": [],
+      "rotation": ""
+    },
+    {
+      "title": "Christians in Lebanon observe Good Friday under Israeli attacks",
+      "headline_it": "",
+      "summary_it": "",
+      "summary_en": "Christians across Lebanon observed Good Friday, praying for peace as Israeli strikes and evacuation orders continue.",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/4/3/christians-in-lebanon-observe-good-friday-under-israeli-attacks?traffic_source=rss",
+      "date": "2026-04-03 21:05",
+      "score": 10.0,
+      "impact": "neutral",
+      "sectors": [
+        "Broad Market",
+        "Energy",
+        "Industrials",
+        "International"
+      ],
+      "primary_sector": "Broad Market",
+      "etf_tickers": [],
+      "rotation": ""
+    },
+    {
+      "title": "Will force be used to reopen Strait of Hormuz?",
+      "headline_it": "",
+      "summary_it": "",
+      "summary_en": "Some countries threaten action against Iran&#039;s blockade of waterway.",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/video/inside-story/2026/4/3/will-force-be-used-to-reopen-strait-of-hormuz?traffic_source=rss",
+      "date": "2026-04-03 20:55",
+      "score": 10.0,
+      "impact": "bullish",
+      "sectors": [
+        "Commodities",
+        "Energy",
+        "Industrials",
+        "International"
+      ],
+      "primary_sector": "Commodities",
+      "etf_tickers": [],
+      "rotation": ""
+    },
+    {
+      "title": "Survivors of Iran bridge attack recall terror of US-Israeli strike",
+      "headline_it": "",
+      "summary_it": "",
+      "summary_en": "Survivors of an Israeli-US attack on Iran’s biggest road bridge have spoken of their terror as missiles hit it.",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/4/3/survivors-of-iran-bridge-attack-recall-terror-of-us-israeli-strike?traffic_source=rss",
+      "date": "2026-04-03 20:37",
+      "score": 10.0,
+      "impact": "bearish",
+      "sectors": [
+        "Broad Market",
+        "Commodities",
+        "Energy",
+        "Industrials",
+        "International"
+      ],
+      "primary_sector": "Broad Market",
+      "etf_tickers": [],
+      "rotation": ""
+    },
+    {
+      "title": "More than 20 attacks on Iranian healthcare facilities since March 1: WHO",
+      "headline_it": "",
+      "summary_it": "",
+      "summary_en": "WHO chief Tedros Adhanom Ghebreyesus says &#039;multiple attacks&#039; on Iranian healthcare facilities have been reported.",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/news/2026/4/3/more-than-20-attacks-on-iranian-healthcare-facilities-since-march-1-who?traffic_source=rss",
+      "date": "2026-04-03 19:16",
+      "score": 10.0,
+      "impact": "neutral",
+      "sectors": [
+        "Broad Market",
+        "Commodities",
+        "Energy",
+        "Industrials",
+        "International"
+      ],
+      "primary_sector": "Broad Market",
+      "etf_tickers": [],
+      "rotation": ""
+    },
+    {
+      "title": "US unemployment rate drops despite economic uncertainty and Iran war",
+      "headline_it": "",
+      "summary_it": "",
+      "summary_en": "White House says March jobs report &#039;blew out expectations&#039; with gains made in the healthcare and construction sectors.",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/news/2026/4/3/us-unemployment-rate-drops-despite-economic-uncertainty-and-iran-war?traffic_source=rss",
+      "date": "2026-04-03 17:35",
       "score": 10.0,
       "impact": "mixed",
       "sectors": [
@@ -361,28 +704,6 @@
         "Commodities",
         "Energy",
         "Industrials",
-        "International",
-        "Real Estate"
-      ],
-      "primary_sector": "Broad Market",
-      "etf_tickers": [],
-      "rotation": ""
-    },
-    {
-      "title": "EV demand is getting a boost from the Iran war — just as auto giants pivot back to combustion engines",
-      "headline_it": "",
-      "summary_it": "",
-      "summary_en": "Various car selling platforms have reported a sharp increase in consumer interest for EVs since the Middle East crisis began.",
-      "source": "CNBC World",
-      "link": "https://www.cnbc.com/2026/04/02/evs-autos-energy-oil-iran-war-electric-transport-fossil-fuels.html",
-      "date": "2026-04-02 05:00",
-      "score": 10.0,
-      "impact": "bearish",
-      "sectors": [
-        "Broad Market",
-        "Commodities",
-        "Energy",
-        "Industrials",
         "International"
       ],
       "primary_sector": "Broad Market",
@@ -390,13 +711,13 @@
       "rotation": ""
     },
     {
-      "title": "CNBC Daily Open: All eyes on Trump address as markets rise on ceasefire hopes",
+      "title": "What in the World?",
       "headline_it": "",
       "summary_it": "",
-      "summary_en": "All eyes are on U.S. President Donald Trump's national address this morning, as investors hope that a resolution to the Iran war could be coming soon.",
-      "source": "CNBC World",
-      "link": "https://www.cnbc.com/2026/04/02/cnbc-daily-open-us-markets-rise-trump-iran-ceasefire-spacex-ipo-nasa-moon-launch.html",
-      "date": "2026-04-02 01:20",
+      "summary_en": "Test yourself on the week of March 28: Energy markets react to the Iran war, Russia expels a diplomat, and the Afghanistan-Pakistan conflict intensifies.",
+      "source": "Foreign Policy",
+      "link": "https://foreignpolicy.com/2026/04/03/news-quiz-iran-war-energy-philippines-afghanistan-pakistan-trump-gas-oil/",
+      "date": "2026-04-03 18:42",
       "score": 10.0,
       "impact": "neutral",
       "sectors": [
@@ -411,13 +732,13 @@
       "rotation": ""
     },
     {
-      "title": "Trump says Iran's president asked for ceasefire, but U.S. wants Hormuz Strait open first",
+      "title": "Will the Iran War Evaporate the Gulf’s AI Oasis?",
       "headline_it": "",
       "summary_it": "",
-      "summary_en": "The war began in late February when the U.S. and Israel launched strikes on Iran, causing economic turmoil and massive global energy disruptions.",
-      "source": "CNBC World",
-      "link": "https://www.cnbc.com/2026/04/01/trump-iran-war-ceasefire.html",
-      "date": "2026-04-01 15:22",
+      "summary_en": "The Iran war has punctured—though not completely popped—the region’s tech bubble.",
+      "source": "Foreign Policy",
+      "link": "https://foreignpolicy.com/2026/04/02/iran-war-gulf-data-centers-ai-technology/",
+      "date": "2026-04-02 20:17",
       "score": 10.0,
       "impact": "neutral",
       "sectors": [
@@ -428,92 +749,6 @@
         "International"
       ],
       "primary_sector": "Broad Market",
-      "etf_tickers": [],
-      "rotation": ""
-    },
-    {
-      "title": "Inside India newsletter: The worst might not be over for Indian equities",
-      "headline_it": "",
-      "summary_it": "",
-      "summary_en": "Indian equities plunged as the Iran war triggered a record wave of foreign investor sell‑offs. Experts warn the downturn may not be over yet.",
-      "source": "CNBC World",
-      "link": "https://www.cnbc.com/2026/04/02/iran-war-indian-stocks-meltdown-worsen.html",
-      "date": "2026-04-02 02:15",
-      "score": 10.0,
-      "impact": "bearish",
-      "sectors": [
-        "Broad Market",
-        "Commodities",
-        "Energy",
-        "Industrials",
-        "International"
-      ],
-      "primary_sector": "Broad Market",
-      "etf_tickers": [],
-      "rotation": ""
-    },
-    {
-      "title": "U.S. oil prices top Brent for the first time since 2022 after Trump vows to hit Iran ‘extremely hard’",
-      "headline_it": "",
-      "summary_it": "",
-      "summary_en": "President Donald Trump’s address on Wednesday has left investors with concerns over a potential escalation for the Iran conflict.",
-      "source": "MarketWatch",
-      "link": "https://www.marketwatch.com/story/oil-prices-rise-over-7-as-trump-speech-leads-to-uncertainty-on-iran-war-c544dd6e?mod=mw_rss_topstories",
-      "date": "2026-04-02 18:03",
-      "score": 10.0,
-      "impact": "neutral",
-      "sectors": [
-        "Broad Market",
-        "Commodities",
-        "Energy",
-        "Industrials",
-        "International"
-      ],
-      "primary_sector": "Broad Market",
-      "etf_tickers": [],
-      "rotation": ""
-    },
-    {
-      "title": "Iran war proves this golden Wall Street rule right, yet again",
-      "headline_it": "",
-      "summary_it": "",
-      "summary_en": "Before President Trump even started speaking Wednesday night, investors had already factored in a swift end to the crisis.",
-      "source": "MarketWatch",
-      "link": "https://www.marketwatch.com/story/iran-war-proves-this-golden-wall-street-rule-right-yet-again-049fb6d1?mod=mw_rss_topstories",
-      "date": "2026-04-02 16:39",
-      "score": 10.0,
-      "impact": "mixed",
-      "sectors": [
-        "Broad Market",
-        "Commodities",
-        "Energy",
-        "Industrials",
-        "International"
-      ],
-      "primary_sector": "Broad Market",
-      "etf_tickers": [],
-      "rotation": ""
-    },
-    {
-      "title": "Mortgage rates rise for the fifth week in a row. Here’s how much more homebuyers are paying since the Iran war started.",
-      "headline_it": "",
-      "summary_it": "",
-      "summary_en": "Just before the start of fighting in the Middle East, mortgage rates had dropped to their lowest level since 2022, with the 30-year rate at 5.98% on Feb. 26, Freddie Mac data show.",
-      "source": "MarketWatch",
-      "link": "https://www.marketwatch.com/story/mortgage-rates-rise-for-the-fifth-week-in-a-row-heres-how-much-more-homebuyers-are-paying-since-the-iran-wars-start-910bd100?mod=mw_rss_topstories",
-      "date": "2026-04-02 16:09",
-      "score": 10.0,
-      "impact": "bearish",
-      "sectors": [
-        "Bonds",
-        "Broad Market",
-        "Commodities",
-        "Energy",
-        "Industrials",
-        "International",
-        "Real Estate"
-      ],
-      "primary_sector": "Bonds",
       "etf_tickers": [],
       "rotation": ""
     },
@@ -552,110 +787,13 @@
       "rotation": ""
     },
     {
-      "title": "Isabel Schnabel: Monetary policy in times of geopolitical fragmentation",
+      "title": "How the Iran War Became NATO’s Biggest Crisis",
       "headline_it": "",
       "summary_it": "",
-      "summary_en": "",
-      "source": "ECB",
-      "link": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp260327~eca8717025.en.pdf",
-      "date": "2026-03-27 16:00",
-      "score": 10.0,
-      "impact": "neutral",
-      "sectors": [
-        "Bonds",
-        "Broad Market",
-        "International"
-      ],
-      "primary_sector": "Bonds",
-      "etf_tickers": [],
-      "rotation": ""
-    },
-    {
-      "title": "ECB Consumer Expectations Survey results – February 2026",
-      "headline_it": "",
-      "summary_it": "",
-      "summary_en": "The European Central Bank (ECB) is the central bank of the European Union countries which have adopted the euro. Our main task is to maintain price stability in the euro area and so preserve the purchasing power of the single currency.",
-      "source": "ECB",
-      "link": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr260327~d8261341ca.en.html",
-      "date": "2026-03-27 09:00",
-      "score": 10.0,
-      "impact": "neutral",
-      "sectors": [
-        "Financials"
-      ],
-      "primary_sector": "Financials",
-      "etf_tickers": [],
-      "rotation": ""
-    },
-    {
-      "title": "'Be serious... don't speak every day': Macron criticises Trump approach to Iran war",
-      "headline_it": "",
-      "summary_it": "",
-      "summary_en": "The comments were an apparent jab at the US leader's sometimes contradictory stance on the US-Israeli war against Iran.",
-      "source": "BBC World",
-      "link": "https://www.bbc.com/news/articles/cevk0e4ykwko?at_medium=RSS&at_campaign=rss",
-      "date": "2026-04-02 13:41",
-      "score": 10.0,
-      "impact": "bullish",
-      "sectors": [
-        "Broad Market",
-        "Commodities",
-        "Energy",
-        "Industrials",
-        "International"
-      ],
-      "primary_sector": "Broad Market",
-      "etf_tickers": [],
-      "rotation": ""
-    },
-    {
-      "title": "Iran's two largest steel plants shut down due to strikes, companies say",
-      "headline_it": "",
-      "summary_it": "",
-      "summary_en": "The strikes, which Iran says were first launched by Israel in co-ordination with the US last week, could cause major damage to the Iranian economy.",
-      "source": "BBC World",
-      "link": "https://www.bbc.com/news/articles/c1w4pdexxqpo?at_medium=RSS&at_campaign=rss",
-      "date": "2026-04-02 17:01",
-      "score": 10.0,
-      "impact": "neutral",
-      "sectors": [
-        "Commodities",
-        "Energy",
-        "Industrials",
-        "International"
-      ],
-      "primary_sector": "Commodities",
-      "etf_tickers": [],
-      "rotation": ""
-    },
-    {
-      "title": "US lifts sanctions on Venezuelan interim leader Delcy Rodríguez",
-      "headline_it": "",
-      "summary_it": "",
-      "summary_en": "It is the latest sign of warming relations between the US and Venezuela after Nicolás Maduro was seized in a commando raid.",
-      "source": "BBC World",
-      "link": "https://www.bbc.com/news/articles/cje4l9de0d1o?at_medium=RSS&at_campaign=rss",
-      "date": "2026-04-02 11:55",
-      "score": 10.0,
-      "impact": "neutral",
-      "sectors": [
-        "Broad Market",
-        "Commodities",
-        "Energy",
-        "International"
-      ],
-      "primary_sector": "Broad Market",
-      "etf_tickers": [],
-      "rotation": ""
-    },
-    {
-      "title": "Iranian Nobel laureate suffered suspected heart attack in prison, family says",
-      "headline_it": "",
-      "summary_it": "",
-      "summary_en": "Narges Mohammadi's brother says he fears her life is in imminent danger and she needs to be transferred to a hospital.",
-      "source": "BBC World",
-      "link": "https://www.bbc.com/news/articles/cdj7xye8knxo?at_medium=RSS&at_campaign=rss",
-      "date": "2026-04-02 16:00",
+      "summary_en": "President Donald Trump told Reuters on Wednesday that he is considering withdrawing the United States from the 76-year-old alliance after European allies declined to send warships to reopen the Strait of Hormuz to global shipping. \"Wouldn't you if you were me?\" he asked. Earlier this week, in an interview with Britain's The Telegraph, he called NATO a \"paper tiger\" and said Russian President Vladimir Putin shared the assessment. The spat has a straightforward trigger. The Strait of Hormuz, the narrow chokepoint between Iran and Oman through which…",
+      "source": "OilPrice",
+      "link": "https://oilprice.com/Geopolitics/International/How-the-Iran-War-Became-NATOs-Biggest-Crisis.html",
+      "date": "2026-04-03 22:00",
       "score": 10.0,
       "impact": "bearish",
       "sectors": [
@@ -670,13 +808,34 @@
       "rotation": ""
     },
     {
-      "title": "Trump leaves key questions unanswered as he seeks to calm nerves over Iran war",
+      "title": "Trump Says US Could ‘Take the Oil’ in Hormuz Push",
       "headline_it": "",
       "summary_it": "",
-      "summary_en": "There were some glaring omissions in the US president's primetime address, writes the BBC's Gary O'Donoghue.",
-      "source": "BBC World",
-      "link": "https://www.bbc.com/news/articles/cnv81ven263o?at_medium=RSS&at_campaign=rss",
-      "date": "2026-04-02 03:22",
+      "summary_en": "President Donald Trump said Friday the United States could reopen the Strait of Hormuz and “take the oil and make a fortune,” framing control of the world’s most critical energy chokepoint as both a strategic and economic opportunity. The Strait carries roughly 20% of global oil supply. Traffic through the waterway has been severely disrupted as Iranian threats, vessel attacks, and collapsing insurance coverage have curtailed tanker movements. Tanker flows have stalled, and crude and product markets have repriced sharply higher…",
+      "source": "OilPrice",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/Trump-Says-US-Could-Take-the-Oil-in-Hormuz-Push.html",
+      "date": "2026-04-03 18:30",
+      "score": 10.0,
+      "impact": "neutral",
+      "sectors": [
+        "Broad Market",
+        "Commodities",
+        "Energy",
+        "Industrials",
+        "International"
+      ],
+      "primary_sector": "Broad Market",
+      "etf_tickers": [],
+      "rotation": ""
+    },
+    {
+      "title": "BP’s New CEO Faces a Defining Test as War Boosts Profits",
+      "headline_it": "",
+      "summary_it": "",
+      "summary_en": "In one sense it’s a baptism of fire – in another, hardly at all. Meg O’Neill’s arrival as the first female chief executive of BP comes, in a sense, at an auspicious moment.  Oil majors’ earnings are set for a significant windfall from the conflict in Iran, with those of BP and Shell forecast to see a combined £5bn this year – and that’s if the war is limited in timeframe. That cannot mask, though, the scale of the task facing O’Neill, who arrives from Australia’s Woodside Petroleum…",
+      "source": "OilPrice",
+      "link": "https://oilprice.com/Energy/Energy-General/BPs-New-CEO-Faces-a-Defining-Test-as-War-Boosts-Profits.html",
+      "date": "2026-04-03 18:00",
       "score": 10.0,
       "impact": "bearish",
       "sectors": [
@@ -691,113 +850,13 @@
       "rotation": ""
     },
     {
-      "title": "Iran's focus on survival means same regime still firmly in place",
+      "title": "First Western European Vessel Transits Hormuz Since War Began",
       "headline_it": "",
       "summary_it": "",
-      "summary_en": "Tehran is showing resilience despite Trump's claims of regime change, writes BBC Persian editor Amir Azimi.",
-      "source": "BBC World",
-      "link": "https://www.bbc.com/news/articles/cq8wzyz998xo?at_medium=RSS&at_campaign=rss",
-      "date": "2026-04-02 13:45",
-      "score": 10.0,
-      "impact": "neutral",
-      "sectors": [
-        "Commodities",
-        "Energy",
-        "Industrials",
-        "International"
-      ],
-      "primary_sector": "Commodities",
-      "etf_tickers": [],
-      "rotation": ""
-    },
-    {
-      "title": "What do Trump's latest comments on leaving Nato mean for the alliance?",
-      "headline_it": "",
-      "summary_it": "",
-      "summary_en": "Trump has criticised Nato members for showing a lack of support for US objectives in Iran.",
-      "source": "BBC World",
-      "link": "https://www.bbc.com/news/articles/c79je4vldq5o?at_medium=RSS&at_campaign=rss",
-      "date": "2026-04-01 16:31",
-      "score": 10.0,
-      "impact": "neutral",
-      "sectors": [
-        "Commodities",
-        "Energy",
-        "Industrials",
-        "International"
-      ],
-      "primary_sector": "Commodities",
-      "etf_tickers": [],
-      "rotation": ""
-    },
-    {
-      "title": "Watch: Trump's shifting deadlines for ending Iran war",
-      "headline_it": "",
-      "summary_it": "",
-      "summary_en": "The BBC's chief international correspondent analyses the US President's latest White House address.",
-      "source": "BBC World",
-      "link": "https://www.bbc.com/news/videos/ce8jz0239jxo?at_medium=RSS&at_campaign=rss",
-      "date": "2026-04-02 17:13",
-      "score": 10.0,
-      "impact": "neutral",
-      "sectors": [
-        "Broad Market",
-        "Commodities",
-        "Energy",
-        "Industrials",
-        "International"
-      ],
-      "primary_sector": "Broad Market",
-      "etf_tickers": [],
-      "rotation": ""
-    },
-    {
-      "title": "(BOJ Review) The Concept and Measurement of Underlying Inflation",
-      "headline_it": "",
-      "summary_it": "",
-      "summary_en": "",
-      "source": "Bank of Japan",
-      "link": "http://www.boj.or.jp/en/research/wps_rev/rev_2026/rev26e05.htm",
-      "date": "2026-03-30 06:30",
-      "score": 10.0,
-      "impact": "neutral",
-      "sectors": [
-        "Bonds",
-        "Broad Market",
-        "Commodities",
-        "Industrials"
-      ],
-      "primary_sector": "Bonds",
-      "etf_tickers": [],
-      "rotation": ""
-    },
-    {
-      "title": "(Research Paper) IMES DPS: Revisiting Shadow Short-term Interest Rate Models: Evidence from the Ultra-Low Interest Rate Environment in Japan",
-      "headline_it": "",
-      "summary_it": "",
-      "summary_en": "",
-      "source": "Bank of Japan",
-      "link": "http://www.boj.or.jp/en/research/imes/dps/dpse260330b.htm",
-      "date": "2026-03-30 02:00",
-      "score": 10.0,
-      "impact": "neutral",
-      "sectors": [
-        "Bonds",
-        "Broad Market",
-        "Industrials"
-      ],
-      "primary_sector": "Bonds",
-      "etf_tickers": [],
-      "rotation": ""
-    },
-    {
-      "title": "Children’s hospital in Tehran keeps hopes and smiles alive during war",
-      "headline_it": "",
-      "summary_it": "",
-      "summary_en": "Staff at the Children’s Medical Center organise activities to offer a joyful experience to children in hospital.",
-      "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/news/2026/4/2/childrens-hospital-in-tehran-keeps-hopes-and-smiles-alive-during-war?traffic_source=rss",
-      "date": "2026-04-02 18:37",
+      "summary_en": "A container ship owned by French shipping giant CMA CGM, has just transited the Strait of Hormuz in what appears to be the first vessel linked to Western Europe to have successfully braved the critical chokepoint since the war in the Middle East began. The Malta-flagged CMA CGM Kribi, which openly broadcasts its French ownership, transited the Strait of Hormuz between Thursday afternoon and Friday morning, according to vessel-tracking data monitored by Bloomberg. Data on MarineTraffic showed that CMA CGM Kribi was in the Oman Gulf as of 12 p.m.…",
+      "source": "OilPrice",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/First-Western-European-Vessel-Transits-Hormuz-Since-War-Began.html",
+      "date": "2026-04-03 16:30",
       "score": 10.0,
       "impact": "neutral",
       "sectors": [
@@ -807,33 +866,13 @@
         "International"
       ],
       "primary_sector": "Broad Market",
-      "etf_tickers": [],
-      "rotation": ""
-    },
-    {
-      "title": "Videos capture projectile falling in central Israel after Iran strike",
-      "headline_it": "",
-      "summary_it": "",
-      "summary_en": "Videos show the moment a projectile strikes central Israel, with a loud explosion heard on impact.",
-      "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/4/2/videos-capture-projectile-falling-in-central-israel-after-iran-strike?traffic_source=rss",
-      "date": "2026-04-02 18:35",
-      "score": 10.0,
-      "impact": "bearish",
-      "sectors": [
-        "Commodities",
-        "Energy",
-        "Industrials",
-        "International"
-      ],
-      "primary_sector": "Commodities",
       "etf_tickers": [],
       "rotation": ""
     },
     {
       "title": "Powell sees inflation outlook in check, no need to hike rates because of oil shock",
       "headline_it": "Powell: inflazione sotto controllo",
-      "summary_it": "Il presidente della Fed, Jerome Powell, afferma che l'inflazione è sotto controllo e non c'è bisogno di aumentare i tassi di interesse a causa dello shock petrolifero. Ciò potrebbe avere un impatto positivo sui mercati finanziari.",
+      "summary_it": "Il presidente della Fed, Jerome Powell, ritiene che l'inflazione sia sotto controllo e non ci sia bisogno di aumentare i tassi di interesse a causa dello shock petrolifero. Ciò potrebbe avere un impatto positivo sui mercati.",
       "summary_en": "Federal Reserve Chair Jerome Powell spoke Monday at Harvard University.",
       "source": "CNBC Finance",
       "link": "https://www.cnbc.com/2026/03/30/powell-sees-inflation-outlook-in-check-no-wider-crisis-yet-in-private-credit.html",
@@ -856,33 +895,9 @@
       "rotation": ""
     },
     {
-      "title": "Markets now see the Fed's next move as a potential rate hike as inflation fears mount",
-      "headline_it": "Fed potrebbe alzare i tassi",
-      "summary_it": "I mercati ora vedono la prossima mossa della Fed come un possibile aumento dei tassi a causa dell'aumento delle preoccupazioni sull'inflazione. Ciò potrebbe avere un impatto significativo sui settori finanziari e obbligazionari.",
-      "summary_en": "Traders in the futures market shifted the probability of a rate increase by the end of 2026 to 52% on Friday morning.",
-      "source": "CNBC Economy",
-      "link": "https://www.cnbc.com/2026/03/27/markets-see-the-feds-next-move-as-a-potential-hike-as-oil-prices-inflation-fears-rise.html",
-      "date": "2026-03-27 18:02",
-      "score": 9.4,
-      "impact": "bearish",
-      "sectors": [
-        "Bonds",
-        "Broad Market",
-        "Commodities",
-        "Financials"
-      ],
-      "primary_sector": "Bonds",
-      "etf_tickers": [
-        "SPY",
-        "TLT",
-        "XLF"
-      ],
-      "rotation": ""
-    },
-    {
       "title": "Iran and Oman drafting protocol to 'monitor' Hormuz Strait traffic: IRNA",
-      "headline_it": "Iran e Oman monitorano traffico nello Stretto di Hormuz",
-      "summary_it": "La chiusura dello Stretto di Hormuz a causa della guerra in Iran ha un impatto significativo sulle forniture di petrolio a livello globale, influenzando i settori energetico e delle commodity.",
+      "headline_it": "Iran e Oman controllano stretto di Hormuz",
+      "summary_it": "La chiusura dello stretto di Hormuz ha un impatto significativo sulle forniture di petrolio a livello globale, influenzando i settori energetico e delle commodity. Ciò potrebbe avere ripercussioni sui prezzi del petrolio e sui mercati finanziari.",
       "summary_en": "The Strait of Hormuz, the vital artery for global oil transit, has been effectively closed since the Iran war started in late February.",
       "source": "CNBC World",
       "link": "https://www.cnbc.com/2026/04/02/iran-war-oman-hormuz-strait.html",
@@ -898,85 +913,62 @@
       ],
       "primary_sector": "Broad Market",
       "etf_tickers": [
-        "XLE"
+        "USO"
       ],
       "rotation": ""
     },
     {
-      "title": "U.S. oil prices soar 11% as Trump's Iran war speech stokes fears of further escalation",
-      "headline_it": "Prezzi petrolio in rialzo",
-      "summary_it": "I prezzi del petrolio sono aumentati dell'11% a causa delle dichiarazioni di Trump sulla guerra con l'Iran. Ciò potrebbe avere un impatto significativo sul settore energetico.",
-      "summary_en": "Oil surged as Trump in his address to the nation on Iran war said that he expected the conflict to last another two to three weeks.",
-      "source": "CNBC World",
-      "link": "https://www.cnbc.com/2026/04/02/oil-prices-today-wti-brent-trump-speech-iran-war-.html",
-      "date": "2026-04-02 18:50",
-      "score": 9.4,
+      "title": "Why $4 a gallon gas prices won’t trigger Fed interest rate hikes — and could lead to cuts",
+      "headline_it": "Prezzi gas non influenzano Fed",
+      "summary_it": "I prezzi del gas non dovrebbero influenzare le decisioni della Fed sui tassi di interesse e potrebbero addirittura portare a tagli. Ciò potrebbe avere un impatto positivo sui settori energetico e finanziario.",
+      "summary_en": "While there's still plenty of uncertainty about where rates are headed, Wall Street commentary shifted back to expectations for cuts.",
+      "source": "CNBC Economy",
+      "link": "https://www.cnbc.com/2026/03/31/why-4-a-gallon-gas-prices-wont-trigger-fed-interest-rate-hikes-and-could-lead-to-cuts.html",
+      "date": "2026-03-31 18:35",
+      "score": 8.7,
       "impact": "bullish",
-      "sectors": [
-        "Broad Market",
-        "Commodities",
-        "Energy",
-        "Industrials",
-        "International"
-      ],
-      "primary_sector": "Broad Market",
-      "etf_tickers": [
-        "XLE"
-      ],
-      "rotation": ""
-    },
-    {
-      "title": "Trump's Iran war speech paints a grim picture for oil markets with more than 600 million barrels at risk",
-      "headline_it": "Guerra Iran: preoccupazione per il mercato petrolifero",
-      "summary_it": "I prezzi del petrolio sono in aumento a causa della possibile escalation della guerra tra Stati Uniti e Iran. Ciò potrebbe avere un impatto significativo sui mercati energetici e delle commodity.",
-      "summary_en": "Oil prices are surging as the market prepares for a longer U.S. war with Iran after President Donald Trump's national address.",
-      "source": "CNBC World",
-      "link": "https://www.cnbc.com/2026/04/02/trumps-iran-war-speech-oil-price-strait-hormuz.html",
-      "date": "2026-04-02 18:02",
-      "score": 9.4,
-      "impact": "bearish",
-      "sectors": [
-        "Broad Market",
-        "Commodities",
-        "Energy",
-        "Industrials",
-        "International"
-      ],
-      "primary_sector": "Broad Market",
-      "etf_tickers": [
-        "XLE"
-      ],
-      "rotation": ""
-    },
-    {
-      "title": "Trump’s threat to hit Iran 'extremely hard' jolts global stocks, bonds and oil",
-      "headline_it": "Minacce di Trump a Iran",
-      "summary_it": "Le parole di Trump hanno fatto calare la fiducia degli investitori, portando a una discesa degli asset in tutti i mercati. Ciò potrebbe avere un impatto significativo sui settori energetico e obbligazionario.",
-      "summary_en": "Investor sentiment quickly soured as Trump's speech went on, sending assets across the board lower in international markets.",
-      "source": "CNBC World",
-      "link": "https://www.cnbc.com/2026/04/02/trump-iran-escalation-asian-stocks-oil-prices-markets.html",
-      "date": "2026-04-02 08:38",
-      "score": 9.4,
-      "impact": "bearish",
       "sectors": [
         "Bonds",
         "Broad Market",
-        "Commodities",
         "Energy",
-        "Industrials",
-        "International"
+        "Financials"
       ],
       "primary_sector": "Bonds",
       "etf_tickers": [
         "SPY",
-        "USO"
+        "XLE",
+        "XLF"
+      ],
+      "rotation": ""
+    },
+    {
+      "title": "China suppliers warn of higher prices for Americans due to Strait of Hormuz closure",
+      "headline_it": "Chiusura Stretto di Hormuz",
+      "summary_it": "La chiusura dello Stretto di Hormuz a causa della guerra con l'Iran sta causando problemi di approvvigionamento per i produttori cinesi, con possibili aumenti dei prezzi per gli americani. Ciò potrebbe avere un impatto significativo sui settori energetico e del mercato azionario.",
+      "summary_en": "The Iran war has stalled shipments of oil and its products through the Strait of Hormuz, raising concerns among Chinese manufacturers about supply chain disruptions.",
+      "source": "CNBC Economy",
+      "link": "https://www.cnbc.com/2026/03/30/china-suppliers-warn-higher-us-prices-hormuz-closure.html",
+      "date": "2026-03-30 20:19",
+      "score": 8.7,
+      "impact": "bearish",
+      "sectors": [
+        "Broad Market",
+        "Commodities",
+        "Energy",
+        "Industrials",
+        "International"
+      ],
+      "primary_sector": "Broad Market",
+      "etf_tickers": [
+        "SPY",
+        "XLE"
       ],
       "rotation": ""
     },
     {
       "title": "Warren Buffett says Iran bomb would make nuclear disaster harder to avoid",
       "headline_it": "Minaccia nucleare globale",
-      "summary_it": "L'aumento degli stati con armi nucleari aumenta il rischio globale, influenzando i mercati energetici e il mercato azionario in generale.",
+      "summary_it": "L'aumento degli stati con armi nucleari altera il panorama dei rischi globali. Ciò potrebbe avere un impatto significativo sui mercati energetici e azionari.",
       "summary_en": "The Berkshire Hathaway chairman said the growing number of nuclear-armed states has fundamentally altered the global risk landscape.",
       "source": "CNBC Finance",
       "link": "https://www.cnbc.com/2026/03/31/warren-buffett-says-iran-bomb-would-make-nuclear-disaster-harder-to-avoid.html",
@@ -999,8 +991,8 @@
     },
     {
       "title": "Warren Buffett says he sold Apple too soon and would buy more of it, though not in this market",
-      "headline_it": "Buffett: venduto Apple troppo presto",
-      "summary_it": "Warren Buffett afferma di aver venduto Apple troppo presto e che acquisterebbe ancora, anche se non in questo mercato. Apple rimane la principale partecipazione di Berkshire Hathaway.",
+      "headline_it": "Buffett vende Apple troppo presto",
+      "summary_it": "Warren Buffett afferma di aver venduto Apple troppo presto e acquisterebbe ancora, sebbene non in questo mercato. Apple rimane la partecipazione più grande di Berkshire Hathaway.",
       "summary_en": "Apple remains Berkshire Hathaway's largest holding even after the conglomerate trimmed its stake at the end of last year.",
       "source": "CNBC Finance",
       "link": "https://www.cnbc.com/2026/03/31/warren-buffett-says-he-sold-apple-too-soon-and-would-buy-more-of-it-though-not-in-this-market-.html",
@@ -1050,7 +1042,7 @@
     {
       "title": "Fed Governor Miran still backs cuts, says interest rates could be 'about a point' lower this year",
       "headline_it": "Fed: tassi di interesse potrebbero scendere",
-      "summary_it": "Il governatore della Fed Stephen Miran sostiene che i tassi di interesse potrebbero essere più bassi quest'anno, influenzando i settori finanziari e obbligazionari.",
+      "summary_it": "Il governatore della Fed Stephen Miran sostiene che i tassi di interesse potrebbero essere più bassi quest'anno, influenzando i settori finanziari e il mercato azionario. Ciò potrebbe avere un impatto significativo sugli ETF di settore.",
       "summary_en": "Federal Reserve Governor Stephen Miran spoke Monday on CNBC's \"Squawk on the Street.\"",
       "source": "CNBC Finance",
       "link": "https://www.cnbc.com/2026/03/30/fed-governor-miran-still-backs-cuts-says-interest-rates-could-be-about-a-point-lower-this-year.html",
@@ -1075,13 +1067,13 @@
       "rotation": ""
     },
     {
-      "title": "Sen. Warren rips Federal Reserve chair pick Kevin Warsh: 'You have learned nothing from your failures'",
-      "headline_it": "Fed: nomina bloccata",
-      "summary_it": "La nomina di Kevin Warsh come presidente della Fed è in stallo a causa di un'indagine criminale su Jerome Powell. Ciò potrebbe avere un impatto significativo sui settori finanziari e dei bond.",
-      "summary_en": "Kevin Warsh's nomination as chair of the Federal Reserve has been in limbo because of a criminal investigation of Chair Jerome Powell.",
-      "source": "CNBC Finance",
-      "link": "https://www.cnbc.com/2026/03/26/federal-reserve-kevin-walsh-elizabeth-warren-trump.html",
-      "date": "2026-03-27 15:52",
+      "title": "Jobs data, Iran war add to inflation fears for retirees",
+      "headline_it": "Timori inflazione",
+      "summary_it": "I dati sui lavori e la guerra in Iran aumentano i timori di inflazione per i titoli di Stato USA. Ciò potrebbe avere un impatto sui mercati azionari.",
+      "summary_en": "The U.S. Treasury bond market is getting increasingly worried about inflation.",
+      "source": "MarketWatch",
+      "link": "https://www.marketwatch.com/story/jobs-data-iran-war-add-to-inflation-fears-for-retirees-20175428?mod=mw_rss_topstories",
+      "date": "2026-04-03 18:54",
       "score": 8.7,
       "impact": "bearish",
       "sectors": [
@@ -1089,108 +1081,60 @@
         "Broad Market",
         "Commodities",
         "Energy",
-        "Financials",
         "Industrials",
         "International"
       ],
       "primary_sector": "Bonds",
       "etf_tickers": [
-        "TLT",
-        "XLF"
+        "QQQ",
+        "TLT"
       ],
       "rotation": ""
     },
     {
-      "title": "Why $4 a gallon gas prices won’t trigger Fed interest rate hikes — and could lead to cuts",
-      "headline_it": "Prezzi gas non influenzano decisioni Fed",
-      "summary_it": "I prezzi del gas non dovrebbero influenzare le decisioni della Fed sui tassi di interesse e potrebbero addirittura portare a tagli. Ciò potrebbe avere un impatto positivo sui settori energetico e del mercato azionario.",
-      "summary_en": "While there's still plenty of uncertainty about where rates are headed, Wall Street commentary shifted back to expectations for cuts.",
-      "source": "CNBC Economy",
-      "link": "https://www.cnbc.com/2026/03/31/why-4-a-gallon-gas-prices-wont-trigger-fed-interest-rate-hikes-and-could-lead-to-cuts.html",
-      "date": "2026-03-31 18:35",
-      "score": 8.7,
-      "impact": "bullish",
-      "sectors": [
-        "Bonds",
-        "Broad Market",
-        "Energy",
-        "Financials"
-      ],
-      "primary_sector": "Bonds",
-      "etf_tickers": [
-        "SPY",
-        "XLE"
-      ],
-      "rotation": ""
-    },
-    {
-      "title": "China suppliers warn of higher prices for Americans due to Strait of Hormuz closure",
-      "headline_it": "Prezzi più alti per gli americani",
-      "summary_it": "La chiusura dello Stretto di Hormuz a causa della guerra con l'Iran sta causando problemi di catena di approvvigionamento per i produttori cinesi, che avvisano di possibili aumenti dei prezzi per gli americani. Ciò potrebbe avere un impatto significativo sul settore energetico e sull'intero mercato.",
-      "summary_en": "The Iran war has stalled shipments of oil and its products through the Strait of Hormuz, raising concerns among Chinese manufacturers about supply chain disruptions.",
-      "source": "CNBC Economy",
-      "link": "https://www.cnbc.com/2026/03/30/china-suppliers-warn-higher-us-prices-hormuz-closure.html",
-      "date": "2026-03-30 20:19",
+      "title": "Trump threatens to destroy Iranian infrastructure, saying its government 'knows what has to be done'",
+      "headline_it": "Trump minaccia l'Iran",
+      "summary_it": "La minaccia di Trump potrebbe aumentare la volatilità del mercato energetico e avere un impatto sulla stabilità globale. Ciò potrebbe influenzare gli ETF legati all'energia e al mercato azionario.",
+      "summary_en": "The threat comes a day after he said in a nationwide address that the U.S. military will be hitting Tehran \"extremely hard\" for the next two or three weeks.",
+      "source": "CNBC World",
+      "link": "https://www.cnbc.com/2026/04/03/trump-iran-threats-un-resolution-blocked-strait-of-hormuz-f35-shot-down.html",
+      "date": "2026-04-03 15:17",
       "score": 8.7,
       "impact": "bearish",
       "sectors": [
         "Broad Market",
         "Commodities",
-        "Energy",
-        "Industrials",
-        "International"
-      ],
-      "primary_sector": "Broad Market",
-      "etf_tickers": [
-        "SPY",
-        "XLE"
-      ],
-      "rotation": ""
-    },
-    {
-      "title": "Trump administration prepares up to 100% pharmaceutical tariffs on some imported drugs",
-      "headline_it": "Tariffe farmaceutiche USA",
-      "summary_it": "L'amministrazione Trump sta preparando nuove tariffe per le case farmaceutiche che non hanno raggiunto accordi per ridurre i prezzi dei farmaci negli USA. Ciò potrebbe avere un impatto significativo sul settore farmaceutico.",
-      "summary_en": "The Trump administration is preparing to impose new tariffs on drugmakers that have not struck deals with the president to lower their U.S. drug prices.",
-      "source": "CNBC World",
-      "link": "https://www.cnbc.com/2026/04/02/trump-pharmaceutical-tariffs-100percent.html",
-      "date": "2026-04-02 15:35",
-      "score": 8.7,
-      "impact": "bearish",
-      "sectors": [
-        "Broad Market",
-        "Healthcare",
-        "International"
-      ],
-      "primary_sector": "Broad Market",
-      "etf_tickers": [
-        "XLV"
-      ],
-      "rotation": ""
-    },
-    {
-      "title": "Iran threatens Nvidia, Apple and other tech giants with attacks",
-      "headline_it": "Iran minaccia giganti tech",
-      "summary_it": "La Guardia Rivoluzionaria iraniana ha avvertito diverse aziende tech con operazioni in Medio Oriente di essere considerate 'bersagli legittimi'. Ciò potrebbe avere un impatto negativo sui settori tech e del mercato più ampio.",
-      "summary_en": "Iran's Revolutionary Guard has warned a number of tech companies with Middle East operations that they'll be considered \"legitimate targets.\"",
-      "source": "CNBC World",
-      "link": "https://www.cnbc.com/2026/04/01/iran-irgc-nvidia-appple-attack-threat.html",
-      "date": "2026-04-01 14:37",
-      "score": 8.7,
-      "impact": "bearish",
-      "sectors": [
-        "Broad Market",
-        "Commodities",
-        "Consumers",
         "Energy",
         "Industrials",
         "International",
-        "Tech & Semiconductors"
+        "Real Estate"
       ],
       "primary_sector": "Broad Market",
       "etf_tickers": [
-        "QQQ",
-        "SMH"
+        "SPY",
+        "XLE"
+      ],
+      "rotation": ""
+    },
+    {
+      "title": "How Iran turned a tiny island into an oil 'toll booth' as Tehran cements grip on global energy flows",
+      "headline_it": "Iran controlla flussi energetici globali",
+      "summary_it": "L'Iran ha creato un corridoio di navigazione sicuro nel nord dello Stretto di Hormuz per selezionare navi, aumentando il controllo sui flussi energetici globali. Ciò potrebbe avere un impatto significativo sul settore energetico.",
+      "summary_en": "Iran has established a de facto safe shipping corridor in the north of the Strait of Hormuz to select ships, as Tehran sought to monetize its grip over the waterway.",
+      "source": "CNBC World",
+      "link": "https://www.cnbc.com/2026/04/02/strait-of-hormuz-iran-war-united-states-israel-ships-vessels-oil.html",
+      "date": "2026-04-02 07:34",
+      "score": 8.7,
+      "impact": "bearish",
+      "sectors": [
+        "Commodities",
+        "Energy",
+        "Industrials",
+        "International"
+      ],
+      "primary_sector": "Commodities",
+      "etf_tickers": [
+        "XLE"
       ],
       "rotation": ""
     },
@@ -1218,36 +1162,39 @@
       "rotation": ""
     },
     {
-      "title": "Trump’s Iran timeline may not be short enough to avoid oil demand destruction",
-      "headline_it": "Prezzi petrolio in aumento",
-      "summary_it": "I prezzi del petrolio sono aumentati di oltre il 60% a marzo a causa della guerra tra Stati Uniti e Iran, potrebbe influire sulla domanda di energia.",
-      "summary_en": "Oil prices surged by more than 60% in March as the U.S.-Iran war raged on.",
+      "title": "Iran threatens Nvidia, Apple and other tech giants with attacks",
+      "headline_it": "Iran minaccia giganti tech",
+      "summary_it": "La Guardia Rivoluzionaria dell'Iran ha avvertito diverse aziende tech con operazioni in Medio Oriente di essere considerate \"bersagli legittimi\". Ciò potrebbe avere un impatto negativo sui settori tech e del mercato più ampio.",
+      "summary_en": "Iran's Revolutionary Guard has warned a number of tech companies with Middle East operations that they'll be considered \"legitimate targets.\"",
       "source": "CNBC World",
-      "link": "https://www.cnbc.com/2026/04/02/oil-demand-destruction-trump-energy-price-gasoline-ration-iran.html",
-      "date": "2026-04-02 10:47",
+      "link": "https://www.cnbc.com/2026/04/01/iran-irgc-nvidia-appple-attack-threat.html",
+      "date": "2026-04-01 14:37",
       "score": 8.7,
       "impact": "bearish",
       "sectors": [
         "Broad Market",
         "Commodities",
+        "Consumers",
         "Energy",
         "Industrials",
-        "International"
+        "International",
+        "Tech & Semiconductors"
       ],
       "primary_sector": "Broad Market",
       "etf_tickers": [
-        "XLE"
+        "QQQ",
+        "SMH"
       ],
       "rotation": ""
     },
     {
-      "title": "Trump Iran speech recap: President again says war is nearly over, vows ‘extremely hard’ hits in coming weeks",
-      "headline_it": "Trump: guerra Iran quasi finita",
-      "summary_it": "Il presidente Trump prevede due o tre settimane di guerra, con impatti potenziali sul mercato energetico e sui mercati globali.",
-      "summary_en": "President Donald Trump, in his first remarks to the nation about the Iran war, said he expects two to three more weeks of war.",
+      "title": "Dow closes lower as Trump comments dampen traders’ hopes for Iran war ending: Live updates",
+      "headline_it": "Dow chiude in basso",
+      "summary_it": "Il Dow Industrials ha chiuso leggermente in basso a causa delle preoccupazioni sulla guerra con l'Iran. Ciò potrebbe avere un impatto negativo sui mercati finanziari.",
+      "summary_en": "The Dow Industrials ended Thursday slightly lower as traders weighed the prospect of the Iran war continuing for weeks.",
       "source": "CNBC World",
-      "link": "https://www.cnbc.com/2026/04/01/trump-address-nation-iran-live-updates.html",
-      "date": "2026-04-02 11:38",
+      "link": "https://www.cnbc.com/2026/04/01/stock-market-today-live-updates.html",
+      "date": "2026-04-02 20:47",
       "score": 8.7,
       "impact": "bearish",
       "sectors": [
@@ -1259,19 +1206,19 @@
       ],
       "primary_sector": "Broad Market",
       "etf_tickers": [
-        "SPY",
-        "XLE"
+        "DIA",
+        "SPY"
       ],
       "rotation": ""
     },
     {
       "title": "Blue Owl caps private credit funds redemptions at 5% after steep request levels",
       "headline_it": "Blue Owl limita i rimborsi",
-      "summary_it": "Blue Owl ha limitato i rimborsi dei fondi di credito privato al 5% a causa di richieste elevate. Ciò è dovuto a preoccupazioni sul mercato riguardo alla disruption delle aziende software legate all'intelligenza artificiale.",
+      "summary_it": "Blue Owl ha limitato i rimborsi dei fondi di credito privato al 5% a causa di richieste elevate, attribuite a preoccupazioni sul mercato legate alla disruption dell'AI nel settore software.",
       "summary_en": "Blue Owl attributed the higher-than-usual requests to \"heightened market concerns around AI-related disruption to software companies.\"",
       "source": "CNBC Finance",
       "link": "https://www.cnbc.com/2026/04/02/blue-owl-private-credit-funds-redemptions-requests.html",
-      "date": "2026-04-02 14:50",
+      "date": "2026-04-02 20:08",
       "score": 7.4,
       "impact": "bearish",
       "sectors": [
@@ -1286,7 +1233,8 @@
       ],
       "primary_sector": "Bonds",
       "etf_tickers": [
-        "QQQ"
+        "QQQ",
+        "XLK"
       ],
       "rotation": ""
     },
@@ -1314,74 +1262,94 @@
       "rotation": ""
     },
     {
-      "title": "Stocks making the biggest moves premarket: AstraZeneca, Unity Software, Coinbase & more",
-      "headline_it": "Maggiori movimenti azionari",
-      "summary_it": "Le azioni di AstraZeneca, Unity Software e Coinbase guidano i movimenti pre-mercato. Ciò potrebbe avere un impatto significativo sugli ETF di settore.",
-      "summary_en": "These are the stocks posting the largest moves premarket.",
-      "source": "CNBC Finance",
-      "link": "https://www.cnbc.com/2026/03/27/stocks-making-the-biggest-moves-premarket-azn-u-coin.html",
-      "date": "2026-03-27 11:40",
+      "title": "(BOJ Review) The Concept and Measurement of Underlying Inflation",
+      "headline_it": "BOJ revisiona inflazione",
+      "summary_it": "La Banca del Giappone revisiona il concetto e la misurazione dell'inflazione di base, potenziale impatto sui tassi e sui bond.",
+      "summary_en": "",
+      "source": "Bank of Japan",
+      "link": "http://www.boj.or.jp/en/research/wps_rev/rev_2026/rev26e05.htm",
+      "date": "2026-03-30 06:30",
       "score": 7.4,
-      "impact": "mixed",
+      "impact": "neutral",
+      "sectors": [
+        "Bonds",
+        "Broad Market",
+        "Commodities",
+        "Industrials",
+        "International"
+      ],
+      "primary_sector": "Bonds",
+      "etf_tickers": [],
+      "rotation": ""
+    },
+    {
+      "title": "These little-known chip stocks could be winners as SpaceX and Amazon make big satellite pushes",
+      "headline_it": "Vincitori nascosti nel settore chip",
+      "summary_it": "La crescente domanda di satelliti porterà a un aumento della richiesta di semiconduttori. Ciò potrebbe favorire aziende meno conosciute del settore.",
+      "summary_en": "As tens of thousands of satellites are launched into orbit over the next several years, operators will need to buy a lot of semiconductors.",
+      "source": "MarketWatch",
+      "link": "https://www.marketwatch.com/story/these-little-known-chip-stocks-could-be-winners-as-spacex-and-amazon-make-big-satellite-pushes-361000a3?mod=mw_rss_topstories",
+      "date": "2026-04-03 18:33",
+      "score": 7.4,
+      "impact": "bullish",
+      "sectors": [
+        "Consumers",
+        "Industrials",
+        "Tech & Semiconductors"
+      ],
+      "primary_sector": "Consumers",
+      "etf_tickers": [
+        "SMH"
+      ],
+      "rotation": ""
+    },
+    {
+      "title": "Asian travelers seek respite in other options as Middle East travel plans stay grounded",
+      "headline_it": "Tensioni in Medio Oriente",
+      "summary_it": "I prezzi dei biglietti aerei in Asia aumentano a causa delle tensioni tra Iran e gli Stati Uniti, i viaggiatori asiatici cercano alternative. Ciò potrebbe influenzare i settori energetico e internazionale.",
+      "summary_en": "Ticket prices across airlines in Asia increase in the midst of Iran War tensions, Asian travelers look elsewhere to relax",
+      "source": "CNBC World",
+      "link": "https://www.cnbc.com/2026/04/04/asian-travelers-seek-other-options-as-middle-east-plans-stay-grounded.html",
+      "date": "2026-04-04 06:49",
+      "score": 7.4,
+      "impact": "bearish",
       "sectors": [
         "Broad Market",
         "Commodities",
-        "Crypto",
         "Energy",
-        "Healthcare",
+        "Industrials",
+        "International"
+      ],
+      "primary_sector": "Broad Market",
+      "etf_tickers": [
+        "EEM",
+        "XLE"
+      ],
+      "rotation": ""
+    },
+    {
+      "title": "Trump tariff fallout: Some industries grapple with lingering effects one year later",
+      "headline_it": "Effetti delle tariffe Trump",
+      "summary_it": "Le tariffe di Trump continuano ad avere un impatto sulle industrie come retail e auto. Le aziende stanno rivedendo i loro modelli di rischio economico e politico.",
+      "summary_en": "A year after his \"liberation day,\" Trump's trade war has reshaped how companies in industries such as retail and autos are modeling economic and policy risk.",
+      "source": "CNBC World",
+      "link": "https://www.cnbc.com/2026/04/03/trump-tariffs-trade-war-impact.html",
+      "date": "2026-04-03 11:30",
+      "score": 7.4,
+      "impact": "bearish",
+      "sectors": [
+        "Broad Market",
+        "Commodities",
+        "Consumers",
+        "Energy",
+        "Industrials",
         "International",
         "Tech & Semiconductors"
       ],
       "primary_sector": "Broad Market",
       "etf_tickers": [
-        "IBB",
-        "QQQ",
-        "XLK"
-      ],
-      "rotation": ""
-    },
-    {
-      "title": "Private credit's cracks open door for Wall Street banks' comeback: 'The tug of war is just starting'",
-      "headline_it": "Banche di Wall Street pronte a riconquistare quota",
-      "summary_it": "Le banche di Wall Street potrebbero finalmente avere l'opportunità di riconquistare quota di mercato a scapito dei prestatori di credito privato. Ciò potrebbe avere un impatto positivo sul settore finanziario.",
-      "summary_en": "Wall Street banks may finally be getting a long-awaited opening to claw back market share from private credit lenders.",
-      "source": "CNBC Finance",
-      "link": "https://www.cnbc.com/2026/03/27/wall-street-banks-private-credit-market-share-leveraged-loans.html",
-      "date": "2026-03-27 06:15",
-      "score": 7.4,
-      "impact": "bullish",
-      "sectors": [
-        "Bonds",
-        "Broad Market",
-        "Commodities",
-        "Energy",
-        "Financials",
-        "International"
-      ],
-      "primary_sector": "Bonds",
-      "etf_tickers": [
-        "XLF"
-      ],
-      "rotation": ""
-    },
-    {
-      "title": "Federal Reserve Board announces it has made the joint findings with the Office of the Comptroller of the Currency required for the OCC to approve a request by Morgan Stanley Bank, N.A., for an exemption under section 23A of the Federal Reserve Act",
-      "headline_it": "Fed approva esenzione per Morgan Stanley",
-      "summary_it": "La Federal Reserve ha concesso un'esenzione a Morgan Stanley, potenziale impatto sul settore finanziario. Ciò potrebbe influenzare gli ETF del settore.",
-      "summary_en": "Federal Reserve Board announces it has made the joint findings with the Office of the Comptroller of the Currency required for the OCC to approve a request by Morgan Stanley Bank, N.A., for an exemption under section 23A of the Federal Reserve Act",
-      "source": "Federal Reserve",
-      "link": "https://www.federalreserve.gov/newsevents/pressreleases/orders20260326a.htm",
-      "date": "2026-03-26 21:00",
-      "score": 7.4,
-      "impact": "neutral",
-      "sectors": [
-        "Broad Market",
-        "Financials"
-      ],
-      "primary_sector": "Broad Market",
-      "etf_tickers": [
         "SPY",
-        "XLF"
+        "XLY"
       ],
       "rotation": ""
     },
@@ -1407,9 +1375,72 @@
       "rotation": ""
     },
     {
+      "title": "(Research Paper) IMES DPS: Revisiting Shadow Short-term Interest Rate Models: Evidence from the Ultra-Low Interest Rate Environment in Japan",
+      "headline_it": "Tassi a breve termine in Giappone",
+      "summary_it": "La Bank of Japan pubblica uno studio sui modelli di tassi a breve termine in un ambiente di tassi ultra-bassi. L'impatto potrebbe essere limitato per gli ETF del settore finanziario e dei bond.",
+      "summary_en": "",
+      "source": "Bank of Japan",
+      "link": "http://www.boj.or.jp/en/research/imes/dps/dpse260330b.htm",
+      "date": "2026-03-30 02:00",
+      "score": 6.1,
+      "impact": "neutral",
+      "sectors": [
+        "Bonds",
+        "Broad Market",
+        "Financials",
+        "Industrials"
+      ],
+      "primary_sector": "Bonds",
+      "etf_tickers": [
+        "TLT"
+      ],
+      "rotation": ""
+    },
+    {
+      "title": "South Korea, France agree to deepen defense cooperation amid Middle East conflict",
+      "headline_it": "Corea e Francia stringono accordo",
+      "summary_it": "La Corea del Sud e la Francia hanno concordato di rafforzare la cooperazione nella difesa. Ciò potrebbe avere un impatto sul settore industriale e sugli ETF internazionali.",
+      "summary_en": "French officials have said the trip aims to strengthen France's strategic and economic role in the region at a time of \"strong international and regional tensions.\"",
+      "source": "CNBC World",
+      "link": "https://www.cnbc.com/2026/04/03/south-korea-france-agree-to-deepen-defense-cooperation-amid-middle-east-conflict.html",
+      "date": "2026-04-03 08:12",
+      "score": 6.1,
+      "impact": "bullish",
+      "sectors": [
+        "Energy",
+        "Industrials",
+        "International",
+        "Tech & Semiconductors"
+      ],
+      "primary_sector": "Energy",
+      "etf_tickers": [
+        "ITA"
+      ],
+      "rotation": ""
+    },
+    {
+      "title": "Federal Reserve Board issues enforcement action with former employee of United Bank",
+      "headline_it": "Azione di enforcement della Fed",
+      "summary_it": "La Federal Reserve Board ha emesso un'azione di enforcement contro un ex dipendente di United Bank, senza impatto significativo sul settore finanziario.",
+      "summary_en": "Federal Reserve Board issues enforcement action with former employee of United Bank",
+      "source": "Federal Reserve",
+      "link": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20260403a.htm",
+      "date": "2026-04-03 15:00",
+      "score": 5.5,
+      "impact": "neutral",
+      "sectors": [
+        "Financials"
+      ],
+      "primary_sector": "Financials",
+      "etf_tickers": [
+        "XLF"
+      ],
+      "rotation": ""
+    },
+    {
       "title": "Warren Buffett teams up with NBA superstar Stephen Curry for charity lunch, reviving iconic auction",
       "headline_it": "Warren Buffett lancia asta benefica",
-      "summary_it": "L'asta di beneficenza di Warren Buffett, con la partecipazione di Stephen Curry, non dovrebbe avere un impatto significativo sul mercato. L'evento è più una notizia di intrattenimento che finanziaria.",
+      "summary_it": "L'asta di beneficenza di Warren Buffett, con la partecipazione di Stephen Curry, non avrà un impatto diretto sul mercato. L'evento è più una notizia di interesse generale che un evento finanziario rilevante.",
       "summary_en": "The winning bidder — along with up to seven guests — will join Buffett and the Currys for an exclusive lunch in Omaha, Nebraska.",
       "source": "CNBC Finance",
       "link": "https://www.cnbc.com/2026/03/31/warren-buffett-teams-up-with-stephen-curry-for-charity-lunch.html",

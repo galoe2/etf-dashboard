@@ -1,30 +1,36 @@
 {
-  "date": "April 02, 2026",
+  "date": "April 04, 2026",
   "week": "2026-W14",
   "ideas": [
     {
-      "ticker": "QQQ",
-      "price": 584.31,
+      "ticker": "GDX",
+      "price": 94.59,
       "direction": "long",
-      "desc": "Nasdaq 100"
+      "desc": "Gold Miners"
+    },
+    {
+      "ticker": "USO",
+      "price": 137.92,
+      "direction": "long",
+      "desc": "Crude Oil"
     },
     {
       "ticker": "SPY",
-      "price": 655.24,
+      "price": 655.83,
       "direction": "long",
       "desc": "S&P 500"
     },
     {
-      "ticker": "BLOK",
-      "price": 49.95,
+      "ticker": "XLE",
+      "price": 59.25,
       "direction": "long",
-      "desc": "Blockchain"
+      "desc": "Oil & Gas"
     },
     {
-      "ticker": "GDX",
-      "price": 96.01,
+      "ticker": "QQQ",
+      "price": 584.98,
       "direction": "long",
-      "desc": "Gold Miners"
+      "desc": "Nasdaq 100"
     }
   ]
 }
