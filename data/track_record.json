@@ -3,16 +3,10 @@
   "week": "2026-W14",
   "ideas": [
     {
-      "ticker": "GDX",
-      "price": 94.59,
+      "ticker": "QQQ",
+      "price": 584.98,
       "direction": "long",
-      "desc": "Gold Miners"
-    },
-    {
-      "ticker": "USO",
-      "price": 137.92,
-      "direction": "long",
-      "desc": "Crude Oil"
+      "desc": "Nasdaq 100"
     },
     {
       "ticker": "SPY",
@@ -27,10 +21,10 @@
       "desc": "Oil & Gas"
     },
     {
-      "ticker": "QQQ",
-      "price": 584.98,
+      "ticker": "USO",
+      "price": 137.92,
       "direction": "long",
-      "desc": "Nasdaq 100"
+      "desc": "Crude Oil"
     }
   ]
 }
