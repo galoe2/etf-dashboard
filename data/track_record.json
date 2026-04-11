@@ -1,30 +1,36 @@
 {
-  "date": "April 04, 2026",
-  "week": "2026-W14",
+  "date": "April 11, 2026",
+  "week": "2026-W15",
   "ideas": [
     {
       "ticker": "QQQ",
-      "price": 584.98,
+      "price": 611.07,
       "direction": "long",
       "desc": "Nasdaq 100"
     },
     {
+      "ticker": "EEM",
+      "price": 60.56,
+      "direction": "long",
+      "desc": "Emerging Markets"
+    },
+    {
+      "ticker": "SMH",
+      "price": 436.88,
+      "direction": "long",
+      "desc": "Semiconductors"
+    },
+    {
       "ticker": "SPY",
-      "price": 655.83,
+      "price": 679.46,
       "direction": "long",
       "desc": "S&P 500"
     },
     {
-      "ticker": "XLE",
-      "price": 59.25,
+      "ticker": "CLOU",
+      "price": 17.6,
       "direction": "long",
-      "desc": "Oil & Gas"
-    },
-    {
-      "ticker": "USO",
-      "price": 137.92,
-      "direction": "long",
-      "desc": "Crude Oil"
+      "desc": "Cloud Software"
     }
   ]
 }
