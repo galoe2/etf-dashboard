@@ -3,24 +3,6 @@
   "week": "2026-W15",
   "ideas": [
     {
-      "ticker": "QQQ",
-      "price": 611.07,
-      "direction": "long",
-      "desc": "Nasdaq 100"
-    },
-    {
-      "ticker": "EEM",
-      "price": 60.56,
-      "direction": "long",
-      "desc": "Emerging Markets"
-    },
-    {
-      "ticker": "SMH",
-      "price": 436.88,
-      "direction": "long",
-      "desc": "Semiconductors"
-    },
-    {
       "ticker": "SPY",
       "price": 679.46,
       "direction": "long",
@@ -31,6 +13,24 @@
       "price": 17.6,
       "direction": "long",
       "desc": "Cloud Software"
+    },
+    {
+      "ticker": "QQQ",
+      "price": 611.07,
+      "direction": "long",
+      "desc": "Nasdaq 100"
+    },
+    {
+      "ticker": "SMH",
+      "price": 436.88,
+      "direction": "long",
+      "desc": "Semiconductors"
+    },
+    {
+      "ticker": "COPX",
+      "price": 83.52,
+      "direction": "long",
+      "desc": "Copper Miners"
     }
   ]
 }

@@ -1,10 +1,10 @@
 {
-  "generated": "2026-04-11T07:21:40.350371",
+  "generated": "2026-04-11T08:30:01.577068",
   "lookback_days": 7,
   "total_articles": 50,
   "sector_news": {
     "Broad Market": {
-      "count": 37,
+      "count": 39,
       "top": [
         {
           "headline": "White House warned staff against Iran war bets on prediction markets",
@@ -36,8 +36,17 @@
       ]
     },
     "International": {
-      "count": 44,
+      "count": 45,
       "top": [
+        {
+          "headline": "Trump praises Palantir as stock has worst week in over a year and Iran conflict drags on",
+          "summary": "Palantir's Maven platform have reportedly been used in the U.S. military campaign in Iran.",
+          "impact": "neutral",
+          "source": "CNBC World",
+          "score": 10.0,
+          "link": "https://www.cnbc.com/2026/04/10/trump-pltr-palantir-stock-iran-war.html",
+          "etf_tickers": []
+        },
         {
           "headline": "Airports could face a jet fuel crunch within 3 weeks as airlines weigh flight cancellations",
           "summary": "Europe's Airport Industry said if the Strait of Hormuz doesn't reopen \"systemic jet fuel shortage is set to become a reality for the EU.\"",
@@ -55,39 +64,34 @@
           "score": 10.0,
           "link": "https://www.cnbc.com/2026/04/10/chinese-assets-become-conflict-safe-haven-after-bolstering-resilience-.html",
           "etf_tickers": []
-        },
-        {
-          "headline": "European stocks end higher, defense shares tumble on Ukraine-Russia deal progress reports",
-          "summary": "Shares in Europe closed higher on Friday as the fragile ceasefire between the U.S. and Iran continues to test investors' nerves.",
-          "impact": "neutral",
-          "source": "CNBC World",
-          "score": 10.0,
-          "link": "https://www.cnbc.com/2026/04/10/european-stocks-us-iran-ceasefire-uncertainty.html",
-          "etf_tickers": []
         }
       ]
     },
     "Tech & Semiconductors": {
-      "count": 6,
+      "count": 4,
       "top": [
         {
-          "headline": "TSMC posts 35% jump in revenue to new record high as AI chip demand stays strong",
-          "summary": "TSMC is benefiting from sustained demand for advanced semiconductors from its key customers like Apple and Nvidia.",
-          "impact": "bullish",
-          "source": "CNBC World",
-          "score": 10.0,
-          "link": "https://www.cnbc.com/2026/04/10/tsmc-q1-record-revenue-ai-chip-demand-strong.html",
-          "etf_tickers": []
-        },
-        {
           "headline": "Minaccia AI colpisce titoli software",
-          "summary": "Le proiezioni di ricavi di Anthropic hanno rinnovato le paure degli investitori per un impatto negativo dell'AI sul settore software. Ciò potrebbe avere un impatto significativo sugli ETF tecnologici.",
+          "summary": "Le ultime proiezioni di ricavi e gli aggiornamenti di Anthropic hanno rinnovato le paure degli investitori riguardo a un'imminente crisi per il settore software a causa dell'intelligenza artificiale. Ciò potrebbe avere un impatto negativo sugli ETF tecnologici.",
           "impact": "bearish",
           "source": "CNBC Finance",
           "score": 8.7,
           "link": "https://www.cnbc.com/2026/04/09/anthropic-new-ai-agent-software-stocks-selloff.html",
           "etf_tickers": [
-            "QQQ"
+            "QQQ",
+            "SMH"
+          ]
+        },
+        {
+          "headline": "Fed propone nuovo servizio di trasferimento",
+          "summary": "La Federal Reserve propone di consentire alle banche e alle credit union di utilizzare intermediari per trasferire fondi attraverso il servizio FedNow. Ciò potrebbe avere un impatto significativo sul settore finanziario e tecnologico.",
+          "impact": "bullish",
+          "source": "Federal Reserve",
+          "score": 7.4,
+          "link": "https://www.federalreserve.gov/newsevents/pressreleases/other20260408a.htm",
+          "etf_tickers": [
+            "QQQ",
+            "XLF"
           ]
         },
         {
@@ -108,7 +112,7 @@
       "top": [
         {
           "headline": "Fine dell'era farmaceutica europea",
-          "summary": "Le politiche di Trump e il boom della biotecnologia cinese stanno mettendo fine all'egemonia farmaceutica europea. Le aziende europee devono affrontare mercati dei capitali frammentati e politiche di rimborso disomogenee.",
+          "summary": "Le politiche di Trump e il boom della biotecnologia in Cina stanno mettendo fine all'egemonia farmaceutica europea. Le aziende europee hanno a lungo lamentato i mercati dei capitali frammentati e le politiche di rimborso disomogenee.",
           "impact": "bearish",
           "source": "CNBC World",
           "score": 7.4,
@@ -120,7 +124,7 @@
       ]
     },
     "Financials": {
-      "count": 7,
+      "count": 8,
       "top": [
         {
           "headline": "Palestinian shot dead during Israeli settler attack on occupied West Bank village",
@@ -133,8 +137,8 @@
         },
         {
           "headline": "Fed: minuti del comitato",
-          "summary": "I minuti del Federal Open Market Committee potrebbero influenzare le decisioni di investimento. La Fed potrebbe influenzare i tassi di interesse e il mercato obbligazionario.",
-          "impact": "neutral",
+          "summary": "I minuti del Federal Open Market Committee potrebbero influenzare le decisioni di investimento. La Fed potrebbe aumentare i tassi di interesse.",
+          "impact": "bearish",
           "source": "Federal Reserve",
           "score": 9.4,
           "link": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20260408a.htm",
@@ -145,13 +149,14 @@
           ]
         },
         {
-          "headline": "Fed: taglio tassi ancora possibile",
-          "summary": "I funzionari della Fed prevedono un taglio dei tassi quest'anno nonostante gli impatti della guerra. La decisione dipenderà dall'andamento dell'inflazione.",
-          "impact": "bullish",
-          "source": "CNBC Finance",
-          "score": 8.7,
-          "link": "https://www.cnbc.com/2026/04/08/fed-officials-still-foresee-rate-cut-this-year-despite-war-impacts-minutes-show.html",
+          "headline": "Inflazione USA ferma al 3%",
+          "summary": "L'inflazione negli Stati Uniti è rimasta stabile al 3% nonostante la tensione con l'Iran. Ciò potrebbe influenzare le decisioni della Federal Reserve.",
+          "impact": "bearish",
+          "source": "CNBC Economy",
+          "score": 9.4,
+          "link": "https://www.cnbc.com/2026/04/09/core-inflation-was-3percent-in-february-as-expected-key-fed-gauge-shows.html",
           "etf_tickers": [
+            "SPY",
             "TLT",
             "XLF"
           ]
@@ -159,8 +164,17 @@
       ]
     },
     "Energy": {
-      "count": 43,
+      "count": 44,
       "top": [
+        {
+          "headline": "European stocks end higher, defense shares tumble on Ukraine-Russia deal progress reports",
+          "summary": "Shares in Europe closed higher on Friday as the fragile ceasefire between the U.S. and Iran continues to test investors' nerves.",
+          "impact": "neutral",
+          "source": "CNBC World",
+          "score": 10.0,
+          "link": "https://www.cnbc.com/2026/04/10/european-stocks-us-iran-ceasefire-uncertainty.html",
+          "etf_tickers": []
+        },
         {
           "headline": "What this real-world oil price says about the level of stress in the energy market",
           "summary": "Energy analysts warn that the Iran ceasefire is not likely to alleviate acute signs of stress in the physical oil market.",
@@ -178,30 +192,12 @@
           "score": 10.0,
           "link": "https://www.cnbc.com/2026/04/10/tech-download-iran-war-whats-next-helium-chips.html",
           "etf_tickers": []
-        },
-        {
-          "headline": "Lyse Doucet: Historic US-Iran talks must bridge deep distrust",
-          "summary": "Face-to-face talks would mark the highest-level engagement between Iran and the US since the 1979 Islamic Revolution.",
-          "impact": "neutral",
-          "source": "BBC World",
-          "score": 10.0,
-          "link": "https://www.bbc.com/news/articles/cn9qzl12537o?at_medium=RSS&at_campaign=rss",
-          "etf_tickers": []
         }
       ]
     },
     "Commodities": {
       "count": 43,
       "top": [
-        {
-          "headline": "Concerns after satellite provider restricts Iran images following US pressure",
-          "summary": "Planet Labs says it is restricting coverage of Iran and parts of the Middle East indefinitely.",
-          "impact": "neutral",
-          "source": "BBC World",
-          "score": 10.0,
-          "link": "https://www.bbc.com/news/articles/c5y721yqe6ro?at_medium=RSS&at_campaign=rss",
-          "etf_tickers": []
-        },
         {
           "headline": "Pakistan ambassador speaks to Al Jazeera on eve of US-Iran talks",
           "summary": "Pakistan’s ambassador to the US said weeks of intense diplomatic efforts have led to a shared commitment from all sides.",
@@ -219,6 +215,15 @@
           "score": 10.0,
           "link": "https://www.aljazeera.com/economy/2026/4/11/trump-says-strait-of-hormuz-to-reopen-soon-as-us-iran-head-to-talks?traffic_source=rss",
           "etf_tickers": []
+        },
+        {
+          "headline": "Islamabad on lockdown ahead of US-Iran talks",
+          "summary": "Islamabad has deployed more than 10,000 military and police personnel as US and Iranian delegations arrive.",
+          "impact": "neutral",
+          "source": "Al Jazeera",
+          "score": 10.0,
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/4/10/islamabad-on-lockdown-ahead-of-us-iran-talks?traffic_source=rss",
+          "etf_tickers": []
         }
       ]
     },
@@ -226,14 +231,28 @@
       "count": 2,
       "top": [
         {
-          "headline": "Mercati si aspettano taglio tassi Fed",
-          "summary": "Le probabilità di un taglio dei tassi sono aumentate al 43% dopo la tregua in Iran. Ciò potrebbe avere un impatto positivo sui mercati azionari.",
+          "headline": "Fed: taglio tassi ancora possibile",
+          "summary": "I funzionari della Fed prevedono ancora un taglio dei tassi quest'anno nonostante gli impatti della guerra. La decisione dipenderà dall'andamento dell'inflazione.",
+          "impact": "bullish",
+          "source": "CNBC Finance",
+          "score": 9.4,
+          "link": "https://www.cnbc.com/2026/04/08/fed-officials-still-foresee-rate-cut-this-year-despite-war-impacts-minutes-show.html",
+          "etf_tickers": [
+            "SPY",
+            "TLT",
+            "XLF"
+          ]
+        },
+        {
+          "headline": "Fed potrebbe tagliare tassi",
+          "summary": "Le probabilità di una riduzione dei tassi sono aumentate al 43% dopo la tregua in Iran. Ciò potrebbe avere un impatto positivo sui mercati azionari e obbligazionari.",
           "impact": "bullish",
           "source": "CNBC Economy",
           "score": 8.7,
           "link": "https://www.cnbc.com/2026/04/08/markets-shift-back-towards-potential-fed-rate-cut-this-year-with-iran-ceasefire-in-place.html",
           "etf_tickers": [
             "SPY",
+            "TLT",
             "XLF"
           ]
         }
@@ -243,30 +262,30 @@
       "count": 42,
       "top": [
         {
-          "headline": "Dutch police urge victims of 'international sextortion campaign' to come forward",
-          "summary": "Dutch police have warned that dozens of women and girls were coerced into degrading sexual acts on camera in several countries.",
-          "impact": "neutral",
-          "source": "BBC World",
-          "score": 10.0,
-          "link": "https://www.bbc.com/news/articles/ce84nl4gnz2o?at_medium=RSS&at_campaign=rss",
-          "etf_tickers": []
-        },
-        {
-          "headline": "Trump has handed JD Vance his most difficult mission yet",
-          "summary": "As the US vice-president leads peace talks with Iran, he must balance warring factions, a demanding boss and his own political future.",
-          "impact": "bearish",
-          "source": "BBC World",
-          "score": 10.0,
-          "link": "https://www.bbc.com/news/articles/c1d9z1q2997o?at_medium=RSS&at_campaign=rss",
-          "etf_tickers": []
-        },
-        {
-          "headline": "Iran war: What is happening on day 43 of the US-Iran conflict?",
-          "summary": "Senior Iranian officials arrive in Islamabad for ceasefire talks with the United States.",
+          "headline": "Israel rejects ceasefire with Hezbollah ahead of Lebanon talks next week",
+          "summary": "Talks due in Washington as Israeli attacks on Lebanon continue, Iran says ceasefire must include them.",
           "impact": "neutral",
           "source": "Al Jazeera",
           "score": 10.0,
-          "link": "https://www.aljazeera.com/news/2026/4/11/iran-war-what-is-happening-on-day-43-of-the-us-iran-conflict?traffic_source=rss",
+          "link": "https://www.aljazeera.com/news/2026/4/11/israel-rejects-ceasefire-with-hezbollah-ahead-of-lebanon-talks-next-week?traffic_source=rss",
+          "etf_tickers": []
+        },
+        {
+          "headline": "Israeli drone attack kills Palestinians near Gaza mosque",
+          "summary": "An Israeli drone attack near a mosque in central Gaza has killed at least 6 people.",
+          "impact": "neutral",
+          "source": "Al Jazeera",
+          "score": 10.0,
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/4/11/israeli-drone-attack-kills-palestinians-near-gaza-mosque?traffic_source=rss",
+          "etf_tickers": []
+        },
+        {
+          "headline": "Video: Vance arrives in Pakistan for talks with Iran",
+          "summary": "US Vice President JD Vance has landed in Pakistan for talks with Iranian officials on a deal to end the war on Iran.",
+          "impact": "neutral",
+          "source": "Al Jazeera",
+          "score": 10.0,
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/4/11/video-vance-arrives-in-pakistan-for-talks-with-iran?traffic_source=rss",
           "etf_tickers": []
         }
       ]
@@ -285,7 +304,7 @@
         },
         {
           "headline": "Sentimento dei consumatori a minimo storico",
-          "summary": "Il sentimento dei consumatori è sceso al minimo storico a causa dell'aumento delle paure sull'inflazione. Ciò potrebbe avere un impatto negativo sui settori dei consumatori e del mercato azionario.",
+          "summary": "Il sentimento dei consumatori è sceso al minimo storico a causa della paura dell'inflazione e della guerra in Iran, influenzando i settori dei consumatori e del mercato azionario.",
           "impact": "bearish",
           "source": "CNBC Economy",
           "score": 9.4,
@@ -296,15 +315,15 @@
           ]
         },
         {
-          "headline": "Inflazione USA stabile al 3%",
-          "summary": "L'inflazione negli Stati Uniti è rimasta stabile al 3% nonostante la guerra con l'Iran. Ciò potrebbe influenzare le decisioni della Federal Reserve.",
+          "headline": "Inflazione a marzo 2026",
+          "summary": "La guerra in Iran ha aumentato i prezzi della benzina, dei biglietti aerei e altri beni di consumo. Ciò potrebbe avere un impatto significativo sui settori energetico e dei consumi.",
           "impact": "bearish",
-          "source": "CNBC Economy",
+          "source": "CNBC World",
           "score": 8.7,
-          "link": "https://www.cnbc.com/2026/04/09/core-inflation-was-3percent-in-february-as-expected-key-fed-gauge-shows.html",
+          "link": "https://www.cnbc.com/2026/04/10/cpi-inflation-march-2026-breakdown.html",
           "etf_tickers": [
             "SPY",
-            "TLT"
+            "XLE"
           ]
         }
       ]
@@ -314,13 +333,12 @@
       "top": [
         {
           "headline": "Ribound di bitcoin",
-          "summary": "La forza relativa di bitcoin potrebbe essere un segnale positivo per le azioni software battute. Il prezzo di bitcoin potrebbe influenzare le sorti del settore tecnologico.",
+          "summary": "La forza relativa di bitcoin potrebbe essere un segnale positivo per le azioni software battute. Il prezzo di bitcoin potrebbe influenzare le azioni tech.",
           "impact": "bullish",
           "source": "MarketWatch",
           "score": 7.4,
           "link": "https://www.marketwatch.com/story/software-stocks-are-getting-pulverized-but-bitcoins-rebound-hints-that-a-bottom-might-be-in-512baac7?mod=mw_rss_topstories",
           "etf_tickers": [
-            "BITO",
             "QQQ",
             "SMH"
           ]
@@ -328,11 +346,11 @@
       ]
     },
     "Consumers": {
-      "count": 5,
+      "count": 4,
       "top": [
         {
           "headline": "Inflazione a marzo sale del 3,3%",
-          "summary": "L'indice dei prezzi al consumo è aumentato del 3,3% su base annua a marzo, trainato dal rincaro dell'energia a causa del conflitto in Iran. Ciò potrebbe avere un impatto sui settori energetico e dei consumi.",
+          "summary": "L'indice dei prezzi al consumo è aumentato del 3,3% rispetto allo stesso mese dell'anno precedente, trainato dal rincaro dell'energia a causa del conflitto in Iran. Ciò potrebbe avere un impatto significativo sui settori energetico e dei consumi.",
           "impact": "bearish",
           "source": "CNBC Economy",
           "score": 8.7,
@@ -343,19 +361,7 @@
           ]
         },
         {
-          "headline": "Inflazione marzo 2026",
-          "summary": "La guerra in Iran ha aumentato i prezzi della benzina, dei biglietti aerei e altri beni di consumo. Ciò potrebbe avere un impatto significativo sui settori energetico e dei consumatori.",
-          "impact": "bearish",
-          "source": "CNBC World",
-          "score": 8.7,
-          "link": "https://www.cnbc.com/2026/04/10/cpi-inflation-march-2026-breakdown.html",
-          "etf_tickers": [
-            "SPY",
-            "XLE"
-          ]
-        },
-        {
-          "headline": "La tua spesa alimentare colpita",
+          "headline": "La tua spesa alimentare sarà la prossima vittima",
           "summary": "L'inflazione alimentare potrebbe aumentare a causa della guerra in Iran. Gli investitori possono proteggersi con mosse strategiche.",
           "impact": "bearish",
           "source": "MarketWatch",
@@ -370,6 +376,26 @@
   },
   "rotation_signals": [],
   "articles": [
+    {
+      "title": "Trump praises Palantir as stock has worst week in over a year and Iran conflict drags on",
+      "headline_it": "",
+      "summary_it": "",
+      "summary_en": "Palantir's Maven platform have reportedly been used in the U.S. military campaign in Iran.",
+      "source": "CNBC World",
+      "link": "https://www.cnbc.com/2026/04/10/trump-pltr-palantir-stock-iran-war.html",
+      "date": "2026-04-10 21:16",
+      "score": 10.0,
+      "impact": "neutral",
+      "sectors": [
+        "Commodities",
+        "Energy",
+        "Industrials",
+        "International"
+      ],
+      "primary_sector": "Commodities",
+      "etf_tickers": [],
+      "rotation": ""
+    },
     {
       "title": "White House warned staff against Iran war bets on prediction markets",
       "headline_it": "",
@@ -536,21 +562,268 @@
       "rotation": ""
     },
     {
-      "title": "TSMC posts 35% jump in revenue to new record high as AI chip demand stays strong",
+      "title": "(Research Paper) Key Features of Japan's Final Demand-Intermediate Demand Price Indexes during the Post-2020 Inflationary Episode",
       "headline_it": "",
       "summary_it": "",
-      "summary_en": "TSMC is benefiting from sustained demand for advanced semiconductors from its key customers like Apple and Nvidia.",
-      "source": "CNBC World",
-      "link": "https://www.cnbc.com/2026/04/10/tsmc-q1-record-revenue-ai-chip-demand-strong.html",
-      "date": "2026-04-10 13:53",
+      "summary_en": "",
+      "source": "Bank of Japan",
+      "link": "http://www.boj.or.jp/en/research/brp/ron_2026/ron260406a.htm",
+      "date": "2026-04-06 05:00",
+      "score": 10.0,
+      "impact": "neutral",
+      "sectors": [
+        "Bonds",
+        "Broad Market",
+        "Commodities"
+      ],
+      "primary_sector": "Bonds",
+      "etf_tickers": [],
+      "rotation": ""
+    },
+    {
+      "title": "Israel rejects ceasefire with Hezbollah ahead of Lebanon talks next week",
+      "headline_it": "",
+      "summary_it": "",
+      "summary_en": "Talks due in Washington as Israeli attacks on Lebanon continue, Iran says ceasefire must include them.",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/news/2026/4/11/israel-rejects-ceasefire-with-hezbollah-ahead-of-lebanon-talks-next-week?traffic_source=rss",
+      "date": "2026-04-11 07:51",
+      "score": 10.0,
+      "impact": "neutral",
+      "sectors": [
+        "Broad Market",
+        "Commodities",
+        "Energy",
+        "Industrials",
+        "International"
+      ],
+      "primary_sector": "Broad Market",
+      "etf_tickers": [],
+      "rotation": ""
+    },
+    {
+      "title": "Israeli drone attack kills Palestinians near Gaza mosque",
+      "headline_it": "",
+      "summary_it": "",
+      "summary_en": "An Israeli drone attack near a mosque in central Gaza has killed at least 6 people.",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/4/11/israeli-drone-attack-kills-palestinians-near-gaza-mosque?traffic_source=rss",
+      "date": "2026-04-11 07:51",
+      "score": 10.0,
+      "impact": "neutral",
+      "sectors": [
+        "Broad Market",
+        "Energy",
+        "Industrials",
+        "International"
+      ],
+      "primary_sector": "Broad Market",
+      "etf_tickers": [],
+      "rotation": ""
+    },
+    {
+      "title": "Video: Vance arrives in Pakistan for talks with Iran",
+      "headline_it": "",
+      "summary_it": "",
+      "summary_en": "US Vice President JD Vance has landed in Pakistan for talks with Iranian officials on a deal to end the war on Iran.",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/4/11/video-vance-arrives-in-pakistan-for-talks-with-iran?traffic_source=rss",
+      "date": "2026-04-11 07:34",
+      "score": 10.0,
+      "impact": "neutral",
+      "sectors": [
+        "Broad Market",
+        "Commodities",
+        "Energy",
+        "Industrials",
+        "International"
+      ],
+      "primary_sector": "Broad Market",
+      "etf_tickers": [],
+      "rotation": ""
+    },
+    {
+      "title": "Iran war: What is happening on day 43 of the US-Iran conflict?",
+      "headline_it": "",
+      "summary_it": "",
+      "summary_en": "Senior Iranian officials arrive in Islamabad for ceasefire talks with the United States.",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/news/2026/4/11/iran-war-what-is-happening-on-day-43-of-the-us-iran-conflict?traffic_source=rss",
+      "date": "2026-04-11 04:49",
+      "score": 10.0,
+      "impact": "neutral",
+      "sectors": [
+        "Broad Market",
+        "Commodities",
+        "Energy",
+        "Industrials",
+        "International"
+      ],
+      "primary_sector": "Broad Market",
+      "etf_tickers": [],
+      "rotation": ""
+    },
+    {
+      "title": "Pakistan ambassador speaks to Al Jazeera on eve of US-Iran talks",
+      "headline_it": "",
+      "summary_it": "",
+      "summary_en": "Pakistan’s ambassador to the US said weeks of intense diplomatic efforts have led to a shared commitment from all sides.",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/4/11/pakistan-ambassador-speaks-to-al-jazeera-on-eve-of-us-iran-talks?traffic_source=rss",
+      "date": "2026-04-11 04:15",
+      "score": 10.0,
+      "impact": "neutral",
+      "sectors": [
+        "Commodities",
+        "Energy",
+        "Industrials",
+        "International"
+      ],
+      "primary_sector": "Commodities",
+      "etf_tickers": [],
+      "rotation": ""
+    },
+    {
+      "title": "Trump says Strait of Hormuz to reopen ‘soon’ as US, Iran head to talks",
+      "headline_it": "",
+      "summary_it": "",
+      "summary_en": "Trump says Washington will not accept Iran&#039;s imposition of a de facto toll booth system in the critical waterway.",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/economy/2026/4/11/trump-says-strait-of-hormuz-to-reopen-soon-as-us-iran-head-to-talks?traffic_source=rss",
+      "date": "2026-04-11 03:06",
+      "score": 10.0,
+      "impact": "neutral",
+      "sectors": [
+        "Commodities",
+        "Energy",
+        "Industrials",
+        "International"
+      ],
+      "primary_sector": "Commodities",
+      "etf_tickers": [],
+      "rotation": ""
+    },
+    {
+      "title": "Iran war live: Vance arrives in Pakistan to lead ceasefire talks",
+      "headline_it": "",
+      "summary_it": "",
+      "summary_en": "US Vice President J D Vance arrives in Pakistan to lead the highest level talks with Iran since 1979 Islamic revolution.",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/news/liveblog/2026/4/11/iran-war-live-us-negotiators-due-to-arrive-in-pakistan-for-ceasefire-talks?traffic_source=rss",
+      "date": "2026-04-11 00:00",
+      "score": 10.0,
+      "impact": "neutral",
+      "sectors": [
+        "Broad Market",
+        "Commodities",
+        "Energy",
+        "Industrials",
+        "International"
+      ],
+      "primary_sector": "Broad Market",
+      "etf_tickers": [],
+      "rotation": ""
+    },
+    {
+      "title": "Hezbollah rocket attack damages 1,500-year-old Israeli church",
+      "headline_it": "",
+      "summary_it": "",
+      "summary_en": "Hezbollah fired a barrage of rockets at northern Israel, damaging a 1,500-year-old Byzantine church in Nahariya.",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/4/10/hezbollah-rocket-attack-damages-1500-year-old-israeli-church?traffic_source=rss",
+      "date": "2026-04-10 22:58",
+      "score": 10.0,
+      "impact": "neutral",
+      "sectors": [
+        "Broad Market",
+        "Energy",
+        "Industrials",
+        "International"
+      ],
+      "primary_sector": "Broad Market",
+      "etf_tickers": [],
+      "rotation": ""
+    },
+    {
+      "title": "Islamabad on lockdown ahead of US-Iran talks",
+      "headline_it": "",
+      "summary_it": "",
+      "summary_en": "Islamabad has deployed more than 10,000 military and police personnel as US and Iranian delegations arrive.",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/4/10/islamabad-on-lockdown-ahead-of-us-iran-talks?traffic_source=rss",
+      "date": "2026-04-10 21:58",
+      "score": 10.0,
+      "impact": "neutral",
+      "sectors": [
+        "Commodities",
+        "Energy",
+        "Industrials",
+        "International"
+      ],
+      "primary_sector": "Commodities",
+      "etf_tickers": [],
+      "rotation": ""
+    },
+    {
+      "title": "This Was the First War Against AI",
+      "headline_it": "",
+      "summary_it": "",
+      "summary_en": "The Iran war has revealed the geopolitical miscalculations of the current tech race.",
+      "source": "Foreign Policy",
+      "link": "https://foreignpolicy.com/2026/04/10/war-ai-gulf-uae-saudi-qatar-iran/",
+      "date": "2026-04-10 04:44",
       "score": 10.0,
       "impact": "bullish",
       "sectors": [
-        "Consumers",
+        "Broad Market",
+        "Commodities",
+        "Energy",
         "Industrials",
-        "Tech & Semiconductors"
+        "International"
       ],
-      "primary_sector": "Consumers",
+      "primary_sector": "Broad Market",
+      "etf_tickers": [],
+      "rotation": ""
+    },
+    {
+      "title": "How Ukraine Benefited From Trump’s Iran War",
+      "headline_it": "",
+      "summary_it": "",
+      "summary_en": "Countries are lining up for military deals with Kyiv.",
+      "source": "Foreign Policy",
+      "link": "https://foreignpolicy.com/2026/04/09/ukraine-benefit-trump-iran-war-russia-drones/",
+      "date": "2026-04-09 16:10",
+      "score": 10.0,
+      "impact": "neutral",
+      "sectors": [
+        "Broad Market",
+        "Commodities",
+        "Energy",
+        "Industrials",
+        "International"
+      ],
+      "primary_sector": "Broad Market",
+      "etf_tickers": [],
+      "rotation": ""
+    },
+    {
+      "title": "This Isn’t a 1970s Oil Shock",
+      "headline_it": "",
+      "summary_it": "",
+      "summary_en": "The Iran war has disrupted a different, more fragile global energy system.",
+      "source": "Foreign Policy",
+      "link": "https://foreignpolicy.com/2026/04/09/iran-war-oil-energy-crisis-1970s-shock-middle-east/",
+      "date": "2026-04-09 13:46",
+      "score": 10.0,
+      "impact": "neutral",
+      "sectors": [
+        "Broad Market",
+        "Commodities",
+        "Energy",
+        "Industrials",
+        "International"
+      ],
+      "primary_sector": "Broad Market",
       "etf_tickers": [],
       "rotation": ""
     },
@@ -618,275 +891,32 @@
       "rotation": ""
     },
     {
-      "title": "Trump has handed JD Vance his most difficult mission yet",
-      "headline_it": "",
-      "summary_it": "",
-      "summary_en": "As the US vice-president leads peace talks with Iran, he must balance warring factions, a demanding boss and his own political future.",
-      "source": "BBC World",
-      "link": "https://www.bbc.com/news/articles/c1d9z1q2997o?at_medium=RSS&at_campaign=rss",
-      "date": "2026-04-11 00:54",
-      "score": 10.0,
+      "title": "Minutes of the Federal Open Market Committee, March 17–18, 2026",
+      "headline_it": "Fed: minuti del comitato",
+      "summary_it": "I minuti del Federal Open Market Committee potrebbero influenzare le decisioni di investimento. La Fed potrebbe aumentare i tassi di interesse.",
+      "summary_en": "Minutes of the Federal Open Market Committee, March 17–18, 2026",
+      "source": "Federal Reserve",
+      "link": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20260408a.htm",
+      "date": "2026-04-08 18:00",
+      "score": 9.4,
       "impact": "bearish",
-      "sectors": [
-        "Broad Market",
-        "Commodities",
-        "Energy",
-        "Industrials",
-        "International"
-      ],
-      "primary_sector": "Broad Market",
-      "etf_tickers": [],
-      "rotation": ""
-    },
-    {
-      "title": "Concerns after satellite provider restricts Iran images following US pressure",
-      "headline_it": "",
-      "summary_it": "",
-      "summary_en": "Planet Labs says it is restricting coverage of Iran and parts of the Middle East indefinitely.",
-      "source": "BBC World",
-      "link": "https://www.bbc.com/news/articles/c5y721yqe6ro?at_medium=RSS&at_campaign=rss",
-      "date": "2026-04-11 05:40",
-      "score": 10.0,
-      "impact": "neutral",
-      "sectors": [
-        "Commodities",
-        "Energy",
-        "Industrials",
-        "International"
-      ],
-      "primary_sector": "Commodities",
-      "etf_tickers": [],
-      "rotation": ""
-    },
-    {
-      "title": "(Research Paper) Key Features of Japan's Final Demand-Intermediate Demand Price Indexes during the Post-2020 Inflationary Episode",
-      "headline_it": "",
-      "summary_it": "",
-      "summary_en": "",
-      "source": "Bank of Japan",
-      "link": "http://www.boj.or.jp/en/research/brp/ron_2026/ron260406a.htm",
-      "date": "2026-04-06 05:00",
-      "score": 10.0,
-      "impact": "neutral",
       "sectors": [
         "Bonds",
         "Broad Market",
-        "Commodities"
+        "Financials"
       ],
       "primary_sector": "Bonds",
-      "etf_tickers": [],
-      "rotation": ""
-    },
-    {
-      "title": "Iran war: What is happening on day 43 of the US-Iran conflict?",
-      "headline_it": "",
-      "summary_it": "",
-      "summary_en": "Senior Iranian officials arrive in Islamabad for ceasefire talks with the United States.",
-      "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/news/2026/4/11/iran-war-what-is-happening-on-day-43-of-the-us-iran-conflict?traffic_source=rss",
-      "date": "2026-04-11 04:49",
-      "score": 10.0,
-      "impact": "neutral",
-      "sectors": [
-        "Broad Market",
-        "Commodities",
-        "Energy",
-        "Industrials",
-        "International"
+      "etf_tickers": [
+        "SPY",
+        "TLT",
+        "XLF"
       ],
-      "primary_sector": "Broad Market",
-      "etf_tickers": [],
-      "rotation": ""
-    },
-    {
-      "title": "Pakistan ambassador speaks to Al Jazeera on eve of US-Iran talks",
-      "headline_it": "",
-      "summary_it": "",
-      "summary_en": "Pakistan’s ambassador to the US said weeks of intense diplomatic efforts have led to a shared commitment from all sides.",
-      "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/4/11/pakistan-ambassador-speaks-to-al-jazeera-on-eve-of-us-iran-talks?traffic_source=rss",
-      "date": "2026-04-11 04:15",
-      "score": 10.0,
-      "impact": "neutral",
-      "sectors": [
-        "Commodities",
-        "Energy",
-        "Industrials",
-        "International"
-      ],
-      "primary_sector": "Commodities",
-      "etf_tickers": [],
-      "rotation": ""
-    },
-    {
-      "title": "Trump says Strait of Hormuz to reopen ‘soon’ as US, Iran head to talks",
-      "headline_it": "",
-      "summary_it": "",
-      "summary_en": "Trump says Washington will not accept Iran&#039;s imposition of a de facto toll booth system in the critical waterway.",
-      "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/economy/2026/4/11/trump-says-strait-of-hormuz-to-reopen-soon-as-us-iran-head-to-talks?traffic_source=rss",
-      "date": "2026-04-11 03:06",
-      "score": 10.0,
-      "impact": "neutral",
-      "sectors": [
-        "Commodities",
-        "Energy",
-        "Industrials",
-        "International"
-      ],
-      "primary_sector": "Commodities",
-      "etf_tickers": [],
-      "rotation": ""
-    },
-    {
-      "title": "Iran war live: US negotiators arrive in Pakistan for ceasefire talks",
-      "headline_it": "",
-      "summary_it": "",
-      "summary_en": "Lebanese Health Ministry says people killed in Israeli attacks since March 2 rises to 1,953 with 6,303 wounded.",
-      "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/news/liveblog/2026/4/11/iran-war-live-us-negotiators-due-to-arrive-in-pakistan-for-ceasefire-talks?traffic_source=rss",
-      "date": "2026-04-11 00:00",
-      "score": 10.0,
-      "impact": "neutral",
-      "sectors": [
-        "Broad Market",
-        "Commodities",
-        "Energy",
-        "Industrials",
-        "International"
-      ],
-      "primary_sector": "Broad Market",
-      "etf_tickers": [],
-      "rotation": ""
-    },
-    {
-      "title": "Hezbollah rocket attack damages 1,500-year-old Israeli church",
-      "headline_it": "",
-      "summary_it": "",
-      "summary_en": "Hezbollah fired a barrage of rockets at northern Israel, damaging a 1,500-year-old Byzantine church in Nahariya.",
-      "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/4/10/hezbollah-rocket-attack-damages-1500-year-old-israeli-church?traffic_source=rss",
-      "date": "2026-04-10 22:58",
-      "score": 10.0,
-      "impact": "neutral",
-      "sectors": [
-        "Broad Market",
-        "Energy",
-        "Industrials",
-        "International"
-      ],
-      "primary_sector": "Broad Market",
-      "etf_tickers": [],
-      "rotation": ""
-    },
-    {
-      "title": "Islamabad on lockdown ahead of US-Iran talks",
-      "headline_it": "",
-      "summary_it": "",
-      "summary_en": "Islamabad has deployed more than 10,000 military and police personnel as US and Iranian delegations arrive.",
-      "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/4/10/islamabad-on-lockdown-ahead-of-us-iran-talks?traffic_source=rss",
-      "date": "2026-04-10 21:58",
-      "score": 10.0,
-      "impact": "neutral",
-      "sectors": [
-        "Commodities",
-        "Energy",
-        "Industrials",
-        "International"
-      ],
-      "primary_sector": "Commodities",
-      "etf_tickers": [],
-      "rotation": ""
-    },
-    {
-      "title": "US-Iran negotiations in Islamabad: What to expect?",
-      "headline_it": "",
-      "summary_it": "",
-      "summary_en": "US and Iranian delegations are set to meet in Islamabad for peace talks to end six weeks of war.",
-      "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/video/newsfeed/2026/4/10/us-iran-negotiations-in-islamabad-what-to-expect?traffic_source=rss",
-      "date": "2026-04-10 20:19",
-      "score": 10.0,
-      "impact": "neutral",
-      "sectors": [
-        "Broad Market",
-        "Commodities",
-        "Energy",
-        "Industrials",
-        "International"
-      ],
-      "primary_sector": "Broad Market",
-      "etf_tickers": [],
-      "rotation": ""
-    },
-    {
-      "title": "Can Iran negotiations lead to peace?",
-      "headline_it": "",
-      "summary_it": "",
-      "summary_en": "Redi Tlhabi speaks to former Iran and US diplomats on the hopes for negotiations to end the war in Iran.",
-      "source": "Al Jazeera",
-      "link": "https://www.aljazeera.com/video/upfront/2026/4/10/can-iran-negotiations-lead-to-peace?traffic_source=rss",
-      "date": "2026-04-10 19:30",
-      "score": 10.0,
-      "impact": "neutral",
-      "sectors": [
-        "Broad Market",
-        "Commodities",
-        "Energy",
-        "Industrials",
-        "International"
-      ],
-      "primary_sector": "Broad Market",
-      "etf_tickers": [],
-      "rotation": ""
-    },
-    {
-      "title": "This Was the First War Against AI",
-      "headline_it": "",
-      "summary_it": "",
-      "summary_en": "The Iran war has revealed the geopolitical miscalculations of the current tech race.",
-      "source": "Foreign Policy",
-      "link": "https://foreignpolicy.com/2026/04/10/war-ai-gulf-uae-saudi-qatar-iran/",
-      "date": "2026-04-10 04:44",
-      "score": 10.0,
-      "impact": "bullish",
-      "sectors": [
-        "Broad Market",
-        "Commodities",
-        "Energy",
-        "Industrials",
-        "International"
-      ],
-      "primary_sector": "Broad Market",
-      "etf_tickers": [],
-      "rotation": ""
-    },
-    {
-      "title": "How Ukraine Benefited From Trump’s Iran War",
-      "headline_it": "",
-      "summary_it": "",
-      "summary_en": "Countries are lining up for military deals with Kyiv.",
-      "source": "Foreign Policy",
-      "link": "https://foreignpolicy.com/2026/04/09/ukraine-benefit-trump-iran-war-russia-drones/",
-      "date": "2026-04-09 16:10",
-      "score": 10.0,
-      "impact": "neutral",
-      "sectors": [
-        "Broad Market",
-        "Commodities",
-        "Energy",
-        "Industrials",
-        "International"
-      ],
-      "primary_sector": "Broad Market",
-      "etf_tickers": [],
       "rotation": ""
     },
     {
       "title": "Consumer sentiment hits record low, inflation fears rise amid Iran war",
       "headline_it": "Sentimento dei consumatori a minimo storico",
-      "summary_it": "Il sentimento dei consumatori è sceso al minimo storico a causa dell'aumento delle paure sull'inflazione. Ciò potrebbe avere un impatto negativo sui settori dei consumatori e del mercato azionario.",
+      "summary_it": "Il sentimento dei consumatori è sceso al minimo storico a causa della paura dell'inflazione e della guerra in Iran, influenzando i settori dei consumatori e del mercato azionario.",
       "summary_en": "The university's headline index of consumer sentiment tumbled to 47.6, down 10.7% from March to its lowest on record.",
       "source": "CNBC Economy",
       "link": "https://www.cnbc.com/2026/04/10/consumer-sentiment-inflation-fears-iran-war.html",
@@ -910,19 +940,23 @@
       "rotation": ""
     },
     {
-      "title": "Minutes of the Federal Open Market Committee, March 17–18, 2026",
-      "headline_it": "Fed: minuti del comitato",
-      "summary_it": "I minuti del Federal Open Market Committee potrebbero influenzare le decisioni di investimento. La Fed potrebbe influenzare i tassi di interesse e il mercato obbligazionario.",
-      "summary_en": "Minutes of the Federal Open Market Committee, March 17–18, 2026",
-      "source": "Federal Reserve",
-      "link": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20260408a.htm",
-      "date": "2026-04-08 18:00",
+      "title": "Inflation held sticky at 3% as U.S. headed into war with Iran, key Fed gauge shows",
+      "headline_it": "Inflazione USA ferma al 3%",
+      "summary_it": "L'inflazione negli Stati Uniti è rimasta stabile al 3% nonostante la tensione con l'Iran. Ciò potrebbe influenzare le decisioni della Federal Reserve.",
+      "summary_en": "The gauge released Thursday offers the Federal Reserve a snapshot of conditions leading into the Iran war.",
+      "source": "CNBC Economy",
+      "link": "https://www.cnbc.com/2026/04/09/core-inflation-was-3percent-in-february-as-expected-key-fed-gauge-shows.html",
+      "date": "2026-04-09 14:38",
       "score": 9.4,
-      "impact": "neutral",
+      "impact": "bearish",
       "sectors": [
         "Bonds",
         "Broad Market",
-        "Financials"
+        "Commodities",
+        "Energy",
+        "Financials",
+        "Industrials",
+        "International"
       ],
       "primary_sector": "Bonds",
       "etf_tickers": [
@@ -933,9 +967,138 @@
       "rotation": ""
     },
     {
+      "title": "Fed officials still foresee rate cut this year, despite war impacts, minutes show",
+      "headline_it": "Fed: taglio tassi ancora possibile",
+      "summary_it": "I funzionari della Fed prevedono ancora un taglio dei tassi quest'anno nonostante gli impatti della guerra. La decisione dipenderà dall'andamento dell'inflazione.",
+      "summary_en": "Policymakers said they would need to remain \"nimble\" as they weighed the impact the war had on inflation.",
+      "source": "CNBC Finance",
+      "link": "https://www.cnbc.com/2026/04/08/fed-officials-still-foresee-rate-cut-this-year-despite-war-impacts-minutes-show.html",
+      "date": "2026-04-08 18:26",
+      "score": 9.4,
+      "impact": "bullish",
+      "sectors": [
+        "Bonds",
+        "Broad Market",
+        "Commodities",
+        "Energy",
+        "Financials",
+        "International",
+        "Real Estate"
+      ],
+      "primary_sector": "Bonds",
+      "etf_tickers": [
+        "SPY",
+        "TLT",
+        "XLF"
+      ],
+      "rotation": ""
+    },
+    {
+      "title": "Consumer prices rose 3.3% in March, as energy prices spiked due to Iran conflict",
+      "headline_it": "Inflazione a marzo sale del 3,3%",
+      "summary_it": "L'indice dei prezzi al consumo è aumentato del 3,3% rispetto allo stesso mese dell'anno precedente, trainato dal rincaro dell'energia a causa del conflitto in Iran. Ciò potrebbe avere un impatto significativo sui settori energetico e dei consumi.",
+      "summary_en": "The consumer price index was expected to show a 3.3% year-over-year gain in March, according to the Dow Jones consensus.",
+      "source": "CNBC Economy",
+      "link": "https://www.cnbc.com/2026/04/10/cpi-inflation-report-march-2026.html",
+      "date": "2026-04-10 13:37",
+      "score": 8.7,
+      "impact": "bearish",
+      "sectors": [
+        "Broad Market",
+        "Commodities",
+        "Consumers",
+        "Energy",
+        "Industrials",
+        "International"
+      ],
+      "primary_sector": "Broad Market",
+      "etf_tickers": [
+        "SPY",
+        "XLE"
+      ],
+      "rotation": ""
+    },
+    {
+      "title": "Iran oil shock stirs memories of 1997 Asian Financial Crisis — but here’s why history may not repeat itself",
+      "headline_it": "Crisi petrolifera in Iran",
+      "summary_it": "La crisi in Iran sta colpendo le economie asiatiche con costi energetici in aumento e valute in declino, ma una ripetizione della crisi del 1997 è improbabile. Gli ETF legati all'energia e ai mercati internazionali potrebbero essere interessati.",
+      "summary_en": "The Hormuz disruption is hammering Asian economies with surging energy costs and weakening currencies, but a repeat of the crisis three decades ago is unlikely.",
+      "source": "CNBC Economy",
+      "link": "https://www.cnbc.com/2026/04/09/asia-iran-oil-shock-1997-crisis-comparison-reserves-stagflation-hormuz-trump.html",
+      "date": "2026-04-09 09:26",
+      "score": 8.7,
+      "impact": "bearish",
+      "sectors": [
+        "Broad Market",
+        "Commodities",
+        "Energy",
+        "Industrials",
+        "International"
+      ],
+      "primary_sector": "Broad Market",
+      "etf_tickers": [
+        "EEM",
+        "SPY",
+        "XLE"
+      ],
+      "rotation": ""
+    },
+    {
+      "title": "Markets shift back toward potential Fed rate cut this year with Iran ceasefire in place",
+      "headline_it": "Fed potrebbe tagliare tassi",
+      "summary_it": "Le probabilità di una riduzione dei tassi sono aumentate al 43% dopo la tregua in Iran. Ciò potrebbe avere un impatto positivo sui mercati azionari e obbligazionari.",
+      "summary_en": "Odds for a reduction jumped Wednesday morning, hitting about 43%, according to the CME Group.",
+      "source": "CNBC Economy",
+      "link": "https://www.cnbc.com/2026/04/08/markets-shift-back-towards-potential-fed-rate-cut-this-year-with-iran-ceasefire-in-place.html",
+      "date": "2026-04-08 16:40",
+      "score": 8.7,
+      "impact": "bullish",
+      "sectors": [
+        "Bonds",
+        "Broad Market",
+        "Commodities",
+        "Energy",
+        "Financials",
+        "Industrials",
+        "International",
+        "Real Estate"
+      ],
+      "primary_sector": "Bonds",
+      "etf_tickers": [
+        "SPY",
+        "TLT",
+        "XLF"
+      ],
+      "rotation": ""
+    },
+    {
+      "title": "A fragile U.S.-Iran ceasefire sparks market relief — but no clear path to lasting peace",
+      "headline_it": "Tregua USA-Iran",
+      "summary_it": "La fragile tregua tra USA e Iran porta a un momento di sollievo per i mercati, ma non offre una chiara via per una pace duratura. Gli analisti ritengono che l'accordo potrebbe affrontare sfide significative.",
+      "summary_en": "The fragile ceasefire agreement is likely to face significant challenges, analysts told CNBC, citing a significant trust deficit on both sides.",
+      "source": "CNBC Economy",
+      "link": "https://www.cnbc.com/2026/04/08/us-iran-war-ceasefire-middle-east-strait-of-hormuz-oil-markets.html",
+      "date": "2026-04-08 08:55",
+      "score": 8.7,
+      "impact": "bullish",
+      "sectors": [
+        "Broad Market",
+        "Commodities",
+        "Energy",
+        "Industrials",
+        "International"
+      ],
+      "primary_sector": "Broad Market",
+      "etf_tickers": [
+        "SPY",
+        "XLE"
+      ],
+      "rotation": ""
+    },
+    {
       "title": "AI threat's relentless flogging of software stocks shows no end in sight with Anthropic's new agent",
       "headline_it": "Minaccia AI colpisce titoli software",
-      "summary_it": "Le proiezioni di ricavi di Anthropic hanno rinnovato le paure degli investitori per un impatto negativo dell'AI sul settore software. Ciò potrebbe avere un impatto significativo sugli ETF tecnologici.",
+      "summary_it": "Le ultime proiezioni di ricavi e gli aggiornamenti di Anthropic hanno rinnovato le paure degli investitori riguardo a un'imminente crisi per il settore software a causa dell'intelligenza artificiale. Ciò potrebbe avere un impatto negativo sugli ETF tecnologici.",
       "summary_en": "The latest revenue projections and updates from Anthropic revived investor fears of an AI day of reckoning coming for software.",
       "source": "CNBC Finance",
       "link": "https://www.cnbc.com/2026/04/09/anthropic-new-ai-agent-software-stocks-selloff.html",
@@ -952,33 +1115,8 @@
       ],
       "primary_sector": "Broad Market",
       "etf_tickers": [
-        "QQQ"
-      ],
-      "rotation": ""
-    },
-    {
-      "title": "Fed officials still foresee rate cut this year, despite war impacts, minutes show",
-      "headline_it": "Fed: taglio tassi ancora possibile",
-      "summary_it": "I funzionari della Fed prevedono un taglio dei tassi quest'anno nonostante gli impatti della guerra. La decisione dipenderà dall'andamento dell'inflazione.",
-      "summary_en": "Policymakers said they would need to remain \"nimble\" as they weighed the impact the war had on inflation.",
-      "source": "CNBC Finance",
-      "link": "https://www.cnbc.com/2026/04/08/fed-officials-still-foresee-rate-cut-this-year-despite-war-impacts-minutes-show.html",
-      "date": "2026-04-08 18:26",
-      "score": 8.7,
-      "impact": "bullish",
-      "sectors": [
-        "Bonds",
-        "Broad Market",
-        "Commodities",
-        "Energy",
-        "Financials",
-        "International",
-        "Real Estate"
-      ],
-      "primary_sector": "Bonds",
-      "etf_tickers": [
-        "TLT",
-        "XLF"
+        "QQQ",
+        "SMH"
       ],
       "rotation": ""
     },
@@ -1006,86 +1144,9 @@
       "rotation": ""
     },
     {
-      "title": "Consumer prices rose 3.3% in March, as energy prices spiked due to Iran conflict",
-      "headline_it": "Inflazione a marzo sale del 3,3%",
-      "summary_it": "L'indice dei prezzi al consumo è aumentato del 3,3% su base annua a marzo, trainato dal rincaro dell'energia a causa del conflitto in Iran. Ciò potrebbe avere un impatto sui settori energetico e dei consumi.",
-      "summary_en": "The consumer price index was expected to show a 3.3% year-over-year gain in March, according to the Dow Jones consensus.",
-      "source": "CNBC Economy",
-      "link": "https://www.cnbc.com/2026/04/10/cpi-inflation-report-march-2026.html",
-      "date": "2026-04-10 13:37",
-      "score": 8.7,
-      "impact": "bearish",
-      "sectors": [
-        "Broad Market",
-        "Commodities",
-        "Consumers",
-        "Energy",
-        "Industrials",
-        "International"
-      ],
-      "primary_sector": "Broad Market",
-      "etf_tickers": [
-        "SPY",
-        "XLE"
-      ],
-      "rotation": ""
-    },
-    {
-      "title": "Inflation held sticky at 3% as U.S. headed into war with Iran, key Fed gauge shows",
-      "headline_it": "Inflazione USA stabile al 3%",
-      "summary_it": "L'inflazione negli Stati Uniti è rimasta stabile al 3% nonostante la guerra con l'Iran. Ciò potrebbe influenzare le decisioni della Federal Reserve.",
-      "summary_en": "The gauge released Thursday offers the Federal Reserve a snapshot of conditions leading into the Iran war.",
-      "source": "CNBC Economy",
-      "link": "https://www.cnbc.com/2026/04/09/core-inflation-was-3percent-in-february-as-expected-key-fed-gauge-shows.html",
-      "date": "2026-04-09 14:38",
-      "score": 8.7,
-      "impact": "bearish",
-      "sectors": [
-        "Bonds",
-        "Broad Market",
-        "Commodities",
-        "Energy",
-        "Industrials",
-        "International"
-      ],
-      "primary_sector": "Bonds",
-      "etf_tickers": [
-        "SPY",
-        "TLT"
-      ],
-      "rotation": ""
-    },
-    {
-      "title": "Markets shift back toward potential Fed rate cut this year with Iran ceasefire in place",
-      "headline_it": "Mercati si aspettano taglio tassi Fed",
-      "summary_it": "Le probabilità di un taglio dei tassi sono aumentate al 43% dopo la tregua in Iran. Ciò potrebbe avere un impatto positivo sui mercati azionari.",
-      "summary_en": "Odds for a reduction jumped Wednesday morning, hitting about 43%, according to the CME Group.",
-      "source": "CNBC Economy",
-      "link": "https://www.cnbc.com/2026/04/08/markets-shift-back-towards-potential-fed-rate-cut-this-year-with-iran-ceasefire-in-place.html",
-      "date": "2026-04-08 16:40",
-      "score": 8.7,
-      "impact": "bullish",
-      "sectors": [
-        "Bonds",
-        "Broad Market",
-        "Commodities",
-        "Energy",
-        "Financials",
-        "Industrials",
-        "International",
-        "Real Estate"
-      ],
-      "primary_sector": "Bonds",
-      "etf_tickers": [
-        "SPY",
-        "XLF"
-      ],
-      "rotation": ""
-    },
-    {
       "title": "What's at stake ahead of crucial U.S.-Iran peace talks as leaders meet in Pakistan",
       "headline_it": "Tensioni USA-Iran",
-      "summary_it": "Le tensioni tra USA e Iran potrebbero influenzare i mercati energetici e di broader market. Gli sviluppi delle trattative di pace potrebbero avere un impatto significativo.",
+      "summary_it": "Le tensioni tra Stati Uniti e Iran potrebbero influenzare i mercati energetici e di broader market. Gli sviluppi delle trattative di pace potrebbero avere un impatto significativo.",
       "summary_en": "Already, Tehran has accused Israel of violating the terms of the ceasefire, as the IDF continues to attack Hezbollah in Lebanon.",
       "source": "CNBC World",
       "link": "https://www.cnbc.com/2026/04/10/negotiating-points-hardest-us-iran-ceasefire-lebanon.html",
@@ -1108,8 +1169,8 @@
     },
     {
       "title": "Here's the inflation breakdown for March 2026 — in one chart",
-      "headline_it": "Inflazione marzo 2026",
-      "summary_it": "La guerra in Iran ha aumentato i prezzi della benzina, dei biglietti aerei e altri beni di consumo. Ciò potrebbe avere un impatto significativo sui settori energetico e dei consumatori.",
+      "headline_it": "Inflazione a marzo 2026",
+      "summary_it": "La guerra in Iran ha aumentato i prezzi della benzina, dei biglietti aerei e altri beni di consumo. Ciò potrebbe avere un impatto significativo sui settori energetico e dei consumi.",
       "summary_en": "The Iran war has pushed up gasoline, airline fares and other prices for consumers.",
       "source": "CNBC World",
       "link": "https://www.cnbc.com/2026/04/10/cpi-inflation-march-2026-breakdown.html",
@@ -1134,7 +1195,7 @@
     },
     {
       "title": "Ireland gridlocked by fuel protests as Iran war drives prices higher",
-      "headline_it": "Proteste carburante in Irlanda",
+      "headline_it": "Proteste in Irlanda per rincaro carburanti",
       "summary_it": "Le proteste in Irlanda sono una risposta al rincaro dei carburanti a causa della guerra in Iran. Ciò potrebbe avere un impatto significativo sul settore energetico.",
       "summary_en": "Protestors are taking issue with the government's response to the spike in fuel prices since the onset of the Iran war.",
       "source": "CNBC World",
@@ -1151,6 +1212,28 @@
       ],
       "primary_sector": "Broad Market",
       "etf_tickers": [],
+      "rotation": ""
+    },
+    {
+      "title": "Federal Reserve Board invites public comment on proposal that would allow U.S. banks and credit unions to use intermediaries to transfer funds through the FedNow Service",
+      "headline_it": "Fed propone nuovo servizio di trasferimento",
+      "summary_it": "La Federal Reserve propone di consentire alle banche e alle credit union di utilizzare intermediari per trasferire fondi attraverso il servizio FedNow. Ciò potrebbe avere un impatto significativo sul settore finanziario e tecnologico.",
+      "summary_en": "Federal Reserve Board invites public comment on proposal that would allow U.S. banks and credit unions to use intermediaries to transfer funds through the FedNow Service",
+      "source": "Federal Reserve",
+      "link": "https://www.federalreserve.gov/newsevents/pressreleases/other20260408a.htm",
+      "date": "2026-04-08 15:30",
+      "score": 7.4,
+      "impact": "bullish",
+      "sectors": [
+        "Bonds",
+        "Financials",
+        "Tech & Semiconductors"
+      ],
+      "primary_sector": "Bonds",
+      "etf_tickers": [
+        "QQQ",
+        "XLF"
+      ],
       "rotation": ""
     },
     {
@@ -1201,101 +1284,9 @@
       "rotation": ""
     },
     {
-      "title": "Iran oil shock stirs memories of 1997 Asian Financial Crisis — but here’s why history may not repeat itself",
-      "headline_it": "Crisi petrolifera in Iran",
-      "summary_it": "La crisi in Iran sta colpendo le economie asiatiche con costi energetici in aumento e valute in declino, ma una ripetizione della crisi del 1997 è improbabile.",
-      "summary_en": "The Hormuz disruption is hammering Asian economies with surging energy costs and weakening currencies, but a repeat of the crisis three decades ago is unlikely.",
-      "source": "CNBC Economy",
-      "link": "https://www.cnbc.com/2026/04/09/asia-iran-oil-shock-1997-crisis-comparison-reserves-stagflation-hormuz-trump.html",
-      "date": "2026-04-09 09:26",
-      "score": 7.4,
-      "impact": "bearish",
-      "sectors": [
-        "Broad Market",
-        "Commodities",
-        "Energy",
-        "Industrials",
-        "International"
-      ],
-      "primary_sector": "Broad Market",
-      "etf_tickers": [
-        "SPY",
-        "XLE"
-      ],
-      "rotation": ""
-    },
-    {
-      "title": "A fragile U.S.-Iran ceasefire sparks market relief — but no clear path to lasting peace",
-      "headline_it": "Tregua USA-Iran",
-      "summary_it": "La fragile tregua tra USA e Iran potrebbe non durare a lungo, gli analisti sono scettici sulla possibilità di una pace duratura. Ciò potrebbe avere un impatto sul mercato energetico.",
-      "summary_en": "The fragile ceasefire agreement is likely to face significant challenges, analysts told CNBC, citing a significant trust deficit on both sides.",
-      "source": "CNBC Economy",
-      "link": "https://www.cnbc.com/2026/04/08/us-iran-war-ceasefire-middle-east-strait-of-hormuz-oil-markets.html",
-      "date": "2026-04-08 08:55",
-      "score": 7.4,
-      "impact": "neutral",
-      "sectors": [
-        "Broad Market",
-        "Commodities",
-        "Energy",
-        "Industrials",
-        "International"
-      ],
-      "primary_sector": "Broad Market",
-      "etf_tickers": [
-        "SPY",
-        "XLE"
-      ],
-      "rotation": ""
-    },
-    {
-      "title": "Federal Reserve Board announces termination of enforcement actions with Crédit Agricole S.A. and Crédit Agricole Corporate and Investment Bank, Mega International Commercial Bank Co., Ltd, and the Goldman Sachs Group, Inc.",
-      "headline_it": "Fed termina azioni di enforcement",
-      "summary_it": "La Federal Reserve termina le azioni di enforcement con diverse banche, tra cui Crédit Agricole e Goldman Sachs. Ciò potrebbe avere un impatto positivo sul settore finanziario.",
-      "summary_en": "Federal Reserve Board announces termination of enforcement actions with Cr&eacute;dit Agricole S.A. and Cr&eacute;dit Agricole Corporate and Investment Bank, Mega International Commercial Bank Co., Ltd, and the Goldman Sachs Group, Inc.",
-      "source": "Federal Reserve",
-      "link": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20260409a.htm",
-      "date": "2026-04-09 15:00",
-      "score": 7.4,
-      "impact": "bullish",
-      "sectors": [
-        "Broad Market",
-        "Commodities",
-        "Financials"
-      ],
-      "primary_sector": "Broad Market",
-      "etf_tickers": [
-        "SPY",
-        "XLF"
-      ],
-      "rotation": ""
-    },
-    {
-      "title": "Federal Reserve Board invites public comment on proposal that would allow U.S. banks and credit unions to use intermediaries to transfer funds through the FedNow Service",
-      "headline_it": "Fed propone nuovo servizio di pagamento",
-      "summary_it": "La Federal Reserve propone di consentire alle banche e alle credit union di utilizzare intermediari per trasferire fondi attraverso il servizio FedNow. Ciò potrebbe avere un impatto significativo sul settore finanziario e tecnologico.",
-      "summary_en": "Federal Reserve Board invites public comment on proposal that would allow U.S. banks and credit unions to use intermediaries to transfer funds through the FedNow Service",
-      "source": "Federal Reserve",
-      "link": "https://www.federalreserve.gov/newsevents/pressreleases/other20260408a.htm",
-      "date": "2026-04-08 15:30",
-      "score": 7.4,
-      "impact": "bullish",
-      "sectors": [
-        "Bonds",
-        "Financials",
-        "Tech & Semiconductors"
-      ],
-      "primary_sector": "Bonds",
-      "etf_tickers": [
-        "QQQ",
-        "XLF"
-      ],
-      "rotation": ""
-    },
-    {
       "title": "Software stocks are getting pulverized — but bitcoin’s rebound hints that a bottom might be in",
       "headline_it": "Ribound di bitcoin",
-      "summary_it": "La forza relativa di bitcoin potrebbe essere un segnale positivo per le azioni software battute. Il prezzo di bitcoin potrebbe influenzare le sorti del settore tecnologico.",
+      "summary_it": "La forza relativa di bitcoin potrebbe essere un segnale positivo per le azioni software battute. Il prezzo di bitcoin potrebbe influenzare le azioni tech.",
       "summary_en": "Bitcoin’s relative strength on Friday may offer a bullish clue for battered software shares — that is, if a past relationship still holds.",
       "source": "MarketWatch",
       "link": "https://www.marketwatch.com/story/software-stocks-are-getting-pulverized-but-bitcoins-rebound-hints-that-a-bottom-might-be-in-512baac7?mod=mw_rss_topstories",
@@ -1312,7 +1303,6 @@
       ],
       "primary_sector": "Broad Market",
       "etf_tickers": [
-        "BITO",
         "QQQ",
         "SMH"
       ],
@@ -1321,7 +1311,7 @@
     {
       "title": "Investors are gloomy about inflation and risk-taking ahead of Saturday’s Iran talks",
       "headline_it": "Investitori preoccupati per inflazione",
-      "summary_it": "La tensione con l'Iran inizia a pesare sull'economia. Gli investitori sono scettici sull'inflazione e sulla propensione al rischio.",
+      "summary_it": "La tensione con l'Iran inizia a mostrare impatti economici. Gli investitori sono scettici sull'inflazione e sulla propensione al rischio.",
       "summary_en": "The economic toll of the Iran conflict is starting to show up at home.",
       "source": "MarketWatch",
       "link": "https://www.marketwatch.com/story/investors-are-gloomy-about-inflation-and-risk-taking-ahead-of-saturdays-iran-talks-eeb8552d?mod=mw_rss_topstories",
@@ -1345,7 +1335,7 @@
     },
     {
       "title": "Your grocery bill will be the next casualty of the Iran war. These investment moves can counter food inflation.",
-      "headline_it": "La tua spesa alimentare colpita",
+      "headline_it": "La tua spesa alimentare sarà la prossima vittima",
       "summary_it": "L'inflazione alimentare potrebbe aumentare a causa della guerra in Iran. Gli investitori possono proteggersi con mosse strategiche.",
       "summary_en": "Four food-supply chokeholds are squeezing investor portfolios. Here’s what to do before your grocery bill proves it in October.",
       "source": "MarketWatch",
@@ -1371,7 +1361,7 @@
     {
       "title": "Trump policies, China's biotech boom are ending Europe's pharma powerhouse era",
       "headline_it": "Fine dell'era farmaceutica europea",
-      "summary_it": "Le politiche di Trump e il boom della biotecnologia cinese stanno mettendo fine all'egemonia farmaceutica europea. Le aziende europee devono affrontare mercati dei capitali frammentati e politiche di rimborso disomogenee.",
+      "summary_it": "Le politiche di Trump e il boom della biotecnologia in Cina stanno mettendo fine all'egemonia farmaceutica europea. Le aziende europee hanno a lungo lamentato i mercati dei capitali frammentati e le politiche di rimborso disomogenee.",
       "summary_en": "Companies have long lamented Europe's fragmented capital markets, single-market adoption on pricing and clinical trials, and uneven reimbursement policies.",
       "source": "CNBC World",
       "link": "https://www.cnbc.com/2026/04/11/trump-pharma-tariffs-mfn-china-europe-biotech-stocks.html",
@@ -1379,11 +1369,12 @@
       "score": 7.4,
       "impact": "bearish",
       "sectors": [
+        "Broad Market",
         "Healthcare",
         "Industrials",
         "International"
       ],
-      "primary_sector": "Healthcare",
+      "primary_sector": "Broad Market",
       "etf_tickers": [
         "XLV"
       ],
@@ -1391,14 +1382,14 @@
     },
     {
       "title": "S&P 500 slips Friday, but index posts best week since November after fragile Iran ceasefire deal: Live updates",
-      "headline_it": "S&P 500 migliora",
-      "summary_it": "L'indice S&P 500 ha chiuso la settimana con il miglior risultato dal novembre scorso, nonostante una leggera flessione venerdì.",
+      "headline_it": "S&P 500 chiude in calo venerdì",
+      "summary_it": "L'indice S&P 500 ha chiuso in leggera discesa venerdì, ma ha comunque registrato la migliore settimana dal novembre scorso.",
       "summary_en": "The S&amp;P 500 fell slightly on Friday, though the index still had its best week since last November.",
       "source": "CNBC World",
       "link": "https://www.cnbc.com/2026/04/09/stock-market-today-live-updates.html",
       "date": "2026-04-10 20:52",
       "score": 7.4,
-      "impact": "bullish",
+      "impact": "neutral",
       "sectors": [
         "Broad Market",
         "Commodities",
@@ -1436,33 +1427,52 @@
       "rotation": ""
     },
     {
-      "title": "Trump praises Palantir as stock has worst week in over a year and Iran conflict drags on",
-      "headline_it": "Palantir sotto pressione",
-      "summary_it": "La piattaforma Maven di Palantir è stata utilizzata nella campagna militare USA in Iran, mentre le azioni della società hanno avuto la peggiore settimana in oltre un anno. Ciò potrebbe avere un impatto sul settore tecnologico.",
-      "summary_en": "Palantir's Maven platform have reportedly been used in the U.S. military campaign in Iran.",
-      "source": "CNBC World",
-      "link": "https://www.cnbc.com/2026/04/10/trump-pltr-palantir-stock-iran-war.html",
-      "date": "2026-04-10 21:16",
-      "score": 7.4,
-      "impact": "bearish",
+      "title": "Gold posts back-to-back weekly gains; analysts see near-term volatility but firm long-term",
+      "headline_it": "Oro in rialzo",
+      "summary_it": "L'oro e l'argento hanno oscillato tra piccoli guadagni e perdite a causa dell'incertezza sulla fragile tregua tra Stati Uniti e Iran. Gli analisti prevedono volatilità a breve termine ma una tendenza rialzista a lungo termine.",
+      "summary_en": "Gold and silver futures swung between small gains and losses as traders weighed the path of the fragile ceasefire between the US and Iran ahead of talks this weekend.",
+      "source": "Seeking Alpha",
+      "link": "https://seekingalpha.com/news/4574192-gold-posts-back-to-back-weekly-gains-analysts-see-near-term-volatility-but-firm-long-term?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+      "date": "2026-04-10 21:45",
+      "score": 6.8,
+      "impact": "mixed",
       "sectors": [
+        "Broad Market",
         "Commodities",
         "Energy",
         "Industrials",
-        "International",
-        "Tech & Semiconductors"
+        "International"
+      ],
+      "primary_sector": "Broad Market",
+      "etf_tickers": [
+        "GLD"
+      ],
+      "rotation": ""
+    },
+    {
+      "title": "Federal Reserve Board announces termination of enforcement actions with Crédit Agricole S.A. and Crédit Agricole Corporate and Investment Bank, Mega International Commercial Bank Co., Ltd, and the Goldman Sachs Group, Inc.",
+      "headline_it": "Fed termina azioni di enforcement",
+      "summary_it": "La Federal Reserve termina azioni di enforcement con diverse banche, tra cui Crédit Agricole e Goldman Sachs. L'impatto è neutro per il settore finanziario.",
+      "summary_en": "Federal Reserve Board announces termination of enforcement actions with Cr&eacute;dit Agricole S.A. and Cr&eacute;dit Agricole Corporate and Investment Bank, Mega International Commercial Bank Co., Ltd, and the Goldman Sachs Group, Inc.",
+      "source": "Federal Reserve",
+      "link": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20260409a.htm",
+      "date": "2026-04-09 15:00",
+      "score": 6.1,
+      "impact": "neutral",
+      "sectors": [
+        "Commodities",
+        "Financials"
       ],
       "primary_sector": "Commodities",
       "etf_tickers": [
-        "QQQ",
-        "SMH"
+        "XLF"
       ],
       "rotation": ""
     },
     {
       "title": "Federal Reserve Board announces approval of application by Burke & Herbert Financial Services Corp.",
       "headline_it": "Fed approva richiesta Burke & Herbert",
-      "summary_it": "La Federal Reserve approva la richiesta di Burke & Herbert Financial Services Corp, impatto limitato sui settori finanziari.",
+      "summary_it": "La Federal Reserve approva la richiesta di Burke & Herbert Financial Services Corp., un evento di background per il settore finanziario.",
       "summary_en": "Federal Reserve Board announces approval of application by Burke &amp; Herbert Financial Services Corp.",
       "source": "Federal Reserve",
       "link": "https://www.federalreserve.gov/newsevents/pressreleases/orders20260410a.htm",
