@@ -1,0 +1,1386 @@
+{
+  "generated": "2026-04-18T08:36:29.159947",
+  "lookback_days": 7,
+  "total_articles": 50,
+  "sector_news": {
+    "Broad Market": {
+      "count": 30,
+      "top": [
+        {
+          "headline": "Iran war sparks 'fundamental energy transition' in Seoul toward renewables: Energy minister",
+          "summary": "Kim said South Korea will focus on wind and solar power to achieve its goal of reaching 100 gigawatts renewable energy capacity",
+          "impact": "neutral",
+          "source": "CNBC World",
+          "score": 10.0,
+          "link": "https://www.cnbc.com/2026/04/16/iran-war-energy-transition-south-korea-toward-renewable-energy-energy-minister.html",
+          "etf_tickers": []
+        },
+        {
+          "headline": "Anthropic rolls out Claude Opus 4.7, an AI model that is less risky than Mythos",
+          "summary": "Claude Mythos Preview is Anthropic's most powerful AI model that excels at identifying weaknesses and security flaws within software.",
+          "impact": "bearish",
+          "source": "CNBC World",
+          "score": 10.0,
+          "link": "https://www.cnbc.com/2026/04/16/anthropic-claude-opus-4-7-model-mythos.html",
+          "etf_tickers": []
+        },
+        {
+          "headline": "Iran war: What is happening on day 50 of the US-Iran conflict?",
+          "summary": "Iran reopens the Strait of Hormuz with conditions and threatens closure if the US blockade of Iranian ports continues.",
+          "impact": "neutral",
+          "source": "Al Jazeera",
+          "score": 10.0,
+          "link": "https://www.aljazeera.com/news/2026/4/18/iran-war-what-is-happening-on-day-50-of-the-us-iran-conflict?traffic_source=rss",
+          "etf_tickers": []
+        }
+      ]
+    },
+    "International": {
+      "count": 38,
+      "top": [
+        {
+          "headline": "Israel and Lebanon agree to 10-day ceasefire, Trump says",
+          "summary": "Vice President JD Vance, Secretary of State Marco Rubio and Joint Chiefs Chairman Dan Caine will work with Israel and Lebanon, Trump said.",
+          "impact": "neutral",
+          "source": "CNBC World",
+          "score": 10.0,
+          "link": "https://www.cnbc.com/2026/04/16/trump-israel-lebanon-ceasefire-iran-war.html",
+          "etf_tickers": []
+        },
+        {
+          "headline": "Trump thanks Gulf states for their ‘tremendous’ support",
+          "summary": "‘This will be a great and brilliant day for the world’ Donald Trump said as Iran fully opens the Strait of Hormuz.",
+          "impact": "neutral",
+          "source": "Al Jazeera",
+          "score": 10.0,
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/4/18/trump-thanks-gulf-states-for-their-tremendous-support?traffic_source=rss",
+          "etf_tickers": []
+        },
+        {
+          "headline": "Iran war live: Tehran says US blockade of ports must end as strait opens",
+          "summary": "Tens of thousands of people forcibly displaced by Israeli attacks on Lebanon use first day of ceasefire to return home.",
+          "impact": "neutral",
+          "source": "Al Jazeera",
+          "score": 10.0,
+          "link": "https://www.aljazeera.com/news/liveblog/2026/4/18/iran-war-live-tehran-says-president-trump-made-false-claims-amid-talks?traffic_source=rss",
+          "etf_tickers": []
+        }
+      ]
+    },
+    "Tech & Semiconductors": {
+      "count": 6,
+      "top": [
+        {
+          "headline": "Cina: export marzo delude",
+          "summary": "La crescita delle esportazioni cinesi a marzo è stata inferiore alle stime a causa dell'aumento dei costi energetici, mentre le importazioni sono aumentate più del previsto. Ciò potrebbe avere un impatto negativo sui mercati globali.",
+          "impact": "bearish",
+          "source": "CNBC Finance",
+          "score": 8.7,
+          "link": "https://www.cnbc.com/2026/04/14/china-trade-data-march-exports-imports-march.html",
+          "etf_tickers": [
+            "EEM",
+            "SPY",
+            "XLE"
+          ]
+        },
+        {
+          "headline": "Acquisto di Salesforce",
+          "summary": "Michael Burry compra azioni di Salesforce e altri software dopo una vendita guidata dall'intelligenza artificiale. Non crede che le pressioni tecniche influenzeranno a lungo questi titoli.",
+          "impact": "bullish",
+          "source": "CNBC Finance",
+          "score": 7.4,
+          "link": "https://www.cnbc.com/2026/04/16/burry-buys-the-dip-in-salesforce-and-other-software-stocks-after-sell-off.html",
+          "etf_tickers": [
+            "QQQ"
+          ]
+        },
+        {
+          "headline": "Didi lancia test robotaxi negli Emirati",
+          "summary": "La società di ride-hailing Didi pianifica di iniziare il suo primo test di robotaxi all'estero negli Emirati Arabi Uniti. Ciò potrebbe avere un impatto positivo sul settore tecnologico.",
+          "impact": "bullish",
+          "source": "CNBC Finance",
+          "score": 7.4,
+          "link": "https://www.cnbc.com/2026/04/15/china-robotaxi-didi-weride-baidu-dubai-uae-expansion.html",
+          "etf_tickers": [
+            "QQQ"
+          ]
+        }
+      ]
+    },
+    "Financials": {
+      "count": 15,
+      "top": [
+        {
+          "headline": "FXJSC Combined Operations and Legal Sub-Committee Meeting",
+          "summary": "The Bank of England chairs the London Foreign Exchange Joint Standing Committee (FXJSC) Operations and Legal Sub-Committees. The FXJSC is made up of market participants, infrastructure providers and the UK financial regulators.",
+          "impact": "neutral",
+          "source": "Bank of England",
+          "score": 10.0,
+          "link": "https://www.bankofengland.co.uk/minutes/2025/november/minutes",
+          "etf_tickers": []
+        },
+        {
+          "headline": "Minutes of the London FXJSC Main Committee Meeting – 27 November 2025",
+          "summary": "The Bank of England chairs the London Foreign Exchange Joint Standing Committee (FXJSC), which is a forum for discussion of the wholesale foreign exchange market. The FXJSC is made up of market participants, infrastructure providers and the UK financial regulators.",
+          "impact": "neutral",
+          "source": "Bank of England",
+          "score": 10.0,
+          "link": "https://www.bankofengland.co.uk/minutes/2025/november/fxjsc-main-committee-meeting-24-november-2025",
+          "etf_tickers": []
+        },
+        {
+          "headline": "Christine Lagarde: IMFC Statement",
+          "summary": "The European Central Bank (ECB) is the central bank of the European Union countries which have adopted the euro. Our main task is to maintain price stability in the euro area and so preserve the purchasing power of the single currency.",
+          "impact": "neutral",
+          "source": "ECB",
+          "score": 10.0,
+          "link": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp260417~033a4546f5.en.html",
+          "etf_tickers": []
+        }
+      ]
+    },
+    "Energy": {
+      "count": 37,
+      "top": [
+        {
+          "headline": "Lebanon president says country is no longer a pawn amid Israel ceasefire",
+          "summary": "President Joseph Aoun promised to work to preserve Lebanon&#039;s sovereignty and freedom.",
+          "impact": "neutral",
+          "source": "Al Jazeera",
+          "score": 10.0,
+          "link": "https://www.aljazeera.com/news/2026/4/17/lebanon-president-says-country-is-no-longer-a-pawn-amid-israel-ceasefire?traffic_source=rss",
+          "etf_tickers": []
+        },
+        {
+          "headline": "Will the ceasefire in Lebanon hold?",
+          "summary": "Lebanon and Israel are holding first direct talks in decades.",
+          "impact": "neutral",
+          "source": "Al Jazeera",
+          "score": 10.0,
+          "link": "https://www.aljazeera.com/video/inside-story/2026/4/17/will-the-ceasefire-in-lebanon-hold?traffic_source=rss",
+          "etf_tickers": []
+        },
+        {
+          "headline": "Ceasefire with Israel brings respite to Lebanon, but obstacles to peace remain",
+          "summary": "The halt to weeks of fighting is being celebrated in Lebanon, but it will be difficult to ensure it lasts.",
+          "impact": "neutral",
+          "source": "BBC World",
+          "score": 10.0,
+          "link": "https://www.bbc.com/news/articles/crm10w4ynj1o?at_medium=RSS&at_campaign=rss",
+          "etf_tickers": []
+        }
+      ]
+    },
+    "Commodities": {
+      "count": 31,
+      "top": [
+        {
+          "headline": "Iran rejects Trump claim on deal to surrender nuclear material stockpiles",
+          "summary": "Iran has rejected suggestions by Donald Trump that it has agreed to hand over its stockpile of enriched uranium.",
+          "impact": "neutral",
+          "source": "Al Jazeera",
+          "score": 10.0,
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/4/17/iran-rejects-trump-claim-on-deal-to-surrender-nuclear-material-stockpiles?traffic_source=rss",
+          "etf_tickers": []
+        },
+        {
+          "headline": "World reacts to Strait of Hormuz reopening amid US-Iran conflict",
+          "summary": "Politicians and industry welcome reopening of the vital waterway after throttling of traffic caused oil prices to spike.",
+          "impact": "neutral",
+          "source": "Al Jazeera",
+          "score": 10.0,
+          "link": "https://www.aljazeera.com/news/2026/4/17/world-reacts-to-the-opening-of-the-strait-of-hormuz-amid-us-iran-conflict?traffic_source=rss",
+          "etf_tickers": []
+        },
+        {
+          "headline": "Oil prices plunge as Iran says Strait 'open'",
+          "summary": "Brent crude sinks by a tenth after Iran says the key waterway is open for commercial ships for the rest of the ceasefire.",
+          "impact": "bearish",
+          "source": "BBC World",
+          "score": 10.0,
+          "link": "https://www.bbc.com/news/articles/ckg045z73z1o?at_medium=RSS&at_campaign=rss",
+          "etf_tickers": []
+        }
+      ]
+    },
+    "Real Estate": {
+      "count": 4,
+      "top": [
+        {
+          "headline": "Netflix stock sinks after streamer reiterates guidance, says Reed Hastings to exit board",
+          "summary": "Netflix beat expectations for Q1 revenue and reported a big jump in earnings per share thanks in part to a termination fee related to its proposed WBD deal.",
+          "impact": "bullish",
+          "source": "CNBC World",
+          "score": 10.0,
+          "link": "https://www.cnbc.com/2026/04/16/netflix-nflx-earnings-q1-2026.html",
+          "etf_tickers": []
+        },
+        {
+          "headline": "Segretario al Tesoro sostiene tagli tassi",
+          "summary": "Il Segretario al Tesoro Bessent sostiene i tagli ai tassi di interesse per sostenere la crescita economica, ma comprende se la Fed decidesse di attendere. Ciò potrebbe avere un impatto significativo sui settori finanziari e obbligazionari.",
+          "impact": "bullish",
+          "source": "CNBC Finance",
+          "score": 8.7,
+          "link": "https://www.cnbc.com/2026/04/14/treasury-secretary-bessent-now-says-its-ok-for-the-fed-to-wait-to-lower-rates-amid-oil-surge.html",
+          "etf_tickers": [
+            "SPY",
+            "TLT",
+            "XLF"
+          ]
+        }
+      ]
+    },
+    "Industrials": {
+      "count": 39,
+      "top": [
+        {
+          "headline": "What we know about the Israel-Lebanon ceasefire",
+          "summary": "A 10-day truce between the two countries is now in effect, with Iran-backed Hezbollah voicing support, as negotiations continue between the US and Iran.",
+          "impact": "neutral",
+          "source": "BBC World",
+          "score": 10.0,
+          "link": "https://www.bbc.com/news/articles/cwy32277e58o?at_medium=RSS&at_campaign=rss",
+          "etf_tickers": []
+        },
+        {
+          "headline": "BBC in Iran: 'Tehran does not think it has lost this war'",
+          "summary": "Lyse Doucet says Iranians want a solution to the long-running animosity with the US, but leaders is not willing to make a deal on Washington's terms.",
+          "impact": "neutral",
+          "source": "BBC World",
+          "score": 10.0,
+          "link": "https://www.bbc.com/news/videos/clyxp0kp5glo?at_medium=RSS&at_campaign=rss",
+          "etf_tickers": []
+        },
+        {
+          "headline": "Oil Tankers Test Hormuz Reopening",
+          "summary": "Oil tankers are beginning to test the waters at the Strait of Hormuz. At least eight crude carriers started advancing toward the chokepoint within hours of Iran declaring the Strait open to shipping under a ceasefire framework. Five vessels that had been idling north of Dubai moved first, followed by three more positioned roughly 70 miles west, according to vessel tracking data cited by Bloomberg. It’s the first real sign of life in a corridor that has effectively been frozen since late February, when conflict in the region choked off flows…",
+          "impact": "neutral",
+          "source": "OilPrice",
+          "score": 10.0,
+          "link": "https://oilprice.com/Latest-Energy-News/World-News/Oil-Tankers-Test-Hormuz-Reopening.html",
+          "etf_tickers": []
+        }
+      ]
+    },
+    "Bonds": {
+      "count": 9,
+      "top": [
+        {
+          "headline": "Philip R. Lane: The economic outlook and monetary policy in the euro area",
+          "summary": "",
+          "impact": "neutral",
+          "source": "ECB",
+          "score": 10.0,
+          "link": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp260414~b312adeb55.en.pdf",
+          "etf_tickers": []
+        },
+        {
+          "headline": "Recessione globale inevitabile",
+          "summary": "La chiusura prolungata dello Stretto di Hormuz potrebbe portare a una recessione globale. Ciò avrebbe un impatto significativo sui settori energetico e del mercato azionario.",
+          "impact": "bearish",
+          "source": "CNBC Finance",
+          "score": 9.4,
+          "link": "https://www.cnbc.com/2026/04/14/citadels-ken-griffin-global-recession-inevitable-if-strait-of-hormuz-stays-shut.html",
+          "etf_tickers": [
+            "SPY",
+            "XLE"
+          ]
+        },
+        {
+          "headline": "Fed pubblica verbali riunioni tassi",
+          "summary": "I verbali delle riunioni della Fed sui tassi di sconto potrebbero influenzare il mercato. Gli investitori attendono con ansia eventuali segnali di politica monetaria.",
+          "impact": "neutral",
+          "source": "Federal Reserve",
+          "score": 8.7,
+          "link": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20260414a.htm",
+          "etf_tickers": [
+            "SPY",
+            "TLT",
+            "XLF"
+          ]
+        }
+      ]
+    }
+  },
+  "rotation_signals": [],
+  "articles": [
+    {
+      "title": "Israel and Lebanon agree to 10-day ceasefire, Trump says",
+      "headline_it": "",
+      "summary_it": "",
+      "summary_en": "Vice President JD Vance, Secretary of State Marco Rubio and Joint Chiefs Chairman Dan Caine will work with Israel and Lebanon, Trump said.",
+      "source": "CNBC World",
+      "link": "https://www.cnbc.com/2026/04/16/trump-israel-lebanon-ceasefire-iran-war.html",
+      "date": "2026-04-16 19:18",
+      "score": 10.0,
+      "impact": "neutral",
+      "sectors": [
+        "Energy",
+        "Industrials",
+        "International"
+      ],
+      "primary_sector": "Energy",
+      "etf_tickers": [],
+      "rotation": ""
+    },
+    {
+      "title": "Netflix stock sinks after streamer reiterates guidance, says Reed Hastings to exit board",
+      "headline_it": "",
+      "summary_it": "",
+      "summary_en": "Netflix beat expectations for Q1 revenue and reported a big jump in earnings per share thanks in part to a termination fee related to its proposed WBD deal.",
+      "source": "CNBC World",
+      "link": "https://www.cnbc.com/2026/04/16/netflix-nflx-earnings-q1-2026.html",
+      "date": "2026-04-17 02:22",
+      "score": 10.0,
+      "impact": "bullish",
+      "sectors": [
+        "Consumers",
+        "Industrials",
+        "Real Estate"
+      ],
+      "primary_sector": "Consumers",
+      "etf_tickers": [],
+      "rotation": ""
+    },
+    {
+      "title": "Iran war sparks 'fundamental energy transition' in Seoul toward renewables: Energy minister",
+      "headline_it": "",
+      "summary_it": "",
+      "summary_en": "Kim said South Korea will focus on wind and solar power to achieve its goal of reaching 100 gigawatts renewable energy capacity",
+      "source": "CNBC World",
+      "link": "https://www.cnbc.com/2026/04/16/iran-war-energy-transition-south-korea-toward-renewable-energy-energy-minister.html",
+      "date": "2026-04-16 09:34",
+      "score": 10.0,
+      "impact": "neutral",
+      "sectors": [
+        "Broad Market",
+        "Commodities",
+        "Energy",
+        "Industrials",
+        "International",
+        "Tech & Semiconductors"
+      ],
+      "primary_sector": "Broad Market",
+      "etf_tickers": [],
+      "rotation": ""
+    },
+    {
+      "title": "Anthropic rolls out Claude Opus 4.7, an AI model that is less risky than Mythos",
+      "headline_it": "",
+      "summary_it": "",
+      "summary_en": "Claude Mythos Preview is Anthropic's most powerful AI model that excels at identifying weaknesses and security flaws within software.",
+      "source": "CNBC World",
+      "link": "https://www.cnbc.com/2026/04/16/anthropic-claude-opus-4-7-model-mythos.html",
+      "date": "2026-04-16 16:25",
+      "score": 10.0,
+      "impact": "bearish",
+      "sectors": [
+        "Broad Market",
+        "Commodities",
+        "Energy",
+        "Industrials",
+        "International"
+      ],
+      "primary_sector": "Broad Market",
+      "etf_tickers": [],
+      "rotation": ""
+    },
+    {
+      "title": "Iran war: What is happening on day 50 of the US-Iran conflict?",
+      "headline_it": "",
+      "summary_it": "",
+      "summary_en": "Iran reopens the Strait of Hormuz with conditions and threatens closure if the US blockade of Iranian ports continues.",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/news/2026/4/18/iran-war-what-is-happening-on-day-50-of-the-us-iran-conflict?traffic_source=rss",
+      "date": "2026-04-18 06:07",
+      "score": 10.0,
+      "impact": "neutral",
+      "sectors": [
+        "Broad Market",
+        "Commodities",
+        "Energy",
+        "Industrials",
+        "International"
+      ],
+      "primary_sector": "Broad Market",
+      "etf_tickers": [],
+      "rotation": ""
+    },
+    {
+      "title": "Trump thanks Gulf states for their ‘tremendous’ support",
+      "headline_it": "",
+      "summary_it": "",
+      "summary_en": "‘This will be a great and brilliant day for the world’ Donald Trump said as Iran fully opens the Strait of Hormuz.",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/4/18/trump-thanks-gulf-states-for-their-tremendous-support?traffic_source=rss",
+      "date": "2026-04-18 00:54",
+      "score": 10.0,
+      "impact": "neutral",
+      "sectors": [
+        "Commodities",
+        "Energy",
+        "Industrials",
+        "International"
+      ],
+      "primary_sector": "Commodities",
+      "etf_tickers": [],
+      "rotation": ""
+    },
+    {
+      "title": "Iran war live: Tehran says US blockade of ports must end as strait opens",
+      "headline_it": "",
+      "summary_it": "",
+      "summary_en": "Tens of thousands of people forcibly displaced by Israeli attacks on Lebanon use first day of ceasefire to return home.",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/news/liveblog/2026/4/18/iran-war-live-tehran-says-president-trump-made-false-claims-amid-talks?traffic_source=rss",
+      "date": "2026-04-18 00:00",
+      "score": 10.0,
+      "impact": "neutral",
+      "sectors": [
+        "Broad Market",
+        "Commodities",
+        "Energy",
+        "Industrials",
+        "International"
+      ],
+      "primary_sector": "Broad Market",
+      "etf_tickers": [],
+      "rotation": ""
+    },
+    {
+      "title": "Iran rejects Trump claim on deal to surrender nuclear material stockpiles",
+      "headline_it": "",
+      "summary_it": "",
+      "summary_en": "Iran has rejected suggestions by Donald Trump that it has agreed to hand over its stockpile of enriched uranium.",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/4/17/iran-rejects-trump-claim-on-deal-to-surrender-nuclear-material-stockpiles?traffic_source=rss",
+      "date": "2026-04-17 21:25",
+      "score": 10.0,
+      "impact": "neutral",
+      "sectors": [
+        "Commodities",
+        "Energy",
+        "Industrials",
+        "International"
+      ],
+      "primary_sector": "Commodities",
+      "etf_tickers": [],
+      "rotation": ""
+    },
+    {
+      "title": "Lebanon president says country is no longer a pawn amid Israel ceasefire",
+      "headline_it": "",
+      "summary_it": "",
+      "summary_en": "President Joseph Aoun promised to work to preserve Lebanon&#039;s sovereignty and freedom.",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/news/2026/4/17/lebanon-president-says-country-is-no-longer-a-pawn-amid-israel-ceasefire?traffic_source=rss",
+      "date": "2026-04-17 20:45",
+      "score": 10.0,
+      "impact": "neutral",
+      "sectors": [
+        "Energy",
+        "Industrials",
+        "International"
+      ],
+      "primary_sector": "Energy",
+      "etf_tickers": [],
+      "rotation": ""
+    },
+    {
+      "title": "Will the ceasefire in Lebanon hold?",
+      "headline_it": "",
+      "summary_it": "",
+      "summary_en": "Lebanon and Israel are holding first direct talks in decades.",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/video/inside-story/2026/4/17/will-the-ceasefire-in-lebanon-hold?traffic_source=rss",
+      "date": "2026-04-17 20:20",
+      "score": 10.0,
+      "impact": "neutral",
+      "sectors": [
+        "Energy",
+        "Industrials",
+        "International"
+      ],
+      "primary_sector": "Energy",
+      "etf_tickers": [],
+      "rotation": ""
+    },
+    {
+      "title": "World reacts to Strait of Hormuz reopening amid US-Iran conflict",
+      "headline_it": "",
+      "summary_it": "",
+      "summary_en": "Politicians and industry welcome reopening of the vital waterway after throttling of traffic caused oil prices to spike.",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/news/2026/4/17/world-reacts-to-the-opening-of-the-strait-of-hormuz-amid-us-iran-conflict?traffic_source=rss",
+      "date": "2026-04-17 19:10",
+      "score": 10.0,
+      "impact": "neutral",
+      "sectors": [
+        "Commodities",
+        "Energy",
+        "Industrials",
+        "International"
+      ],
+      "primary_sector": "Commodities",
+      "etf_tickers": [],
+      "rotation": ""
+    },
+    {
+      "title": "Oil prices plunge as Iran says Strait 'open'",
+      "headline_it": "",
+      "summary_it": "",
+      "summary_en": "Brent crude sinks by a tenth after Iran says the key waterway is open for commercial ships for the rest of the ceasefire.",
+      "source": "BBC World",
+      "link": "https://www.bbc.com/news/articles/ckg045z73z1o?at_medium=RSS&at_campaign=rss",
+      "date": "2026-04-18 06:06",
+      "score": 10.0,
+      "impact": "bearish",
+      "sectors": [
+        "Commodities",
+        "Energy",
+        "Industrials",
+        "International"
+      ],
+      "primary_sector": "Commodities",
+      "etf_tickers": [],
+      "rotation": ""
+    },
+    {
+      "title": "Ceasefire with Israel brings respite to Lebanon, but obstacles to peace remain",
+      "headline_it": "",
+      "summary_it": "",
+      "summary_en": "The halt to weeks of fighting is being celebrated in Lebanon, but it will be difficult to ensure it lasts.",
+      "source": "BBC World",
+      "link": "https://www.bbc.com/news/articles/crm10w4ynj1o?at_medium=RSS&at_campaign=rss",
+      "date": "2026-04-17 14:31",
+      "score": 10.0,
+      "impact": "neutral",
+      "sectors": [
+        "Energy",
+        "Industrials",
+        "International"
+      ],
+      "primary_sector": "Energy",
+      "etf_tickers": [],
+      "rotation": ""
+    },
+    {
+      "title": "What we know about the Israel-Lebanon ceasefire",
+      "headline_it": "",
+      "summary_it": "",
+      "summary_en": "A 10-day truce between the two countries is now in effect, with Iran-backed Hezbollah voicing support, as negotiations continue between the US and Iran.",
+      "source": "BBC World",
+      "link": "https://www.bbc.com/news/articles/cwy32277e58o?at_medium=RSS&at_campaign=rss",
+      "date": "2026-04-17 14:56",
+      "score": 10.0,
+      "impact": "neutral",
+      "sectors": [
+        "Commodities",
+        "Energy",
+        "Industrials",
+        "International"
+      ],
+      "primary_sector": "Commodities",
+      "etf_tickers": [],
+      "rotation": ""
+    },
+    {
+      "title": "BBC in Iran: 'Tehran does not think it has lost this war'",
+      "headline_it": "",
+      "summary_it": "",
+      "summary_en": "Lyse Doucet says Iranians want a solution to the long-running animosity with the US, but leaders is not willing to make a deal on Washington's terms.",
+      "source": "BBC World",
+      "link": "https://www.bbc.com/news/videos/clyxp0kp5glo?at_medium=RSS&at_campaign=rss",
+      "date": "2026-04-17 09:19",
+      "score": 10.0,
+      "impact": "neutral",
+      "sectors": [
+        "Broad Market",
+        "Commodities",
+        "Energy",
+        "Industrials",
+        "International"
+      ],
+      "primary_sector": "Broad Market",
+      "etf_tickers": [],
+      "rotation": ""
+    },
+    {
+      "title": "FXJSC Combined Operations and Legal Sub-Committee Meeting",
+      "headline_it": "",
+      "summary_it": "",
+      "summary_en": "The Bank of England chairs the London Foreign Exchange Joint Standing Committee (FXJSC) Operations and Legal Sub-Committees. The FXJSC is made up of market participants, infrastructure providers and the UK financial regulators.",
+      "source": "Bank of England",
+      "link": "https://www.bankofengland.co.uk/minutes/2025/november/minutes",
+      "date": "2026-04-13 14:15",
+      "score": 10.0,
+      "impact": "neutral",
+      "sectors": [
+        "Financials",
+        "Industrials",
+        "Real Estate"
+      ],
+      "primary_sector": "Financials",
+      "etf_tickers": [],
+      "rotation": ""
+    },
+    {
+      "title": "Minutes of the London FXJSC Main Committee Meeting – 27 November 2025",
+      "headline_it": "",
+      "summary_it": "",
+      "summary_en": "The Bank of England chairs the London Foreign Exchange Joint Standing Committee (FXJSC), which is a forum for discussion of the wholesale foreign exchange market. The FXJSC is made up of market participants, infrastructure providers and the UK financial regulators.",
+      "source": "Bank of England",
+      "link": "https://www.bankofengland.co.uk/minutes/2025/november/fxjsc-main-committee-meeting-24-november-2025",
+      "date": "2026-04-13 14:15",
+      "score": 10.0,
+      "impact": "neutral",
+      "sectors": [
+        "Financials",
+        "Industrials",
+        "Real Estate"
+      ],
+      "primary_sector": "Financials",
+      "etf_tickers": [],
+      "rotation": ""
+    },
+    {
+      "title": "Christine Lagarde: IMFC Statement",
+      "headline_it": "",
+      "summary_it": "",
+      "summary_en": "The European Central Bank (ECB) is the central bank of the European Union countries which have adopted the euro. Our main task is to maintain price stability in the euro area and so preserve the purchasing power of the single currency.",
+      "source": "ECB",
+      "link": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp260417~033a4546f5.en.html",
+      "date": "2026-04-17 13:00",
+      "score": 10.0,
+      "impact": "neutral",
+      "sectors": [
+        "Financials"
+      ],
+      "primary_sector": "Financials",
+      "etf_tickers": [],
+      "rotation": ""
+    },
+    {
+      "title": "Isabel Schnabel: Europe's successes and the path forward",
+      "headline_it": "",
+      "summary_it": "",
+      "summary_en": "",
+      "source": "ECB",
+      "link": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp260416~3ae2dad6b3.en.pdf",
+      "date": "2026-04-16 13:15",
+      "score": 10.0,
+      "impact": "neutral",
+      "sectors": [
+        "Broad Market",
+        "Commodities",
+        "Energy",
+        "International"
+      ],
+      "primary_sector": "Broad Market",
+      "etf_tickers": [],
+      "rotation": ""
+    },
+    {
+      "title": "Meeting of 18-19 March 2026",
+      "headline_it": "",
+      "summary_it": "",
+      "summary_en": "The European Central Bank (ECB) is the central bank of the European Union countries which have adopted the euro. Our main task is to maintain price stability in the euro area and so preserve the purchasing power of the single currency.",
+      "source": "ECB",
+      "link": "https://www.ecb.europa.eu//press/accounts/2026/html/ecb.mg260416~6a27b0c258.en.html",
+      "date": "2026-04-16 11:30",
+      "score": 10.0,
+      "impact": "neutral",
+      "sectors": [
+        "Financials"
+      ],
+      "primary_sector": "Financials",
+      "etf_tickers": [],
+      "rotation": ""
+    },
+    {
+      "title": "Piero Cipollone: Sparking the transformation of finance: tokenisation and the role of central banks",
+      "headline_it": "",
+      "summary_it": "",
+      "summary_en": "The European Central Bank (ECB) is the central bank of the European Union countries which have adopted the euro. Our main task is to maintain price stability in the euro area and so preserve the purchasing power of the single currency.",
+      "source": "ECB",
+      "link": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp260415~868b59bca9.en.html",
+      "date": "2026-04-15 15:20",
+      "score": 10.0,
+      "impact": "neutral",
+      "sectors": [
+        "Financials"
+      ],
+      "primary_sector": "Financials",
+      "etf_tickers": [],
+      "rotation": ""
+    },
+    {
+      "title": "Philip R. Lane: The economic outlook and monetary policy in the euro area",
+      "headline_it": "",
+      "summary_it": "",
+      "summary_en": "",
+      "source": "ECB",
+      "link": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp260414~b312adeb55.en.pdf",
+      "date": "2026-04-14 14:00",
+      "score": 10.0,
+      "impact": "neutral",
+      "sectors": [
+        "Bonds",
+        "Broad Market"
+      ],
+      "primary_sector": "Bonds",
+      "etf_tickers": [],
+      "rotation": ""
+    },
+    {
+      "title": "ECB Governing Council urges Single Market boost to strengthen bank competitiveness",
+      "headline_it": "",
+      "summary_it": "",
+      "summary_en": "The European Central Bank (ECB) is the central bank of the European Union countries which have adopted the euro. Our main task is to maintain price stability in the euro area and so preserve the purchasing power of the single currency.",
+      "source": "ECB",
+      "link": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr260414~ad43db8bb6.en.html",
+      "date": "2026-04-14 09:00",
+      "score": 10.0,
+      "impact": "neutral",
+      "sectors": [
+        "Financials"
+      ],
+      "primary_sector": "Financials",
+      "etf_tickers": [],
+      "rotation": ""
+    },
+    {
+      "title": "Oil Tankers Test Hormuz Reopening",
+      "headline_it": "",
+      "summary_it": "",
+      "summary_en": "Oil tankers are beginning to test the waters at the Strait of Hormuz. At least eight crude carriers started advancing toward the chokepoint within hours of Iran declaring the Strait open to shipping under a ceasefire framework. Five vessels that had been idling north of Dubai moved first, followed by three more positioned roughly 70 miles west, according to vessel tracking data cited by Bloomberg. It’s the first real sign of life in a corridor that has effectively been frozen since late February, when conflict in the region choked off flows…",
+      "source": "OilPrice",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/Oil-Tankers-Test-Hormuz-Reopening.html",
+      "date": "2026-04-17 18:30",
+      "score": 10.0,
+      "impact": "neutral",
+      "sectors": [
+        "Broad Market",
+        "Commodities",
+        "Energy",
+        "Industrials",
+        "International"
+      ],
+      "primary_sector": "Broad Market",
+      "etf_tickers": [],
+      "rotation": ""
+    },
+    {
+      "title": "The Overlooked War China Is Desperate to Contain",
+      "headline_it": "",
+      "summary_it": "",
+      "summary_en": "As US President Donald Trump says the war in Iran could be over \"very soon\" and Pakistani mediators in Tehran prepare to meet with officials, another nearby conflict has been drawing Beijing's attention. Since late February, fighting between Afghanistan and Pakistan has intensified, with Islamabad declaring an \"open war\" with its neighbor. Strikes have killed hundreds and displaced hundreds of thousands, according to the United Nations Office for the Coordination of Humanitarian Affairs in Afghanistan. The conflict has alarmed the international…",
+      "source": "OilPrice",
+      "link": "https://oilprice.com/Geopolitics/Asia/The-Overlooked-War-China-Is-Desperate-to-Contain.html",
+      "date": "2026-04-17 18:00",
+      "score": 10.0,
+      "impact": "neutral",
+      "sectors": [
+        "Broad Market",
+        "Commodities",
+        "Energy",
+        "Industrials",
+        "International"
+      ],
+      "primary_sector": "Broad Market",
+      "etf_tickers": [],
+      "rotation": ""
+    },
+    {
+      "title": "Global recession is inevitable if Strait of Hormuz stays shut, says Citadel's Ken Griffin",
+      "headline_it": "Recessione globale inevitabile",
+      "summary_it": "La chiusura prolungata dello Stretto di Hormuz potrebbe portare a una recessione globale. Ciò avrebbe un impatto significativo sui settori energetico e del mercato azionario.",
+      "summary_en": "A prolonged blockage of the Strait of Hormuz for the next six to 12 months will mean an unavoidable recession, the billionaire investor said.",
+      "source": "CNBC Finance",
+      "link": "https://www.cnbc.com/2026/04/14/citadels-ken-griffin-global-recession-inevitable-if-strait-of-hormuz-stays-shut.html",
+      "date": "2026-04-14 16:04",
+      "score": 9.4,
+      "impact": "bearish",
+      "sectors": [
+        "Bonds",
+        "Broad Market",
+        "Energy",
+        "Industrials",
+        "International"
+      ],
+      "primary_sector": "Bonds",
+      "etf_tickers": [
+        "SPY",
+        "XLE"
+      ],
+      "rotation": ""
+    },
+    {
+      "title": "Hormuz blockade could deepen world’s worst energy crisis — and risk a dangerous misstep",
+      "headline_it": "Blocco dello Stretto di Hormuz",
+      "summary_it": "Il blocco navale USA dello Stretto di Hormuz potrebbe interrompere il traffico di petroliere, aumentando i prezzi del petrolio e rischiando di coinvolgere la Cina in un conflitto con Washington.",
+      "summary_en": "The U.S. naval blockade of the Strait of Hormuz threatens to halt more tanker traffic, sending oil surging and risks drawing China into a widening confrontation with Washington.",
+      "source": "CNBC Economy",
+      "link": "https://www.cnbc.com/2026/04/13/trump-hormuz-blockade-oil-shock-china-iran-india-vessels-peace-talks.html",
+      "date": "2026-04-13 23:20",
+      "score": 9.4,
+      "impact": "bearish",
+      "sectors": [
+        "Commodities",
+        "Energy",
+        "International"
+      ],
+      "primary_sector": "Commodities",
+      "etf_tickers": [
+        "XLE"
+      ],
+      "rotation": ""
+    },
+    {
+      "title": "Minutes of the Board’s discount rate meetings on February 9 and March 18, 2026",
+      "headline_it": "Fed pubblica verbali riunioni tassi",
+      "summary_it": "I verbali delle riunioni della Fed sui tassi di sconto potrebbero influenzare il mercato. Gli investitori attendono con ansia eventuali segnali di politica monetaria.",
+      "summary_en": "Minutes of the Board’s discount rate meetings on February 9 and March 18, 2026",
+      "source": "Federal Reserve",
+      "link": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20260414a.htm",
+      "date": "2026-04-14 18:00",
+      "score": 8.7,
+      "impact": "neutral",
+      "sectors": [
+        "Bonds",
+        "Broad Market",
+        "Financials"
+      ],
+      "primary_sector": "Bonds",
+      "etf_tickers": [
+        "SPY",
+        "TLT",
+        "XLF"
+      ],
+      "rotation": ""
+    },
+    {
+      "title": "Treasury Secretary Bessent backs rate cuts but says he understands if the Fed wants to wait",
+      "headline_it": "Segretario al Tesoro sostiene tagli tassi",
+      "summary_it": "Il Segretario al Tesoro Bessent sostiene i tagli ai tassi di interesse per sostenere la crescita economica, ma comprende se la Fed decidesse di attendere. Ciò potrebbe avere un impatto significativo sui settori finanziari e obbligazionari.",
+      "summary_en": "Bessent has previously said the Fed should hasten cutting interest rates, calling reductions \"the only ingredient missing\" for stronger economic growth.",
+      "source": "CNBC Finance",
+      "link": "https://www.cnbc.com/2026/04/14/treasury-secretary-bessent-now-says-its-ok-for-the-fed-to-wait-to-lower-rates-amid-oil-surge.html",
+      "date": "2026-04-14 16:03",
+      "score": 8.7,
+      "impact": "bullish",
+      "sectors": [
+        "Bonds",
+        "Broad Market",
+        "Financials",
+        "Industrials",
+        "Real Estate"
+      ],
+      "primary_sector": "Bonds",
+      "etf_tickers": [
+        "SPY",
+        "TLT",
+        "XLF"
+      ],
+      "rotation": ""
+    },
+    {
+      "title": "China exports growth in March misses estimates, imports surge most in over four years",
+      "headline_it": "Cina: export marzo delude",
+      "summary_it": "La crescita delle esportazioni cinesi a marzo è stata inferiore alle stime a causa dell'aumento dei costi energetici, mentre le importazioni sono aumentate più del previsto. Ciò potrebbe avere un impatto negativo sui mercati globali.",
+      "summary_en": "China's export growth slowed in March as manufacturers grappled with surging energy costs, with the Iran war disrupting supplies, while imports jumped more than expected.",
+      "source": "CNBC Finance",
+      "link": "https://www.cnbc.com/2026/04/14/china-trade-data-march-exports-imports-march.html",
+      "date": "2026-04-14 05:15",
+      "score": 8.7,
+      "impact": "bearish",
+      "sectors": [
+        "Broad Market",
+        "Commodities",
+        "Consumers",
+        "Energy",
+        "Industrials",
+        "International",
+        "Tech & Semiconductors"
+      ],
+      "primary_sector": "Broad Market",
+      "etf_tickers": [
+        "EEM",
+        "SPY",
+        "XLE"
+      ],
+      "rotation": ""
+    },
+    {
+      "title": "We spoke to dozens of central bankers, policymakers and politicians about the Iran war — These are their biggest fears for the global economy",
+      "headline_it": "Guerra Iran: timori per l'economia",
+      "summary_it": "La guerra tra Stati Uniti e Iran potrebbe portare a stagflazione e problemi di sicurezza energetica, secondo i responsabili politici e i banchieri centrali. Ciò potrebbe avere un impatto significativo sull'economia globale.",
+      "summary_en": "From stagflation to energy security, policymakers spoke to CNBC about the biggest risks arising from the ongoing U.S.-Iran war.",
+      "source": "CNBC Economy",
+      "link": "https://www.cnbc.com/2026/04/18/iran-war-inflation-prices-energy-trump-economy-end.html",
+      "date": "2026-04-18 05:00",
+      "score": 8.7,
+      "impact": "bearish",
+      "sectors": [
+        "Broad Market",
+        "Commodities",
+        "Energy",
+        "Financials",
+        "Industrials",
+        "International"
+      ],
+      "primary_sector": "Broad Market",
+      "etf_tickers": [
+        "SPY",
+        "XLE"
+      ],
+      "rotation": ""
+    },
+    {
+      "title": "Fed Governor Waller says Iran war and labor market risks are keeping central bank on hold",
+      "headline_it": "Fed in attesa per tassi",
+      "summary_it": "La Fed è cauta sui tassi a causa dei rischi economici. La situazione in Iran e il mercato del lavoro influenzano la decisione.",
+      "summary_en": "Federal Reserve Governor Christopher Waller on Friday said current economic conditions are complicating the approach to interest rates.",
+      "source": "CNBC Economy",
+      "link": "https://www.cnbc.com/2026/04/17/fed-governor-waller-says-iran-war-and-labor-market-risks-are-keeping-central-bank-on-hold.html",
+      "date": "2026-04-17 19:00",
+      "score": 8.7,
+      "impact": "neutral",
+      "sectors": [
+        "Bonds",
+        "Broad Market",
+        "Commodities",
+        "Energy",
+        "Financials",
+        "Industrials",
+        "International"
+      ],
+      "primary_sector": "Bonds",
+      "etf_tickers": [
+        "SPY",
+        "TLT",
+        "XLF"
+      ],
+      "rotation": ""
+    },
+    {
+      "title": "New York Fed President Williams worries war will slow growth, aggravate inflation",
+      "headline_it": "Guerra rallenta crescita",
+      "summary_it": "Il presidente della Fed di New York, Williams, prevede una possibile rallentata della crescita economica a causa della guerra, con un aumento dell'incertezza e dell'inflazione.",
+      "summary_en": "Williams noted that the conflict has \"intensified the uncertainty\" around national and local conditions.",
+      "source": "CNBC Economy",
+      "link": "https://www.cnbc.com/2026/04/16/new-york-fed-president-williams-worries-war-will-slow-growth-aggravate-inflation.html",
+      "date": "2026-04-16 13:58",
+      "score": 8.7,
+      "impact": "bearish",
+      "sectors": [
+        "Bonds",
+        "Broad Market",
+        "Commodities",
+        "Energy",
+        "Financials",
+        "International"
+      ],
+      "primary_sector": "Bonds",
+      "etf_tickers": [
+        "SPY",
+        "TLT",
+        "XLF"
+      ],
+      "rotation": ""
+    },
+    {
+      "title": "Here are all the ways the Iran war has affected the U.S. economy so far",
+      "headline_it": "Guerra Iran: impatto sull'economia USA",
+      "summary_it": "La guerra con l'Iran inizia a mostrare effetti sull'economia statunitense in modi sia ovvi che nascosti. Ciò potrebbe influenzare i settori energetici e il mercato azionario più ampio.",
+      "summary_en": "The Iran war is starting to show up in the U.S. economy in ways both obvious and not so much.",
+      "source": "CNBC Economy",
+      "link": "https://www.cnbc.com/2026/04/15/here-are-all-the-ways-the-iran-war-has-affected-the-us-economy-so-far.html",
+      "date": "2026-04-15 17:13",
+      "score": 8.7,
+      "impact": "bearish",
+      "sectors": [
+        "Broad Market",
+        "Commodities",
+        "Energy",
+        "Industrials",
+        "International"
+      ],
+      "primary_sector": "Broad Market",
+      "etf_tickers": [
+        "SPY",
+        "XLE"
+      ],
+      "rotation": ""
+    },
+    {
+      "title": "U.S. says Hormuz blockade 'fully implemented,' while signaling diplomatic off-ramp for Iran",
+      "headline_it": "Stati Uniti: blocco dello Stretto di Hormuz",
+      "summary_it": "La Casa Bianca segnala una possibile soluzione diplomatica al conflitto in Medio Oriente, mentre proseguono le discussioni per continuare i negoziati con Teheran. Ciò potrebbe avere un impatto sul settore energetico.",
+      "summary_en": "The White House has been signaling a diplomatic solution to the conflict in the Middle East, as discussions around continuing negotiations with Tehran are underway.",
+      "source": "CNBC Economy",
+      "link": "https://www.cnbc.com/2026/04/15/us-strait-of-hormuz-blockade-navy-iran-seaborne-trade-oil-trump.html",
+      "date": "2026-04-15 14:40",
+      "score": 8.7,
+      "impact": "neutral",
+      "sectors": [
+        "Broad Market",
+        "Commodities",
+        "Energy",
+        "Industrials",
+        "International"
+      ],
+      "primary_sector": "Broad Market",
+      "etf_tickers": [
+        "SPY",
+        "XLE"
+      ],
+      "rotation": ""
+    },
+    {
+      "title": "Persian Gulf oil recovery will take months once war ends, Strait of Hormuz opens",
+      "headline_it": "Ripresa petrolio Golfo Persico rallentata",
+      "summary_it": "La ripresa della produzione di petrolio nel Medio Oriente richiederà diversi mesi dopo la fine della guerra, con un prolungato periodo di scarsità nel mercato.",
+      "summary_en": "Middle East oil producers will require several months to fully restore output once the war ends, assuming the Strait of Hormuz is fully reopened, promising extended tightness in markets,",
+      "source": "Seeking Alpha",
+      "link": "https://seekingalpha.com/news/4576325-persian-gulf-oil-recovery-will-take-months-once-war-ends-strait-of-hormuz-opens?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+      "date": "2026-04-17 23:40",
+      "score": 8.7,
+      "impact": "bullish",
+      "sectors": [
+        "Broad Market",
+        "Commodities",
+        "Energy",
+        "Industrials",
+        "International"
+      ],
+      "primary_sector": "Broad Market",
+      "etf_tickers": [
+        "XLE"
+      ],
+      "rotation": ""
+    },
+    {
+      "title": "Iran declares Strait of Hormuz open to shipping but Trump says U.S. blockade still active",
+      "headline_it": "Stretto di Hormuz aperto",
+      "summary_it": "La disputa tra Stati Uniti e Iran sulla tregua influisce sul settore energetico. La situazione potrebbe avere un impatto significativo sui mercati.",
+      "summary_en": "The Strait of Hormuz has remained almost completely closed as the U.S. and Iran have disputed the terms of their ceasefire agreement.",
+      "source": "CNBC World",
+      "link": "https://www.cnbc.com/2026/04/17/iran-war-hormuz-strait-israel-lebanon-ceasefire.html",
+      "date": "2026-04-17 22:58",
+      "score": 8.7,
+      "impact": "bearish",
+      "sectors": [
+        "Broad Market",
+        "Commodities",
+        "Energy",
+        "Industrials",
+        "International"
+      ],
+      "primary_sector": "Broad Market",
+      "etf_tickers": [
+        "SPY",
+        "XLE"
+      ],
+      "rotation": ""
+    },
+    {
+      "title": "U.S. oil price plunges below $84 as Iran declares Strait of Hormuz open, easing supply fears",
+      "headline_it": "Prezzo petrolio Usa sotto 84 dollari",
+      "summary_it": "Il prezzo del petrolio è crollato di oltre l'11% dopo che l'Iran ha dichiarato aperto lo Stretto di Hormuz, riducendo le preoccupazioni per l'approvvigionamento. Ciò potrebbe avere un impatto significativo sugli ETF del settore energetico e delle commodity.",
+      "summary_en": "Oil prices tumbled more than 11% after Iran declared the Strait of Hormuz open amid a ceasefire deal with Lebanon.",
+      "source": "CNBC World",
+      "link": "https://www.cnbc.com/2026/04/17/oil-prices-wti-brent-israel-lebanon-ceasefire-trump.html",
+      "date": "2026-04-17 19:13",
+      "score": 8.7,
+      "impact": "bearish",
+      "sectors": [
+        "Commodities",
+        "Energy",
+        "Industrials",
+        "International"
+      ],
+      "primary_sector": "Commodities",
+      "etf_tickers": [
+        "XLE"
+      ],
+      "rotation": ""
+    },
+    {
+      "title": "Video shows ships turning away from the Strait of Hormuz as confusion persists over whether sea lane is really open",
+      "headline_it": "Stretto di Hormuz chiuso",
+      "summary_it": "Nonostante la dichiarazione dell'Iran, lo Stretto di Hormuz rimane chiuso, influenzando il mercato energetico. Ciò potrebbe avere un impatto significativo sui prezzi del petrolio e sulle commodity.",
+      "summary_en": "The Strait of Hormuz remained effectively closed despite Iran's declaration Friday that it is open, maritime freight and oil analysts told CNBC.",
+      "source": "CNBC World",
+      "link": "https://www.cnbc.com/2026/04/17/iran-trump-strait-hormuz-oil-tanker-traffic.html",
+      "date": "2026-04-17 23:33",
+      "score": 8.7,
+      "impact": "bearish",
+      "sectors": [
+        "Commodities",
+        "Energy",
+        "Industrials",
+        "International"
+      ],
+      "primary_sector": "Commodities",
+      "etf_tickers": [
+        "USO"
+      ],
+      "rotation": ""
+    },
+    {
+      "title": "Trump says war in Iran is going 'swimmingly' and 'should be ending pretty soon'",
+      "headline_it": "Trump: guerra in Iran finirà presto",
+      "summary_it": "Le dichiarazioni di Trump sulla fine della guerra contro l'Iran potrebbero influenzare i mercati energetici e il mercato azionario in generale. Ciò potrebbe avere un impatto positivo sul settore energetico.",
+      "summary_en": "President Donald Trump's latest prediction on the end of the war against Iran came hours after Israel announced a ceasefire with Lebanon.",
+      "source": "CNBC World",
+      "link": "https://www.cnbc.com/2026/04/16/trump-iran-war-predicts-end-soon.html",
+      "date": "2026-04-17 12:16",
+      "score": 8.7,
+      "impact": "bullish",
+      "sectors": [
+        "Broad Market",
+        "Commodities",
+        "Energy",
+        "Industrials",
+        "International"
+      ],
+      "primary_sector": "Broad Market",
+      "etf_tickers": [
+        "SPY",
+        "XLE"
+      ],
+      "rotation": ""
+    },
+    {
+      "title": "(Research Paper) The Limited Effects of Post-Pandemic U.S. Monetary Policy Tightening: Demand Composition and the Credit Channel",
+      "headline_it": "Politica monetaria USA",
+      "summary_it": "La stretta monetaria post-pandemica negli USA ha avuto effetti limitati. Ciò potrebbe influenzare i settori finanziari e dei bond.",
+      "summary_en": "",
+      "source": "Bank of Japan",
+      "link": "http://www.boj.or.jp/en/research/wps_rev/wps_2026/wp26e06.htm",
+      "date": "2026-04-16 07:00",
+      "score": 7.4,
+      "impact": "bearish",
+      "sectors": [
+        "Bonds",
+        "Broad Market",
+        "Financials"
+      ],
+      "primary_sector": "Bonds",
+      "etf_tickers": [
+        "TLT",
+        "XLF"
+      ],
+      "rotation": ""
+    },
+    {
+      "title": "Michael Burry buys the dip in Salesforce and other software stocks after AI-fueled sell-off",
+      "headline_it": "Acquisto di Salesforce",
+      "summary_it": "Michael Burry compra azioni di Salesforce e altri software dopo una vendita guidata dall'intelligenza artificiale. Non crede che le pressioni tecniche influenzeranno a lungo questi titoli.",
+      "summary_en": "\"I do not believe the technical pressures brought on by the private credit/software debt issues are big enough to affect these stocks for much longer,\" he said.",
+      "source": "CNBC Finance",
+      "link": "https://www.cnbc.com/2026/04/16/burry-buys-the-dip-in-salesforce-and-other-software-stocks-after-sell-off.html",
+      "date": "2026-04-16 18:49",
+      "score": 7.4,
+      "impact": "bullish",
+      "sectors": [
+        "Bonds",
+        "Broad Market",
+        "Commodities",
+        "Energy",
+        "Financials",
+        "Industrials",
+        "International",
+        "Tech & Semiconductors"
+      ],
+      "primary_sector": "Bonds",
+      "etf_tickers": [
+        "QQQ"
+      ],
+      "rotation": ""
+    },
+    {
+      "title": "Chinese robotaxi companies forge ahead with UAE expansion despite Iran war",
+      "headline_it": "Didi lancia test robotaxi negli Emirati",
+      "summary_it": "La società di ride-hailing Didi pianifica di iniziare il suo primo test di robotaxi all'estero negli Emirati Arabi Uniti. Ciò potrebbe avere un impatto positivo sul settore tecnologico.",
+      "summary_en": "Ride-hailing company Didi plans to begin its first overseas robotaxi test in the United Arab Emirates later this year.",
+      "source": "CNBC Finance",
+      "link": "https://www.cnbc.com/2026/04/15/china-robotaxi-didi-weride-baidu-dubai-uae-expansion.html",
+      "date": "2026-04-15 14:13",
+      "score": 7.4,
+      "impact": "bullish",
+      "sectors": [
+        "Broad Market",
+        "Commodities",
+        "Energy",
+        "Industrials",
+        "International",
+        "Tech & Semiconductors"
+      ],
+      "primary_sector": "Broad Market",
+      "etf_tickers": [
+        "QQQ"
+      ],
+      "rotation": ""
+    },
+    {
+      "title": "Jamie Dimon says Anthropic's Mythos reveals 'a lot more vulnerabilities' for cyberattacks",
+      "headline_it": "Minacce cibernetiche aumentano",
+      "summary_it": "Le dichiarazioni di Jamie Dimon evidenziano come la tecnologia possa rappresentare una minaccia per la sicurezza informatica. Ciò potrebbe avere un impatto negativo sul settore tecnologico.",
+      "summary_en": "The remarks show how a technology welcomed by corporations as a productivity boon can also pose serious threats, like uncovering new ways to hack into systems.",
+      "source": "CNBC Finance",
+      "link": "https://www.cnbc.com/2026/04/14/jamie-dimon-anthropic-mythos-vulnerabilities-cyber-attacks.html",
+      "date": "2026-04-14 20:55",
+      "score": 7.4,
+      "impact": "bearish",
+      "sectors": [
+        "Broad Market",
+        "Industrials",
+        "International",
+        "Tech & Semiconductors"
+      ],
+      "primary_sector": "Broad Market",
+      "etf_tickers": [
+        "SMH"
+      ],
+      "rotation": ""
+    },
+    {
+      "title": "Gold rises to one-month high as Strait of Hormuz called 'completely open'",
+      "headline_it": "Oro sale a massimo mensile",
+      "summary_it": "L'oro e l'argento salgono dopo l'annuncio dell'Iran sulla riapertura dello Stretto di Hormuz, riducendo i rischi di recessione. Ciò potrebbe avere un impatto positivo sul settore delle commodity.",
+      "summary_en": "Gold and silver settled higher as Iran's announcement that the Strait of Hormuz is open to commercial traffic could set a path for ending the Middle East war and reducing recessionary risks.",
+      "source": "Seeking Alpha",
+      "link": "https://seekingalpha.com/news/4576314-gold-rises-to-one-month-high-as-strait-of-hormuz-called-completely-open?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+      "date": "2026-04-17 21:32",
+      "score": 7.4,
+      "impact": "bullish",
+      "sectors": [
+        "Bonds",
+        "Broad Market",
+        "Commodities",
+        "Energy",
+        "Industrials",
+        "International"
+      ],
+      "primary_sector": "Bonds",
+      "etf_tickers": [
+        "GLD"
+      ],
+      "rotation": ""
+    },
+    {
+      "title": "U.S. tech companies ramp up government lobbying amid Iran war uncertainty",
+      "headline_it": "Tecnologia USA aumenta lobbying",
+      "summary_it": "Le aziende tecnologiche statunitensi aumentano la loro influenza sul governo a causa dell'incertezza legata alla guerra in Iran. Ciò potrebbe avere un impatto sul settore tecnologico e di conseguenza sui mercati più ampi.",
+      "summary_en": "A White House spokesperson told CNBC the administration had been working with industry leaders to mitigate disruption brought about by the conflict.",
+      "source": "CNBC World",
+      "link": "https://www.cnbc.com/2026/04/17/us-tech-lobbying-government-iran-war.html",
+      "date": "2026-04-17 11:18",
+      "score": 7.4,
+      "impact": "neutral",
+      "sectors": [
+        "Broad Market",
+        "Commodities",
+        "Energy",
+        "Industrials",
+        "International",
+        "Tech & Semiconductors"
+      ],
+      "primary_sector": "Broad Market",
+      "etf_tickers": [
+        "QQQ",
+        "SMH"
+      ],
+      "rotation": ""
+    },
+    {
+      "title": "Israel's central bank chief pins hopes on peace as economic shock looms",
+      "headline_it": "Speranza di pace per Israele",
+      "summary_it": "Il governatore della banca centrale israeliana spera in una rapida risoluzione dei conflitti per evitare uno shock economico. Ciò potrebbe avere un impatto sui mercati internazionali.",
+      "summary_en": "Israel's central bank governor hopes a swift resolution to the wars in Lebanon and Iran can ease a growth shock.",
+      "source": "CNBC World",
+      "link": "https://www.cnbc.com/2026/04/17/israel-lebanon-ceasefire-interest-rates-iran-inflation.html",
+      "date": "2026-04-17 09:16",
+      "score": 7.4,
+      "impact": "bearish",
+      "sectors": [
+        "Broad Market",
+        "Commodities",
+        "Energy",
+        "Financials",
+        "Industrials",
+        "International"
+      ],
+      "primary_sector": "Broad Market",
+      "etf_tickers": [],
+      "rotation": ""
+    },
+    {
+      "title": "Spain touts energy resilience to Iran war as Trump tensions cast shadow over trade",
+      "headline_it": "Spagna punta su energie rinnovabili",
+      "summary_it": "La Spagna ha aumentato gli investimenti in tecnologie solari e eoliche negli ultimi anni, migliorando la propria resilienza energetica.",
+      "summary_en": "The southern European country has ramped up its investment in solar and wind technologies in recent years.",
+      "source": "CNBC World",
+      "link": "https://www.cnbc.com/2026/04/17/spain-energy-resilience-iran-war-trump-trade.html",
+      "date": "2026-04-17 07:57",
+      "score": 7.4,
+      "impact": "bullish",
+      "sectors": [
+        "Broad Market",
+        "Commodities",
+        "Energy",
+        "Industrials",
+        "International"
+      ],
+      "primary_sector": "Broad Market",
+      "etf_tickers": [
+        "ICLN"
+      ],
+      "rotation": ""
+    },
+    {
+      "title": "Asia markets mostly fall as fragile Middle East ceasefire tempers sentiment",
+      "headline_it": "Mercati asiatici in calo",
+      "summary_it": "I mercati asiatici sono scesi a causa della fragile tregua in Medio Oriente, nonostante i record di Wall Street. Ciò ha ridotto l'appetito per il rischio.",
+      "summary_en": "Most Asia-Pacific markets traded lower Friday as an Israel-Lebanon ceasefire tempered risk appetite, even after Wall Street closed at fresh record highs.",
+      "source": "CNBC World",
+      "link": "https://www.cnbc.com/2026/04/17/asia-markets-today-nikkei225-hang-seng-sensex-asx-ceasefire-oil.html",
+      "date": "2026-04-17 08:02",
+      "score": 7.4,
+      "impact": "bearish",
+      "sectors": [
+        "Broad Market",
+        "Energy",
+        "Industrials",
+        "International"
+      ],
+      "primary_sector": "Broad Market",
+      "etf_tickers": [
+        "EEM",
+        "VTI"
+      ],
+      "rotation": ""
+    },
+    {
+      "title": "Federal Reserve Board issues enforcement action with Community Bankshares, Inc.",
+      "headline_it": "Fed agisce su Community Bankshares",
+      "summary_it": "La Federal Reserve ha intrapreso un'azione di enforcement contro Community Bankshares, Inc., un'azienda bancaria. Ciò potrebbe avere un impatto sul settore finanziario.",
+      "summary_en": "Federal Reserve Board issues enforcement action with Community Bankshares, Inc.",
+      "source": "Federal Reserve",
+      "link": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20260416a.htm",
+      "date": "2026-04-16 15:00",
+      "score": 6.1,
+      "impact": "bearish",
+      "sectors": [
+        "Financials"
+      ],
+      "primary_sector": "Financials",
+      "etf_tickers": [
+        "XLF"
+      ],
+      "rotation": ""
+    }
+  ]
+}

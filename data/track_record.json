@@ -1,36 +1,36 @@
 {
-  "date": "April 11, 2026",
-  "week": "2026-W15",
+  "date": "April 18, 2026",
+  "week": "2026-W16",
   "ideas": [
     {
+      "ticker": "FINX",
+      "price": 26.62,
+      "direction": "long",
+      "desc": "Fintech"
+    },
+    {
       "ticker": "SPY",
-      "price": 679.46,
+      "price": 710.14,
       "direction": "long",
       "desc": "S&P 500"
     },
     {
-      "ticker": "CLOU",
-      "price": 17.6,
+      "ticker": "ARKG",
+      "price": 30.79,
       "direction": "long",
-      "desc": "Cloud Software"
+      "desc": "Genomics"
+    },
+    {
+      "ticker": "USO",
+      "price": 116.04,
+      "direction": "long",
+      "desc": "Crude Oil"
     },
     {
       "ticker": "QQQ",
-      "price": 611.07,
+      "price": 648.85,
       "direction": "long",
       "desc": "Nasdaq 100"
-    },
-    {
-      "ticker": "SMH",
-      "price": 436.88,
-      "direction": "long",
-      "desc": "Semiconductors"
-    },
-    {
-      "ticker": "COPX",
-      "price": 83.52,
-      "direction": "long",
-      "desc": "Copper Miners"
     }
   ]
 }
