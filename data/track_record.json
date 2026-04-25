@@ -1,36 +1,36 @@
 {
-  "date": "April 18, 2026",
-  "week": "2026-W16",
+  "date": "April 25, 2026",
+  "week": "2026-W17",
   "ideas": [
     {
-      "ticker": "FINX",
-      "price": 26.62,
-      "direction": "long",
-      "desc": "Fintech"
-    },
-    {
-      "ticker": "SPY",
-      "price": 710.14,
-      "direction": "long",
-      "desc": "S&P 500"
-    },
-    {
-      "ticker": "ARKG",
-      "price": 30.79,
-      "direction": "long",
-      "desc": "Genomics"
-    },
-    {
       "ticker": "USO",
-      "price": 116.04,
+      "price": 132.4,
       "direction": "long",
       "desc": "Crude Oil"
     },
     {
       "ticker": "QQQ",
-      "price": 648.85,
+      "price": 663.88,
       "direction": "long",
       "desc": "Nasdaq 100"
+    },
+    {
+      "ticker": "QCLN",
+      "price": 56.97,
+      "direction": "long",
+      "desc": "Clean Tech"
+    },
+    {
+      "ticker": "ITA",
+      "price": 215.8,
+      "direction": "long",
+      "desc": "Aerospace & Defense"
+    },
+    {
+      "ticker": "SPY",
+      "price": 713.94,
+      "direction": "long",
+      "desc": "S&P 500"
     }
   ]
 }
