@@ -1,36 +1,30 @@
 {
-  "date": "April 25, 2026",
-  "week": "2026-W17",
+  "date": "May 02, 2026",
+  "week": "2026-W18",
   "ideas": [
     {
-      "ticker": "USO",
-      "price": 132.4,
+      "ticker": "SPY",
+      "price": 720.65,
       "direction": "long",
-      "desc": "Crude Oil"
+      "desc": "S&P 500"
     },
     {
       "ticker": "QQQ",
-      "price": 663.88,
+      "price": 674.15,
       "direction": "long",
       "desc": "Nasdaq 100"
     },
     {
-      "ticker": "QCLN",
-      "price": 56.97,
+      "ticker": "XLE",
+      "price": 58.85,
       "direction": "long",
-      "desc": "Clean Tech"
+      "desc": "Oil & Gas"
     },
     {
-      "ticker": "ITA",
-      "price": 215.8,
+      "ticker": "XLB",
+      "price": 51.35,
       "direction": "long",
-      "desc": "Aerospace & Defense"
-    },
-    {
-      "ticker": "SPY",
-      "price": 713.94,
-      "direction": "long",
-      "desc": "S&P 500"
+      "desc": "Materials"
     }
   ]
 }

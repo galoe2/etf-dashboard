@@ -1,0 +1,1367 @@
+{
+  "generated": "2026-05-02T08:56:56.875459",
+  "lookback_days": 7,
+  "total_articles": 50,
+  "sector_news": {
+    "Broad Market": {
+      "count": 40,
+      "top": [
+        {
+          "headline": "China scraps tariffs for all but one African nation",
+          "summary": "The zero-tariff regime gives China's soft power a boost, but may lead to uneven gains, say analysts.",
+          "impact": "bullish",
+          "source": "BBC World",
+          "score": 10.0,
+          "link": "https://www.bbc.com/news/articles/cwy2v509217o?at_medium=RSS&at_campaign=rss",
+          "etf_tickers": []
+        },
+        {
+          "headline": "Venice Biennale jury resigns days before start of top art exhibition",
+          "summary": "It follows growing tensions over the return of Russia for the first time since the full-scale invasion of Ukraine.",
+          "impact": "neutral",
+          "source": "BBC World",
+          "score": 10.0,
+          "link": "https://www.bbc.com/news/articles/c78qdg4g80eo?at_medium=RSS&at_campaign=rss",
+          "etf_tickers": []
+        },
+        {
+          "headline": "Where's my Oscar? Eight times Academy Awards trophies have gone missing",
+          "summary": "From burglary to ransom, Oscar-winners like Frances McDormand, Jared Leto, Whoopi Goldberg and Olympia Dukakis have lost their coveted statuettes.",
+          "impact": "bearish",
+          "source": "BBC World",
+          "score": 10.0,
+          "link": "https://www.bbc.com/news/articles/c9werpgeyr1o?at_medium=RSS&at_campaign=rss",
+          "etf_tickers": []
+        }
+      ]
+    },
+    "International": {
+      "count": 39,
+      "top": [
+        {
+          "headline": "Oil price hits highest since 2022 after report Trump to be briefed on new Iran options",
+          "summary": "Axios reported that US Central Command has prepared a plan for a wave of \"short and powerful\" strikes on Iran.",
+          "impact": "neutral",
+          "source": "BBC World",
+          "score": 10.0,
+          "link": "https://www.bbc.com/news/articles/cx21m88rd14o?at_medium=RSS&at_campaign=rss",
+          "etf_tickers": []
+        },
+        {
+          "headline": "It's not just oil: Iran war also threatens Asia's food security",
+          "summary": "Planting season is beginning in Asia - but the closure of the Strait of Hormuz and Chinese restrictions has hit fertiliser supply.",
+          "impact": "neutral",
+          "source": "BBC World",
+          "score": 10.0,
+          "link": "https://www.bbc.com/news/articles/c208yl1jkl7o?at_medium=RSS&at_campaign=rss",
+          "etf_tickers": []
+        },
+        {
+          "headline": "'Attacked 28 times in a day' - BBC visits heavily targeted US-UK base in Iraq",
+          "summary": "Before the fragile ceasefire in the region, this was one of the most heavily targeted US and UK military bases in the Middle East.",
+          "impact": "neutral",
+          "source": "BBC World",
+          "score": 10.0,
+          "link": "https://www.bbc.com/news/videos/c5y9wdprpyyo?at_medium=RSS&at_campaign=rss",
+          "etf_tickers": []
+        }
+      ]
+    },
+    "Tech & Semiconductors": {
+      "count": 5,
+      "top": [
+        {
+          "headline": "Triliardi in gioco per risultati aziendali",
+          "summary": "I grandi player del tech come Alphabet, Amazon, Meta e Microsoft annunceranno i loro risultati, influenzando il mercato. Ci si aspetta un impatto significativo sui settori tecnologici e di mercato più ampio.",
+          "impact": "mixed",
+          "source": "CNBC Finance",
+          "score": 9.4,
+          "link": "https://www.cnbc.com/2026/04/29/traders-brace-for-800-billion-in-earnings-related-stock-movement.html",
+          "etf_tickers": [
+            "QQQ",
+            "SMH"
+          ]
+        },
+        {
+          "headline": "Apple: guida aumentata",
+          "summary": "Apple aumenta la guida per il prossimo trimestre grazie alla forte domanda di iPhone e Mac, superando le stime degli analisti. Ciò potrebbe avere un impatto positivo sugli ETF tecnologici.",
+          "impact": "bullish",
+          "source": "CNBC World",
+          "score": 9.4,
+          "link": "https://www.cnbc.com/2026/05/01/apple-stock-rallies-on-q2-earnings-and-q3-guidance.html",
+          "etf_tickers": [
+            "QQQ"
+          ]
+        },
+        {
+          "headline": "Apple: risultati e conferenza",
+          "summary": "Apple presenterà i suoi risultati trimestrali, con una conferenza call prevista per giovedì. Gli analisti si aspettano discussioni sui dazi e la Cina, ma non sul nuovo iPhone pieghevole.",
+          "impact": "neutral",
+          "source": "CNBC Finance",
+          "score": 8.7,
+          "link": "https://www.cnbc.com/2026/04/30/what-bettors-think-apple-will-talk-about-on-its-earnings-call.html",
+          "etf_tickers": [
+            "QQQ"
+          ]
+        }
+      ]
+    },
+    "Financials": {
+      "count": 11,
+      "top": [
+        {
+          "headline": "ECB Consumer Expectations Survey results – March 2026",
+          "summary": "The European Central Bank (ECB) is the central bank of the European Union countries which have adopted the euro. Our main task is to maintain price stability in the euro area and so preserve the purchasing power of the single currency.",
+          "impact": "neutral",
+          "source": "ECB",
+          "score": 10.0,
+          "link": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr260428_1~eddb480492.en.html",
+          "etf_tickers": []
+        },
+        {
+          "headline": "April 2026 euro area bank lending survey",
+          "summary": "The European Central Bank (ECB) is the central bank of the European Union countries which have adopted the euro. Our main task is to maintain price stability in the euro area and so preserve the purchasing power of the single currency.",
+          "impact": "neutral",
+          "source": "ECB",
+          "score": 10.0,
+          "link": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr260428~6b156107c1.en.html",
+          "etf_tickers": []
+        },
+        {
+          "headline": "Bank Rate maintained at 3.75% - April 2026 Monetary Policy Summary and Minutes",
+          "summary": "The Bank of England’s Monetary Policy Committee is responsible for making decisions about Bank Rate.",
+          "impact": "neutral",
+          "source": "Bank of England",
+          "score": 10.0,
+          "link": "https://www.bankofengland.co.uk/monetary-policy-summary-and-minutes/2026/april-2026",
+          "etf_tickers": []
+        }
+      ]
+    },
+    "Energy": {
+      "count": 37,
+      "top": [
+        {
+          "headline": "China urges reversal of UNIFIL departure from Lebanon as conflict escalates",
+          "summary": "The UNIFIL mission has faced a growing number of casualties as Israel and Hezbollah continue to fight.",
+          "impact": "bearish",
+          "source": "Al Jazeera",
+          "score": 10.0,
+          "link": "https://www.aljazeera.com/news/2026/5/2/china-urges-reversal-of-unifil-departure-from-lebanon-as-conflict-escalates?traffic_source=rss",
+          "etf_tickers": []
+        },
+        {
+          "headline": "Havana slams new Trump sanctions as ‘collective punishment’ of Cuban people",
+          "summary": "The Cuban government has firmly rejected the recent sanctions levied by US President Donald Trump.",
+          "impact": "neutral",
+          "source": "Al Jazeera",
+          "score": 10.0,
+          "link": "https://www.aljazeera.com/economy/2026/5/2/havana-slams-new-trump-sanctions-as-collective-punishment-of-cuban-people?traffic_source=rss",
+          "etf_tickers": []
+        },
+        {
+          "headline": "Iran war: What’s happening on day 64 as Trump rejects Tehran’s proposal",
+          "summary": "US President Donald Trump says the latest Iranian peace proposal includes demands he &#039;can’t agree to&#039;.",
+          "impact": "neutral",
+          "source": "Al Jazeera",
+          "score": 10.0,
+          "link": "https://www.aljazeera.com/news/2026/5/2/iran-war-whats-happening-on-day-64-as-trump-rejects-tehrans-proposal?traffic_source=rss",
+          "etf_tickers": []
+        }
+      ]
+    },
+    "Commodities": {
+      "count": 33,
+      "top": [
+        {
+          "headline": "Trump says US forces are ‘like pirates’ taking Iranian oil",
+          "summary": "Donald Trump says US forces are ‘like pirates’ taking over Iranian ships and cargo near the Strait of Hormuz.",
+          "impact": "neutral",
+          "source": "Al Jazeera",
+          "score": 10.0,
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/5/2/trump-says-us-forces-are-like-pirates-taking-iranian-oil?traffic_source=rss",
+          "etf_tickers": []
+        },
+        {
+          "headline": "Iranian Nobel laureate Narges Mohammadi hospitalised as health deteriorates",
+          "summary": "Mohammadi has lost consciousness twice and suffered a severe cardiac crisis, her foundation has announced.",
+          "impact": "bearish",
+          "source": "Al Jazeera",
+          "score": 10.0,
+          "link": "https://www.aljazeera.com/news/2026/5/1/iranian-nobel-laureate-narges-mohammadi-hospitalised-as-health-deteriorates?traffic_source=rss",
+          "etf_tickers": []
+        },
+        {
+          "headline": "What in the World?",
+          "summary": "Test yourself on the week of April 25: Iran offers to reopen the Strait of Hormuz, the UAE leaves OPEC, and Colombia hosts a conference.",
+          "impact": "neutral",
+          "source": "Foreign Policy",
+          "score": 10.0,
+          "link": "https://foreignpolicy.com/2026/05/01/news-quiz-iran-war-hormuz-uae-opec-colombia-conference-mali-russia/",
+          "etf_tickers": []
+        }
+      ]
+    },
+    "Industrials": {
+      "count": 37,
+      "top": [
+        {
+          "headline": "US embassy warns citizens in UK as threat level raised to ‘severe’",
+          "summary": "US embassy in UK has advised citizens to avoids schools, churches, tourist locations and vary their travel routes.",
+          "impact": "neutral",
+          "source": "Al Jazeera",
+          "score": 10.0,
+          "link": "https://www.aljazeera.com/news/2026/5/2/us-embassy-warns-citizens-in-uk-as-threat-level-raised-to-severe?traffic_source=rss",
+          "etf_tickers": []
+        },
+        {
+          "headline": "Iran war protester speaks to Al Jazeera from top of Washington bridge",
+          "summary": "A 45-year old man is occupying the top of Washington’s Frederick Douglass Memorial Bridge to protest the war on Iran.",
+          "impact": "neutral",
+          "source": "Al Jazeera",
+          "score": 10.0,
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/5/2/iran-war-protester-speaks-to-al-jazeera-from-top-of-washington-bridge?traffic_source=rss",
+          "etf_tickers": []
+        },
+        {
+          "headline": "Iran war live: Trump says no ‘early’ end to war, unhappy with Tehran offer",
+          "summary": "White House tells Congress that Iran hostilities have &#039;terminated&#039; despite continued US troop presence in Middle East.",
+          "impact": "neutral",
+          "source": "Al Jazeera",
+          "score": 10.0,
+          "link": "https://www.aljazeera.com/news/liveblog/2026/5/2/iran-war-live-trump-says-no-early-end-to-war-unhappy-with-tehran-offer?traffic_source=rss",
+          "etf_tickers": []
+        }
+      ]
+    },
+    "Bonds": {
+      "count": 8,
+      "top": [
+        {
+          "headline": "Exchange of letters between the Governor and the Chancellor regarding CPI Inflation - April 2026",
+          "summary": "Exchange of letters between the Governor and the Chancellor",
+          "impact": "neutral",
+          "source": "Bank of England",
+          "score": 10.0,
+          "link": "https://www.bankofengland.co.uk/letter/2026/cpi-inflation-april-2026",
+          "etf_tickers": []
+        },
+        {
+          "headline": "Christine Lagarde, Luis de Guindos: Monetary policy statement (with Q&A)",
+          "summary": "The European Central Bank (ECB) is the central bank of the European Union countries which have adopted the euro. Our main task is to maintain price stability in the euro area and so preserve the purchasing power of the single currency.",
+          "impact": "neutral",
+          "source": "ECB",
+          "score": 10.0,
+          "link": "https://www.ecb.europa.eu//press/press_conference/monetary-policy-statement/2026/html/ecb.is260430~f99cb123a8.en.html",
+          "etf_tickers": []
+        },
+        {
+          "headline": "Monetary policy decisions",
+          "summary": "The European Central Bank (ECB) is the central bank of the European Union countries which have adopted the euro. Our main task is to maintain price stability in the euro area and so preserve the purchasing power of the single currency.",
+          "impact": "neutral",
+          "source": "ECB",
+          "score": 10.0,
+          "link": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.mp260430~81b7179e6f.en.html",
+          "etf_tickers": []
+        }
+      ]
+    },
+    "Consumers": {
+      "count": 6,
+      "top": [
+        {
+          "headline": "Apple avverte su carenza memoria",
+          "summary": "Il CEO di Apple, Tim Cook, ha avvertito di una possibile carenza di memoria nei prossimi trimestri, potenzialmente impattando sul settore tecnologico e sui mercati più ampi.",
+          "impact": "bearish",
+          "source": "CNBC World",
+          "score": 8.7,
+          "link": "https://www.cnbc.com/2026/05/01/apple-ceo-warns-of-memory-crunch-well-look-at-a-range-of-options.html",
+          "etf_tickers": [
+            "QQQ",
+            "SMH"
+          ]
+        },
+        {
+          "headline": "Guerra in Iran minaccia produzione alimentare",
+          "summary": "La carenza di fertilizzanti a causa del conflitto in Iran potrebbe ridurre i raccolti e aumentare i prezzi. Ciò potrebbe avere un impatto significativo sui settori delle commodity e dei consumatori.",
+          "impact": "bearish",
+          "source": "BBC World",
+          "score": 8.7,
+          "link": "https://www.bbc.com/news/articles/cpwp50v4ye7o?at_medium=RSS&at_campaign=rss",
+          "etf_tickers": []
+        },
+        {
+          "headline": "Problemi per i motori?",
+          "summary": "La tensione nello Stretto di Hormuz potrebbe influire sulla produzione di auto di lusso a causa della dipendenza dalle oli di base per i motori ad alte prestazioni.",
+          "impact": "bearish",
+          "source": "CNBC World",
+          "score": 7.4,
+          "link": "https://www.cnbc.com/2026/05/01/strait-of-hormuz-base-oils-luxury-autos.html",
+          "etf_tickers": [
+            "XLY"
+          ]
+        }
+      ]
+    }
+  },
+  "rotation_signals": [],
+  "articles": [
+    {
+      "title": "China scraps tariffs for all but one African nation",
+      "headline_it": "",
+      "summary_it": "",
+      "summary_en": "The zero-tariff regime gives China's soft power a boost, but may lead to uneven gains, say analysts.",
+      "source": "BBC World",
+      "link": "https://www.bbc.com/news/articles/cwy2v509217o?at_medium=RSS&at_campaign=rss",
+      "date": "2026-05-01 00:02",
+      "score": 10.0,
+      "impact": "bullish",
+      "sectors": [
+        "Broad Market",
+        "Industrials",
+        "International"
+      ],
+      "primary_sector": "Broad Market",
+      "etf_tickers": [],
+      "rotation": ""
+    },
+    {
+      "title": "Oil price hits highest since 2022 after report Trump to be briefed on new Iran options",
+      "headline_it": "",
+      "summary_it": "",
+      "summary_en": "Axios reported that US Central Command has prepared a plan for a wave of \"short and powerful\" strikes on Iran.",
+      "source": "BBC World",
+      "link": "https://www.bbc.com/news/articles/cx21m88rd14o?at_medium=RSS&at_campaign=rss",
+      "date": "2026-04-30 18:05",
+      "score": 10.0,
+      "impact": "neutral",
+      "sectors": [
+        "Commodities",
+        "Energy",
+        "Industrials",
+        "International"
+      ],
+      "primary_sector": "Commodities",
+      "etf_tickers": [],
+      "rotation": ""
+    },
+    {
+      "title": "Venice Biennale jury resigns days before start of top art exhibition",
+      "headline_it": "",
+      "summary_it": "",
+      "summary_en": "It follows growing tensions over the return of Russia for the first time since the full-scale invasion of Ukraine.",
+      "source": "BBC World",
+      "link": "https://www.bbc.com/news/articles/c78qdg4g80eo?at_medium=RSS&at_campaign=rss",
+      "date": "2026-04-30 23:44",
+      "score": 10.0,
+      "impact": "neutral",
+      "sectors": [
+        "Broad Market",
+        "Commodities",
+        "Energy",
+        "International"
+      ],
+      "primary_sector": "Broad Market",
+      "etf_tickers": [],
+      "rotation": ""
+    },
+    {
+      "title": "Where's my Oscar? Eight times Academy Awards trophies have gone missing",
+      "headline_it": "",
+      "summary_it": "",
+      "summary_en": "From burglary to ransom, Oscar-winners like Frances McDormand, Jared Leto, Whoopi Goldberg and Olympia Dukakis have lost their coveted statuettes.",
+      "source": "BBC World",
+      "link": "https://www.bbc.com/news/articles/c9werpgeyr1o?at_medium=RSS&at_campaign=rss",
+      "date": "2026-05-01 20:06",
+      "score": 10.0,
+      "impact": "bearish",
+      "sectors": [
+        "Broad Market",
+        "Commodities",
+        "Energy",
+        "International"
+      ],
+      "primary_sector": "Broad Market",
+      "etf_tickers": [],
+      "rotation": ""
+    },
+    {
+      "title": "It's not just oil: Iran war also threatens Asia's food security",
+      "headline_it": "",
+      "summary_it": "",
+      "summary_en": "Planting season is beginning in Asia - but the closure of the Strait of Hormuz and Chinese restrictions has hit fertiliser supply.",
+      "source": "BBC World",
+      "link": "https://www.bbc.com/news/articles/c208yl1jkl7o?at_medium=RSS&at_campaign=rss",
+      "date": "2026-05-01 00:01",
+      "score": 10.0,
+      "impact": "neutral",
+      "sectors": [
+        "Broad Market",
+        "Commodities",
+        "Energy",
+        "Industrials",
+        "International"
+      ],
+      "primary_sector": "Broad Market",
+      "etf_tickers": [],
+      "rotation": ""
+    },
+    {
+      "title": "'Attacked 28 times in a day' - BBC visits heavily targeted US-UK base in Iraq",
+      "headline_it": "",
+      "summary_it": "",
+      "summary_en": "Before the fragile ceasefire in the region, this was one of the most heavily targeted US and UK military bases in the Middle East.",
+      "source": "BBC World",
+      "link": "https://www.bbc.com/news/videos/c5y9wdprpyyo?at_medium=RSS&at_campaign=rss",
+      "date": "2026-04-30 01:46",
+      "score": 10.0,
+      "impact": "neutral",
+      "sectors": [
+        "Broad Market",
+        "Energy",
+        "Industrials",
+        "International"
+      ],
+      "primary_sector": "Broad Market",
+      "etf_tickers": [],
+      "rotation": ""
+    },
+    {
+      "title": "China urges reversal of UNIFIL departure from Lebanon as conflict escalates",
+      "headline_it": "",
+      "summary_it": "",
+      "summary_en": "The UNIFIL mission has faced a growing number of casualties as Israel and Hezbollah continue to fight.",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/news/2026/5/2/china-urges-reversal-of-unifil-departure-from-lebanon-as-conflict-escalates?traffic_source=rss",
+      "date": "2026-05-02 06:47",
+      "score": 10.0,
+      "impact": "bearish",
+      "sectors": [
+        "Energy",
+        "Industrials",
+        "International"
+      ],
+      "primary_sector": "Energy",
+      "etf_tickers": [],
+      "rotation": ""
+    },
+    {
+      "title": "Iran war: What’s happening on day 64 as Trump rejects Tehran’s proposal",
+      "headline_it": "",
+      "summary_it": "",
+      "summary_en": "US President Donald Trump says the latest Iranian peace proposal includes demands he &#039;can’t agree to&#039;.",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/news/2026/5/2/iran-war-whats-happening-on-day-64-as-trump-rejects-tehrans-proposal?traffic_source=rss",
+      "date": "2026-05-02 06:27",
+      "score": 10.0,
+      "impact": "neutral",
+      "sectors": [
+        "Broad Market",
+        "Commodities",
+        "Energy",
+        "Industrials",
+        "International"
+      ],
+      "primary_sector": "Broad Market",
+      "etf_tickers": [],
+      "rotation": ""
+    },
+    {
+      "title": "US embassy warns citizens in UK as threat level raised to ‘severe’",
+      "headline_it": "",
+      "summary_it": "",
+      "summary_en": "US embassy in UK has advised citizens to avoids schools, churches, tourist locations and vary their travel routes.",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/news/2026/5/2/us-embassy-warns-citizens-in-uk-as-threat-level-raised-to-severe?traffic_source=rss",
+      "date": "2026-05-02 06:04",
+      "score": 10.0,
+      "impact": "neutral",
+      "sectors": [
+        "Broad Market",
+        "Commodities",
+        "Energy",
+        "Industrials",
+        "International"
+      ],
+      "primary_sector": "Broad Market",
+      "etf_tickers": [],
+      "rotation": ""
+    },
+    {
+      "title": "Trump says US forces are ‘like pirates’ taking Iranian oil",
+      "headline_it": "",
+      "summary_it": "",
+      "summary_en": "Donald Trump says US forces are ‘like pirates’ taking over Iranian ships and cargo near the Strait of Hormuz.",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/5/2/trump-says-us-forces-are-like-pirates-taking-iranian-oil?traffic_source=rss",
+      "date": "2026-05-02 04:35",
+      "score": 10.0,
+      "impact": "neutral",
+      "sectors": [
+        "Commodities",
+        "Energy",
+        "Industrials",
+        "International"
+      ],
+      "primary_sector": "Commodities",
+      "etf_tickers": [],
+      "rotation": ""
+    },
+    {
+      "title": "Iran war protester speaks to Al Jazeera from top of Washington bridge",
+      "headline_it": "",
+      "summary_it": "",
+      "summary_en": "A 45-year old man is occupying the top of Washington’s Frederick Douglass Memorial Bridge to protest the war on Iran.",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/5/2/iran-war-protester-speaks-to-al-jazeera-from-top-of-washington-bridge?traffic_source=rss",
+      "date": "2026-05-02 04:17",
+      "score": 10.0,
+      "impact": "neutral",
+      "sectors": [
+        "Broad Market",
+        "Commodities",
+        "Energy",
+        "Industrials",
+        "International"
+      ],
+      "primary_sector": "Broad Market",
+      "etf_tickers": [],
+      "rotation": ""
+    },
+    {
+      "title": "Havana slams new Trump sanctions as ‘collective punishment’ of Cuban people",
+      "headline_it": "",
+      "summary_it": "",
+      "summary_en": "The Cuban government has firmly rejected the recent sanctions levied by US President Donald Trump.",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/economy/2026/5/2/havana-slams-new-trump-sanctions-as-collective-punishment-of-cuban-people?traffic_source=rss",
+      "date": "2026-05-02 04:06",
+      "score": 10.0,
+      "impact": "neutral",
+      "sectors": [
+        "Energy",
+        "Industrials",
+        "International"
+      ],
+      "primary_sector": "Energy",
+      "etf_tickers": [],
+      "rotation": ""
+    },
+    {
+      "title": "Iran war live: Trump says no ‘early’ end to war, unhappy with Tehran offer",
+      "headline_it": "",
+      "summary_it": "",
+      "summary_en": "White House tells Congress that Iran hostilities have &#039;terminated&#039; despite continued US troop presence in Middle East.",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/news/liveblog/2026/5/2/iran-war-live-trump-says-no-early-end-to-war-unhappy-with-tehran-offer?traffic_source=rss",
+      "date": "2026-05-02 00:00",
+      "score": 10.0,
+      "impact": "neutral",
+      "sectors": [
+        "Broad Market",
+        "Commodities",
+        "Energy",
+        "Industrials",
+        "International"
+      ],
+      "primary_sector": "Broad Market",
+      "etf_tickers": [],
+      "rotation": ""
+    },
+    {
+      "title": "US to withdraw 5,000 troops from Germany over Iran war spat",
+      "headline_it": "",
+      "summary_it": "",
+      "summary_en": "President Donald Trump has feuded with European allies over their reluctance to step up support for war on Iran.",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/news/2026/5/1/us-said-to-be-withdrawing-5000-troops-from-germany-over-iran-war-spat?traffic_source=rss",
+      "date": "2026-05-01 22:54",
+      "score": 10.0,
+      "impact": "neutral",
+      "sectors": [
+        "Broad Market",
+        "Commodities",
+        "Energy",
+        "Industrials",
+        "International"
+      ],
+      "primary_sector": "Broad Market",
+      "etf_tickers": [],
+      "rotation": ""
+    },
+    {
+      "title": "At least 12 killed in latest Israeli attacks on Lebanon",
+      "headline_it": "",
+      "summary_it": "",
+      "summary_en": "Israel&#039;s strikes continue, with more than 2,600 killed since March 2, despite an ongoing ceasefire.",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/news/2026/5/1/at-least-12-killed-in-latest-israeli-attacks-on-lebanon?traffic_source=rss",
+      "date": "2026-05-01 21:10",
+      "score": 10.0,
+      "impact": "neutral",
+      "sectors": [
+        "Broad Market",
+        "Energy",
+        "Industrials",
+        "International"
+      ],
+      "primary_sector": "Broad Market",
+      "etf_tickers": [],
+      "rotation": ""
+    },
+    {
+      "title": "Iranian Nobel laureate Narges Mohammadi hospitalised as health deteriorates",
+      "headline_it": "",
+      "summary_it": "",
+      "summary_en": "Mohammadi has lost consciousness twice and suffered a severe cardiac crisis, her foundation has announced.",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/news/2026/5/1/iranian-nobel-laureate-narges-mohammadi-hospitalised-as-health-deteriorates?traffic_source=rss",
+      "date": "2026-05-01 20:59",
+      "score": 10.0,
+      "impact": "bearish",
+      "sectors": [
+        "Commodities",
+        "Energy",
+        "Industrials",
+        "International"
+      ],
+      "primary_sector": "Commodities",
+      "etf_tickers": [],
+      "rotation": ""
+    },
+    {
+      "title": "What in the World?",
+      "headline_it": "",
+      "summary_it": "",
+      "summary_en": "Test yourself on the week of April 25: Iran offers to reopen the Strait of Hormuz, the UAE leaves OPEC, and Colombia hosts a conference.",
+      "source": "Foreign Policy",
+      "link": "https://foreignpolicy.com/2026/05/01/news-quiz-iran-war-hormuz-uae-opec-colombia-conference-mali-russia/",
+      "date": "2026-05-01 18:10",
+      "score": 10.0,
+      "impact": "neutral",
+      "sectors": [
+        "Commodities",
+        "Energy",
+        "Industrials",
+        "International"
+      ],
+      "primary_sector": "Commodities",
+      "etf_tickers": [],
+      "rotation": ""
+    },
+    {
+      "title": "Where Is Iran’s Enriched Uranium?",
+      "headline_it": "",
+      "summary_it": "",
+      "summary_en": "The U.N. nuclear watchdog suspects that roughly half of Tehran’s stockpile is still at its Isfahan facility.",
+      "source": "Foreign Policy",
+      "link": "https://foreignpolicy.com/2026/04/29/iran-nuclear-program-iaea-grossi-isfahan-enriched-uranium-us-war-hegseth-caine/",
+      "date": "2026-04-29 21:38",
+      "score": 10.0,
+      "impact": "neutral",
+      "sectors": [
+        "Commodities",
+        "Energy",
+        "Industrials",
+        "International"
+      ],
+      "primary_sector": "Commodities",
+      "etf_tickers": [],
+      "rotation": ""
+    },
+    {
+      "title": "‘Resign Immediately’: Democrats Grill Hegseth on Iran War",
+      "headline_it": "",
+      "summary_it": "",
+      "summary_en": "Congressional Democrats fought with the U.S. defense secretary over the war and military spending in a rare public hearing.",
+      "source": "Foreign Policy",
+      "link": "https://foreignpolicy.com/2026/04/29/hegseth-testimony-congress-hasc-iran-war-trump-defense/",
+      "date": "2026-04-29 21:38",
+      "score": 10.0,
+      "impact": "neutral",
+      "sectors": [
+        "Broad Market",
+        "Commodities",
+        "Energy",
+        "Industrials",
+        "International"
+      ],
+      "primary_sector": "Broad Market",
+      "etf_tickers": [],
+      "rotation": ""
+    },
+    {
+      "title": "Bank Rate maintained at 3.75% - April 2026 Monetary Policy Summary and Minutes",
+      "headline_it": "",
+      "summary_it": "",
+      "summary_en": "The Bank of England’s Monetary Policy Committee is responsible for making decisions about Bank Rate.",
+      "source": "Bank of England",
+      "link": "https://www.bankofengland.co.uk/monetary-policy-summary-and-minutes/2026/april-2026",
+      "date": "2026-04-30 11:00",
+      "score": 10.0,
+      "impact": "neutral",
+      "sectors": [
+        "Bonds",
+        "Broad Market",
+        "Financials"
+      ],
+      "primary_sector": "Bonds",
+      "etf_tickers": [],
+      "rotation": ""
+    },
+    {
+      "title": "Exchange of letters between the Governor and the Chancellor regarding CPI Inflation - April 2026",
+      "headline_it": "",
+      "summary_it": "",
+      "summary_en": "Exchange of letters between the Governor and the Chancellor",
+      "source": "Bank of England",
+      "link": "https://www.bankofengland.co.uk/letter/2026/cpi-inflation-april-2026",
+      "date": "2026-04-30 11:00",
+      "score": 10.0,
+      "impact": "neutral",
+      "sectors": [
+        "Bonds",
+        "Broad Market",
+        "Commodities"
+      ],
+      "primary_sector": "Bonds",
+      "etf_tickers": [],
+      "rotation": ""
+    },
+    {
+      "title": "Christine Lagarde, Luis de Guindos: Monetary policy statement (with Q&A)",
+      "headline_it": "",
+      "summary_it": "",
+      "summary_en": "The European Central Bank (ECB) is the central bank of the European Union countries which have adopted the euro. Our main task is to maintain price stability in the euro area and so preserve the purchasing power of the single currency.",
+      "source": "ECB",
+      "link": "https://www.ecb.europa.eu//press/press_conference/monetary-policy-statement/2026/html/ecb.is260430~f99cb123a8.en.html",
+      "date": "2026-04-30 13:00",
+      "score": 10.0,
+      "impact": "neutral",
+      "sectors": [
+        "Bonds",
+        "Broad Market",
+        "Financials"
+      ],
+      "primary_sector": "Bonds",
+      "etf_tickers": [],
+      "rotation": ""
+    },
+    {
+      "title": "Monetary policy decisions",
+      "headline_it": "",
+      "summary_it": "",
+      "summary_en": "The European Central Bank (ECB) is the central bank of the European Union countries which have adopted the euro. Our main task is to maintain price stability in the euro area and so preserve the purchasing power of the single currency.",
+      "source": "ECB",
+      "link": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.mp260430~81b7179e6f.en.html",
+      "date": "2026-04-30 12:15",
+      "score": 10.0,
+      "impact": "neutral",
+      "sectors": [
+        "Bonds",
+        "Broad Market",
+        "Financials"
+      ],
+      "primary_sector": "Bonds",
+      "etf_tickers": [],
+      "rotation": ""
+    },
+    {
+      "title": "ECB Consumer Expectations Survey results – March 2026",
+      "headline_it": "",
+      "summary_it": "",
+      "summary_en": "The European Central Bank (ECB) is the central bank of the European Union countries which have adopted the euro. Our main task is to maintain price stability in the euro area and so preserve the purchasing power of the single currency.",
+      "source": "ECB",
+      "link": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr260428_1~eddb480492.en.html",
+      "date": "2026-04-28 08:00",
+      "score": 10.0,
+      "impact": "neutral",
+      "sectors": [
+        "Financials"
+      ],
+      "primary_sector": "Financials",
+      "etf_tickers": [],
+      "rotation": ""
+    },
+    {
+      "title": "April 2026 euro area bank lending survey",
+      "headline_it": "",
+      "summary_it": "",
+      "summary_en": "The European Central Bank (ECB) is the central bank of the European Union countries which have adopted the euro. Our main task is to maintain price stability in the euro area and so preserve the purchasing power of the single currency.",
+      "source": "ECB",
+      "link": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr260428~6b156107c1.en.html",
+      "date": "2026-04-28 08:00",
+      "score": 10.0,
+      "impact": "neutral",
+      "sectors": [
+        "Financials"
+      ],
+      "primary_sector": "Financials",
+      "etf_tickers": [],
+      "rotation": ""
+    },
+    {
+      "title": "Federal Reserve issues FOMC statement",
+      "headline_it": "Fed pubblica dichiarazione FOMC",
+      "summary_it": "La Federal Reserve pubblica la dichiarazione del FOMC, influenzando il mercato azionario e obbligazionario. Ciò potrebbe avere un impatto significativo sui settori finanziari e del mercato più ampio.",
+      "summary_en": "Federal Reserve issues FOMC statement",
+      "source": "Federal Reserve",
+      "link": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20260429a.htm",
+      "date": "2026-04-29 18:00",
+      "score": 9.4,
+      "impact": "neutral",
+      "sectors": [
+        "Bonds",
+        "Broad Market",
+        "Financials"
+      ],
+      "primary_sector": "Bonds",
+      "etf_tickers": [
+        "SPY",
+        "TLT",
+        "XLF"
+      ],
+      "rotation": ""
+    },
+    {
+      "title": "Core inflation rate hit 3.2% in March as first-quarter growth disappointed at 2%",
+      "headline_it": "Inflazione al 3.2% a marzo",
+      "summary_it": "I consumatori affrontano prezzi in aumento a causa della guerra in Iran e dell'aumento del prezzo del petrolio, creando nuove sfide per la Fed. Ciò potrebbe avere un impatto negativo sui settori finanziari e dell'energia.",
+      "summary_en": "Consumers faced escalating prices in March as the Iran war sent oil soaring and created a new level of challenges for the Fed.",
+      "source": "CNBC Economy",
+      "link": "https://www.cnbc.com/2026/04/30/pce-inflation-rate-march-2026.html",
+      "date": "2026-04-30 13:37",
+      "score": 9.4,
+      "impact": "bearish",
+      "sectors": [
+        "Bonds",
+        "Broad Market",
+        "Commodities",
+        "Energy",
+        "Financials",
+        "Industrials",
+        "International"
+      ],
+      "primary_sector": "Bonds",
+      "etf_tickers": [
+        "SPY",
+        "XLE",
+        "XLF"
+      ],
+      "rotation": ""
+    },
+    {
+      "title": "Traders brace for $800 billion in earnings-related stock movement",
+      "headline_it": "Triliardi in gioco per risultati aziendali",
+      "summary_it": "I grandi player del tech come Alphabet, Amazon, Meta e Microsoft annunceranno i loro risultati, influenzando il mercato. Ci si aspetta un impatto significativo sui settori tecnologici e di mercato più ampio.",
+      "summary_en": "Wenesday night is the main event for earnings season, with Alphabet, Amazon, Meta and Microsoft – four of the \"Magnificent Seven\" — set to report.",
+      "source": "CNBC Finance",
+      "link": "https://www.cnbc.com/2026/04/29/traders-brace-for-800-billion-in-earnings-related-stock-movement.html",
+      "date": "2026-04-29 17:24",
+      "score": 9.4,
+      "impact": "mixed",
+      "sectors": [
+        "Broad Market",
+        "Consumers",
+        "Industrials",
+        "Tech & Semiconductors"
+      ],
+      "primary_sector": "Broad Market",
+      "etf_tickers": [
+        "QQQ",
+        "SMH"
+      ],
+      "rotation": ""
+    },
+    {
+      "title": "Here's everything to expect when the Fed issues its latest interest rate decision Wednesday",
+      "headline_it": "Fed decide tassi di interesse",
+      "summary_it": "La Fed potrebbe mantenere un approccio cauto con i tassi di interesse. Ciò potrebbe influenzare i settori finanziari e il mercato azionario.",
+      "summary_en": "In what could be Jerome Powell's final meeting as Fed chair, he and his fellow policymakers are likely to continue their cautious approach.",
+      "source": "CNBC Finance",
+      "link": "https://www.cnbc.com/2026/04/28/fed-meeting-preview-april-2026.html",
+      "date": "2026-04-29 15:35",
+      "score": 9.4,
+      "impact": "neutral",
+      "sectors": [
+        "Bonds",
+        "Broad Market",
+        "Financials",
+        "Industrials"
+      ],
+      "primary_sector": "Bonds",
+      "etf_tickers": [
+        "SPY",
+        "TLT",
+        "XLF"
+      ],
+      "rotation": ""
+    },
+    {
+      "title": "Apple's stock gains as company execs cite iPhone, Mac demand in boosting guidance",
+      "headline_it": "Apple: guida aumentata",
+      "summary_it": "Apple aumenta la guida per il prossimo trimestre grazie alla forte domanda di iPhone e Mac, superando le stime degli analisti. Ciò potrebbe avere un impatto positivo sugli ETF tecnologici.",
+      "summary_en": "On its quarterly earnings call, Apple said revenue growth in the current quarter would be between 14% and 17%, well above analysts' estimates.",
+      "source": "CNBC World",
+      "link": "https://www.cnbc.com/2026/05/01/apple-stock-rallies-on-q2-earnings-and-q3-guidance.html",
+      "date": "2026-05-01 20:11",
+      "score": 9.4,
+      "impact": "bullish",
+      "sectors": [
+        "Broad Market",
+        "Consumers",
+        "Industrials",
+        "Tech & Semiconductors"
+      ],
+      "primary_sector": "Broad Market",
+      "etf_tickers": [
+        "QQQ"
+      ],
+      "rotation": ""
+    },
+    {
+      "title": "Exxon Mobil and Chevron earnings fall as Iran war disrupts oil shipments",
+      "headline_it": "Guerra Iran, calo utili Exxon e Chevron",
+      "summary_it": "La guerra con l'Iran ha causato un aumento dei prezzi del petrolio, dopo un inizio d'anno depresso. Ciò potrebbe avere un impatto significativo sul settore energetico.",
+      "summary_en": "Oil prices were depressed during the first two months of the year, but suddenly spiked after the U.S. and Israel attacked Iran on Feb. 28.",
+      "source": "CNBC World",
+      "link": "https://www.cnbc.com/2026/05/01/exxon-xom-chevron-cvx-q1-2026-earnings.html",
+      "date": "2026-05-01 14:10",
+      "score": 9.4,
+      "impact": "bullish",
+      "sectors": [
+        "Broad Market",
+        "Commodities",
+        "Energy",
+        "Industrials",
+        "International"
+      ],
+      "primary_sector": "Broad Market",
+      "etf_tickers": [
+        "XLE"
+      ],
+      "rotation": ""
+    },
+    {
+      "title": "U.S. oil prices will exceed Iran wartime high to above $125 as conflict drags on, Kalshi traders say",
+      "headline_it": "Prezzi petrolio Usa supereranno max guerra Iran",
+      "summary_it": "I trader prevedono che i prezzi del petrolio supereranno i 125 dollari a barile a causa del protrarsi del conflitto. Ciò potrebbe avere un impatto significativo sui settori energia e commodities.",
+      "summary_en": "The April 7 high of $113 in Western Texas Intermediate crude futures will likely be broken, traders on the prediction markets platform think.",
+      "source": "CNBC Finance",
+      "link": "https://www.cnbc.com/2026/05/01/kalshi-traders-think-us-oil-prices-are-set-to-hit-new-2026-highs.html",
+      "date": "2026-05-01 18:12",
+      "score": 8.7,
+      "impact": "bullish",
+      "sectors": [
+        "Broad Market",
+        "Commodities",
+        "Energy",
+        "Industrials",
+        "International"
+      ],
+      "primary_sector": "Broad Market",
+      "etf_tickers": [
+        "USO"
+      ],
+      "rotation": ""
+    },
+    {
+      "title": "Apple execs to talk China and tariffs, but will avoid discussing foldable iPhone, per traders on Kalshi",
+      "headline_it": "Apple: risultati e conferenza",
+      "summary_it": "Apple presenterà i suoi risultati trimestrali, con una conferenza call prevista per giovedì. Gli analisti si aspettano discussioni sui dazi e la Cina, ma non sul nuovo iPhone pieghevole.",
+      "summary_en": "Apple is set to report earnings after the bell on Thursday, with its conference call scheduled for 5:00 pm ET.",
+      "source": "CNBC Finance",
+      "link": "https://www.cnbc.com/2026/04/30/what-bettors-think-apple-will-talk-about-on-its-earnings-call.html",
+      "date": "2026-04-30 17:56",
+      "score": 8.7,
+      "impact": "neutral",
+      "sectors": [
+        "Broad Market",
+        "Consumers",
+        "International",
+        "Tech & Semiconductors"
+      ],
+      "primary_sector": "Broad Market",
+      "etf_tickers": [
+        "QQQ"
+      ],
+      "rotation": ""
+    },
+    {
+      "title": "Jamie Dimon warns of 'some kind of bond crisis' ahead as global debt risks build",
+      "headline_it": "Crisi obbligazionaria all'orizzonte",
+      "summary_it": "Jamie Dimon avverte di una possibile crisi obbligazionaria a causa del crescente rischio del debito globale. Ciò potrebbe avere un impatto significativo sui settori finanziari e obbligazionari.",
+      "summary_en": "Dimon, who runs JPMorgan Chase, the world's largest bank by market cap, said that today's growing mix of risks could combine in unpredictable ways.",
+      "source": "CNBC Finance",
+      "link": "https://www.cnbc.com/2026/04/28/jamie-dimon-bond-crisis-global-debt-risks.html",
+      "date": "2026-04-28 18:44",
+      "score": 8.7,
+      "impact": "bearish",
+      "sectors": [
+        "Bonds",
+        "Broad Market",
+        "Commodities",
+        "Energy",
+        "Financials",
+        "International"
+      ],
+      "primary_sector": "Bonds",
+      "etf_tickers": [
+        "TLT",
+        "XLF"
+      ],
+      "rotation": ""
+    },
+    {
+      "title": "It now costs $160 to fill up America’s top-selling vehicle as the Iran war nears its 10th week",
+      "headline_it": "Prezzi gas alle stelle",
+      "summary_it": "Il prezzo della benzina è aumentato del 50% dall'inizio della guerra in Iran, raggiungendo i 4,42 dollari al gallone. Ciò potrebbe avere un impatto significativo sui settori energetico e del mercato azionario.",
+      "summary_en": "Regular unleaded gas is up almost 50% since the start of the Iran war, to $4.42 a gallon late Friday morning, according to GasBuddy.",
+      "source": "MarketWatch",
+      "link": "https://www.marketwatch.com/story/it-now-costs-160-to-fill-up-americas-top-selling-vehicle-as-the-iran-war-nears-its-10th-week-803077d2?mod=mw_rss_topstories",
+      "date": "2026-05-01 21:01",
+      "score": 8.7,
+      "impact": "bearish",
+      "sectors": [
+        "Broad Market",
+        "Commodities",
+        "Energy",
+        "Industrials",
+        "International"
+      ],
+      "primary_sector": "Broad Market",
+      "etf_tickers": [
+        "QQQ",
+        "XLE"
+      ],
+      "rotation": ""
+    },
+    {
+      "title": "Exxon Mobil CEO expects higher oil prices due to Iran war: ‘The market hasn’t seen the full impact’",
+      "headline_it": "Prezzi petrolio in aumento",
+      "summary_it": "Il CEO di Exxon Mobil prevede un aumento dei prezzi del petrolio a causa della guerra in Iran. Ciò potrebbe avere un impatto significativo sui settori energetico e delle commodity.",
+      "summary_en": "Oil prices have soared on the risk of escalation and then plunged on hopes for peace before repeating the cycle.",
+      "source": "CNBC World",
+      "link": "https://www.cnbc.com/2026/05/01/exxon-ceo-iran-war-oil-strait-hormuz.html",
+      "date": "2026-05-01 18:58",
+      "score": 8.7,
+      "impact": "bullish",
+      "sectors": [
+        "Broad Market",
+        "Commodities",
+        "Energy",
+        "Industrials",
+        "International"
+      ],
+      "primary_sector": "Broad Market",
+      "etf_tickers": [
+        "XLE"
+      ],
+      "rotation": ""
+    },
+    {
+      "title": "Trump says he's raising EU auto tariffs to 25%",
+      "headline_it": "Trump alza tariffe auto UE al 25%",
+      "summary_it": "La decisione di Trump potrebbe mettere a rischio l'accordo commerciale tra Europa e Stati Uniti. Ciò potrebbe avere un impatto negativo sui settori automobilistico e industriale.",
+      "summary_en": "The Supreme Court struck down Trump's \"reciprocal\" tariffs earlier this year, and Europe warned that its trade deal with Washington could be in jeopardy.",
+      "source": "CNBC World",
+      "link": "https://www.cnbc.com/2026/05/01/trump-eu-auto-tariffs.html",
+      "date": "2026-05-01 21:47",
+      "score": 8.7,
+      "impact": "bearish",
+      "sectors": [
+        "Broad Market",
+        "Commodities",
+        "Energy",
+        "Industrials",
+        "International"
+      ],
+      "primary_sector": "Broad Market",
+      "etf_tickers": [],
+      "rotation": ""
+    },
+    {
+      "title": "Apple CEO Tim Cook warns of extended memory crunch. 'We'll look at a range of options'",
+      "headline_it": "Apple avverte su carenza memoria",
+      "summary_it": "Il CEO di Apple, Tim Cook, ha avvertito di una possibile carenza di memoria nei prossimi trimestri, potenzialmente impattando sul settore tecnologico e sui mercati più ampi.",
+      "summary_en": "In Apple's quarterly earnings report, CEO Tim Cook warned of further memory constraints in the coming quarters.",
+      "source": "CNBC World",
+      "link": "https://www.cnbc.com/2026/05/01/apple-ceo-warns-of-memory-crunch-well-look-at-a-range-of-options.html",
+      "date": "2026-05-01 07:00",
+      "score": 8.7,
+      "impact": "bearish",
+      "sectors": [
+        "Broad Market",
+        "Commodities",
+        "Consumers",
+        "Energy",
+        "International",
+        "Tech & Semiconductors"
+      ],
+      "primary_sector": "Broad Market",
+      "etf_tickers": [
+        "QQQ",
+        "SMH"
+      ],
+      "rotation": ""
+    },
+    {
+      "title": "Trump tells Congress ceasefire means he does not need their approval for Iran war",
+      "headline_it": "Trump: cessate le ostilità",
+      "summary_it": "La dichiarazione di Trump potrebbe influenzare i mercati energetici. La riduzione delle tensioni potrebbe portare a una diminuzione del prezzo del petrolio.",
+      "summary_en": "The president writes that hostilities \"have terminated\" because of the ceasefire, arguing he does not need congressional authorisation.",
+      "source": "BBC World",
+      "link": "https://www.bbc.com/news/articles/c4g4xexy4w7o?at_medium=RSS&at_campaign=rss",
+      "date": "2026-05-02 00:41",
+      "score": 8.7,
+      "impact": "bearish",
+      "sectors": [
+        "Broad Market",
+        "Commodities",
+        "Energy",
+        "Industrials",
+        "International"
+      ],
+      "primary_sector": "Broad Market",
+      "etf_tickers": [],
+      "rotation": ""
+    },
+    {
+      "title": "Billions of meals at risk due to Iran war, says fertiliser boss",
+      "headline_it": "Guerra in Iran minaccia produzione alimentare",
+      "summary_it": "La carenza di fertilizzanti a causa del conflitto in Iran potrebbe ridurre i raccolti e aumentare i prezzi. Ciò potrebbe avere un impatto significativo sui settori delle commodity e dei consumatori.",
+      "summary_en": "A shortage of fertiliser due to the Iran conflict could reduce crop yields and push prices higher, says the boss of Yara.",
+      "source": "BBC World",
+      "link": "https://www.bbc.com/news/articles/cpwp50v4ye7o?at_medium=RSS&at_campaign=rss",
+      "date": "2026-05-01 13:12",
+      "score": 8.7,
+      "impact": "bearish",
+      "sectors": [
+        "Broad Market",
+        "Commodities",
+        "Consumers",
+        "Energy",
+        "Industrials",
+        "International"
+      ],
+      "primary_sector": "Broad Market",
+      "etf_tickers": [],
+      "rotation": ""
+    },
+    {
+      "title": "Agencies issue host state loan-to-deposit ratios",
+      "headline_it": "Rapporto prestiti-depositi",
+      "summary_it": "Le agenzie federali hanno pubblicato i rapporti prestiti-depositi per gli stati. Ciò potrebbe avere un impatto sul settore finanziario.",
+      "summary_en": "Agencies issue host state loan-to-deposit ratios",
+      "source": "Federal Reserve",
+      "link": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20260501a.htm",
+      "date": "2026-05-01 15:00",
+      "score": 7.4,
+      "impact": "neutral",
+      "sectors": [
+        "Broad Market",
+        "Financials"
+      ],
+      "primary_sector": "Broad Market",
+      "etf_tickers": [
+        "SPY",
+        "XLF"
+      ],
+      "rotation": ""
+    },
+    {
+      "title": "China’s EV price war turns into AI arms race beyond cheaper cars",
+      "headline_it": "Guerra dei prezzi EV in Cina",
+      "summary_it": "Le aziende cinesi di veicoli elettrici stanno introducendo rapidamente funzionalità di intelligenza artificiale per guadagnare un vantaggio, ma la guerra dei prezzi sta rendendo queste tecnologie sempre più comuni. Ciò potrebbe avere un impatto sul settore tecnologico.",
+      "summary_en": "Chinese EV firms are rapidly rolling out in-car AI features to gain an edge, but as the price war drags on, those technologies are quickly becoming commoditized.",
+      "source": "CNBC Finance",
+      "link": "https://www.cnbc.com/2026/05/01/china-ev-ai-features-price-war-bytedance-alibaba-doubao-volcano-engine.html",
+      "date": "2026-05-01 04:19",
+      "score": 7.4,
+      "impact": "bullish",
+      "sectors": [
+        "Broad Market",
+        "Commodities",
+        "Energy",
+        "Industrials",
+        "International",
+        "Tech & Semiconductors"
+      ],
+      "primary_sector": "Broad Market",
+      "etf_tickers": [
+        "QQQ"
+      ],
+      "rotation": ""
+    },
+    {
+      "title": "Oil prices fall after Iran sends updated peace proposal to mediators in Pakistan",
+      "headline_it": "Prezzi petrolio in calo",
+      "summary_it": "I prezzi del petrolio sono scesi dopo che l'Iran ha inviato una proposta di pace aggiornata ai mediatori in Pakistan, riducendo le tensioni e influenzando il mercato energetico.",
+      "summary_en": "Under the 1973 War Powers Resolution, a U.S. president needs to withdraw troops 60 days after reporting their deployment to Congress",
+      "source": "CNBC World",
+      "link": "https://www.cnbc.com/2026/05/01/oil-prices-today-brent-wti-us-iran-war-trump-war-powers-deadline.html",
+      "date": "2026-05-01 19:01",
+      "score": 7.4,
+      "impact": "bearish",
+      "sectors": [
+        "Broad Market",
+        "Commodities",
+        "Energy",
+        "Industrials",
+        "International"
+      ],
+      "primary_sector": "Broad Market",
+      "etf_tickers": [],
+      "rotation": ""
+    },
+    {
+      "title": "Engine trouble ahead? How the Strait of Hormuz standoff threatens luxury auto giants",
+      "headline_it": "Problemi per i motori?",
+      "summary_it": "La tensione nello Stretto di Hormuz potrebbe influire sulla produzione di auto di lusso a causa della dipendenza dalle oli di base per i motori ad alte prestazioni.",
+      "summary_en": "Supercar engines rely on base oils because they can withstand extreme heat, high revs and intense pressure.",
+      "source": "CNBC World",
+      "link": "https://www.cnbc.com/2026/05/01/strait-of-hormuz-base-oils-luxury-autos.html",
+      "date": "2026-05-01 09:19",
+      "score": 7.4,
+      "impact": "bearish",
+      "sectors": [
+        "Commodities",
+        "Consumers",
+        "Energy",
+        "Industrials",
+        "International"
+      ],
+      "primary_sector": "Commodities",
+      "etf_tickers": [
+        "XLY"
+      ],
+      "rotation": ""
+    },
+    {
+      "title": "Japan risks Trump’s ire as Iran war fallout sparks currency intervention",
+      "headline_it": "Giappone rischia l'ira di Trump",
+      "summary_it": "L'intervento valutario giapponese potrebbe non essere sufficiente a calmare la volatilità del mercato. Ciò potrebbe avere un impatto sul settore finanziario e sul mercato azionario giapponese.",
+      "summary_en": "“FX intervention will only get them so far,” one strategist said after the yen surged.",
+      "source": "CNBC World",
+      "link": "https://www.cnbc.com/2026/05/01/japanese-fx-intervention-wipes-out-yens-iran-war-losses.html",
+      "date": "2026-05-01 12:26",
+      "score": 7.4,
+      "impact": "bearish",
+      "sectors": [
+        "Broad Market",
+        "Commodities",
+        "Energy",
+        "Financials",
+        "Industrials",
+        "International"
+      ],
+      "primary_sector": "Broad Market",
+      "etf_tickers": [],
+      "rotation": ""
+    },
+    {
+      "title": "Australia and Japan markets climb, looking past Iran war escalation fears",
+      "headline_it": "Mercati in rialzo",
+      "summary_it": "I mercati australiano e giapponese salgono nonostante le preoccupazioni per l'escalation della guerra in Iran. Gli investitori si concentrano sui forti risultati degli utili negli Stati Uniti.",
+      "summary_en": "This comes as investors took in strong earnings stateside, looking past weaker-than-expected economic data and threats of escalation in Iran.",
+      "source": "CNBC World",
+      "link": "https://www.cnbc.com/2026/05/01/asia-markets-today-asx-200-nikkei-225-labor-day-live-updates.html",
+      "date": "2026-05-01 07:38",
+      "score": 7.4,
+      "impact": "bullish",
+      "sectors": [
+        "Broad Market",
+        "Commodities",
+        "Energy",
+        "Industrials",
+        "International"
+      ],
+      "primary_sector": "Broad Market",
+      "etf_tickers": [],
+      "rotation": ""
+    },
+    {
+      "title": "US to cut troop levels in Germany by 5,000 amid Trump spat with Merz",
+      "headline_it": "Riduzione truppe USA in Germania",
+      "summary_it": "La decisione di ridurre la presenza militare USA in Germania arriva in un momento di tensione tra i due alleati a causa della questione Iran. Ciò potrebbe avere un impatto sulle relazioni internazionali e sui mercati.",
+      "summary_en": "The decision to reduce the US deployment to Germany comes amid a row between the two allies over Iran.",
+      "source": "BBC World",
+      "link": "https://www.bbc.com/news/articles/c0729d374mxo?at_medium=RSS&at_campaign=rss",
+      "date": "2026-05-02 08:14",
+      "score": 7.4,
+      "impact": "neutral",
+      "sectors": [
+        "Broad Market",
+        "Commodities",
+        "Energy",
+        "Industrials",
+        "International"
+      ],
+      "primary_sector": "Broad Market",
+      "etf_tickers": [],
+      "rotation": ""
+    },
+    {
+      "title": "Israeli police arrest man after nun attacked in Jerusalem",
+      "headline_it": "Suora attaccata a Gerusalemme",
+      "summary_it": "Un'aggressione apparentemente immotivata contro una suora francese a Gerusalemme. L'evento non ha impatto diretto sui mercati finanziari.",
+      "summary_en": "The French nun was pushed over and kicked in the apparently unprovoked assault, amid a rise in harassment of Christians in the city by Jewish extremists.",
+      "source": "BBC World",
+      "link": "https://www.bbc.com/news/articles/cy02gnzlvkko?at_medium=RSS&at_campaign=rss",
+      "date": "2026-05-01 17:03",
+      "score": 4.8,
+      "impact": "neutral",
+      "sectors": [
+        "Broad Market",
+        "Energy",
+        "Industrials",
+        "International"
+      ],
+      "primary_sector": "Broad Market",
+      "etf_tickers": [],
+      "rotation": ""
+    },
+    {
+      "title": "British couple jailed in Iran: 'We're likely to be here for a long time'",
+      "headline_it": "Coppia britannica in carcere in Iran",
+      "summary_it": "La notizia non ha impatto diretto sui mercati finanziari. La situazione politica potrebbe influenzare i mercati in generale, ma l'impatto è limitato.",
+      "summary_en": "Lindsay and Craig Foreman are facing the reality of a 10-year prison sentence following their arrest in Iran while on a motorcycle tour last year.",
+      "source": "BBC World",
+      "link": "https://www.bbc.com/news/articles/c202pl60kv9o?at_medium=RSS&at_campaign=rss",
+      "date": "2026-05-01 05:04",
+      "score": 4.8,
+      "impact": "neutral",
+      "sectors": [
+        "Broad Market",
+        "Commodities",
+        "Energy",
+        "Industrials",
+        "International"
+      ],
+      "primary_sector": "Broad Market",
+      "etf_tickers": [],
+      "rotation": ""
+    },
+    {
+      "title": "Missing Oscar found after Academy Award winner blocked from taking it on flight",
+      "headline_it": "Oscar smarrito ritrovato",
+      "summary_it": "Un Oscar smarrito è stato ritrovato dopo che il vincitore non poteva portarlo in aereo. La notizia non ha impatto sui mercati.",
+      "summary_en": "The airline said the Academy Award was safely in its care in Frankfurt and was arranging its return.",
+      "source": "BBC World",
+      "link": "https://www.bbc.com/news/articles/cz72j59znw3o?at_medium=RSS&at_campaign=rss",
+      "date": "2026-05-01 12:42",
+      "score": 4.2,
+      "impact": "bearish",
+      "sectors": [
+        "Broad Market",
+        "Commodities",
+        "Energy",
+        "Industrials",
+        "International"
+      ],
+      "primary_sector": "Broad Market",
+      "etf_tickers": [],
+      "rotation": ""
+    }
+  ]
+}
