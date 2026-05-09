@@ -1,30 +1,36 @@
 {
-  "date": "May 02, 2026",
-  "week": "2026-W18",
+  "date": "May 09, 2026",
+  "week": "2026-W19",
   "ideas": [
     {
       "ticker": "SPY",
-      "price": 720.65,
+      "price": 737.62,
       "direction": "long",
       "desc": "S&P 500"
     },
     {
+      "ticker": "SMH",
+      "price": 566.54,
+      "direction": "long",
+      "desc": "Semiconductors"
+    },
+    {
+      "ticker": "USO",
+      "price": 133.59,
+      "direction": "long",
+      "desc": "Crude Oil"
+    },
+    {
       "ticker": "QQQ",
-      "price": 674.15,
+      "price": 711.23,
       "direction": "long",
       "desc": "Nasdaq 100"
     },
     {
-      "ticker": "XLE",
-      "price": 58.85,
+      "ticker": "CIBR",
+      "price": 75.32,
       "direction": "long",
-      "desc": "Oil & Gas"
-    },
-    {
-      "ticker": "XLB",
-      "price": 51.35,
-      "direction": "long",
-      "desc": "Materials"
+      "desc": "Cyber Defense"
     }
   ]
 }
