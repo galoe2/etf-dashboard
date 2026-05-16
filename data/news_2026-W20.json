@@ -1,0 +1,1411 @@
+{
+  "generated": "2026-05-16T09:19:38.062699",
+  "lookback_days": 7,
+  "total_articles": 50,
+  "sector_news": {
+    "Broad Market": {
+      "count": 30,
+      "top": [
+        {
+          "headline": "Chinese EVs are coming to Canada, and some dealers can't wait to sell them",
+          "summary": "Canada is allowing 49,000 Chinese-made electric vehicles to be imported for retail sales annually at a tariff rate of 6.1%.",
+          "impact": "neutral",
+          "source": "CNBC World",
+          "score": 10.0,
+          "link": "https://www.cnbc.com/2026/05/15/chinese-evs-canada.html",
+          "etf_tickers": []
+        },
+        {
+          "headline": "Iran war day 78: Trump, Tehran signal talks as Lebanon truce extended",
+          "summary": "Iran says Trump signalled openness to talks as deadlock remains over Tehran’s nuclear programme.",
+          "impact": "neutral",
+          "source": "Al Jazeera",
+          "score": 10.0,
+          "link": "https://www.aljazeera.com/news/2026/5/16/iran-war-day-78-trump-tehran-signal-talks-as-lebanon-truce-extended?traffic_source=rss",
+          "etf_tickers": []
+        },
+        {
+          "headline": "Iran war live: Israel continues Lebanon attacks after ‘ceasefire’ extended",
+          "summary": "Lebanon&#039;s Health Ministry says Israeli attacks have killed 2,951 people since March 2, with at least 8,988 wounded.",
+          "impact": "neutral",
+          "source": "Al Jazeera",
+          "score": 10.0,
+          "link": "https://www.aljazeera.com/news/liveblog/2026/5/16/iran-war-live-lebanon-israel-extend-truce-tehran-ready-for-more-us-talks?traffic_source=rss",
+          "etf_tickers": []
+        }
+      ]
+    },
+    "International": {
+      "count": 39,
+      "top": [
+        {
+          "headline": "UAE fast tracks second West-East oil pipeline to bypass Strait of Hormuz",
+          "summary": "The second pipeline project comes as global energy supplies remain under pressure and flows through the Strait of Hormuz remain severely limited",
+          "impact": "neutral",
+          "source": "CNBC World",
+          "score": 10.0,
+          "link": "https://www.cnbc.com/2026/05/15/uae-west-east-oil-pipeline-strait-hormuz-iran-war.html",
+          "etf_tickers": []
+        },
+        {
+          "headline": "Bonds, stocks and precious metals slump as inflation fears mount, silver falls 7%",
+          "summary": "Mounting inflation fears, geopolitical tension and ongoing uncertainty around the Iran war has prompted selling pressure across asset classes.",
+          "impact": "bearish",
+          "source": "CNBC World",
+          "score": 10.0,
+          "link": "https://www.cnbc.com/2026/05/15/global-markets-stocks-bonds-silver-gold-trump-inflation.html",
+          "etf_tickers": []
+        },
+        {
+          "headline": "Seven killed in Gaza on Nakba Day as Israel says it targets Hamas member",
+          "summary": "Three women and a child among civilians killed in Israel&#039;s latest attacks on Gaza City.",
+          "impact": "neutral",
+          "source": "Al Jazeera",
+          "score": 10.0,
+          "link": "https://www.aljazeera.com/news/2026/5/15/seven-killed-in-gaza-on-nakba-day-as-israel-says-it-targets-hamas-member?traffic_source=rss",
+          "etf_tickers": []
+        }
+      ]
+    },
+    "Tech & Semiconductors": {
+      "count": 3,
+      "top": [
+        {
+          "headline": "Trump warns Taiwan against declaring independence, hours after summit with China's Xi",
+          "summary": "The US president says he wants Beijing and Taipei to \"cool down\" tensions over the self-governing island.",
+          "impact": "bullish",
+          "source": "BBC World",
+          "score": 10.0,
+          "link": "https://www.bbc.com/news/articles/ce8p61v7l68o?at_medium=RSS&at_campaign=rss",
+          "etf_tickers": []
+        },
+        {
+          "headline": "Tensioni USA-Cina",
+          "summary": "Le tensioni tra Stati Uniti e Cina potrebbero aumentare a causa della questione di Taiwan, influenzando i mercati globali. Ciò potrebbe avere un impatto significativo sugli ETF di mercato ampio e internazionali.",
+          "impact": "bearish",
+          "source": "CNBC Finance",
+          "score": 8.7,
+          "link": "https://www.cnbc.com/2026/05/14/trump-xi-beijing-summit-trade-taiwan-ai-iran-rare-earths-tariffs.html",
+          "etf_tickers": [
+            "EEM",
+            "SPY"
+          ]
+        }
+      ]
+    },
+    "Financials": {
+      "count": 21,
+      "top": [
+        {
+          "headline": "Christine Lagarde: The courage to build a Europe that endures",
+          "summary": "The European Central Bank (ECB) is the central bank of the European Union countries which have adopted the euro. Our main task is to maintain price stability in the euro area and so preserve the purchasing power of the single currency.",
+          "impact": "neutral",
+          "source": "ECB",
+          "score": 10.0,
+          "link": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp260513_1~ab5ae9e754.en.html",
+          "etf_tickers": []
+        },
+        {
+          "headline": "Philip R. Lane: Analytical perspectives on energy supply shocks",
+          "summary": "The European Central Bank (ECB) is the central bank of the European Union countries which have adopted the euro. Our main task is to maintain price stability in the euro area and so preserve the purchasing power of the single currency.",
+          "impact": "neutral",
+          "source": "ECB",
+          "score": 10.0,
+          "link": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp260513~5b14c78806.en.html",
+          "etf_tickers": []
+        },
+        {
+          "headline": "Frank Elderson: Boosting prosperity through deeper integration",
+          "summary": "The European Central Bank (ECB) is the central bank of the European Union countries which have adopted the euro. Our main task is to maintain price stability in the euro area and so preserve the purchasing power of the single currency.",
+          "impact": "neutral",
+          "source": "ECB",
+          "score": 10.0,
+          "link": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp260512~640d289749.en.html",
+          "etf_tickers": []
+        }
+      ]
+    },
+    "Energy": {
+      "count": 36,
+      "top": [
+        {
+          "headline": "Lebanon says six killed in Israeli strike as US announces ceasefire extension",
+          "summary": "President Trump announced the truce last month, but Israel and Hezbollah have continued to exchange fire since then.",
+          "impact": "neutral",
+          "source": "BBC World",
+          "score": 10.0,
+          "link": "https://www.bbc.com/news/articles/cqlpzzl0d67o?at_medium=RSS&at_campaign=rss",
+          "etf_tickers": []
+        },
+        {
+          "headline": "Trump calls journalist’s Iran reporting ‘treasonous’",
+          "summary": "Trump called New York Times journalist reporting on the Iran war as “treasonous” while claiming a &#039;victory&#039;.",
+          "impact": "neutral",
+          "source": "Al Jazeera",
+          "score": 10.0,
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/5/15/trump-calls-journalists-iran-reporting?traffic_source=rss",
+          "etf_tickers": []
+        },
+        {
+          "headline": "Trump says 20-year nuclear programme suspension by Iran would be enough",
+          "summary": "The US president says Tehran has to show \"real\" commitment to removing nuclear fuel and stopping uranium enrichment.",
+          "impact": "neutral",
+          "source": "BBC World",
+          "score": 10.0,
+          "link": "https://www.bbc.com/news/articles/cgkpnnen5dzo?at_medium=RSS&at_campaign=rss",
+          "etf_tickers": []
+        }
+      ]
+    },
+    "Commodities": {
+      "count": 35,
+      "top": [
+        {
+          "headline": "Goldman Adds SMRs to Nuclear Model, Sees 17% Upside in Uranium Demand",
+          "summary": "Goldman’s latest edition of Nuclear Nuggets: Global Reactor Tracker reinforces that the buildout of the cleanest and most reliable form of so-called “green” energy, nuclear power, continues to gain momentum. The theme we first laid out in December 2020 continues to broaden, with buildouts accelerating across both large-scale and small modular reactors, even as the growing risk of a massive uranium supply deficit emerges. Focusing on the latest North American reactor progress and announcements: 4/16/2026 – Canada –…",
+          "impact": "bullish",
+          "source": "OilPrice",
+          "score": 10.0,
+          "link": "https://oilprice.com/Alternative-Energy/Nuclear-Power/Goldman-Adds-SMRs-to-Nuclear-Model-Sees-17-Upside-in-Uranium-Demand.html",
+          "etf_tickers": []
+        },
+        {
+          "headline": "Vaca Muerta Emerges as Top Alternative to Middle East Oil Supply Risk",
+          "summary": "As the Middle East conflict exposes the fragility of global supply chains built around the Strait of Hormuz, energy companies and importing nations alike are reassessing where the next generation of reliable barrels will come from. The Vaca Muerta Shale sits at the top of that shortlist, with Argentina throwing open 15 new exploration blocks in the play to international and domestic energy companies — the largest bid round since 2016 and more than double the six blocks offered in the previous provincial auction. Vaca Muerta is the largest…",
+          "impact": "neutral",
+          "source": "OilPrice",
+          "score": 10.0,
+          "link": "https://oilprice.com/Energy/Energy-General/Vaca-Muerta-Emerges-as-Top-Alternative-to-Middle-East-Oil-Supply-Risk.html",
+          "etf_tickers": []
+        },
+        {
+          "headline": "Xi-Trump Summit Disappoints as Oil Bulls Regain Momentum",
+          "summary": "Oil prices surged $7 this week as Iran tensions, Hormuz risks, and weak signals from the Xi-Trump summit overshadow bearish OPEC and IEA demand forecasts. Friday, May 15, 2026 In a week that started off with both OPEC and the IEA slashing their demand forecasts for 2026, oil prices are set for a hefty $7 per barrel week-on-week gain. The much-anticipated Xi-Trump summit in Beijing provided little hope for any short-term market normalization, turning out to be quite thin on commodity-relevant substance. Iran has added fuel to the oil market’s…",
+          "impact": "mixed",
+          "source": "OilPrice",
+          "score": 10.0,
+          "link": "https://oilprice.com/Energy/Energy-General/Xi-Trump-Summit-Disappoints-as-Oil-Bulls-Regain-Momentum.html",
+          "etf_tickers": []
+        }
+      ]
+    },
+    "Real Estate": {
+      "count": 1,
+      "top": [
+        {
+          "headline": "The Kabul rehab centre hit by deadly Pakistani strike",
+          "summary": "Pakistan says it hit 'military and terrorist infrastructure' - but the UN and victims' families reject this claim.",
+          "impact": "neutral",
+          "source": "BBC World",
+          "score": 10.0,
+          "link": "https://www.bbc.com/news/videos/cp8pm97yde3o?at_medium=RSS&at_campaign=rss",
+          "etf_tickers": []
+        }
+      ]
+    },
+    "Industrials": {
+      "count": 33,
+      "top": [
+        {
+          "headline": "Prisoner swap goes ahead as Kyiv mourns 24 killed in Russian strike on flats",
+          "summary": "Among the victims in Kyiv was 12-year-old Lyubava Yakovleva, whose father was killed during the war.",
+          "impact": "neutral",
+          "source": "BBC World",
+          "score": 10.0,
+          "link": "https://www.bbc.com/news/articles/c5y049w8nqwo?at_medium=RSS&at_campaign=rss",
+          "etf_tickers": []
+        },
+        {
+          "headline": "Why is Ireland not taking part in this year's Eurovision?",
+          "summary": "Ireland's boycott is the latest in a series of moves that has seen the country at odds with Israel over its war in Gaza.",
+          "impact": "neutral",
+          "source": "BBC World",
+          "score": 10.0,
+          "link": "https://www.bbc.com/news/articles/c0e2g5y9wyeo?at_medium=RSS&at_campaign=rss",
+          "etf_tickers": []
+        },
+        {
+          "headline": "Pakistan Uses Diplomacy to Secure LNG Supply from Hormuz",
+          "summary": "Pakistan has negotiated the passage of vessels laden with Qatari LNG out of the Strait of Hormuz in a diplomatic feat that no other energy buyer has managed so far in the Iran war. Pakistan, which was the mediator of the U.S.-Iran talks and is passing messages from one to the other, appears to have used well its close ties with both Qatar and Iran to negotiate the successful imports of two tankers with Qatari LNG. Pakistan has relied on Qatar's term LNG supply for years, but the war in the Middle East has led to the shutdown of Qatari LNG production…",
+          "impact": "neutral",
+          "source": "OilPrice",
+          "score": 10.0,
+          "link": "https://oilprice.com/Latest-Energy-News/World-News/Pakistan-Uses-Diplomacy-to-Secure-LNG-Supply-from-Hormuz.html",
+          "etf_tickers": []
+        }
+      ]
+    },
+    "Bonds": {
+      "count": 13,
+      "top": [
+        {
+          "headline": "Warsh confermato presidente Fed",
+          "summary": "La nomina di Warsh potrebbe influenzare la politica monetaria e avere un impatto sul mercato. Ciò potrebbe portare a una rotazione settoriale verso titoli più sicuri.",
+          "impact": "neutral",
+          "source": "CNBC Finance",
+          "score": 9.4,
+          "link": "https://www.cnbc.com/2026/05/13/kevin-warsh-wins-senate-confirmation-as-the-next-federal-reserve-chair.html",
+          "etf_tickers": [
+            "SPY",
+            "TLT",
+            "XLF"
+          ]
+        },
+        {
+          "headline": "Fed: probabilità di rialzo tassi",
+          "summary": "Il mercato esclude tagli dei tassi fino al 2027. Ciò potrebbe influire negativamente sul mercato azionario.",
+          "impact": "bearish",
+          "source": "CNBC Economy",
+          "score": 9.4,
+          "link": "https://www.cnbc.com/2026/05/12/markets-raise-chances-for-a-fed-rate-hike-following-hot-inflation-report.html",
+          "etf_tickers": [
+            "SPY",
+            "XLF"
+          ]
+        },
+        {
+          "headline": "Dimissioni Governatore Fed",
+          "summary": "Le dimissioni del Governatore Miran potrebbero influenzare la politica monetaria. Ciò potrebbe avere un impatto sul settore finanziario e sui bond.",
+          "impact": "neutral",
+          "source": "CNBC Finance",
+          "score": 8.7,
+          "link": "https://www.cnbc.com/2026/05/14/fed-governor-miran-submits-resignation-throws-support-behind-warsh-as-new-chair.html",
+          "etf_tickers": [
+            "SPY",
+            "TLT",
+            "XLF"
+          ]
+        }
+      ]
+    },
+    "Consumers": {
+      "count": 5,
+      "top": [
+        {
+          "headline": "Benessere economico USA 2025",
+          "summary": "La Federal Reserve pubblica il rapporto sull'Economic Well-Being of U.S. Households in 2025, fornendo insight sull'economia statunitense. Ciò potrebbe avere un impatto sui settori finanziari e dei consumi.",
+          "impact": "neutral",
+          "source": "Federal Reserve",
+          "score": 7.4,
+          "link": "https://www.federalreserve.gov/newsevents/pressreleases/other20260513a.htm",
+          "etf_tickers": [
+            "SPY",
+            "XLF"
+          ]
+        },
+        {
+          "headline": "Pessimismo sull'economia",
+          "summary": "Il sentimento dei consumatori americani è in calo dal periodo della pandemia di Covid. Gli economisti attribuiscono la causa all'inflazione, alle guerre e alle tariffe doganali di Trump.",
+          "impact": "bearish",
+          "source": "CNBC Economy",
+          "score": 7.4,
+          "link": "https://www.cnbc.com/2026/05/14/consumer-confidence-us-economy-inflation-iran-war-trade.html",
+          "etf_tickers": [
+            "SPY",
+            "XLY"
+          ]
+        },
+        {
+          "headline": "Inflazione in aumento",
+          "summary": "I prezzi stanno aumentando rapidamente in diversi settori, tra cui energia e consumatori. Ciò potrebbe avere un impatto significativo sugli ETF di questi settori.",
+          "impact": "bearish",
+          "source": "CNBC Economy",
+          "score": 7.4,
+          "link": "https://www.cnbc.com/2026/05/12/iran-oil-energy-inflation-shelter-food-trump.html",
+          "etf_tickers": [
+            "XLE"
+          ]
+        }
+      ]
+    }
+  },
+  "rotation_signals": [
+    {
+      "signal": "dai titoli azionari ai bond",
+      "source": "CNBC Finance",
+      "score": 9.4
+    }
+  ],
+  "articles": [
+    {
+      "title": "UAE fast tracks second West-East oil pipeline to bypass Strait of Hormuz",
+      "headline_it": "",
+      "summary_it": "",
+      "summary_en": "The second pipeline project comes as global energy supplies remain under pressure and flows through the Strait of Hormuz remain severely limited",
+      "source": "CNBC World",
+      "link": "https://www.cnbc.com/2026/05/15/uae-west-east-oil-pipeline-strait-hormuz-iran-war.html",
+      "date": "2026-05-15 09:19",
+      "score": 10.0,
+      "impact": "neutral",
+      "sectors": [
+        "Commodities",
+        "Energy",
+        "Industrials",
+        "International"
+      ],
+      "primary_sector": "Commodities",
+      "etf_tickers": [],
+      "rotation": ""
+    },
+    {
+      "title": "Chinese EVs are coming to Canada, and some dealers can't wait to sell them",
+      "headline_it": "",
+      "summary_it": "",
+      "summary_en": "Canada is allowing 49,000 Chinese-made electric vehicles to be imported for retail sales annually at a tariff rate of 6.1%.",
+      "source": "CNBC World",
+      "link": "https://www.cnbc.com/2026/05/15/chinese-evs-canada.html",
+      "date": "2026-05-15 18:25",
+      "score": 10.0,
+      "impact": "neutral",
+      "sectors": [
+        "Broad Market",
+        "Consumers",
+        "Industrials",
+        "International"
+      ],
+      "primary_sector": "Broad Market",
+      "etf_tickers": [],
+      "rotation": ""
+    },
+    {
+      "title": "Bonds, stocks and precious metals slump as inflation fears mount, silver falls 7%",
+      "headline_it": "",
+      "summary_it": "",
+      "summary_en": "Mounting inflation fears, geopolitical tension and ongoing uncertainty around the Iran war has prompted selling pressure across asset classes.",
+      "source": "CNBC World",
+      "link": "https://www.cnbc.com/2026/05/15/global-markets-stocks-bonds-silver-gold-trump-inflation.html",
+      "date": "2026-05-15 10:47",
+      "score": 10.0,
+      "impact": "bearish",
+      "sectors": [
+        "Bonds",
+        "Broad Market",
+        "Commodities",
+        "Consumers",
+        "Energy",
+        "Industrials",
+        "International",
+        "Tech & Semiconductors"
+      ],
+      "primary_sector": "Bonds",
+      "etf_tickers": [],
+      "rotation": ""
+    },
+    {
+      "title": "Iran war day 78: Trump, Tehran signal talks as Lebanon truce extended",
+      "headline_it": "",
+      "summary_it": "",
+      "summary_en": "Iran says Trump signalled openness to talks as deadlock remains over Tehran’s nuclear programme.",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/news/2026/5/16/iran-war-day-78-trump-tehran-signal-talks-as-lebanon-truce-extended?traffic_source=rss",
+      "date": "2026-05-16 08:02",
+      "score": 10.0,
+      "impact": "neutral",
+      "sectors": [
+        "Broad Market",
+        "Commodities",
+        "Energy",
+        "Industrials",
+        "International"
+      ],
+      "primary_sector": "Broad Market",
+      "etf_tickers": [],
+      "rotation": ""
+    },
+    {
+      "title": "Iran war live: Israel continues Lebanon attacks after ‘ceasefire’ extended",
+      "headline_it": "",
+      "summary_it": "",
+      "summary_en": "Lebanon&#039;s Health Ministry says Israeli attacks have killed 2,951 people since March 2, with at least 8,988 wounded.",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/news/liveblog/2026/5/16/iran-war-live-lebanon-israel-extend-truce-tehran-ready-for-more-us-talks?traffic_source=rss",
+      "date": "2026-05-16 00:00",
+      "score": 10.0,
+      "impact": "neutral",
+      "sectors": [
+        "Broad Market",
+        "Commodities",
+        "Energy",
+        "Industrials",
+        "International"
+      ],
+      "primary_sector": "Broad Market",
+      "etf_tickers": [],
+      "rotation": ""
+    },
+    {
+      "title": "Seven killed in Gaza on Nakba Day as Israel says it targets Hamas member",
+      "headline_it": "",
+      "summary_it": "",
+      "summary_en": "Three women and a child among civilians killed in Israel&#039;s latest attacks on Gaza City.",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/news/2026/5/15/seven-killed-in-gaza-on-nakba-day-as-israel-says-it-targets-hamas-member?traffic_source=rss",
+      "date": "2026-05-15 21:05",
+      "score": 10.0,
+      "impact": "neutral",
+      "sectors": [
+        "Broad Market",
+        "Energy",
+        "Industrials",
+        "International"
+      ],
+      "primary_sector": "Broad Market",
+      "etf_tickers": [],
+      "rotation": ""
+    },
+    {
+      "title": "Trump calls journalist’s Iran reporting ‘treasonous’",
+      "headline_it": "",
+      "summary_it": "",
+      "summary_en": "Trump called New York Times journalist reporting on the Iran war as “treasonous” while claiming a &#039;victory&#039;.",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/5/15/trump-calls-journalists-iran-reporting?traffic_source=rss",
+      "date": "2026-05-15 20:01",
+      "score": 10.0,
+      "impact": "neutral",
+      "sectors": [
+        "Broad Market",
+        "Commodities",
+        "Energy",
+        "Industrials",
+        "International"
+      ],
+      "primary_sector": "Broad Market",
+      "etf_tickers": [],
+      "rotation": ""
+    },
+    {
+      "title": "Trump warns Taiwan against declaring independence, hours after summit with China's Xi",
+      "headline_it": "",
+      "summary_it": "",
+      "summary_en": "The US president says he wants Beijing and Taipei to \"cool down\" tensions over the self-governing island.",
+      "source": "BBC World",
+      "link": "https://www.bbc.com/news/articles/ce8p61v7l68o?at_medium=RSS&at_campaign=rss",
+      "date": "2026-05-16 05:53",
+      "score": 10.0,
+      "impact": "bullish",
+      "sectors": [
+        "Broad Market",
+        "Commodities",
+        "Energy",
+        "International",
+        "Tech & Semiconductors"
+      ],
+      "primary_sector": "Broad Market",
+      "etf_tickers": [],
+      "rotation": ""
+    },
+    {
+      "title": "Lebanon says six killed in Israeli strike as US announces ceasefire extension",
+      "headline_it": "",
+      "summary_it": "",
+      "summary_en": "President Trump announced the truce last month, but Israel and Hezbollah have continued to exchange fire since then.",
+      "source": "BBC World",
+      "link": "https://www.bbc.com/news/articles/cqlpzzl0d67o?at_medium=RSS&at_campaign=rss",
+      "date": "2026-05-15 23:59",
+      "score": 10.0,
+      "impact": "neutral",
+      "sectors": [
+        "Energy",
+        "Industrials",
+        "International"
+      ],
+      "primary_sector": "Energy",
+      "etf_tickers": [],
+      "rotation": ""
+    },
+    {
+      "title": "Trump says 20-year nuclear programme suspension by Iran would be enough",
+      "headline_it": "",
+      "summary_it": "",
+      "summary_en": "The US president says Tehran has to show \"real\" commitment to removing nuclear fuel and stopping uranium enrichment.",
+      "source": "BBC World",
+      "link": "https://www.bbc.com/news/articles/cgkpnnen5dzo?at_medium=RSS&at_campaign=rss",
+      "date": "2026-05-15 21:17",
+      "score": 10.0,
+      "impact": "neutral",
+      "sectors": [
+        "Commodities",
+        "Energy",
+        "Industrials",
+        "International"
+      ],
+      "primary_sector": "Commodities",
+      "etf_tickers": [],
+      "rotation": ""
+    },
+    {
+      "title": "Prisoner swap goes ahead as Kyiv mourns 24 killed in Russian strike on flats",
+      "headline_it": "",
+      "summary_it": "",
+      "summary_en": "Among the victims in Kyiv was 12-year-old Lyubava Yakovleva, whose father was killed during the war.",
+      "source": "BBC World",
+      "link": "https://www.bbc.com/news/articles/c5y049w8nqwo?at_medium=RSS&at_campaign=rss",
+      "date": "2026-05-15 12:53",
+      "score": 10.0,
+      "impact": "neutral",
+      "sectors": [
+        "Broad Market",
+        "Commodities",
+        "Energy",
+        "Industrials",
+        "International"
+      ],
+      "primary_sector": "Broad Market",
+      "etf_tickers": [],
+      "rotation": ""
+    },
+    {
+      "title": "What China critics in Maga movement make of Trump's Beijing trip",
+      "headline_it": "",
+      "summary_it": "",
+      "summary_en": "Trump’s softer approach towards China is one that experts say will likely trickle down to the wider MAGA base.",
+      "source": "BBC World",
+      "link": "https://www.bbc.com/news/articles/cvgz902mqe5o?at_medium=RSS&at_campaign=rss",
+      "date": "2026-05-15 19:52",
+      "score": 10.0,
+      "impact": "neutral",
+      "sectors": [
+        "Broad Market",
+        "Commodities",
+        "Energy",
+        "International"
+      ],
+      "primary_sector": "Broad Market",
+      "etf_tickers": [],
+      "rotation": ""
+    },
+    {
+      "title": "Why is Ireland not taking part in this year's Eurovision?",
+      "headline_it": "",
+      "summary_it": "",
+      "summary_en": "Ireland's boycott is the latest in a series of moves that has seen the country at odds with Israel over its war in Gaza.",
+      "source": "BBC World",
+      "link": "https://www.bbc.com/news/articles/c0e2g5y9wyeo?at_medium=RSS&at_campaign=rss",
+      "date": "2026-05-15 11:41",
+      "score": 10.0,
+      "impact": "neutral",
+      "sectors": [
+        "Broad Market",
+        "Commodities",
+        "Energy",
+        "Industrials",
+        "International"
+      ],
+      "primary_sector": "Broad Market",
+      "etf_tickers": [],
+      "rotation": ""
+    },
+    {
+      "title": "The Kabul rehab centre hit by deadly Pakistani strike",
+      "headline_it": "",
+      "summary_it": "",
+      "summary_en": "Pakistan says it hit 'military and terrorist infrastructure' - but the UN and victims' families reject this claim.",
+      "source": "BBC World",
+      "link": "https://www.bbc.com/news/videos/cp8pm97yde3o?at_medium=RSS&at_campaign=rss",
+      "date": "2026-05-12 07:36",
+      "score": 10.0,
+      "impact": "neutral",
+      "sectors": [
+        "Industrials",
+        "International",
+        "Real Estate"
+      ],
+      "primary_sector": "Industrials",
+      "etf_tickers": [],
+      "rotation": ""
+    },
+    {
+      "title": "Christine Lagarde: The courage to build a Europe that endures",
+      "headline_it": "",
+      "summary_it": "",
+      "summary_en": "The European Central Bank (ECB) is the central bank of the European Union countries which have adopted the euro. Our main task is to maintain price stability in the euro area and so preserve the purchasing power of the single currency.",
+      "source": "ECB",
+      "link": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp260513_1~ab5ae9e754.en.html",
+      "date": "2026-05-13 19:50",
+      "score": 10.0,
+      "impact": "neutral",
+      "sectors": [
+        "Financials"
+      ],
+      "primary_sector": "Financials",
+      "etf_tickers": [],
+      "rotation": ""
+    },
+    {
+      "title": "Philip R. Lane: Analytical perspectives on energy supply shocks",
+      "headline_it": "",
+      "summary_it": "",
+      "summary_en": "The European Central Bank (ECB) is the central bank of the European Union countries which have adopted the euro. Our main task is to maintain price stability in the euro area and so preserve the purchasing power of the single currency.",
+      "source": "ECB",
+      "link": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp260513~5b14c78806.en.html",
+      "date": "2026-05-13 19:00",
+      "score": 10.0,
+      "impact": "neutral",
+      "sectors": [
+        "Financials"
+      ],
+      "primary_sector": "Financials",
+      "etf_tickers": [],
+      "rotation": ""
+    },
+    {
+      "title": "Frank Elderson: Boosting prosperity through deeper integration",
+      "headline_it": "",
+      "summary_it": "",
+      "summary_en": "The European Central Bank (ECB) is the central bank of the European Union countries which have adopted the euro. Our main task is to maintain price stability in the euro area and so preserve the purchasing power of the single currency.",
+      "source": "ECB",
+      "link": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp260512~640d289749.en.html",
+      "date": "2026-05-12 10:40",
+      "score": 10.0,
+      "impact": "neutral",
+      "sectors": [
+        "Financials"
+      ],
+      "primary_sector": "Financials",
+      "etf_tickers": [],
+      "rotation": ""
+    },
+    {
+      "title": "Luis de Guindos: Interview with Financial Times",
+      "headline_it": "",
+      "summary_it": "",
+      "summary_en": "The European Central Bank (ECB) is the central bank of the European Union countries which have adopted the euro. Our main task is to maintain price stability in the euro area and so preserve the purchasing power of the single currency.",
+      "source": "ECB",
+      "link": "https://www.ecb.europa.eu//press/inter/date/2026/html/ecb.in260511~3fa2df2fa9.en.html",
+      "date": "2026-05-11 04:00",
+      "score": 10.0,
+      "impact": "neutral",
+      "sectors": [
+        "Financials"
+      ],
+      "primary_sector": "Financials",
+      "etf_tickers": [],
+      "rotation": ""
+    },
+    {
+      "title": "European Central Bank and Reserve Bank of India sign Memorandum of Understanding on cooperation",
+      "headline_it": "",
+      "summary_it": "",
+      "summary_en": "The European Central Bank (ECB) is the central bank of the European Union countries which have adopted the euro. Our main task is to maintain price stability in the euro area and so preserve the purchasing power of the single currency.",
+      "source": "ECB",
+      "link": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr260510~e8a674e2fb.en.html",
+      "date": "2026-05-10 13:00",
+      "score": 10.0,
+      "impact": "neutral",
+      "sectors": [
+        "Financials",
+        "International"
+      ],
+      "primary_sector": "Financials",
+      "etf_tickers": [],
+      "rotation": ""
+    },
+    {
+      "title": "Warning against Scams Using the Bank of Japan's Name",
+      "headline_it": "",
+      "summary_it": "",
+      "summary_en": "",
+      "source": "Bank of Japan",
+      "link": "http://www.boj.or.jp/en/about/organization/notice/index.htm",
+      "date": "2026-05-14 01:00",
+      "score": 10.0,
+      "impact": "mixed",
+      "sectors": [
+        "Broad Market",
+        "Commodities",
+        "Energy",
+        "Financials",
+        "International"
+      ],
+      "primary_sector": "Broad Market",
+      "etf_tickers": [],
+      "rotation": ""
+    },
+    {
+      "title": "Goldman Adds SMRs to Nuclear Model, Sees 17% Upside in Uranium Demand",
+      "headline_it": "",
+      "summary_it": "",
+      "summary_en": "Goldman’s latest edition of Nuclear Nuggets: Global Reactor Tracker reinforces that the buildout of the cleanest and most reliable form of so-called “green” energy, nuclear power, continues to gain momentum. The theme we first laid out in December 2020 continues to broaden, with buildouts accelerating across both large-scale and small modular reactors, even as the growing risk of a massive uranium supply deficit emerges. Focusing on the latest North American reactor progress and announcements: 4/16/2026 – Canada –…",
+      "source": "OilPrice",
+      "link": "https://oilprice.com/Alternative-Energy/Nuclear-Power/Goldman-Adds-SMRs-to-Nuclear-Model-Sees-17-Upside-in-Uranium-Demand.html",
+      "date": "2026-05-15 18:00",
+      "score": 10.0,
+      "impact": "bullish",
+      "sectors": [
+        "Commodities",
+        "Energy",
+        "Financials",
+        "Industrials",
+        "International"
+      ],
+      "primary_sector": "Commodities",
+      "etf_tickers": [],
+      "rotation": ""
+    },
+    {
+      "title": "Vaca Muerta Emerges as Top Alternative to Middle East Oil Supply Risk",
+      "headline_it": "",
+      "summary_it": "",
+      "summary_en": "As the Middle East conflict exposes the fragility of global supply chains built around the Strait of Hormuz, energy companies and importing nations alike are reassessing where the next generation of reliable barrels will come from. The Vaca Muerta Shale sits at the top of that shortlist, with Argentina throwing open 15 new exploration blocks in the play to international and domestic energy companies — the largest bid round since 2016 and more than double the six blocks offered in the previous provincial auction. Vaca Muerta is the largest…",
+      "source": "OilPrice",
+      "link": "https://oilprice.com/Energy/Energy-General/Vaca-Muerta-Emerges-as-Top-Alternative-to-Middle-East-Oil-Supply-Risk.html",
+      "date": "2026-05-15 16:00",
+      "score": 10.0,
+      "impact": "neutral",
+      "sectors": [
+        "Commodities",
+        "Energy",
+        "Industrials",
+        "International"
+      ],
+      "primary_sector": "Commodities",
+      "etf_tickers": [],
+      "rotation": ""
+    },
+    {
+      "title": "Xi-Trump Summit Disappoints as Oil Bulls Regain Momentum",
+      "headline_it": "",
+      "summary_it": "",
+      "summary_en": "Oil prices surged $7 this week as Iran tensions, Hormuz risks, and weak signals from the Xi-Trump summit overshadow bearish OPEC and IEA demand forecasts. Friday, May 15, 2026 In a week that started off with both OPEC and the IEA slashing their demand forecasts for 2026, oil prices are set for a hefty $7 per barrel week-on-week gain. The much-anticipated Xi-Trump summit in Beijing provided little hope for any short-term market normalization, turning out to be quite thin on commodity-relevant substance. Iran has added fuel to the oil market’s…",
+      "source": "OilPrice",
+      "link": "https://oilprice.com/Energy/Energy-General/Xi-Trump-Summit-Disappoints-as-Oil-Bulls-Regain-Momentum.html",
+      "date": "2026-05-15 15:41",
+      "score": 10.0,
+      "impact": "mixed",
+      "sectors": [
+        "Commodities",
+        "Energy",
+        "Industrials",
+        "International"
+      ],
+      "primary_sector": "Commodities",
+      "etf_tickers": [],
+      "rotation": ""
+    },
+    {
+      "title": "Pakistan Uses Diplomacy to Secure LNG Supply from Hormuz",
+      "headline_it": "",
+      "summary_it": "",
+      "summary_en": "Pakistan has negotiated the passage of vessels laden with Qatari LNG out of the Strait of Hormuz in a diplomatic feat that no other energy buyer has managed so far in the Iran war. Pakistan, which was the mediator of the U.S.-Iran talks and is passing messages from one to the other, appears to have used well its close ties with both Qatar and Iran to negotiate the successful imports of two tankers with Qatari LNG. Pakistan has relied on Qatar's term LNG supply for years, but the war in the Middle East has led to the shutdown of Qatari LNG production…",
+      "source": "OilPrice",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/Pakistan-Uses-Diplomacy-to-Secure-LNG-Supply-from-Hormuz.html",
+      "date": "2026-05-15 15:30",
+      "score": 10.0,
+      "impact": "neutral",
+      "sectors": [
+        "Broad Market",
+        "Commodities",
+        "Energy",
+        "Industrials",
+        "International"
+      ],
+      "primary_sector": "Broad Market",
+      "etf_tickers": [],
+      "rotation": ""
+    },
+    {
+      "title": "India Signs LPG and Strategic Oil Reserves Deal with UAE",
+      "headline_it": "",
+      "summary_it": "",
+      "summary_en": "India on Friday signed a strategic agreement with the United Arab Emirates to receive liquefied petroleum gas from the UAE, as well as a Memorandum of Understanding (MoU) on strategic petroleum reserves. India, which uses LPG as its the main cooking fuel and has felt shortages since the Iran war choked supplies at the Strait of Hormuz, seeks to boost its supply agreements. Indian Prime Minister Narendra Modi signed the LPG supply deal and the strategic reserves pact during a quick two-hour visit to the UAE today, as India scrambles to ease energy…",
+      "source": "OilPrice",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/India-Signs-LPG-and-Strategic-Oil-Reserves-Deal-with-UAE.html",
+      "date": "2026-05-15 12:30",
+      "score": 10.0,
+      "impact": "neutral",
+      "sectors": [
+        "Broad Market",
+        "Commodities",
+        "Energy",
+        "Industrials",
+        "International"
+      ],
+      "primary_sector": "Broad Market",
+      "etf_tickers": [],
+      "rotation": ""
+    },
+    {
+      "title": "Kevin Warsh wins Senate confirmation as the next Federal Reserve chair",
+      "headline_it": "Warsh confermato presidente Fed",
+      "summary_it": "La nomina di Warsh potrebbe influenzare la politica monetaria e avere un impatto sul mercato. Ciò potrebbe portare a una rotazione settoriale verso titoli più sicuri.",
+      "summary_en": "In the most divisive vote ever for a Fed chair, Warsh, 56, won confirmation to take over for Jerome Powell.",
+      "source": "CNBC Finance",
+      "link": "https://www.cnbc.com/2026/05/13/kevin-warsh-wins-senate-confirmation-as-the-next-federal-reserve-chair.html",
+      "date": "2026-05-13 23:21",
+      "score": 9.4,
+      "impact": "neutral",
+      "sectors": [
+        "Bonds",
+        "Broad Market",
+        "Commodities",
+        "Energy",
+        "Financials",
+        "Industrials",
+        "International"
+      ],
+      "primary_sector": "Bonds",
+      "etf_tickers": [
+        "SPY",
+        "TLT",
+        "XLF"
+      ],
+      "rotation": "dai titoli azionari ai bond"
+    },
+    {
+      "title": "Markets raise chances for a Fed rate hike following hot inflation report",
+      "headline_it": "Fed: probabilità di rialzo tassi",
+      "summary_it": "Il mercato esclude tagli dei tassi fino al 2027. Ciò potrebbe influire negativamente sul mercato azionario.",
+      "summary_en": "Market pricing took virtually any chance of a cut off the table between now and the end of 2027.",
+      "source": "CNBC Economy",
+      "link": "https://www.cnbc.com/2026/05/12/markets-raise-chances-for-a-fed-rate-hike-following-hot-inflation-report.html",
+      "date": "2026-05-12 17:33",
+      "score": 9.4,
+      "impact": "bearish",
+      "sectors": [
+        "Bonds",
+        "Broad Market",
+        "Commodities",
+        "Financials"
+      ],
+      "primary_sector": "Bonds",
+      "etf_tickers": [
+        "SPY",
+        "XLF"
+      ],
+      "rotation": ""
+    },
+    {
+      "title": "Fed Governor Miran submits resignation, throws support behind Warsh as new chair",
+      "headline_it": "Dimissioni Governatore Fed",
+      "summary_it": "Le dimissioni del Governatore Miran potrebbero influenzare la politica monetaria. Ciò potrebbe avere un impatto sul settore finanziario e sui bond.",
+      "summary_en": "Miran served as a contrarian voice on the rate-setting Federal Open Market Committee.",
+      "source": "CNBC Finance",
+      "link": "https://www.cnbc.com/2026/05/14/fed-governor-miran-submits-resignation-throws-support-behind-warsh-as-new-chair.html",
+      "date": "2026-05-14 21:47",
+      "score": 8.7,
+      "impact": "neutral",
+      "sectors": [
+        "Bonds",
+        "Broad Market",
+        "Commodities",
+        "Energy",
+        "Financials",
+        "Industrials",
+        "International"
+      ],
+      "primary_sector": "Bonds",
+      "etf_tickers": [
+        "SPY",
+        "TLT",
+        "XLF"
+      ],
+      "rotation": ""
+    },
+    {
+      "title": "Xi warns Trump: Mishandling Taiwan will put U.S.-China relationship in 'great jeopardy'",
+      "headline_it": "Tensioni USA-Cina",
+      "summary_it": "Le tensioni tra Stati Uniti e Cina potrebbero aumentare a causa della questione di Taiwan, influenzando i mercati globali. Ciò potrebbe avere un impatto significativo sugli ETF di mercato ampio e internazionali.",
+      "summary_en": "President Donald Trump met Chinese President Xi Jinping in Beijing on Thursday morning for the start of a high-stakes summit that runs through Friday.",
+      "source": "CNBC Finance",
+      "link": "https://www.cnbc.com/2026/05/14/trump-xi-beijing-summit-trade-taiwan-ai-iran-rare-earths-tariffs.html",
+      "date": "2026-05-14 15:09",
+      "score": 8.7,
+      "impact": "bearish",
+      "sectors": [
+        "Broad Market",
+        "Commodities",
+        "Energy",
+        "International",
+        "Tech & Semiconductors"
+      ],
+      "primary_sector": "Broad Market",
+      "etf_tickers": [
+        "EEM",
+        "SPY"
+      ],
+      "rotation": ""
+    },
+    {
+      "title": "Federal Reserve Board names Jerome H. Powell as chair pro tempore; Powell will serve as chair pro tempore until Kevin M. Warsh is sworn in as the new chair",
+      "headline_it": "Nomina nuovo presidente Fed",
+      "summary_it": "La nomina di Jerome H. Powell come presidente ad interim potrebbe influenzare le decisioni di politica monetaria, con potenziali impatti sui settori finanziari e dei bond.",
+      "summary_en": "Federal Reserve Board names Jerome H. Powell as chair pro tempore; Powell will serve as chair pro tempore until Kevin M. Warsh is sworn in as the new chair",
+      "source": "Federal Reserve",
+      "link": "https://www.federalreserve.gov/newsevents/pressreleases/other20260515a.htm",
+      "date": "2026-05-15 21:00",
+      "score": 8.7,
+      "impact": "neutral",
+      "sectors": [
+        "Bonds",
+        "Broad Market",
+        "Commodities",
+        "Energy",
+        "Financials",
+        "Industrials",
+        "International"
+      ],
+      "primary_sector": "Bonds",
+      "etf_tickers": [
+        "TLT",
+        "XLF"
+      ],
+      "rotation": ""
+    },
+    {
+      "title": "Stocks and bonds get swept up in a selloff, as Trump’s China visit fails to pry open the Strait of Hormuz",
+      "headline_it": "Crollo dei mercati",
+      "summary_it": "Timori di inflazione e tensioni geopolitiche influenzano i mercati. La visita di Trump in Cina non ha risolto le tensioni nel Golfo.",
+      "summary_en": "Fears of a 2022-style inflation problem are bubbling back up, but there’s also hope for a Trump pivot on the Iran conflict.",
+      "source": "MarketWatch",
+      "link": "https://www.marketwatch.com/story/stocks-tumble-bond-rout-deepens-as-trumps-china-visit-fails-to-reopen-strait-of-hormuz-8501c294?mod=mw_rss_topstories",
+      "date": "2026-05-15 20:57",
+      "score": 8.7,
+      "impact": "bearish",
+      "sectors": [
+        "Bonds",
+        "Broad Market",
+        "Commodities",
+        "Energy",
+        "Industrials",
+        "International"
+      ],
+      "primary_sector": "Bonds",
+      "etf_tickers": [
+        "SPY"
+      ],
+      "rotation": ""
+    },
+    {
+      "title": "Bond market believes Fed behind the curve on inflation as Warsh takes over",
+      "headline_it": "Fed in ritardo sull'inflazione",
+      "summary_it": "I trader di bond sperano in un cambio di politica della Fed verso un inasprimento. Ciò potrebbe avere un impatto sul mercato obbligazionario e più in generale sull'economia.",
+      "summary_en": "Bond traders are hoping that the central bank's easing bias is replaced with a skewed view toward tightening.",
+      "source": "CNBC Economy",
+      "link": "https://www.cnbc.com/2026/05/14/bond-market-fed-inflation-warsh-powell.html",
+      "date": "2026-05-14 19:26",
+      "score": 8.7,
+      "impact": "bearish",
+      "sectors": [
+        "Bonds",
+        "Broad Market",
+        "Commodities",
+        "Energy",
+        "Financials",
+        "Industrials",
+        "International"
+      ],
+      "primary_sector": "Bonds",
+      "etf_tickers": [
+        "QQQ",
+        "TLT"
+      ],
+      "rotation": ""
+    },
+    {
+      "title": "Bessent sees 'substantial disinflation' ahead as Warsh takes over the Fed",
+      "headline_it": "Disinflazione sostanziale in arrivo",
+      "summary_it": "L'aumento dell'inflazione alimentato dall'energia potrebbe invertirsi a causa dell'aumento della produzione di petrolio negli Stati Uniti. Ciò potrebbe avere un impatto positivo sui settori energetici e del mercato azionario.",
+      "summary_en": "Bessent said the energy-fed inflation surge recently is likely to reverse as the U.S. is \"going to keep pumping.\"",
+      "source": "CNBC Economy",
+      "link": "https://www.cnbc.com/2026/05/14/bessent-sees-substantial-disinflation-ahead-as-warsh-takes-over-the-fed.html",
+      "date": "2026-05-14 16:22",
+      "score": 8.7,
+      "impact": "bullish",
+      "sectors": [
+        "Bonds",
+        "Broad Market",
+        "Commodities",
+        "Energy",
+        "Industrials",
+        "International"
+      ],
+      "primary_sector": "Bonds",
+      "etf_tickers": [
+        "SPY",
+        "XLE"
+      ],
+      "rotation": ""
+    },
+    {
+      "title": "How China and U.S. eased the Middle East oil shock and kept prices from spiking even higher",
+      "headline_it": "Cina e USA calmierano shock petrolifero",
+      "summary_it": "Cina e Stati Uniti, le due economie più grandi del mondo, stanno utilizzando la loro influenza sul mercato petrolifero per aiutare a colmare il divario di offerta. Ciò ha impedito un ulteriore aumento dei prezzi.",
+      "summary_en": "China and the U.S., the world's two largest economies, wield great influence over the oil market and are using it to help plug the supply gap.",
+      "source": "CNBC World",
+      "link": "https://www.cnbc.com/2026/05/15/china-us-oil-iran-war-strait-hormuz-trump-xi.html",
+      "date": "2026-05-15 14:58",
+      "score": 8.7,
+      "impact": "bullish",
+      "sectors": [
+        "Broad Market",
+        "Commodities",
+        "Energy",
+        "Industrials",
+        "International"
+      ],
+      "primary_sector": "Broad Market",
+      "etf_tickers": [
+        "XLE"
+      ],
+      "rotation": ""
+    },
+    {
+      "title": "Oil prices jump after Trump says he is losing patience with Iran",
+      "headline_it": "Prezzi petrolio salgono",
+      "summary_it": "I prezzi del petrolio sono aumentati dopo le dichiarazioni di Trump sulla perdita di pazienza con l'Iran e l'accordo di acquisto di petrolio tra Cina e Stati Uniti.",
+      "summary_en": "Oil prices rose Friday on news that China has agreed to purchase oil from America.",
+      "source": "CNBC World",
+      "link": "https://www.cnbc.com/2026/05/15/oil-prices-china-us-iran-strait-of-hormuz-middle-east.html",
+      "date": "2026-05-15 19:03",
+      "score": 8.7,
+      "impact": "bullish",
+      "sectors": [
+        "Commodities",
+        "Energy",
+        "Industrials",
+        "International"
+      ],
+      "primary_sector": "Commodities",
+      "etf_tickers": [
+        "XLE"
+      ],
+      "rotation": ""
+    },
+    {
+      "title": "Trump says he will soon make a decision about sanctions on Chinese companies buying Iranian oil",
+      "headline_it": "Trump decide sulle sanzioni",
+      "summary_it": "Il presidente Trump annuncia una decisione imminente sulle sanzioni per le aziende cinesi che acquistano petrolio iraniano, con potenziali ripercussioni sul settore energetico e sui mercati internazionali.",
+      "summary_en": "U.S. President Donald Trump said Friday that he will make a decision over the next few days about lifting sanctions on Chinese oil companies that buy Iranion oil.",
+      "source": "CNBC World",
+      "link": "https://www.cnbc.com/2026/05/15/trump-china-sanctions-iranian-oil.html",
+      "date": "2026-05-15 12:43",
+      "score": 8.7,
+      "impact": "neutral",
+      "sectors": [
+        "Commodities",
+        "Energy",
+        "Industrials",
+        "International"
+      ],
+      "primary_sector": "Commodities",
+      "etf_tickers": [
+        "XLE"
+      ],
+      "rotation": ""
+    },
+    {
+      "title": "China will buy more U.S. oil because it is a natural trade partner, says Energy Secretary Wright",
+      "headline_it": "Cina aumenta acquisti petrolio USA",
+      "summary_it": "La Cina aumenterà gli acquisti di petrolio dagli Stati Uniti a causa della chiusura delle forniture dal Medio Oriente. Ciò potrebbe avere un impatto positivo sul settore energetico.",
+      "summary_en": "China relies heavily on crude oil imports from the Middle East but those supplies are mostly  cut off due to Iran's blockade of the Strait of Hormuz.",
+      "source": "CNBC World",
+      "link": "https://www.cnbc.com/2026/05/15/china-us-oil-import-xi-trump-chris-wright.html",
+      "date": "2026-05-15 17:38",
+      "score": 8.7,
+      "impact": "bullish",
+      "sectors": [
+        "Commodities",
+        "Energy",
+        "Industrials",
+        "International"
+      ],
+      "primary_sector": "Commodities",
+      "etf_tickers": [
+        "XLE"
+      ],
+      "rotation": ""
+    },
+    {
+      "title": "Stephen Miran exits the Fed. How he set the stage for Kevin Warsh.",
+      "headline_it": "Miran esce dalla Fed",
+      "summary_it": "L'uscente governatore della Fed condivide grandi idee con il nuovo presidente. Ciò potrebbe avere un impatto sul settore finanziario e sui bond.",
+      "summary_en": "The outgoing Fed governor shares big ideas with the incoming chair.",
+      "source": "CNBC Finance",
+      "link": "https://www.cnbc.com/2026/05/15/stephen-miran-exits-the-fed-how-he-set-the-stage-for-kevin-warsh.html",
+      "date": "2026-05-15 19:00",
+      "score": 7.4,
+      "impact": "neutral",
+      "sectors": [
+        "Bonds",
+        "Broad Market",
+        "Commodities",
+        "Energy",
+        "Financials",
+        "Industrials",
+        "International"
+      ],
+      "primary_sector": "Bonds",
+      "etf_tickers": [
+        "TLT",
+        "XLF"
+      ],
+      "rotation": ""
+    },
+    {
+      "title": "Trump in China: Traders predict a tariff truce extension and Boeing aircraft purchases",
+      "headline_it": "Trump in Cina: tregua doganale",
+      "summary_it": "I trader prevedono una proroga della tregua doganale e acquisti di aerei Boeing. Gli investitori attendono con ansia gli sviluppi delle trattative commerciali.",
+      "summary_en": "Traders also think it is likely that the president will talk about Iran, despite his comments that the U.S. doesn't need China's help in resolving the war.",
+      "source": "CNBC Finance",
+      "link": "https://www.cnbc.com/2026/05/13/traders-predict-trump-will-make-major-announcements-during-china-trip.html",
+      "date": "2026-05-13 18:13",
+      "score": 7.4,
+      "impact": "bullish",
+      "sectors": [
+        "Broad Market",
+        "Commodities",
+        "Energy",
+        "Industrials",
+        "International"
+      ],
+      "primary_sector": "Broad Market",
+      "etf_tickers": [
+        "ITA",
+        "SPY"
+      ],
+      "rotation": ""
+    },
+    {
+      "title": "Federal Reserve Board announces termination of enforcement actions with UBS Group AG, Credit Suisse AG, Credit Suisse Holdings (USA), Inc., and Credit Suisse AG, New York Branch",
+      "headline_it": "Fed termina azioni di enforcement",
+      "summary_it": "La Federal Reserve termina le azioni di enforcement con UBS e Credit Suisse, segnale di stabilizzazione per il settore finanziario.",
+      "summary_en": "Federal Reserve Board announces termination of enforcement actions with UBS Group AG, Credit Suisse AG, Credit Suisse Holdings (USA), Inc., and Credit Suisse AG, New York Branch",
+      "source": "Federal Reserve",
+      "link": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20260515a.htm",
+      "date": "2026-05-15 15:00",
+      "score": 7.4,
+      "impact": "bullish",
+      "sectors": [
+        "Bonds",
+        "Broad Market",
+        "Financials"
+      ],
+      "primary_sector": "Bonds",
+      "etf_tickers": [
+        "SPY",
+        "XLF"
+      ],
+      "rotation": ""
+    },
+    {
+      "title": "Stephen I. Miran submits his resignation as a member of the Federal Reserve Board, effective when or shortly before his successor on the Board is sworn in",
+      "headline_it": "Dimissioni in Fed",
+      "summary_it": "Stephen I. Miran si dimette dalla Federal Reserve. Potrebbe avere un impatto sul settore finanziario e sui mercati azionari in generale.",
+      "summary_en": "Stephen I. Miran submits his resignation as a member of the Federal Reserve Board, effective when or shortly before his successor on the Board is sworn in",
+      "source": "Federal Reserve",
+      "link": "https://www.federalreserve.gov/newsevents/pressreleases/other20260514b.htm",
+      "date": "2026-05-14 18:00",
+      "score": 7.4,
+      "impact": "neutral",
+      "sectors": [
+        "Broad Market",
+        "Commodities",
+        "Energy",
+        "Financials",
+        "Industrials",
+        "International"
+      ],
+      "primary_sector": "Broad Market",
+      "etf_tickers": [
+        "SPY",
+        "XLF"
+      ],
+      "rotation": ""
+    },
+    {
+      "title": "Federal Reserve Board issues Economic Well-Being of U.S. Households in 2025 report",
+      "headline_it": "Benessere economico USA 2025",
+      "summary_it": "La Federal Reserve pubblica il rapporto sull'Economic Well-Being of U.S. Households in 2025, fornendo insight sull'economia statunitense. Ciò potrebbe avere un impatto sui settori finanziari e dei consumi.",
+      "summary_en": "Federal Reserve Board issues Economic Well-Being of U.S. Households in 2025 report",
+      "source": "Federal Reserve",
+      "link": "https://www.federalreserve.gov/newsevents/pressreleases/other20260513a.htm",
+      "date": "2026-05-13 15:30",
+      "score": 7.4,
+      "impact": "neutral",
+      "sectors": [
+        "Broad Market",
+        "Consumers",
+        "Financials"
+      ],
+      "primary_sector": "Broad Market",
+      "etf_tickers": [
+        "SPY",
+        "XLF"
+      ],
+      "rotation": ""
+    },
+    {
+      "title": "Berkshire’s Abel sours on some of Warren Buffett’s picks, while betting big on Delta",
+      "headline_it": "Berkshire punta su Delta",
+      "summary_it": "Il successore di Warren Buffett, Greg Abel, ha investito 2,8 miliardi di dollari in Delta, nonostante Buffett avesse abbandonato il settore aereo nel 2020. Ciò potrebbe avere un impatto significativo sugli ETF del settore finanziario e industriale.",
+      "summary_en": "Warren Buffett exited U.S. airlines back in 2020, but successor Greg Abel placed a $2.8 billion fresh bet on Delta.",
+      "source": "MarketWatch",
+      "link": "https://www.marketwatch.com/story/berkshires-abel-sours-on-some-of-warren-buffetts-picks-while-betting-big-on-delta-7ad679f7?mod=mw_rss_topstories",
+      "date": "2026-05-15 21:41",
+      "score": 7.4,
+      "impact": "bullish",
+      "sectors": [
+        "Broad Market",
+        "Commodities",
+        "Energy",
+        "Financials",
+        "Industrials",
+        "International"
+      ],
+      "primary_sector": "Broad Market",
+      "etf_tickers": [
+        "XLF"
+      ],
+      "rotation": ""
+    },
+    {
+      "title": "Americans still feel pessimistic about the economy. When will it get better?",
+      "headline_it": "Pessimismo sull'economia",
+      "summary_it": "Il sentimento dei consumatori americani è in calo dal periodo della pandemia di Covid. Gli economisti attribuiscono la causa all'inflazione, alle guerre e alle tariffe doganali di Trump.",
+      "summary_en": "U.S. consumer sentiment has been on a downward trend since the Covid pandemic. Inflation, wars and Trump's tariffs are to blame, economists say.",
+      "source": "CNBC Economy",
+      "link": "https://www.cnbc.com/2026/05/14/consumer-confidence-us-economy-inflation-iran-war-trade.html",
+      "date": "2026-05-15 15:30",
+      "score": 7.4,
+      "impact": "bearish",
+      "sectors": [
+        "Bonds",
+        "Broad Market",
+        "Commodities",
+        "Consumers",
+        "Energy",
+        "International"
+      ],
+      "primary_sector": "Bonds",
+      "etf_tickers": [
+        "SPY",
+        "XLY"
+      ],
+      "rotation": ""
+    },
+    {
+      "title": "It's not just Iran and oil raising inflation. Prices also are reaccelerating in these other areas",
+      "headline_it": "Inflazione in aumento",
+      "summary_it": "I prezzi stanno aumentando rapidamente in diversi settori, tra cui energia e consumatori. Ciò potrebbe avere un impatto significativo sugli ETF di questi settori.",
+      "summary_en": "Here's some of the places where prices are rising fast for consumers.",
+      "source": "CNBC Economy",
+      "link": "https://www.cnbc.com/2026/05/12/iran-oil-energy-inflation-shelter-food-trump.html",
+      "date": "2026-05-12 21:04",
+      "score": 7.4,
+      "impact": "bearish",
+      "sectors": [
+        "Bonds",
+        "Broad Market",
+        "Commodities",
+        "Consumers",
+        "Energy",
+        "Industrials",
+        "International"
+      ],
+      "primary_sector": "Bonds",
+      "etf_tickers": [
+        "XLE"
+      ],
+      "rotation": ""
+    },
+    {
+      "title": "Iran says it will 'never bow' as Trump rejects peace counteroffer, prolonging Middle East conflict",
+      "headline_it": "Iran rifiuta offerta di pace",
+      "summary_it": "La tensione tra Iran e Stati Uniti potrebbe influenzare i mercati energetici. La chiusura dello Stretto di Hormuz potrebbe aumentare i prezzi del petrolio.",
+      "summary_en": "Washington has sought to press Beijing to lean on Tehran to reopen the strait, though China's appetite to act as a pressure mechanism remains unclear.",
+      "source": "CNBC Economy",
+      "link": "https://www.cnbc.com/2026/05/11/iran-war-trump-negotiation-hormuz-nuclear-talks.html",
+      "date": "2026-05-11 13:25",
+      "score": 7.4,
+      "impact": "bearish",
+      "sectors": [
+        "Commodities",
+        "Energy",
+        "Industrials",
+        "International"
+      ],
+      "primary_sector": "Commodities",
+      "etf_tickers": [],
+      "rotation": ""
+    },
+    {
+      "title": "Federal Reserve Board releases results from two surveys of senior financial officers at banks about their views on discount window operating days and their strategies and practices for managing reserve balances",
+      "headline_it": "Fed pubblica risultati sondaggi",
+      "summary_it": "La Federal Reserve pubblica i risultati di due sondaggi tra dirigenti finanziari di banche sulle loro strategie per la gestione dei saldi di riserva e le loro opinioni sui giorni di operatività della finestra di sconto.",
+      "summary_en": "Federal Reserve Board releases results from two surveys of senior financial officers at banks about their views on discount window operating days and their strategies and practices for managing reserve balances",
+      "source": "Federal Reserve",
+      "link": "https://www.federalreserve.gov/newsevents/pressreleases/other20260514a.htm",
+      "date": "2026-05-14 14:00",
+      "score": 6.1,
+      "impact": "neutral",
+      "sectors": [
+        "Bonds",
+        "Financials"
+      ],
+      "primary_sector": "Bonds",
+      "etf_tickers": [
+        "TLT",
+        "XLF"
+      ],
+      "rotation": ""
+    },
+    {
+      "title": "Federal Reserve Board announces termination of enforcement actions with F & M Holding Company, Inc. and Thread Bancorp, Inc.",
+      "headline_it": "Fed termina azioni di enforcement",
+      "summary_it": "La Federal Reserve termina le azioni di enforcement con F & M Holding Company e Thread Bancorp. L'impatto è neutro per il settore finanziario.",
+      "summary_en": "Federal Reserve Board announces termination of enforcement actions with F &amp; M Holding Company, Inc. and Thread Bancorp, Inc.",
+      "source": "Federal Reserve",
+      "link": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20260512a.htm",
+      "date": "2026-05-12 15:00",
+      "score": 6.1,
+      "impact": "neutral",
+      "sectors": [
+        "Financials"
+      ],
+      "primary_sector": "Financials",
+      "etf_tickers": [
+        "XLF"
+      ],
+      "rotation": ""
+    },
+    {
+      "title": "Federal Reserve Board announces approval of application by the Stephen M. Calk 2025 Trust",
+      "headline_it": "Fed approva richiesta trust",
+      "summary_it": "La Federal Reserve approva la richiesta del Stephen M. Calk 2025 Trust, senza impatto significativo sui mercati.",
+      "summary_en": "Federal Reserve Board announces approval of application by the Stephen M. Calk 2025 Trust",
+      "source": "Federal Reserve",
+      "link": "https://www.federalreserve.gov/newsevents/pressreleases/orders20260515a.htm",
+      "date": "2026-05-15 20:30",
+      "score": 4.8,
+      "impact": "neutral",
+      "sectors": [
+        "Financials"
+      ],
+      "primary_sector": "Financials",
+      "etf_tickers": [
+        "XLF"
+      ],
+      "rotation": ""
+    },
+    {
+      "title": "Federal Reserve Board announces it does not object to the conversion of United Texas Bank, of Dallas, Texas, from a bank supervised by the Federal Reserve to a national bank supervised by the Office of the Comptroller of the Currency",
+      "headline_it": "Fed non si oppone a conversione banca",
+      "summary_it": "La Federal Reserve non si oppone alla conversione di United Texas Bank in una banca nazionale. L'impatto è limitato e non dovrebbe influenzare significativamente il settore finanziario.",
+      "summary_en": "Federal Reserve Board announces it does not object to the conversion of United Texas Bank, of Dallas, Texas, from a bank supervised by the Federal Reserve to a national bank supervised by the Office of the Comptroller of the Currency",
+      "source": "Federal Reserve",
+      "link": "https://www.federalreserve.gov/newsevents/pressreleases/orders20260515b.htm",
+      "date": "2026-05-15 20:30",
+      "score": 4.8,
+      "impact": "neutral",
+      "sectors": [
+        "Financials"
+      ],
+      "primary_sector": "Financials",
+      "etf_tickers": [
+        "XLF"
+      ],
+      "rotation": ""
+    }
+  ]
+}

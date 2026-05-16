@@ -1,36 +1,54 @@
 {
-  "date": "May 09, 2026",
-  "week": "2026-W19",
+  "date": "May 16, 2026",
+  "week": "2026-W20",
   "ideas": [
     {
-      "ticker": "SPY",
-      "price": 737.62,
-      "direction": "long",
-      "desc": "S&P 500"
-    },
-    {
-      "ticker": "SMH",
-      "price": 566.54,
-      "direction": "long",
-      "desc": "Semiconductors"
-    },
-    {
       "ticker": "USO",
-      "price": 133.59,
+      "price": 148.23,
       "direction": "long",
       "desc": "Crude Oil"
     },
     {
-      "ticker": "QQQ",
-      "price": 711.23,
+      "ticker": "XLE",
+      "price": 59.44,
       "direction": "long",
-      "desc": "Nasdaq 100"
+      "desc": "Oil & Gas"
+    },
+    {
+      "ticker": "REMX",
+      "price": 96.57,
+      "direction": "long",
+      "desc": "Rare Earth"
     },
     {
       "ticker": "CIBR",
-      "price": 75.32,
+      "price": 79.05,
       "direction": "long",
       "desc": "Cyber Defense"
+    },
+    {
+      "ticker": "URA",
+      "price": 49.93,
+      "direction": "long",
+      "desc": "Uranium"
+    },
+    {
+      "ticker": "SPY",
+      "price": 739.17,
+      "direction": "long",
+      "desc": "S&P 500"
+    },
+    {
+      "ticker": "GDX",
+      "price": 87.35,
+      "direction": "long",
+      "desc": "Gold Miners"
+    },
+    {
+      "ticker": "QQQ",
+      "price": 708.93,
+      "direction": "long",
+      "desc": "Nasdaq 100"
     }
   ]
 }
