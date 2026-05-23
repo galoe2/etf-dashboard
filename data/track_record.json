@@ -1,54 +1,30 @@
 {
-  "date": "May 16, 2026",
-  "week": "2026-W20",
+  "date": "May 23, 2026",
+  "week": "2026-W21",
   "ideas": [
     {
-      "ticker": "USO",
-      "price": 148.23,
-      "direction": "long",
-      "desc": "Crude Oil"
-    },
-    {
-      "ticker": "XLE",
-      "price": 59.44,
-      "direction": "long",
-      "desc": "Oil & Gas"
-    },
-    {
-      "ticker": "REMX",
-      "price": 96.57,
-      "direction": "long",
-      "desc": "Rare Earth"
-    },
-    {
-      "ticker": "CIBR",
-      "price": 79.05,
-      "direction": "long",
-      "desc": "Cyber Defense"
-    },
-    {
-      "ticker": "URA",
-      "price": 49.93,
-      "direction": "long",
-      "desc": "Uranium"
-    },
-    {
       "ticker": "SPY",
-      "price": 739.17,
+      "price": 745.64,
       "direction": "long",
       "desc": "S&P 500"
     },
     {
-      "ticker": "GDX",
-      "price": 87.35,
+      "ticker": "ARKG",
+      "price": 30.67,
       "direction": "long",
-      "desc": "Gold Miners"
+      "desc": "Genomics"
     },
     {
       "ticker": "QQQ",
-      "price": 708.93,
+      "price": 717.54,
       "direction": "long",
       "desc": "Nasdaq 100"
+    },
+    {
+      "ticker": "UFO",
+      "price": 61.9,
+      "direction": "long",
+      "desc": "Space"
     }
   ]
 }

@@ -1,0 +1,1405 @@
+{
+  "generated": "2026-05-23T09:31:15.030735",
+  "lookback_days": 7,
+  "total_articles": 50,
+  "sector_news": {
+    "Broad Market": {
+      "count": 43,
+      "top": [
+        {
+          "headline": "Putin vows retaliation after accusing Ukraine of hitting student dormitory",
+          "summary": "Ukraine says it struck Russia's elite Rubicon drone military unit in a Moscow-occupied region.",
+          "impact": "neutral",
+          "source": "BBC World",
+          "score": 10.0,
+          "link": "https://www.bbc.com/news/articles/c5y74lwx395o?at_medium=RSS&at_campaign=rss",
+          "etf_tickers": []
+        },
+        {
+          "headline": "Rubio visits India to sell energy as Iran oil shock persists",
+          "summary": "The top US diplomat has made statements offering to support India’s energy needs - but should Delhi give in?",
+          "impact": "neutral",
+          "source": "BBC World",
+          "score": 10.0,
+          "link": "https://www.bbc.com/news/articles/c87qrwyyrn2o?at_medium=RSS&at_campaign=rss",
+          "etf_tickers": []
+        },
+        {
+          "headline": "US government releases UFO sighting reports - 'Orbs swarming in all directions'",
+          "summary": "The Pentagon discloses scores of UFO files with reported sightings of spheres, discs and fireballs spanning nearly 80 years.",
+          "impact": "neutral",
+          "source": "BBC World",
+          "score": 10.0,
+          "link": "https://www.bbc.com/news/articles/cn8pzzlyy66o?at_medium=RSS&at_campaign=rss",
+          "etf_tickers": [
+            "UFO"
+          ]
+        }
+      ]
+    },
+    "International": {
+      "count": 39,
+      "top": [
+        {
+          "headline": "More than 40,000 Californians evacuated due to chemical tank leak",
+          "summary": "Officials have warned that the tank contains a \"highly volatile\" substance that could lead to an explosion.",
+          "impact": "neutral",
+          "source": "BBC World",
+          "score": 10.0,
+          "link": "https://www.bbc.com/news/articles/c3w2l249j8go?at_medium=RSS&at_campaign=rss",
+          "etf_tickers": []
+        },
+        {
+          "headline": "Trump is putting pressure on Cuba - why and to what end?",
+          "summary": "The US has warned that a peaceful agreement with Cuba is unlikely, Havana insists this is a \"fraudulent case\" designed to justify military intervention.",
+          "impact": "neutral",
+          "source": "BBC World",
+          "score": 10.0,
+          "link": "https://www.bbc.com/news/articles/c5yrkl96xwvo?at_medium=RSS&at_campaign=rss",
+          "etf_tickers": []
+        },
+        {
+          "headline": "Iran steps up claim to control Strait of Hormuz",
+          "summary": "Iran publishes a map claiming \"armed forces oversight\" across more than 22,000 sq km of the waterway.",
+          "impact": "neutral",
+          "source": "BBC World",
+          "score": 10.0,
+          "link": "https://www.bbc.com/news/articles/cq5py64gvwzo?at_medium=RSS&at_campaign=rss",
+          "etf_tickers": []
+        }
+      ]
+    },
+    "Tech & Semiconductors": {
+      "count": 1,
+      "top": [
+        {
+          "headline": "Industria musicale ottimista su AI",
+          "summary": "L'industria musicale inizia a vedere l'AI con ottimismo, ma sottolinea la necessità di una gestione responsabile dei diritti e della compensazione degli artisti. Ciò potrebbe avere un impatto positivo sul settore tecnologico.",
+          "impact": "bullish",
+          "source": "CNBC World",
+          "score": 6.1,
+          "link": "https://www.cnbc.com/video/2026/05/21/the-music-industrys-ai-stance-is-shifting-toward-cautious-optimism.html",
+          "etf_tickers": [
+            "QQQ"
+          ]
+        }
+      ]
+    },
+    "Financials": {
+      "count": 22,
+      "top": [
+        {
+          "headline": "Philip R. Lane: Europe and the world economy",
+          "summary": "The European Central Bank (ECB) is the central bank of the European Union countries which have adopted the euro. Our main task is to maintain price stability in the euro area and so preserve the purchasing power of the single currency.",
+          "impact": "neutral",
+          "source": "ECB",
+          "score": 10.0,
+          "link": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp260522~f0f11a5f05.en.html",
+          "etf_tickers": []
+        },
+        {
+          "headline": "Frank Elderson: A central banker’s perspective on climate change and nature degradation",
+          "summary": "",
+          "impact": "neutral",
+          "source": "ECB",
+          "score": 10.0,
+          "link": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp260521~ccae6782e3.en.pdf",
+          "etf_tickers": []
+        },
+        {
+          "headline": "Japan core inflation softens to over four year low, weakening case for BOJ rate hike",
+          "summary": "Core inflation — which strips out prices of fresh food — was lower than the 1.7% expected by economists polled by Reuters and below the 1.8% reading in March.",
+          "impact": "bearish",
+          "source": "CNBC World",
+          "score": 10.0,
+          "link": "https://www.cnbc.com/2026/05/22/japan-april-core-inflation-boj-rate-hike-outlook.html",
+          "etf_tickers": []
+        }
+      ]
+    },
+    "Energy": {
+      "count": 39,
+      "top": [
+        {
+          "headline": "Iran weighs US peace proposal despite ‘deep and significant’ disagreements",
+          "summary": "A visit by Pakistan’s army chief to Tehran is seen as a sign of significant progress in negotiations.",
+          "impact": "neutral",
+          "source": "Al Jazeera",
+          "score": 10.0,
+          "link": "https://www.aljazeera.com/news/2026/5/23/iran-weighs-us-peace-proposal-despite-deep-and-significant-disagreements?traffic_source=rss",
+          "etf_tickers": []
+        },
+        {
+          "headline": "Not just the US: India to Brazil, 51 nations armed Israel amid Gaza war",
+          "summary": "Despite ICJ genocide warnings, 51 nations kept arming Israel, even after pledging to halt support.",
+          "impact": "bearish",
+          "source": "Al Jazeera",
+          "score": 10.0,
+          "link": "https://www.aljazeera.com/news/longform/2026/5/23/not-just-the-us-india-to-brazil-51-nations-armed-israel-amid-gaza-war?traffic_source=rss",
+          "etf_tickers": []
+        },
+        {
+          "headline": "Iran war day 85: Tehran says major gaps remain in US talks",
+          "summary": "Pakistan army chief Asim Munir arrives in Tehran as mediation efforts to secure a US-Iran peace deal intensify.",
+          "impact": "neutral",
+          "source": "Al Jazeera",
+          "score": 10.0,
+          "link": "https://www.aljazeera.com/news/2026/5/23/iran-war-day-85-tehran-says-major-gaps-remain-in-us-talks?traffic_source=rss",
+          "etf_tickers": []
+        }
+      ]
+    },
+    "Commodities": {
+      "count": 40,
+      "top": [
+        {
+          "headline": "Colombia's Natural Gas Crisis Deepens as Strait of Hormuz Closure Cuts Supply",
+          "summary": "Strife-torn Colombia is facing a severe energy crisis at a critical juncture. Global supply of natural gas is heavily constrained due to the closure of the Strait of Hormuz after U.S. strikes on Iran. This could not come at a worse time for Colombia, with the Andean country experiencing a massive surge in demand for natural gas at a time when domestic production is declining. The rapidly growing supply shortfall was filled by costly liquefied natural gas (LNG) imports, the future of which now appears uncertain. These events are weighing heavily…",
+          "impact": "mixed",
+          "source": "OilPrice",
+          "score": 10.0,
+          "link": "https://oilprice.com/Energy/Energy-General/Colombias-Natural-Gas-Crisis-Deepens-as-Strait-of-Hormuz-Closure-Cuts-Supply.html",
+          "etf_tickers": []
+        },
+        {
+          "headline": "(Research Paper) Households' Wage Growth Expectations Formation: The Linkage with Price Inflation Expectations",
+          "summary": "",
+          "impact": "bullish",
+          "source": "Bank of Japan",
+          "score": 10.0,
+          "link": "http://www.boj.or.jp/en/research/wps_rev/wps_2026/wp26e09.htm",
+          "etf_tickers": []
+        },
+        {
+          "headline": "Some fear US-Philippines war games are drawing conflict closer to home",
+          "summary": "Critics of US, Philippine military cooperation say closely aligning with Washington makes Manila a possible target.",
+          "impact": "bearish",
+          "source": "Al Jazeera",
+          "score": 10.0,
+          "link": "https://www.aljazeera.com/news/2026/5/23/some-fear-us-philippines-war-games-are-drawing-conflict-closer-to-home?traffic_source=rss",
+          "etf_tickers": []
+        }
+      ]
+    },
+    "Real Estate": {
+      "count": 1,
+      "top": [
+        {
+          "headline": "Warsh nuovo capo Fed",
+          "summary": "Il mercato scommette che la Fed manterrà i tassi di interesse invariati fino al 2026, nonostante le richieste di Trump di tagliare i tassi. Ciò potrebbe avere un impatto significativo sui settori finanziari e obbligazionari.",
+          "impact": "bullish",
+          "source": "CNBC World",
+          "score": 9.4,
+          "link": "https://www.cnbc.com/2026/05/22/trump-kevin-warsh-fed-chair-interest-rates.html",
+          "etf_tickers": [
+            "SPY",
+            "TLT",
+            "XLF"
+          ]
+        }
+      ]
+    },
+    "Industrials": {
+      "count": 35,
+      "top": [
+        {
+          "headline": "Israeli forces attack central Gaza despite ceasefire agreement",
+          "summary": "Video shows the moment Israeli forces struck Nuseirat and Bureij refugee camps in central Gaza, injuring dozens.",
+          "impact": "neutral",
+          "source": "Al Jazeera",
+          "score": 10.0,
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/5/23/israeli-forces-attack-central-gaza-despite-ceasefire-agreement?traffic_source=rss",
+          "etf_tickers": []
+        },
+        {
+          "headline": "Iran war live: Tehran says diplomacy continues but no deal yet with US",
+          "summary": "Israeli attacks on Lebanon have killed at least 3,111 people since March 2, with 9,432 injured: Health Ministry.",
+          "impact": "neutral",
+          "source": "Al Jazeera",
+          "score": 10.0,
+          "link": "https://www.aljazeera.com/news/liveblog/2026/5/23/iran-war-live-tehran-says-diplomacy-continues-but-no-deal-yet-with-us?traffic_source=rss",
+          "etf_tickers": []
+        },
+        {
+          "headline": "Asia’s Next Energy Hub May Rise in Malaysia",
+          "summary": "Global energy market assumptions are breaking down. Until the Iran War, global oil and gas markets were built on a dangerous illusion: that the Strait of Hormuz would always remain open, predictable, and commercially dependable. Asia’s entire energy security architecture, from LNG flows to crude imports and refined product trading, was designed around that assumption. Today, that assumption is collapsing in real time. The combined pressure of Iranian threats in the Strait of Hormuz, persistent insecurity in the Red Sea, fragmentation within…",
+          "impact": "neutral",
+          "source": "OilPrice",
+          "score": 10.0,
+          "link": "https://oilprice.com/Energy/Energy-General/Asias-Next-Energy-Hub-May-Rise-in-Malaysia.html",
+          "etf_tickers": []
+        }
+      ]
+    },
+    "Bonds": {
+      "count": 18,
+      "top": [
+        {
+          "headline": "Decisions taken by the Governing Council of the ECB (in addition to decisions setting interest rates)",
+          "summary": "The European Central Bank (ECB) is the central bank of the European Union countries which have adopted the euro. Our main task is to maintain price stability in the euro area and so preserve the purchasing power of the single currency.",
+          "impact": "neutral",
+          "source": "ECB",
+          "score": 10.0,
+          "link": "https://www.ecb.europa.eu//press/govcdec/otherdec/2026/html/ecb.gc260522~a4812a8f23.en.html",
+          "etf_tickers": []
+        },
+        {
+          "headline": "Results of the March 2026 survey on credit terms and conditions in euro-denominated securities financing and OTC derivatives markets (SESFOD)",
+          "summary": "The European Central Bank (ECB) is the central bank of the European Union countries which have adopted the euro. Our main task is to maintain price stability in the euro area and so preserve the purchasing power of the single currency.",
+          "impact": "neutral",
+          "source": "ECB",
+          "score": 10.0,
+          "link": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr260520~feb373ad0d.en.html",
+          "etf_tickers": []
+        },
+        {
+          "headline": "EU Warns Energy Prices Will Stay Elevated Through 2027",
+          "summary": "Top EU officials said Friday that oil and gas prices are expected to remain elevated through at least the end of 2027, with the fallout from the Iran war likely to keep pressure on inflation and economic growth. Speaking after a meeting of eurozone finance ministers in Cyprus on Friday, EU Economy Commissioner Valdis Dombrovskis said higher energy costs are now expected to drive inflation to 3.1% this year and 2.4% in 2027—well above the bloc’s earlier forecast of 1.9% for this year. The concern is no longer just fuel prices themselves.…",
+          "impact": "mixed",
+          "source": "OilPrice",
+          "score": 10.0,
+          "link": "https://oilprice.com/Latest-Energy-News/World-News/EU-Warns-Energy-Prices-Will-Stay-Elevated-Through-2027.html",
+          "etf_tickers": []
+        }
+      ]
+    },
+    "Consumers": {
+      "count": 2,
+      "top": [
+        {
+          "headline": "Sentimento dei consumatori a minimo storico",
+          "summary": "Il sentimento dei consumatori è sceso a un nuovo minimo storico a maggio a causa dell'aumento delle preoccupazioni per l'inflazione dovute alla guerra tra Stati Uniti e Iran e ai prezzi elevati del petrolio. Ciò potrebbe avere un impatto negativo sui settori energetico e dei consumatori.",
+          "impact": "bearish",
+          "source": "CNBC Economy",
+          "score": 9.4,
+          "link": "https://www.cnbc.com/2026/05/22/consumer-sentiment-hits-fresh-record-low-in-may-as-iran-war-fuels-inflation-worries.html",
+          "etf_tickers": [
+            "SPY",
+            "XLE"
+          ]
+        },
+        {
+          "headline": "Incassi bassi per Star Wars",
+          "summary": "I biglietti anticipati per 'Star Wars: The Mandalorian and Grogu' hanno totalizzato solo 12 milioni di dollari, il minimo nella storia della saga. Ciò potrebbe avere un impatto negativo sul settore dei consumatori.",
+          "impact": "bearish",
+          "source": "CNBC World",
+          "score": 6.1,
+          "link": "https://www.cnbc.com/2026/05/22/disneys-star-wars-the-mandalorian-and-grogu-box-office-preview.html",
+          "etf_tickers": []
+        }
+      ]
+    }
+  },
+  "rotation_signals": [],
+  "articles": [
+    {
+      "title": "Japan core inflation softens to over four year low, weakening case for BOJ rate hike",
+      "headline_it": "",
+      "summary_it": "",
+      "summary_en": "Core inflation — which strips out prices of fresh food — was lower than the 1.7% expected by economists polled by Reuters and below the 1.8% reading in March.",
+      "source": "CNBC World",
+      "link": "https://www.cnbc.com/2026/05/22/japan-april-core-inflation-boj-rate-hike-outlook.html",
+      "date": "2026-05-22 05:03",
+      "score": 10.0,
+      "impact": "bearish",
+      "sectors": [
+        "Bonds",
+        "Broad Market",
+        "Commodities",
+        "Financials"
+      ],
+      "primary_sector": "Bonds",
+      "etf_tickers": [],
+      "rotation": ""
+    },
+    {
+      "title": "Putin vows retaliation after accusing Ukraine of hitting student dormitory",
+      "headline_it": "",
+      "summary_it": "",
+      "summary_en": "Ukraine says it struck Russia's elite Rubicon drone military unit in a Moscow-occupied region.",
+      "source": "BBC World",
+      "link": "https://www.bbc.com/news/articles/c5y74lwx395o?at_medium=RSS&at_campaign=rss",
+      "date": "2026-05-23 07:44",
+      "score": 10.0,
+      "impact": "neutral",
+      "sectors": [
+        "Broad Market",
+        "Commodities",
+        "Energy",
+        "Industrials",
+        "International"
+      ],
+      "primary_sector": "Broad Market",
+      "etf_tickers": [],
+      "rotation": ""
+    },
+    {
+      "title": "Rubio visits India to sell energy as Iran oil shock persists",
+      "headline_it": "",
+      "summary_it": "",
+      "summary_en": "The top US diplomat has made statements offering to support India’s energy needs - but should Delhi give in?",
+      "source": "BBC World",
+      "link": "https://www.bbc.com/news/articles/c87qrwyyrn2o?at_medium=RSS&at_campaign=rss",
+      "date": "2026-05-23 03:55",
+      "score": 10.0,
+      "impact": "neutral",
+      "sectors": [
+        "Broad Market",
+        "Commodities",
+        "Energy",
+        "Industrials",
+        "International"
+      ],
+      "primary_sector": "Broad Market",
+      "etf_tickers": [],
+      "rotation": ""
+    },
+    {
+      "title": "US government releases UFO sighting reports - 'Orbs swarming in all directions'",
+      "headline_it": "",
+      "summary_it": "",
+      "summary_en": "The Pentagon discloses scores of UFO files with reported sightings of spheres, discs and fireballs spanning nearly 80 years.",
+      "source": "BBC World",
+      "link": "https://www.bbc.com/news/articles/cn8pzzlyy66o?at_medium=RSS&at_campaign=rss",
+      "date": "2026-05-22 22:32",
+      "score": 10.0,
+      "impact": "neutral",
+      "sectors": [
+        "Broad Market",
+        "Commodities",
+        "Energy",
+        "International"
+      ],
+      "primary_sector": "Broad Market",
+      "etf_tickers": [
+        "UFO"
+      ],
+      "rotation": ""
+    },
+    {
+      "title": "More than 40,000 Californians evacuated due to chemical tank leak",
+      "headline_it": "",
+      "summary_it": "",
+      "summary_en": "Officials have warned that the tank contains a \"highly volatile\" substance that could lead to an explosion.",
+      "source": "BBC World",
+      "link": "https://www.bbc.com/news/articles/c3w2l249j8go?at_medium=RSS&at_campaign=rss",
+      "date": "2026-05-23 01:59",
+      "score": 10.0,
+      "impact": "neutral",
+      "sectors": [
+        "Broad Market",
+        "Commodities",
+        "Energy",
+        "Industrials",
+        "International"
+      ],
+      "primary_sector": "Broad Market",
+      "etf_tickers": [],
+      "rotation": ""
+    },
+    {
+      "title": "Trump is putting pressure on Cuba - why and to what end?",
+      "headline_it": "",
+      "summary_it": "",
+      "summary_en": "The US has warned that a peaceful agreement with Cuba is unlikely, Havana insists this is a \"fraudulent case\" designed to justify military intervention.",
+      "source": "BBC World",
+      "link": "https://www.bbc.com/news/articles/c5yrkl96xwvo?at_medium=RSS&at_campaign=rss",
+      "date": "2026-05-22 18:33",
+      "score": 10.0,
+      "impact": "neutral",
+      "sectors": [
+        "Broad Market",
+        "Commodities",
+        "Energy",
+        "Industrials",
+        "International"
+      ],
+      "primary_sector": "Broad Market",
+      "etf_tickers": [],
+      "rotation": ""
+    },
+    {
+      "title": "Iran steps up claim to control Strait of Hormuz",
+      "headline_it": "",
+      "summary_it": "",
+      "summary_en": "Iran publishes a map claiming \"armed forces oversight\" across more than 22,000 sq km of the waterway.",
+      "source": "BBC World",
+      "link": "https://www.bbc.com/news/articles/cq5py64gvwzo?at_medium=RSS&at_campaign=rss",
+      "date": "2026-05-21 14:37",
+      "score": 10.0,
+      "impact": "neutral",
+      "sectors": [
+        "Commodities",
+        "Energy",
+        "Industrials",
+        "International"
+      ],
+      "primary_sector": "Commodities",
+      "etf_tickers": [],
+      "rotation": ""
+    },
+    {
+      "title": "Decisions taken by the Governing Council of the ECB (in addition to decisions setting interest rates)",
+      "headline_it": "",
+      "summary_it": "",
+      "summary_en": "The European Central Bank (ECB) is the central bank of the European Union countries which have adopted the euro. Our main task is to maintain price stability in the euro area and so preserve the purchasing power of the single currency.",
+      "source": "ECB",
+      "link": "https://www.ecb.europa.eu//press/govcdec/otherdec/2026/html/ecb.gc260522~a4812a8f23.en.html",
+      "date": "2026-05-22 13:00",
+      "score": 10.0,
+      "impact": "neutral",
+      "sectors": [
+        "Bonds",
+        "Broad Market",
+        "Financials"
+      ],
+      "primary_sector": "Bonds",
+      "etf_tickers": [],
+      "rotation": ""
+    },
+    {
+      "title": "Philip R. Lane: Europe and the world economy",
+      "headline_it": "",
+      "summary_it": "",
+      "summary_en": "The European Central Bank (ECB) is the central bank of the European Union countries which have adopted the euro. Our main task is to maintain price stability in the euro area and so preserve the purchasing power of the single currency.",
+      "source": "ECB",
+      "link": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp260522~f0f11a5f05.en.html",
+      "date": "2026-05-22 01:15",
+      "score": 10.0,
+      "impact": "neutral",
+      "sectors": [
+        "Financials"
+      ],
+      "primary_sector": "Financials",
+      "etf_tickers": [],
+      "rotation": ""
+    },
+    {
+      "title": "Frank Elderson: A central banker’s perspective on climate change and nature degradation",
+      "headline_it": "",
+      "summary_it": "",
+      "summary_en": "",
+      "source": "ECB",
+      "link": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp260521~ccae6782e3.en.pdf",
+      "date": "2026-05-21 15:30",
+      "score": 10.0,
+      "impact": "neutral",
+      "sectors": [
+        "Financials"
+      ],
+      "primary_sector": "Financials",
+      "etf_tickers": [],
+      "rotation": ""
+    },
+    {
+      "title": "Results of the March 2026 survey on credit terms and conditions in euro-denominated securities financing and OTC derivatives markets (SESFOD)",
+      "headline_it": "",
+      "summary_it": "",
+      "summary_en": "The European Central Bank (ECB) is the central bank of the European Union countries which have adopted the euro. Our main task is to maintain price stability in the euro area and so preserve the purchasing power of the single currency.",
+      "source": "ECB",
+      "link": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr260520~feb373ad0d.en.html",
+      "date": "2026-05-20 09:00",
+      "score": 10.0,
+      "impact": "neutral",
+      "sectors": [
+        "Bonds",
+        "Financials"
+      ],
+      "primary_sector": "Bonds",
+      "etf_tickers": [],
+      "rotation": ""
+    },
+    {
+      "title": "(Research Paper) Households' Wage Growth Expectations Formation: The Linkage with Price Inflation Expectations",
+      "headline_it": "",
+      "summary_it": "",
+      "summary_en": "",
+      "source": "Bank of Japan",
+      "link": "http://www.boj.or.jp/en/research/wps_rev/wps_2026/wp26e09.htm",
+      "date": "2026-05-22 07:00",
+      "score": 10.0,
+      "impact": "bullish",
+      "sectors": [
+        "Bonds",
+        "Broad Market",
+        "Commodities"
+      ],
+      "primary_sector": "Bonds",
+      "etf_tickers": [],
+      "rotation": ""
+    },
+    {
+      "title": "Iran weighs US peace proposal despite ‘deep and significant’ disagreements",
+      "headline_it": "",
+      "summary_it": "",
+      "summary_en": "A visit by Pakistan’s army chief to Tehran is seen as a sign of significant progress in negotiations.",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/news/2026/5/23/iran-weighs-us-peace-proposal-despite-deep-and-significant-disagreements?traffic_source=rss",
+      "date": "2026-05-23 08:16",
+      "score": 10.0,
+      "impact": "neutral",
+      "sectors": [
+        "Commodities",
+        "Energy",
+        "Industrials",
+        "International"
+      ],
+      "primary_sector": "Commodities",
+      "etf_tickers": [],
+      "rotation": ""
+    },
+    {
+      "title": "Not just the US: India to Brazil, 51 nations armed Israel amid Gaza war",
+      "headline_it": "",
+      "summary_it": "",
+      "summary_en": "Despite ICJ genocide warnings, 51 nations kept arming Israel, even after pledging to halt support.",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/news/longform/2026/5/23/not-just-the-us-india-to-brazil-51-nations-armed-israel-amid-gaza-war?traffic_source=rss",
+      "date": "2026-05-23 07:56",
+      "score": 10.0,
+      "impact": "bearish",
+      "sectors": [
+        "Broad Market",
+        "Commodities",
+        "Energy",
+        "Industrials",
+        "International"
+      ],
+      "primary_sector": "Broad Market",
+      "etf_tickers": [],
+      "rotation": ""
+    },
+    {
+      "title": "Iran war day 85: Tehran says major gaps remain in US talks",
+      "headline_it": "",
+      "summary_it": "",
+      "summary_en": "Pakistan army chief Asim Munir arrives in Tehran as mediation efforts to secure a US-Iran peace deal intensify.",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/news/2026/5/23/iran-war-day-85-tehran-says-major-gaps-remain-in-us-talks?traffic_source=rss",
+      "date": "2026-05-23 06:51",
+      "score": 10.0,
+      "impact": "neutral",
+      "sectors": [
+        "Broad Market",
+        "Commodities",
+        "Energy",
+        "Industrials",
+        "International"
+      ],
+      "primary_sector": "Broad Market",
+      "etf_tickers": [],
+      "rotation": ""
+    },
+    {
+      "title": "Israeli forces attack central Gaza despite ceasefire agreement",
+      "headline_it": "",
+      "summary_it": "",
+      "summary_en": "Video shows the moment Israeli forces struck Nuseirat and Bureij refugee camps in central Gaza, injuring dozens.",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/5/23/israeli-forces-attack-central-gaza-despite-ceasefire-agreement?traffic_source=rss",
+      "date": "2026-05-23 06:40",
+      "score": 10.0,
+      "impact": "neutral",
+      "sectors": [
+        "Broad Market",
+        "Energy",
+        "Industrials",
+        "International"
+      ],
+      "primary_sector": "Broad Market",
+      "etf_tickers": [],
+      "rotation": ""
+    },
+    {
+      "title": "Some fear US-Philippines war games are drawing conflict closer to home",
+      "headline_it": "",
+      "summary_it": "",
+      "summary_en": "Critics of US, Philippine military cooperation say closely aligning with Washington makes Manila a possible target.",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/news/2026/5/23/some-fear-us-philippines-war-games-are-drawing-conflict-closer-to-home?traffic_source=rss",
+      "date": "2026-05-23 03:19",
+      "score": 10.0,
+      "impact": "bearish",
+      "sectors": [
+        "Broad Market",
+        "Commodities",
+        "Energy",
+        "Industrials",
+        "International"
+      ],
+      "primary_sector": "Broad Market",
+      "etf_tickers": [],
+      "rotation": ""
+    },
+    {
+      "title": "Iran war live: Tehran says diplomacy continues but no deal yet with US",
+      "headline_it": "",
+      "summary_it": "",
+      "summary_en": "Israeli attacks on Lebanon have killed at least 3,111 people since March 2, with 9,432 injured: Health Ministry.",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/news/liveblog/2026/5/23/iran-war-live-tehran-says-diplomacy-continues-but-no-deal-yet-with-us?traffic_source=rss",
+      "date": "2026-05-23 00:00",
+      "score": 10.0,
+      "impact": "neutral",
+      "sectors": [
+        "Broad Market",
+        "Commodities",
+        "Energy",
+        "Industrials",
+        "International"
+      ],
+      "primary_sector": "Broad Market",
+      "etf_tickers": [],
+      "rotation": ""
+    },
+    {
+      "title": "Colombia's Natural Gas Crisis Deepens as Strait of Hormuz Closure Cuts Supply",
+      "headline_it": "",
+      "summary_it": "",
+      "summary_en": "Strife-torn Colombia is facing a severe energy crisis at a critical juncture. Global supply of natural gas is heavily constrained due to the closure of the Strait of Hormuz after U.S. strikes on Iran. This could not come at a worse time for Colombia, with the Andean country experiencing a massive surge in demand for natural gas at a time when domestic production is declining. The rapidly growing supply shortfall was filled by costly liquefied natural gas (LNG) imports, the future of which now appears uncertain. These events are weighing heavily…",
+      "source": "OilPrice",
+      "link": "https://oilprice.com/Energy/Energy-General/Colombias-Natural-Gas-Crisis-Deepens-as-Strait-of-Hormuz-Closure-Cuts-Supply.html",
+      "date": "2026-05-22 22:00",
+      "score": 10.0,
+      "impact": "mixed",
+      "sectors": [
+        "Commodities",
+        "Energy",
+        "Industrials",
+        "International"
+      ],
+      "primary_sector": "Commodities",
+      "etf_tickers": [],
+      "rotation": ""
+    },
+    {
+      "title": "Asia’s Next Energy Hub May Rise in Malaysia",
+      "headline_it": "",
+      "summary_it": "",
+      "summary_en": "Global energy market assumptions are breaking down. Until the Iran War, global oil and gas markets were built on a dangerous illusion: that the Strait of Hormuz would always remain open, predictable, and commercially dependable. Asia’s entire energy security architecture, from LNG flows to crude imports and refined product trading, was designed around that assumption. Today, that assumption is collapsing in real time. The combined pressure of Iranian threats in the Strait of Hormuz, persistent insecurity in the Red Sea, fragmentation within…",
+      "source": "OilPrice",
+      "link": "https://oilprice.com/Energy/Energy-General/Asias-Next-Energy-Hub-May-Rise-in-Malaysia.html",
+      "date": "2026-05-22 21:00",
+      "score": 10.0,
+      "impact": "neutral",
+      "sectors": [
+        "Broad Market",
+        "Commodities",
+        "Energy",
+        "Industrials",
+        "International"
+      ],
+      "primary_sector": "Broad Market",
+      "etf_tickers": [],
+      "rotation": ""
+    },
+    {
+      "title": "Ukraine Hits 300,000-Bpd Gazprom Neft Refinery in Overnight Drone Strike",
+      "headline_it": "",
+      "summary_it": "",
+      "summary_en": "Ukraine targeted overnight the Yaroslavl oil refinery in Russia, escalating the drone attacks on Russian refining and oil exporting assets, Ukrainian President Volodymyr Zelenskyy said on Friday. “Today, there was a report by Commander-in-Chief of the Armed Forces of Ukraine Oleksandr Syrskyi on the use of long-range drones against Russian oil refining and export assets,” Zelenskyy wrote on social media. “In particular, overnight, the Defense Forces of Ukraine operated against targets associated with the Yaroslavl oil refinery…",
+      "source": "OilPrice",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/Ukraine-Hits-300000-Bpd-Gazprom-Neft-Refinery-in-Overnight-Drone-Strike.html",
+      "date": "2026-05-22 15:30",
+      "score": 10.0,
+      "impact": "bullish",
+      "sectors": [
+        "Broad Market",
+        "Commodities",
+        "Energy",
+        "Industrials",
+        "International"
+      ],
+      "primary_sector": "Broad Market",
+      "etf_tickers": [],
+      "rotation": ""
+    },
+    {
+      "title": "Oil Markets Ignore Red Flags as Global Energy Crisis Deepens",
+      "headline_it": "",
+      "summary_it": "",
+      "summary_en": "Global oil markets remain under severe stress as Hormuz disruptions, weak economic data, and tightening inventories reshape energy flows worldwide. Friday, May 22, 2026 In a week of contradicting narratives, the largest ever US inventory drawdown sparked only a minor bullish moment as media reports of some form of negotiations between the US and Iran continue to resonate. With Europe posting its worst macroeconomic numbers since 2023 and the IEA warning of oil markets hitting the ‘red zone’ by July-August, ICE Brent is unlikely to fall…",
+      "source": "OilPrice",
+      "link": "https://oilprice.com/Energy/Energy-General/Oil-Markets-Ignore-Red-Flags-as-Global-Energy-Crisis-Deepens.html",
+      "date": "2026-05-22 15:24",
+      "score": 10.0,
+      "impact": "mixed",
+      "sectors": [
+        "Broad Market",
+        "Commodities",
+        "Energy",
+        "Industrials",
+        "International"
+      ],
+      "primary_sector": "Broad Market",
+      "etf_tickers": [],
+      "rotation": ""
+    },
+    {
+      "title": "EU Warns Energy Prices Will Stay Elevated Through 2027",
+      "headline_it": "",
+      "summary_it": "",
+      "summary_en": "Top EU officials said Friday that oil and gas prices are expected to remain elevated through at least the end of 2027, with the fallout from the Iran war likely to keep pressure on inflation and economic growth. Speaking after a meeting of eurozone finance ministers in Cyprus on Friday, EU Economy Commissioner Valdis Dombrovskis said higher energy costs are now expected to drive inflation to 3.1% this year and 2.4% in 2027—well above the bloc’s earlier forecast of 1.9% for this year. The concern is no longer just fuel prices themselves.…",
+      "source": "OilPrice",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/EU-Warns-Energy-Prices-Will-Stay-Elevated-Through-2027.html",
+      "date": "2026-05-22 14:41",
+      "score": 10.0,
+      "impact": "mixed",
+      "sectors": [
+        "Bonds",
+        "Broad Market",
+        "Commodities",
+        "Energy",
+        "Industrials",
+        "International"
+      ],
+      "primary_sector": "Bonds",
+      "etf_tickers": [],
+      "rotation": ""
+    },
+    {
+      "title": "Pakistan Looks to Host Crude Reserve Sites of Gulf Oil Producers",
+      "headline_it": "",
+      "summary_it": "",
+      "summary_en": "Pakistan is encouraging oil producers from the Persian Gulf to set up crude reserve buffers at a planned Energy City near one of its ports, The Express Tribune reported on Friday. \"In case of emergencies like the breakout of war, Pakistan will have the first right to utilise the oil reserves,\" a Pakistani official told the publication. Pakistan, which doesn't have crude reserves at present to act as a buffer in case of emergencies, has been reeling from the Middle East crisis and negotiating with Iran to secure the passage of cargoes through the…",
+      "source": "OilPrice",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/Pakistan-Looks-to-Host-Crude-Reserve-Sites-of-Gulf-Oil-Producers.html",
+      "date": "2026-05-22 14:30",
+      "score": 10.0,
+      "impact": "mixed",
+      "sectors": [
+        "Broad Market",
+        "Commodities",
+        "Energy",
+        "Industrials",
+        "International"
+      ],
+      "primary_sector": "Broad Market",
+      "etf_tickers": [],
+      "rotation": ""
+    },
+    {
+      "title": "Iran Is Tightening Its Grip on the Strait of Hormuz",
+      "headline_it": "",
+      "summary_it": "",
+      "summary_en": "Shortly after the outbreak of the war with the United States and Israel, Iran took control of the Strait of Hormuz, a key artery for global oil and gas supplies. By threatening and attacking international shipping, Iran brought maritime traffic to a virtual standstill, giving it significant leverage over its neighbors in the Persian Gulf and the global economy. Now, the Islamic Republic is formalizing its dominance over the strategic chokepoint by imposing a new transit regime. That is despite repeated warnings from the United States, which has…",
+      "source": "OilPrice",
+      "link": "https://oilprice.com/Energy/Energy-General/Iran-Is-Tightening-Its-Grip-on-the-Strait-of-Hormuz.html",
+      "date": "2026-05-22 14:00",
+      "score": 10.0,
+      "impact": "bearish",
+      "sectors": [
+        "Broad Market",
+        "Commodities",
+        "Energy",
+        "Industrials",
+        "International"
+      ],
+      "primary_sector": "Broad Market",
+      "etf_tickers": [],
+      "rotation": ""
+    },
+    {
+      "title": "Kevin Warsh takes oath of office as chairman and a member of the Board of Governors of the Federal Reserve System, and the Federal Open Market Committee unanimously selects Warsh as its chairman",
+      "headline_it": "Warsh nuovo presidente Fed",
+      "summary_it": "La nomina di Kevin Warsh potrebbe influenzare la politica monetaria e avere un impatto sul mercato. Ciò potrebbe avere ripercussioni sui settori finanziari e obbligazionari.",
+      "summary_en": "Kevin Warsh takes oath of office as chairman and a member of the Board of Governors of the Federal Reserve System, and the Federal Open Market Committee unanimously selects Warsh as its chairman",
+      "source": "Federal Reserve",
+      "link": "https://www.federalreserve.gov/newsevents/pressreleases/other20260522a.htm",
+      "date": "2026-05-22 20:15",
+      "score": 9.4,
+      "impact": "neutral",
+      "sectors": [
+        "Bonds",
+        "Broad Market",
+        "Commodities",
+        "Energy",
+        "Financials",
+        "Industrials",
+        "International"
+      ],
+      "primary_sector": "Bonds",
+      "etf_tickers": [
+        "SPY",
+        "TLT",
+        "XLF"
+      ],
+      "rotation": ""
+    },
+    {
+      "title": "Minutes of the Federal Open Market Committee, April 28-29, 2026",
+      "headline_it": "Fed: minuti del comitato",
+      "summary_it": "I minuti del Federal Open Market Committee potrebbero influenzare le decisioni di investimento. La Fed potrebbe influenzare i tassi di interesse e il mercato obbligazionario.",
+      "summary_en": "Minutes of the Federal Open Market Committee, April 28-29, 2026",
+      "source": "Federal Reserve",
+      "link": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20260520a.htm",
+      "date": "2026-05-20 18:00",
+      "score": 9.4,
+      "impact": "neutral",
+      "sectors": [
+        "Bonds",
+        "Broad Market",
+        "Financials"
+      ],
+      "primary_sector": "Bonds",
+      "etf_tickers": [
+        "SPY",
+        "TLT",
+        "XLF"
+      ],
+      "rotation": ""
+    },
+    {
+      "title": "Consumer sentiment hits fresh record low in May as Iran war fuels inflation worries",
+      "headline_it": "Sentimento dei consumatori a minimo storico",
+      "summary_it": "Il sentimento dei consumatori è sceso a un nuovo minimo storico a maggio a causa dell'aumento delle preoccupazioni per l'inflazione dovute alla guerra tra Stati Uniti e Iran e ai prezzi elevati del petrolio. Ciò potrebbe avere un impatto negativo sui settori energetico e dei consumatori.",
+      "summary_en": "Consumer sentiment has tumbled to a fresh record low in May as fears of higher prices grow due to the U.S.-Iran war and elevated oil prices.",
+      "source": "CNBC Economy",
+      "link": "https://www.cnbc.com/2026/05/22/consumer-sentiment-hits-fresh-record-low-in-may-as-iran-war-fuels-inflation-worries.html",
+      "date": "2026-05-22 16:13",
+      "score": 9.4,
+      "impact": "bearish",
+      "sectors": [
+        "Bonds",
+        "Broad Market",
+        "Commodities",
+        "Consumers",
+        "Energy",
+        "Industrials",
+        "International"
+      ],
+      "primary_sector": "Bonds",
+      "etf_tickers": [
+        "SPY",
+        "XLE"
+      ],
+      "rotation": ""
+    },
+    {
+      "title": "Kevin Warsh to be sworn in as Federal Reserve chair on Friday",
+      "headline_it": "Warsh nuovo capo Fed",
+      "summary_it": "Kevin Warsh sarà presto il nuovo capo della Federal Reserve, con potenziali impatti sulla politica monetaria e sui mercati finanziari. Ciò potrebbe influenzare i settori finanziari e obbligazionari.",
+      "summary_en": "Trump will swear in Kevin Warsh, his hand-picked choice to lead the Federal Reserve, during a White House ceremony.",
+      "source": "CNBC Economy",
+      "link": "https://www.cnbc.com/2026/05/18/kevin-warsh-trump-federal-reserve-chair.html",
+      "date": "2026-05-19 11:37",
+      "score": 9.4,
+      "impact": "neutral",
+      "sectors": [
+        "Bonds",
+        "Broad Market",
+        "Commodities",
+        "Energy",
+        "Financials",
+        "Industrials",
+        "International"
+      ],
+      "primary_sector": "Bonds",
+      "etf_tickers": [
+        "SPY",
+        "TLT",
+        "XLF"
+      ],
+      "rotation": ""
+    },
+    {
+      "title": "The Fed will have to raise interest rates in July to appease 'bond vigilantes,' Yardeni says",
+      "headline_it": "Fed: rialzo tassi a luglio?",
+      "summary_it": "La Fed potrebbe essere costretta a innalzare i tassi di interesse a luglio per calmare i 'vigilanti obbligazionari'. Ciò potrebbe avere un impatto significativo sui settori finanziari e dei bond.",
+      "summary_en": "Sent to the Federal Reserve to lower interest rates, incoming Chair Kevin Warsh instead may have to push for higher levels.",
+      "source": "CNBC Economy",
+      "link": "https://www.cnbc.com/2026/05/18/the-fed-will-have-to-raise-interest-rates-in-july-to-appease-bond-vigilantes-yardeni-says.html",
+      "date": "2026-05-18 16:08",
+      "score": 9.4,
+      "impact": "bearish",
+      "sectors": [
+        "Bonds",
+        "Broad Market",
+        "Commodities",
+        "Energy",
+        "Financials",
+        "Industrials",
+        "International"
+      ],
+      "primary_sector": "Bonds",
+      "etf_tickers": [
+        "SPY",
+        "TLT",
+        "XLF"
+      ],
+      "rotation": ""
+    },
+    {
+      "title": "Fed officials see rate hike ahead if inflation stays elevated, minutes show",
+      "headline_it": "Fed: rialzo tassi se inflazione resta alta",
+      "summary_it": "La maggioranza degli officiali della Fed prevede un aumento dei tassi di interesse se l'inflazione rimane elevata. Ciò potrebbe avere un impatto significativo sui mercati finanziari e sui bond.",
+      "summary_en": "A majority of officials anticipated that interest rate increases would be necessary if the Iran war continued to aggravate inflation.",
+      "source": "CNBC Finance",
+      "link": "https://www.cnbc.com/2026/05/20/fed-officials-see-rate-hike-ahead-if-inflation-stays-elevated-minutes-show.html",
+      "date": "2026-05-20 19:04",
+      "score": 9.4,
+      "impact": "bearish",
+      "sectors": [
+        "Bonds",
+        "Broad Market",
+        "Commodities",
+        "Energy",
+        "Financials",
+        "Industrials",
+        "International"
+      ],
+      "primary_sector": "Bonds",
+      "etf_tickers": [
+        "SPY",
+        "TLT",
+        "XLF"
+      ],
+      "rotation": ""
+    },
+    {
+      "title": "Kevin Warsh sworn in as Fed chair as Trump seeks interest rate cuts",
+      "headline_it": "Warsh nuovo capo Fed",
+      "summary_it": "Il mercato scommette che la Fed manterrà i tassi di interesse invariati fino al 2026, nonostante le richieste di Trump di tagliare i tassi. Ciò potrebbe avere un impatto significativo sui settori finanziari e obbligazionari.",
+      "summary_en": "Despite President Donald Trump's demands for lower interest rates, markets are betting the Fed will stay on hold through most, if not all, of 2026.",
+      "source": "CNBC World",
+      "link": "https://www.cnbc.com/2026/05/22/trump-kevin-warsh-fed-chair-interest-rates.html",
+      "date": "2026-05-22 20:53",
+      "score": 9.4,
+      "impact": "bullish",
+      "sectors": [
+        "Bonds",
+        "Broad Market",
+        "Commodities",
+        "Energy",
+        "Financials",
+        "Industrials",
+        "International",
+        "Real Estate"
+      ],
+      "primary_sector": "Bonds",
+      "etf_tickers": [
+        "SPY",
+        "TLT",
+        "XLF"
+      ],
+      "rotation": ""
+    },
+    {
+      "title": "Putin-Xi talks revive stalled Russian gas pipeline as Iran war rattles energy markets",
+      "headline_it": "Pipeline russo cinese riprende",
+      "summary_it": "Il presidente russo Putin e il leader cinese Xi Jinping discuteranno della ripresa del gasdotto Power of Siberia 2, con potenziali impatti sui mercati energetici.",
+      "summary_en": "Putin is expected to hold talks with Chinese leader Xi Jinping on Wednesday, with the long-stalled Power of Siberia 2 natural gas pipeline topping the agenda.",
+      "source": "CNBC Economy",
+      "link": "https://www.cnbc.com/2026/05/20/putin-xi-gas-pipeline-power-of-siberia-iran-war-.html",
+      "date": "2026-05-20 08:15",
+      "score": 8.7,
+      "impact": "bullish",
+      "sectors": [
+        "Broad Market",
+        "Commodities",
+        "Energy",
+        "Industrials",
+        "International"
+      ],
+      "primary_sector": "Broad Market",
+      "etf_tickers": [
+        "XLE"
+      ],
+      "rotation": ""
+    },
+    {
+      "title": "Fed to hike? When traders see a rate increase coming",
+      "headline_it": "Fed: rialzo tassi entro luglio 2027",
+      "summary_it": "I trader prevedono un aumento dei tassi di interesse da parte della Fed entro luglio 2027, con un impatto potenziale sui settori finanziari e obbligazionari. Ciò potrebbe influenzare i mercati azionari più ampi.",
+      "summary_en": "Traders on prediction market platforms see increasing odds that an interest rate hike from the central bank comes by July 2027.",
+      "source": "CNBC Finance",
+      "link": "https://www.cnbc.com/2026/05/19/fed-to-hike-when-traders-see-a-rate-increase-coming.html",
+      "date": "2026-05-19 21:51",
+      "score": 8.7,
+      "impact": "bearish",
+      "sectors": [
+        "Bonds",
+        "Broad Market",
+        "Financials"
+      ],
+      "primary_sector": "Bonds",
+      "etf_tickers": [
+        "SPY",
+        "TLT",
+        "XLF"
+      ],
+      "rotation": ""
+    },
+    {
+      "title": "Investors are flooding out of cash to buy stocks. That 'bull capitulation' is a sell signal, Bank of America says",
+      "headline_it": "Segnale di vendita per azioni",
+      "summary_it": "Gli investitori stanno abbandonando il contante per comprare azioni, ma questo potrebbe essere un segnale di vendita. La Bank of America avverte che potrebbe essere il momento di ridurre l'esposizione alle azioni.",
+      "summary_en": "A contrarian signal just flashed, warning traders it could be time to get out of equities or limit exposure.",
+      "source": "CNBC Finance",
+      "link": "https://www.cnbc.com/2026/05/19/investors-are-leaving-cash-to-buy-stocks-thats-a-sell-signal-bank-of-america-says.html",
+      "date": "2026-05-19 15:58",
+      "score": 8.7,
+      "impact": "bearish",
+      "sectors": [
+        "Broad Market",
+        "Commodities",
+        "Energy",
+        "Financials",
+        "International"
+      ],
+      "primary_sector": "Broad Market",
+      "etf_tickers": [
+        "QQQ",
+        "SPY"
+      ],
+      "rotation": ""
+    },
+    {
+      "title": "This 2008 ‘train wreck’ oil scenario could unfold if Hormuz isn’t opened by end of August",
+      "headline_it": "Rischio crisi petrolio",
+      "summary_it": "Un ritardo nella riapertura dello Stretto di Hormuz potrebbe portare a una crisi petrolifera simile a quella del 2008. Ciò potrebbe avere un impatto significativo sui settori energetico e delle commodity.",
+      "summary_en": "There’s a new warning from the commodity market about the risks of a delayed reopening of the Strait of Hormuz.",
+      "source": "MarketWatch",
+      "link": "https://www.marketwatch.com/story/this-2008-train-wreck-oil-scenario-could-unfold-if-hormuz-isnt-opened-by-end-of-august-75b74bb1?mod=mw_rss_topstories",
+      "date": "2026-05-22 23:15",
+      "score": 8.7,
+      "impact": "bearish",
+      "sectors": [
+        "Broad Market",
+        "Commodities",
+        "Energy",
+        "International"
+      ],
+      "primary_sector": "Broad Market",
+      "etf_tickers": [
+        "XLE"
+      ],
+      "rotation": ""
+    },
+    {
+      "title": "The oil shock meets the Fed ‘curse’: What Kevin Warsh means for your portfolio",
+      "headline_it": "Shock petrolifero e Fed",
+      "summary_it": "I ribassi di mercato sono spesso legati a nuovi leader delle banche centrali. Warsh deve scegliere tra ridurre la domanda o salvare il mercato rialzista.",
+      "summary_en": "Market downturns typically tag new central-bank leaders. And Warsh faces a tough choice between crushing demand or saving the bull market.",
+      "source": "MarketWatch",
+      "link": "https://www.marketwatch.com/story/the-new-fed-chair-curse-and-100-plus-oil-are-already-testing-kevin-warsh-and-the-stock-market-718b919d?mod=mw_rss_topstories",
+      "date": "2026-05-22 20:33",
+      "score": 8.7,
+      "impact": "bearish",
+      "sectors": [
+        "Broad Market",
+        "Commodities",
+        "Energy",
+        "Financials",
+        "Industrials",
+        "International"
+      ],
+      "primary_sector": "Broad Market",
+      "etf_tickers": [
+        "SPY",
+        "XLE"
+      ],
+      "rotation": ""
+    },
+    {
+      "title": "Kevin Warsh walks into a trap where the Fed can’t cut rates even if it wants to",
+      "headline_it": "Fed in trappola",
+      "summary_it": "La nomina di Kevin Warsh alla guida della Fed potrebbe limitare la capacità di tagliare i tassi di interesse, con impatto sul settore finanziario e sui bond.",
+      "summary_en": "Kevin Warsh is becoming Federal Reserve chair at a pivotal moment for the U.S. economy — forcing him to be something other than the disruptor he hoped to be.",
+      "source": "MarketWatch",
+      "link": "https://www.marketwatch.com/story/kevin-warsh-walks-into-a-trap-where-the-fed-cant-cut-rates-even-if-it-wants-to-8475e97c?mod=mw_rss_topstories",
+      "date": "2026-05-22 20:01",
+      "score": 8.7,
+      "impact": "bearish",
+      "sectors": [
+        "Bonds",
+        "Broad Market",
+        "Commodities",
+        "Energy",
+        "Financials",
+        "Industrials",
+        "International"
+      ],
+      "primary_sector": "Bonds",
+      "etf_tickers": [
+        "SPY",
+        "TLT",
+        "XLF"
+      ],
+      "rotation": ""
+    },
+    {
+      "title": "‘A big mistake’: The ECB is ‘hell-bent’ on rate hikes despite recession risks, senior economist warns",
+      "headline_it": " BCE: aumenti tassi un errore",
+      "summary_it": "L'aumento dei tassi da parte della BCE potrebbe essere un errore in un contesto di stagnazione e inflazione in Europa. Ciò potrebbe avere un impatto negativo sui mercati finanziari.",
+      "summary_en": "Berenberg's chief economist said ECB rate rises would be a \"big mistake\" amid growing signs of European stagflation.",
+      "source": "CNBC World",
+      "link": "https://www.cnbc.com/2026/05/22/inflation-interest-rates-rises-european-central-bank-ecb-oil-energy.html",
+      "date": "2026-05-22 09:21",
+      "score": 8.7,
+      "impact": "bearish",
+      "sectors": [
+        "Bonds",
+        "Broad Market",
+        "Commodities",
+        "Energy",
+        "Financials",
+        "International"
+      ],
+      "primary_sector": "Bonds",
+      "etf_tickers": [],
+      "rotation": ""
+    },
+    {
+      "title": "Treasury yields are mixed as investors digest Fed chair swearing in, bond market volatility",
+      "headline_it": "Tassi del Tesoro misti",
+      "summary_it": "La volatilità nel mercato obbligazionario continua con il nuovo presidente della Fed Kevin Warsh. Ciò potrebbe influenzare gli ETF di bond e il mercato azionario.",
+      "summary_en": "The volatility in the bond market continued as new Fed chair Kevin Warsh was sworn in on Friday.",
+      "source": "CNBC World",
+      "link": "https://www.cnbc.com/2026/05/22/treasury-yields-investors-week-bond-volatility.html",
+      "date": "2026-05-22 20:10",
+      "score": 8.7,
+      "impact": "neutral",
+      "sectors": [
+        "Bonds",
+        "Broad Market",
+        "Commodities",
+        "Energy",
+        "Industrials",
+        "International"
+      ],
+      "primary_sector": "Bonds",
+      "etf_tickers": [
+        "QQQ",
+        "TLT"
+      ],
+      "rotation": ""
+    },
+    {
+      "title": "Agencies publish resolution plan feedback letters for certain domestic and foreign banking organizations",
+      "headline_it": "Fed pubblica lettere di feedback",
+      "summary_it": "La Fed pubblica lettere di feedback per istituzioni bancarie. Potrebbe avere un impatto sul settore finanziario.",
+      "summary_en": "Agencies publish resolution plan feedback letters for certain domestic and foreign banking organizations",
+      "source": "Federal Reserve",
+      "link": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20260522a.htm",
+      "date": "2026-05-22 20:00",
+      "score": 7.4,
+      "impact": "neutral",
+      "sectors": [
+        "Broad Market",
+        "Financials"
+      ],
+      "primary_sector": "Broad Market",
+      "etf_tickers": [
+        "SPY",
+        "XLF"
+      ],
+      "rotation": ""
+    },
+    {
+      "title": "Federal Reserve Board requests public comment on a proposal to establish a \"payment account,\" which legally eligible financial institutions could use for the specific purpose of clearing and settling their payments",
+      "headline_it": "Fed propone conto pagamenti",
+      "summary_it": "La Federal Reserve propone l'istituzione di un 'conto pagamenti' per le istituzioni finanziarie. Ciò potrebbe influenzare il settore finanziario e il mercato più ampio.",
+      "summary_en": "Federal Reserve Board requests public comment on a proposal to establish a &quot;payment account,&quot; which legally eligible financial institutions could use for the specific purpose of clearing and settling their payments",
+      "source": "Federal Reserve",
+      "link": "https://www.federalreserve.gov/newsevents/pressreleases/other20260520a.htm",
+      "date": "2026-05-20 20:00",
+      "score": 7.4,
+      "impact": "neutral",
+      "sectors": [
+        "Broad Market",
+        "Financials"
+      ],
+      "primary_sector": "Broad Market",
+      "etf_tickers": [
+        "SPY",
+        "XLF"
+      ],
+      "rotation": ""
+    },
+    {
+      "title": "Kevin Warsh's real Fed 'regime change' may happen deep inside Wall Street's plumbing",
+      "headline_it": "Cambiamento alla Fed",
+      "summary_it": "Warsh potrebbe ridurre il ruolo della Fed nei mercati giornalieri e stabilire regole più chiare per gli interventi. Ciò potrebbe avere un impatto significativo sui settori finanziari e obbligazionari.",
+      "summary_en": "Warsh could guide to a smaller role in day-to-day markets, while also setting clearer rules for how and when it should intervene.",
+      "source": "CNBC Finance",
+      "link": "https://www.cnbc.com/2026/05/22/kevin-warshs-real-fed-regime-change-may-happen-deep-inside-wall-streets-plumbing.html",
+      "date": "2026-05-22 18:23",
+      "score": 7.4,
+      "impact": "neutral",
+      "sectors": [
+        "Bonds",
+        "Broad Market",
+        "Commodities",
+        "Energy",
+        "Financials",
+        "Industrials",
+        "International"
+      ],
+      "primary_sector": "Bonds",
+      "etf_tickers": [
+        "TLT",
+        "XLF"
+      ],
+      "rotation": ""
+    },
+    {
+      "title": "Japan’s megabanks post record profits, but analysts warn growth may slow as risks mount",
+      "headline_it": "Banche giapponesi: utili record",
+      "summary_it": "Le banche giapponesi potrebbero affrontare sfide per mantenere gli utili a livelli record a causa dei crescenti costi creditizi e dei rischi geopolitici. Ciò potrebbe influenzare gli ETF finanziari e internazionali.",
+      "summary_en": "Japan's largest lenders may face some challenges to keep profit levels at record highs, amid higher credit costs and current geopolitical risks",
+      "source": "CNBC Finance",
+      "link": "https://www.cnbc.com/2026/05/21/japan-megabanks-profits-growth-risks-sumitomo-mitsui-mizuho-mitsubishi-ufj.html",
+      "date": "2026-05-21 06:35",
+      "score": 7.4,
+      "impact": "bearish",
+      "sectors": [
+        "Bonds",
+        "Broad Market",
+        "Commodities",
+        "Energy",
+        "Financials",
+        "Industrials",
+        "International"
+      ],
+      "primary_sector": "Bonds",
+      "etf_tickers": [],
+      "rotation": ""
+    },
+    {
+      "title": "Warren Buffett teased to CNBC a ‘tiny purchase’ in March. Berkshire filing may have revealed it",
+      "headline_it": "Acquisto misterioso di Buffett",
+      "summary_it": "Warren Buffett ha annunciato un piccolo acquisto a marzo, che potrebbe essere stato rivelato nel recente filing di Berkshire. Ciò potrebbe avere un impatto sul settore finanziario e sul mercato azionario in generale.",
+      "summary_en": "When asked in March whether Berkshire was still putting money to work, Buffett said the conglomerate had made \"one tiny purchase.\"",
+      "source": "CNBC Finance",
+      "link": "https://www.cnbc.com/2026/05/18/warren-buffett-teased-to-cnbc-a-tiny-purchase-in-march-berkshire-filing-may-have-revealed-it.html",
+      "date": "2026-05-18 17:59",
+      "score": 7.4,
+      "impact": "bullish",
+      "sectors": [
+        "Broad Market",
+        "Commodities",
+        "Energy",
+        "Financials",
+        "Industrials",
+        "International"
+      ],
+      "primary_sector": "Broad Market",
+      "etf_tickers": [
+        "SPY",
+        "XLF"
+      ],
+      "rotation": ""
+    },
+    {
+      "title": "U.S., Iran signal peace progress — but remain at odds over enriched uranium, Strait of Hormuz tolls",
+      "headline_it": "Progressi verso la pace",
+      "summary_it": "Gli Stati Uniti e l'Iran mostrano segnali di progresso verso la pace, ma restano in disaccordo su questioni chiave come l'uranio arricchito e le tasse dello Stretto di Hormuz, influenzando i settori energetico e di mercato.",
+      "summary_en": "U.S. Secretary of State Marco Rubio on Thursday said there were \"good signs\" that an agreement to end the Middle East conflict is in sight.",
+      "source": "CNBC World",
+      "link": "https://www.cnbc.com/2026/05/22/iran-war-strait-of-hormuz-tolls-trump.html",
+      "date": "2026-05-22 13:33",
+      "score": 7.4,
+      "impact": "bullish",
+      "sectors": [
+        "Broad Market",
+        "Commodities",
+        "Energy",
+        "Industrials",
+        "International"
+      ],
+      "primary_sector": "Broad Market",
+      "etf_tickers": [
+        "SPY",
+        "XLE"
+      ],
+      "rotation": ""
+    },
+    {
+      "title": "Puig plunges after Estée Lauder tie-up talks terminated; European stocks rise",
+      "headline_it": "Titolo: Azioni europee in rialzo",
+      "summary_it": "Le azioni europee sono aumentate venerdì nonostante la guerra U.S.-Iran e i dati economici. La notizia non sembra avere un impatto diretto sui nostri settori di riferimento.",
+      "summary_en": "European stocks pushed higher on Friday as investors monitor the U.S.-Iran war and a slew of economic data.",
+      "source": "CNBC World",
+      "link": "https://www.cnbc.com/2026/05/22/europe-markets-stocks-ftse-100-stoxx-defense-iran-economic-data.html",
+      "date": "2026-05-22 15:48",
+      "score": 7.4,
+      "impact": "bearish",
+      "sectors": [
+        "Broad Market",
+        "Commodities",
+        "Energy",
+        "Industrials",
+        "International"
+      ],
+      "primary_sector": "Broad Market",
+      "etf_tickers": [],
+      "rotation": ""
+    },
+    {
+      "title": "The music industry’s stance on AI is shifting from fear to cautious optimism",
+      "headline_it": "Industria musicale ottimista su AI",
+      "summary_it": "L'industria musicale inizia a vedere l'AI con ottimismo, ma sottolinea la necessità di una gestione responsabile dei diritti e della compensazione degli artisti. Ciò potrebbe avere un impatto positivo sul settore tecnologico.",
+      "summary_en": "Music executives Bernie Cho and Anand Roy say the industry’s stance on AI is beginning to shift from fear toward more pragmatic adoption. However, they argue the technology will only gain broader acceptance if companies handle licensing, attribution and artist compensation responsibly — and keep human creators at the center of the work. Watch the conversation from CNBC's CONVERGE LIVE in Singapore.",
+      "source": "CNBC World",
+      "link": "https://www.cnbc.com/video/2026/05/21/the-music-industrys-ai-stance-is-shifting-toward-cautious-optimism.html",
+      "date": "2026-05-21 22:00",
+      "score": 6.1,
+      "impact": "bullish",
+      "sectors": [
+        "Broad Market",
+        "Commodities",
+        "Energy",
+        "Industrials",
+        "International",
+        "Tech & Semiconductors"
+      ],
+      "primary_sector": "Broad Market",
+      "etf_tickers": [
+        "QQQ"
+      ],
+      "rotation": ""
+    },
+    {
+      "title": "Disney's 'Star Wars: The Mandalorian and Grogu' tallies lowest Thursday preview sales in franchise history",
+      "headline_it": "Incassi bassi per Star Wars",
+      "summary_it": "I biglietti anticipati per 'Star Wars: The Mandalorian and Grogu' hanno totalizzato solo 12 milioni di dollari, il minimo nella storia della saga. Ciò potrebbe avere un impatto negativo sul settore dei consumatori.",
+      "summary_en": "Disney's \"Star Wars: The Mandalorian and Grogu\" tallied $12 million in Thursday night previews, the lowest collection of advance tickets in franchise history.",
+      "source": "CNBC World",
+      "link": "https://www.cnbc.com/2026/05/22/disneys-star-wars-the-mandalorian-and-grogu-box-office-preview.html",
+      "date": "2026-05-22 22:42",
+      "score": 6.1,
+      "impact": "bearish",
+      "sectors": [
+        "Broad Market",
+        "Commodities",
+        "Consumers",
+        "Energy",
+        "Industrials",
+        "International"
+      ],
+      "primary_sector": "Broad Market",
+      "etf_tickers": [],
+      "rotation": ""
+    },
+    {
+      "title": "Federal Reserve Board issues enforcement action with former employee of Commerce Bank",
+      "headline_it": "Azione di enforcement della Fed",
+      "summary_it": "La Federal Reserve Board ha emesso un'azione di enforcement contro un ex dipendente di Commerce Bank. L'impatto su ETF finanziari è limitato.",
+      "summary_en": "Federal Reserve Board issues enforcement action with former employee of Commerce Bank",
+      "source": "Federal Reserve",
+      "link": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20260521a.htm",
+      "date": "2026-05-21 15:00",
+      "score": 5.5,
+      "impact": "neutral",
+      "sectors": [
+        "Financials"
+      ],
+      "primary_sector": "Financials",
+      "etf_tickers": [
+        "XLF"
+      ],
+      "rotation": ""
+    }
+  ]
+}
