@@ -1,36 +1,24 @@
 {
-  "date": "May 30, 2026",
-  "week": "2026-W22",
+  "date": "June 06, 2026",
+  "week": "2026-W23",
   "ideas": [
     {
-      "ticker": "SPY",
-      "price": 756.48,
+      "ticker": "XLK",
+      "price": 180.3,
       "direction": "long",
-      "desc": "S&P 500"
+      "desc": "US Tech"
     },
     {
-      "ticker": "TAN",
-      "price": 73.93,
+      "ticker": "XLRE",
+      "price": 44.7,
       "direction": "long",
-      "desc": "Solar"
+      "desc": "Real Estate"
     },
     {
-      "ticker": "QQQ",
-      "price": 738.31,
+      "ticker": "XLV",
+      "price": 153.01,
       "direction": "long",
-      "desc": "Nasdaq 100"
-    },
-    {
-      "ticker": "SKYY",
-      "price": 144.57,
-      "direction": "long",
-      "desc": "Cloud Computing"
-    },
-    {
-      "ticker": "ARKG",
-      "price": 34.64,
-      "direction": "long",
-      "desc": "Genomics"
+      "desc": "Healthcare"
     }
   ]
 }
