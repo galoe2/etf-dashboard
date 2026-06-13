@@ -1,24 +1,36 @@
 {
-  "date": "June 06, 2026",
-  "week": "2026-W23",
+  "date": "June 13, 2026",
+  "week": "2026-W24",
   "ideas": [
     {
-      "ticker": "XLK",
-      "price": 180.3,
+      "ticker": "QQQ",
+      "price": 721.34,
       "direction": "long",
-      "desc": "US Tech"
+      "desc": "Nasdaq 100"
     },
     {
-      "ticker": "XLRE",
-      "price": 44.7,
+      "ticker": "SMH",
+      "price": 619.96,
       "direction": "long",
-      "desc": "Real Estate"
+      "desc": "Semiconductors"
     },
     {
-      "ticker": "XLV",
-      "price": 153.01,
+      "ticker": "USO",
+      "price": 125.43,
       "direction": "long",
-      "desc": "Healthcare"
+      "desc": "Crude Oil"
+    },
+    {
+      "ticker": "SPY",
+      "price": 741.75,
+      "direction": "long",
+      "desc": "S&P 500"
+    },
+    {
+      "ticker": "REMX",
+      "price": 95.5,
+      "direction": "long",
+      "desc": "Rare Earth"
     }
   ]
 }

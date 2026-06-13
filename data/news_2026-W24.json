@@ -1,0 +1,1390 @@
+{
+  "generated": "2026-06-13T10:20:11.029011",
+  "lookback_days": 7,
+  "total_articles": 50,
+  "sector_news": {
+    "Broad Market": {
+      "count": 41,
+      "top": [
+        {
+          "headline": "Iran Is Now More Dangerous Than Ever",
+          "summary": "After three months of war, Tehran feels it has little left to lose.",
+          "impact": "neutral",
+          "source": "Foreign Policy",
+          "score": 10.0,
+          "link": "https://foreignpolicy.com/2026/06/11/iran-war-ceasefire-deterrence-trump-lebanon-israel/",
+          "etf_tickers": []
+        },
+        {
+          "headline": "The Oil Market Could Be Weeks From a Breaking Point",
+          "summary": "Three and a half months after the blocked Strait of Hormuz created the worst oil supply disruption in history, oil prices remain below $100 per barrel amid hopes of an imminent U.S.-Iran deal. It’s not only hopes that have been keeping prices much lower than a sudden disappearance of 13 million barrels per day (bpd) of supply would warrant. The market has had major buffers to rely on. China, the world’s top crude importer, slashed imports to multi-year lows, while the U.S. boosted its crude exports to a record high. Strategic releases…",
+          "impact": "bullish",
+          "source": "OilPrice",
+          "score": 10.0,
+          "link": "https://oilprice.com/Energy/Crude-Oil/The-Oil-Market-Could-Be-Weeks-From-a-Breaking-Point.html",
+          "etf_tickers": []
+        },
+        {
+          "headline": "China's Fusion Reactor on Track for Ignition by 2027, Threatening U.S. Lead",
+          "summary": "China is working toward a major nuclear fusion milestone that will put it leagues ahead in the global race to unlock the ‘holy grail’ of clean energy. The Experimental Advanced Superconducting Tokamak (EAST) is reportedly on track to achieve ignition in 2027, potentially making the tokamak the first nuclear fusion reactor in the world to sustain plasma without external heating sources. This would be a critical milestone toward enabling commercial nuclear fusion. Nuclear fusion is the process that powers our own sun. It’s many…",
+          "impact": "neutral",
+          "source": "OilPrice",
+          "score": 10.0,
+          "link": "https://oilprice.com/Alternative-Energy/Nuclear-Power/Chinas-Fusion-Reactor-on-Track-for-Ignition-by-2027-Threatening-US-Lead.html",
+          "etf_tickers": []
+        }
+      ]
+    },
+    "International": {
+      "count": 40,
+      "top": [
+        {
+          "headline": "U.S. Military Helping Move 7 Million Bpd Out of Persian Gulf, Wright Says",
+          "summary": "U.S. Energy Secretary Chris Wright just gave the market a number that helps explain why Brent crude isn't trading at $150 per barrel. Speaking at a Bloomberg Energy event in Houston on Friday, Wright said the U.S. military is now helping move roughly 7 million barrels per day (bpd) of oil out of the Persian Gulf. According to Wright, that's about half of the oil that remains stranded following the disruption of tanker traffic through the Strait of Hormuz during the ongoing U.S.-Israeli conflict with Iran. The figure is significant because normal…",
+          "impact": "neutral",
+          "source": "OilPrice",
+          "score": 10.0,
+          "link": "https://oilprice.com/Latest-Energy-News/World-News/US-Military-Helping-Move-7-Million-Bpd-Out-of-Persian-Gulf-Wright-Says.html",
+          "etf_tickers": []
+        },
+        {
+          "headline": "A War of Words Sends Brent Crude to a Two-Month Low",
+          "summary": "Oil prices slid to a two-month low as conflicting signals from Washington and Tehran fueled uncertainty over a potential U.S.-Iran deal, keeping traders on edge throughout a volatile week. Friday, June 12, 2026 In a particularly volatile trading week, the allocation of roles between Iran and the United States seemed to have switched constantly. If an impending deal was announced by US President Trump, Tehran would deny it, and reversely if the Iranian leadership broke the media silence with talks of a breakthrough, Trump would castigate them for…",
+          "impact": "neutral",
+          "source": "OilPrice",
+          "score": 10.0,
+          "link": "https://oilprice.com/Energy/Crude-Oil/A-War-of-Words-Sends-Brent-Crude-to-a-Two-Month-Low.html",
+          "etf_tickers": []
+        },
+        {
+          "headline": "Europe Wary Of Too Much Dependence on U.S. LNG",
+          "summary": "European buyers aren’t committing to long-term LNG supply agreements with U.S. exporters despite the ongoing EU phase-out of Russian gas imports and the supply crisis in the Middle East. U.S. developers and proponents of new LNG export facilities in America have been trying to lock in long-term supply deals with European importers, with little success so far this year, U.S. executives have told Bloomberg. The Europeans are interested in discussions, but not really committing to long-term supply deals, according to the American LNG exporters.…",
+          "impact": "bearish",
+          "source": "OilPrice",
+          "score": 10.0,
+          "link": "https://oilprice.com/Latest-Energy-News/World-News/Europe-Wary-Of-Too-Much-Dependence-on-US-LNG.html",
+          "etf_tickers": []
+        }
+      ]
+    },
+    "Tech & Semiconductors": {
+      "count": 7,
+      "top": [
+        {
+          "headline": "SpaceX debutta in borsa",
+          "summary": "SpaceX inizia a negoziare sul Nasdaq dopo aver raccolto 75 miliardi di dollari nella sua IPO record. Ciò avviene mentre il rally di Wall Street riprende grazie alle speranze di pace in Iran.",
+          "impact": "bullish",
+          "source": "CNBC World",
+          "score": 9.4,
+          "link": "https://www.cnbc.com/2026/06/12/spacex-ipo-the-largest-in-history.html",
+          "etf_tickers": [
+            "QQQ",
+            "SMH"
+          ]
+        },
+        {
+          "headline": "Cina aumenta spionaggio AI",
+          "summary": "La Cina sta aumentando gli attacchi informatici per rubare tecnologie AI. Ciò potrebbe avere un impatto negativo sui settori tecnologici e di mercato.",
+          "impact": "bearish",
+          "source": "CNBC Finance",
+          "score": 8.7,
+          "link": "https://www.cnbc.com/2026/06/10/crowdstrike-warns-of-increasing-chinese-ai-cyberattacks-on-us-tech.html",
+          "etf_tickers": [
+            "QQQ",
+            "SMH"
+          ]
+        },
+        {
+          "headline": "Minacce iraniane a Elon Musk",
+          "summary": "L'Iran considererà le aziende di Elon Musk nel Medio Oriente come obiettivi militari. Ciò potrebbe avere un impatto negativo sugli ETF tecnologici.",
+          "impact": "bearish",
+          "source": "CNBC World",
+          "score": 8.7,
+          "link": "https://www.cnbc.com/2026/06/11/iran-threatens-elon-musks-companies-in-middle-east-iranian-state-media.html",
+          "etf_tickers": [
+            "QQQ"
+          ]
+        }
+      ]
+    },
+    "Financials": {
+      "count": 12,
+      "top": [
+        {
+          "headline": "EU structural financial indicators: end of 2025",
+          "summary": "The European Central Bank (ECB) is the central bank of the European Union countries which have adopted the euro. Our main task is to maintain price stability in the euro area and so preserve the purchasing power of the single currency.",
+          "impact": "neutral",
+          "source": "ECB",
+          "score": 10.0,
+          "link": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr260612~ab34769159.en.html",
+          "etf_tickers": []
+        },
+        {
+          "headline": "Frank Elderson: Interview with Het Financieele Dagblad",
+          "summary": "The European Central Bank (ECB) is the central bank of the European Union countries which have adopted the euro. Our main task is to maintain price stability in the euro area and so preserve the purchasing power of the single currency.",
+          "impact": "neutral",
+          "source": "ECB",
+          "score": 10.0,
+          "link": "https://www.ecb.europa.eu//press/inter/date/2026/html/ecb.in260610~439aa97519.en.html",
+          "etf_tickers": []
+        },
+        {
+          "headline": "ECB announces main milestones for roll-out of Integrated Reporting Framework",
+          "summary": "The European Central Bank (ECB) is the central bank of the European Union countries which have adopted the euro. Our main task is to maintain price stability in the euro area and so preserve the purchasing power of the single currency.",
+          "impact": "neutral",
+          "source": "ECB",
+          "score": 10.0,
+          "link": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr260608~6766ec7154.en.html",
+          "etf_tickers": []
+        }
+      ]
+    },
+    "Energy": {
+      "count": 39,
+      "top": [
+        {
+          "headline": "Russian Governors Rush to Deny Fuel Crisis as Rationing Spreads",
+          "summary": "Russia's authorities and regional governors are racing to assure residents there are no fuel shortages amid an intensified Ukrainian drone campaign at Russian refineries and fuel supply roads. Ukraine has stepped up attacks this month on key fuel supply routes in its territories occupied by Russia, including Crimea and Mariupol. Several Russian regions have been experiencing fuel shortages as Ukraine hits Russian oil refineries. Last week, the Moscow Times reported that some gasoline stations in Moscow and regions in northern Russia have started…",
+          "impact": "bearish",
+          "source": "OilPrice",
+          "score": 10.0,
+          "link": "https://oilprice.com/Latest-Energy-News/World-News/Russian-Governors-Rush-to-Deny-Fuel-Crisis-as-Rationing-Spreads.html",
+          "etf_tickers": []
+        },
+        {
+          "headline": "Norway Pitches Arctic Resources as Key to EU Energy Security",
+          "summary": "Norway has intensified its charm offensive to persuade the European Union to drop its ban on Arctic drilling by campaigning that oil and gas resources in the High North would be better for the energy security of its closest ally than LNG supplies from the Middle East or the United States. Norway, which is not a member of the EU but is the biggest gas supplier to European markets, has been lobbying the bloc this year to drop its opposition to drilling in the Arctic. The Iran war and the biggest oil and gas supply disruption in history have added…",
+          "impact": "bearish",
+          "source": "OilPrice",
+          "score": 10.0,
+          "link": "https://oilprice.com/Latest-Energy-News/World-News/Norway-Pitches-Arctic-Resources-as-Key-to-EU-Energy-Security.html",
+          "etf_tickers": []
+        },
+        {
+          "headline": "India Accuses West of Double Standards Over U.S. Russia Oil Sanctions",
+          "summary": "The on-and-off U.S. sanctions on Russian oil and the flipping U.S. position regarding India’s oil purchases from Russia highlight the double standards of the Western nations, Indian Foreign Minister S Jaishankar said on Friday. India turned en masse to Russian oil in 2022, when the U.S. and the EU imposed sanctions on Moscow due to the invasion of Ukraine. Four years later, India is a major buyer of Russia’s crude and Russia is India’s single-largest oil supplier. “At that time, the US specifically asked India to buy Russian…",
+          "impact": "neutral",
+          "source": "OilPrice",
+          "score": 10.0,
+          "link": "https://oilprice.com/Latest-Energy-News/World-News/India-Accuses-West-of-Double-Standards-Over-US-Russia-Oil-Sanctions.html",
+          "etf_tickers": []
+        }
+      ]
+    },
+    "Commodities": {
+      "count": 40,
+      "top": [
+        {
+          "headline": "Oil Prices Slide as Traders Bet on Diplomacy",
+          "summary": "July WTI crude oil futures traded sharply lower through Thursday as traders removed much of the geopolitical premium tied to tensions between the United States and Iran. Through June 11, the contract traded between a high of $95.47 and a low of $85.13 before settling near $85.93. At that level, prices were down $4.32, or 4.79%, from last week's close. The week's price action was driven largely by changing expectations surrounding President Trump's approach toward Iran. Early concerns that the conflict could escalate and threaten Middle East oil…",
+          "impact": "neutral",
+          "source": "OilPrice",
+          "score": 10.0,
+          "link": "https://oilprice.com/Energy/Energy-General/Oil-Prices-Slide-as-Traders-Bet-on-Diplomacy.html",
+          "etf_tickers": []
+        },
+        {
+          "headline": "Household worries over finances hit highest level since July 2022, New York Fed survey shows",
+          "summary": "While the central bank's monthly survey showed the inflation outlook mostly unchanged, the general perception of conditions deteriorated.",
+          "impact": "neutral",
+          "source": "CNBC Economy",
+          "score": 9.9,
+          "link": "https://www.cnbc.com/2026/06/08/household-financial-worries-at-highest-level-since-2022-new-york-fed-says.html",
+          "etf_tickers": []
+        },
+        {
+          "headline": "Gold gains on growing U.S.-Iran deal hopes, tempering rate hike expectations",
+          "summary": "",
+          "impact": "mixed",
+          "source": "Seeking Alpha",
+          "score": 9.9,
+          "link": "https://seekingalpha.com/news/4603089-gold-gains-on-growing-us-iran-deal-hopes-tempering-rate-hike-expectations?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+          "etf_tickers": []
+        }
+      ]
+    },
+    "Real Estate": {
+      "count": 1,
+      "top": [
+        {
+          "headline": "Nokia punta su reti AI",
+          "summary": "Nokia si concentra sull'integrazione dell'intelligenza artificiale nelle reti, puntando su un futuro più software-centrico e sulla tecnologia 6G. Ciò potrebbe avere un impatto positivo sul settore tecnologico.",
+          "impact": "bullish",
+          "source": "CNBC World",
+          "score": 7.4,
+          "link": "https://www.cnbc.com/video/2026/06/12/why-nokia-is-betting-on-ai-powered-networks.html",
+          "etf_tickers": [
+            "SMH"
+          ]
+        }
+      ]
+    },
+    "Industrials": {
+      "count": 37,
+      "top": [
+        {
+          "headline": "Will Farmers Lose Faith With Trump?",
+          "summary": "The economic effects of the Iran war are straining a key Republican constituency ahead of midterm elections.",
+          "impact": "neutral",
+          "source": "Foreign Policy",
+          "score": 9.9,
+          "link": "https://foreignpolicy.com/2026/06/12/iran-war-energy-farmers-fertilizer-economic-strain-midterms/",
+          "etf_tickers": []
+        },
+        {
+          "headline": "Trump Says Iran Peace Deal Could Be Signed Within Days",
+          "summary": "US President Donald Trump ‌has claimed that a \"great settlement\" has been reached with Iran to end the Middle East war and that the agreement could be signed as early as this weekend, possibly in Europe. \"We just made a great settlement of the war with Iran,\" Trump told reporters in the Oval Office on June 11. He added, though, that the agreement is still \"subject to finalization of documents, which should get done, over the next few days, probably have a signing, maybe in Europe.\" Asked by reporters if Iranian Supreme Leader Mojtaba Khamenei…",
+          "impact": "neutral",
+          "source": "OilPrice",
+          "score": 9.9,
+          "link": "https://oilprice.com/Energy/Energy-General/Trump-Says-Iran-Peace-Deal-Could-Be-Signed-Within-Days.html",
+          "etf_tickers": []
+        },
+        {
+          "headline": "UAE denies 'false' reports of fund transfer to Iran",
+          "summary": "The statement follows a Reuters report that the UAE has agreed to unlock billions of dollars of frozen funds for Iran.",
+          "impact": "neutral",
+          "source": "CNBC World",
+          "score": 9.8,
+          "link": "https://www.cnbc.com/2026/06/13/uae-denies-false-reports-of-fund-transfer-to-iran.html",
+          "etf_tickers": []
+        }
+      ]
+    },
+    "Bonds": {
+      "count": 7,
+      "top": [
+        {
+          "headline": "Decisions taken by the Governing Council of the ECB (in addition to decisions setting interest rates)",
+          "summary": "The European Central Bank (ECB) is the central bank of the European Union countries which have adopted the euro. Our main task is to maintain price stability in the euro area and so preserve the purchasing power of the single currency.",
+          "impact": "neutral",
+          "source": "ECB",
+          "score": 10.0,
+          "link": "https://www.ecb.europa.eu//press/govcdec/otherdec/2026/html/ecb.gc260612~12de4776f6.en.html",
+          "etf_tickers": []
+        },
+        {
+          "headline": "Christine Lagarde, Boris Vujčić: Monetary policy statement (with Q&A)",
+          "summary": "The European Central Bank (ECB) is the central bank of the European Union countries which have adopted the euro. Our main task is to maintain price stability in the euro area and so preserve the purchasing power of the single currency.",
+          "impact": "neutral",
+          "source": "ECB",
+          "score": 10.0,
+          "link": "https://www.ecb.europa.eu//press/press_conference/monetary-policy-statement/2026/html/ecb.is260611~372040d313.en.html",
+          "etf_tickers": []
+        },
+        {
+          "headline": "Monetary policy decisions",
+          "summary": "The European Central Bank (ECB) is the central bank of the European Union countries which have adopted the euro. Our main task is to maintain price stability in the euro area and so preserve the purchasing power of the single currency.",
+          "impact": "neutral",
+          "source": "ECB",
+          "score": 10.0,
+          "link": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.mp260611~4d41bd5e83.en.html",
+          "etf_tickers": []
+        }
+      ]
+    },
+    "Consumers": {
+      "count": 2,
+      "top": [
+        {
+          "headline": "Oro a minimi da 6 mesi",
+          "summary": "Il prezzo dell'oro è al minimo dell'anno a causa delle possibili aumenti dei tassi di interesse e dei segnali tecnici deboli. Ciò influenza negativamente i prezzi delle commodity.",
+          "impact": "bearish",
+          "source": "CNBC Finance",
+          "score": 7.4,
+          "link": "https://www.cnbc.com/2026/06/11/gold-slumps-to-6-month-low-even-as-inflation-fears-rise-heres-why-bullion-is-out-of-favor.html",
+          "etf_tickers": [
+            "GLD"
+          ]
+        },
+        {
+          "headline": "Titolo azioni lusso sale",
+          "summary": "Le azioni di lusso sono state colpite dalla guerra in Iran, ma un possibile accordo di pace potrebbe portare a una ripresa. I settori dei consumi potrebbero beneficiarne.",
+          "impact": "bullish",
+          "source": "CNBC World",
+          "score": 7.4,
+          "link": "https://www.cnbc.com/2026/06/12/luxury-stocks-lvmh-hermes-burberry-iran-war-peace-deal.html",
+          "etf_tickers": [
+            "XLY"
+          ]
+        }
+      ]
+    }
+  },
+  "rotation_signals": [],
+  "articles": [
+    {
+      "title": "Iran Is Now More Dangerous Than Ever",
+      "headline_it": "",
+      "summary_it": "",
+      "summary_en": "After three months of war, Tehran feels it has little left to lose.",
+      "source": "Foreign Policy",
+      "link": "https://foreignpolicy.com/2026/06/11/iran-war-ceasefire-deterrence-trump-lebanon-israel/",
+      "date": "2026-06-11 14:29",
+      "score": 10.0,
+      "impact": "neutral",
+      "sectors": [
+        "Broad Market",
+        "Commodities",
+        "Energy",
+        "Industrials",
+        "International"
+      ],
+      "primary_sector": "Broad Market",
+      "etf_tickers": [],
+      "rotation": ""
+    },
+    {
+      "title": "Decisions taken by the Governing Council of the ECB (in addition to decisions setting interest rates)",
+      "headline_it": "",
+      "summary_it": "",
+      "summary_en": "The European Central Bank (ECB) is the central bank of the European Union countries which have adopted the euro. Our main task is to maintain price stability in the euro area and so preserve the purchasing power of the single currency.",
+      "source": "ECB",
+      "link": "https://www.ecb.europa.eu//press/govcdec/otherdec/2026/html/ecb.gc260612~12de4776f6.en.html",
+      "date": "2026-06-12 13:00",
+      "score": 10.0,
+      "impact": "neutral",
+      "sectors": [
+        "Bonds",
+        "Broad Market",
+        "Financials"
+      ],
+      "primary_sector": "Bonds",
+      "etf_tickers": [],
+      "rotation": ""
+    },
+    {
+      "title": "EU structural financial indicators: end of 2025",
+      "headline_it": "",
+      "summary_it": "",
+      "summary_en": "The European Central Bank (ECB) is the central bank of the European Union countries which have adopted the euro. Our main task is to maintain price stability in the euro area and so preserve the purchasing power of the single currency.",
+      "source": "ECB",
+      "link": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr260612~ab34769159.en.html",
+      "date": "2026-06-12 08:00",
+      "score": 10.0,
+      "impact": "neutral",
+      "sectors": [
+        "Financials"
+      ],
+      "primary_sector": "Financials",
+      "etf_tickers": [],
+      "rotation": ""
+    },
+    {
+      "title": "Christine Lagarde, Boris Vujčić: Monetary policy statement (with Q&A)",
+      "headline_it": "",
+      "summary_it": "",
+      "summary_en": "The European Central Bank (ECB) is the central bank of the European Union countries which have adopted the euro. Our main task is to maintain price stability in the euro area and so preserve the purchasing power of the single currency.",
+      "source": "ECB",
+      "link": "https://www.ecb.europa.eu//press/press_conference/monetary-policy-statement/2026/html/ecb.is260611~372040d313.en.html",
+      "date": "2026-06-11 13:00",
+      "score": 10.0,
+      "impact": "neutral",
+      "sectors": [
+        "Bonds",
+        "Broad Market",
+        "Financials"
+      ],
+      "primary_sector": "Bonds",
+      "etf_tickers": [],
+      "rotation": ""
+    },
+    {
+      "title": "Monetary policy decisions",
+      "headline_it": "",
+      "summary_it": "",
+      "summary_en": "The European Central Bank (ECB) is the central bank of the European Union countries which have adopted the euro. Our main task is to maintain price stability in the euro area and so preserve the purchasing power of the single currency.",
+      "source": "ECB",
+      "link": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.mp260611~4d41bd5e83.en.html",
+      "date": "2026-06-11 12:15",
+      "score": 10.0,
+      "impact": "neutral",
+      "sectors": [
+        "Bonds",
+        "Broad Market",
+        "Financials"
+      ],
+      "primary_sector": "Bonds",
+      "etf_tickers": [],
+      "rotation": ""
+    },
+    {
+      "title": "Frank Elderson: Interview with Het Financieele Dagblad",
+      "headline_it": "",
+      "summary_it": "",
+      "summary_en": "The European Central Bank (ECB) is the central bank of the European Union countries which have adopted the euro. Our main task is to maintain price stability in the euro area and so preserve the purchasing power of the single currency.",
+      "source": "ECB",
+      "link": "https://www.ecb.europa.eu//press/inter/date/2026/html/ecb.in260610~439aa97519.en.html",
+      "date": "2026-06-10 14:00",
+      "score": 10.0,
+      "impact": "neutral",
+      "sectors": [
+        "Financials"
+      ],
+      "primary_sector": "Financials",
+      "etf_tickers": [],
+      "rotation": ""
+    },
+    {
+      "title": "ECB announces main milestones for roll-out of Integrated Reporting Framework",
+      "headline_it": "",
+      "summary_it": "",
+      "summary_en": "The European Central Bank (ECB) is the central bank of the European Union countries which have adopted the euro. Our main task is to maintain price stability in the euro area and so preserve the purchasing power of the single currency.",
+      "source": "ECB",
+      "link": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr260608~6766ec7154.en.html",
+      "date": "2026-06-08 08:00",
+      "score": 10.0,
+      "impact": "neutral",
+      "sectors": [
+        "Financials"
+      ],
+      "primary_sector": "Financials",
+      "etf_tickers": [],
+      "rotation": ""
+    },
+    {
+      "title": "The Oil Market Could Be Weeks From a Breaking Point",
+      "headline_it": "",
+      "summary_it": "",
+      "summary_en": "Three and a half months after the blocked Strait of Hormuz created the worst oil supply disruption in history, oil prices remain below $100 per barrel amid hopes of an imminent U.S.-Iran deal. It’s not only hopes that have been keeping prices much lower than a sudden disappearance of 13 million barrels per day (bpd) of supply would warrant. The market has had major buffers to rely on. China, the world’s top crude importer, slashed imports to multi-year lows, while the U.S. boosted its crude exports to a record high. Strategic releases…",
+      "source": "OilPrice",
+      "link": "https://oilprice.com/Energy/Crude-Oil/The-Oil-Market-Could-Be-Weeks-From-a-Breaking-Point.html",
+      "date": "2026-06-12 23:00",
+      "score": 10.0,
+      "impact": "bullish",
+      "sectors": [
+        "Broad Market",
+        "Commodities",
+        "Energy",
+        "Industrials",
+        "International"
+      ],
+      "primary_sector": "Broad Market",
+      "etf_tickers": [],
+      "rotation": ""
+    },
+    {
+      "title": "China's Fusion Reactor on Track for Ignition by 2027, Threatening U.S. Lead",
+      "headline_it": "",
+      "summary_it": "",
+      "summary_en": "China is working toward a major nuclear fusion milestone that will put it leagues ahead in the global race to unlock the ‘holy grail’ of clean energy. The Experimental Advanced Superconducting Tokamak (EAST) is reportedly on track to achieve ignition in 2027, potentially making the tokamak the first nuclear fusion reactor in the world to sustain plasma without external heating sources. This would be a critical milestone toward enabling commercial nuclear fusion. Nuclear fusion is the process that powers our own sun. It’s many…",
+      "source": "OilPrice",
+      "link": "https://oilprice.com/Alternative-Energy/Nuclear-Power/Chinas-Fusion-Reactor-on-Track-for-Ignition-by-2027-Threatening-US-Lead.html",
+      "date": "2026-06-12 22:00",
+      "score": 10.0,
+      "impact": "neutral",
+      "sectors": [
+        "Broad Market",
+        "Commodities",
+        "Energy",
+        "Industrials",
+        "International"
+      ],
+      "primary_sector": "Broad Market",
+      "etf_tickers": [],
+      "rotation": ""
+    },
+    {
+      "title": "U.S. Military Helping Move 7 Million Bpd Out of Persian Gulf, Wright Says",
+      "headline_it": "",
+      "summary_it": "",
+      "summary_en": "U.S. Energy Secretary Chris Wright just gave the market a number that helps explain why Brent crude isn't trading at $150 per barrel. Speaking at a Bloomberg Energy event in Houston on Friday, Wright said the U.S. military is now helping move roughly 7 million barrels per day (bpd) of oil out of the Persian Gulf. According to Wright, that's about half of the oil that remains stranded following the disruption of tanker traffic through the Strait of Hormuz during the ongoing U.S.-Israeli conflict with Iran. The figure is significant because normal…",
+      "source": "OilPrice",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/US-Military-Helping-Move-7-Million-Bpd-Out-of-Persian-Gulf-Wright-Says.html",
+      "date": "2026-06-12 16:30",
+      "score": 10.0,
+      "impact": "neutral",
+      "sectors": [
+        "Commodities",
+        "Energy",
+        "Industrials",
+        "International"
+      ],
+      "primary_sector": "Commodities",
+      "etf_tickers": [],
+      "rotation": ""
+    },
+    {
+      "title": "A War of Words Sends Brent Crude to a Two-Month Low",
+      "headline_it": "",
+      "summary_it": "",
+      "summary_en": "Oil prices slid to a two-month low as conflicting signals from Washington and Tehran fueled uncertainty over a potential U.S.-Iran deal, keeping traders on edge throughout a volatile week. Friday, June 12, 2026 In a particularly volatile trading week, the allocation of roles between Iran and the United States seemed to have switched constantly. If an impending deal was announced by US President Trump, Tehran would deny it, and reversely if the Iranian leadership broke the media silence with talks of a breakthrough, Trump would castigate them for…",
+      "source": "OilPrice",
+      "link": "https://oilprice.com/Energy/Crude-Oil/A-War-of-Words-Sends-Brent-Crude-to-a-Two-Month-Low.html",
+      "date": "2026-06-12 15:54",
+      "score": 10.0,
+      "impact": "neutral",
+      "sectors": [
+        "Broad Market",
+        "Commodities",
+        "Energy",
+        "Industrials",
+        "International"
+      ],
+      "primary_sector": "Broad Market",
+      "etf_tickers": [],
+      "rotation": ""
+    },
+    {
+      "title": "Europe Wary Of Too Much Dependence on U.S. LNG",
+      "headline_it": "",
+      "summary_it": "",
+      "summary_en": "European buyers aren’t committing to long-term LNG supply agreements with U.S. exporters despite the ongoing EU phase-out of Russian gas imports and the supply crisis in the Middle East. U.S. developers and proponents of new LNG export facilities in America have been trying to lock in long-term supply deals with European importers, with little success so far this year, U.S. executives have told Bloomberg. The Europeans are interested in discussions, but not really committing to long-term supply deals, according to the American LNG exporters.…",
+      "source": "OilPrice",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/Europe-Wary-Of-Too-Much-Dependence-on-US-LNG.html",
+      "date": "2026-06-12 15:30",
+      "score": 10.0,
+      "impact": "bearish",
+      "sectors": [
+        "Broad Market",
+        "Commodities",
+        "Energy",
+        "Industrials",
+        "International"
+      ],
+      "primary_sector": "Broad Market",
+      "etf_tickers": [],
+      "rotation": ""
+    },
+    {
+      "title": "Russian Governors Rush to Deny Fuel Crisis as Rationing Spreads",
+      "headline_it": "",
+      "summary_it": "",
+      "summary_en": "Russia's authorities and regional governors are racing to assure residents there are no fuel shortages amid an intensified Ukrainian drone campaign at Russian refineries and fuel supply roads. Ukraine has stepped up attacks this month on key fuel supply routes in its territories occupied by Russia, including Crimea and Mariupol. Several Russian regions have been experiencing fuel shortages as Ukraine hits Russian oil refineries. Last week, the Moscow Times reported that some gasoline stations in Moscow and regions in northern Russia have started…",
+      "source": "OilPrice",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/Russian-Governors-Rush-to-Deny-Fuel-Crisis-as-Rationing-Spreads.html",
+      "date": "2026-06-12 13:30",
+      "score": 10.0,
+      "impact": "bearish",
+      "sectors": [
+        "Broad Market",
+        "Commodities",
+        "Energy",
+        "Industrials",
+        "International"
+      ],
+      "primary_sector": "Broad Market",
+      "etf_tickers": [],
+      "rotation": ""
+    },
+    {
+      "title": "Norway Pitches Arctic Resources as Key to EU Energy Security",
+      "headline_it": "",
+      "summary_it": "",
+      "summary_en": "Norway has intensified its charm offensive to persuade the European Union to drop its ban on Arctic drilling by campaigning that oil and gas resources in the High North would be better for the energy security of its closest ally than LNG supplies from the Middle East or the United States. Norway, which is not a member of the EU but is the biggest gas supplier to European markets, has been lobbying the bloc this year to drop its opposition to drilling in the Arctic. The Iran war and the biggest oil and gas supply disruption in history have added…",
+      "source": "OilPrice",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/Norway-Pitches-Arctic-Resources-as-Key-to-EU-Energy-Security.html",
+      "date": "2026-06-12 12:30",
+      "score": 10.0,
+      "impact": "bearish",
+      "sectors": [
+        "Broad Market",
+        "Commodities",
+        "Energy",
+        "Industrials",
+        "International"
+      ],
+      "primary_sector": "Broad Market",
+      "etf_tickers": [],
+      "rotation": ""
+    },
+    {
+      "title": "India Accuses West of Double Standards Over U.S. Russia Oil Sanctions",
+      "headline_it": "",
+      "summary_it": "",
+      "summary_en": "The on-and-off U.S. sanctions on Russian oil and the flipping U.S. position regarding India’s oil purchases from Russia highlight the double standards of the Western nations, Indian Foreign Minister S Jaishankar said on Friday. India turned en masse to Russian oil in 2022, when the U.S. and the EU imposed sanctions on Moscow due to the invasion of Ukraine. Four years later, India is a major buyer of Russia’s crude and Russia is India’s single-largest oil supplier. “At that time, the US specifically asked India to buy Russian…",
+      "source": "OilPrice",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/India-Accuses-West-of-Double-Standards-Over-US-Russia-Oil-Sanctions.html",
+      "date": "2026-06-12 11:30",
+      "score": 10.0,
+      "impact": "neutral",
+      "sectors": [
+        "Broad Market",
+        "Commodities",
+        "Energy",
+        "International"
+      ],
+      "primary_sector": "Broad Market",
+      "etf_tickers": [],
+      "rotation": ""
+    },
+    {
+      "title": "Oil Prices Slide as Traders Bet on Diplomacy",
+      "headline_it": "",
+      "summary_it": "",
+      "summary_en": "July WTI crude oil futures traded sharply lower through Thursday as traders removed much of the geopolitical premium tied to tensions between the United States and Iran. Through June 11, the contract traded between a high of $95.47 and a low of $85.13 before settling near $85.93. At that level, prices were down $4.32, or 4.79%, from last week's close. The week's price action was driven largely by changing expectations surrounding President Trump's approach toward Iran. Early concerns that the conflict could escalate and threaten Middle East oil…",
+      "source": "OilPrice",
+      "link": "https://oilprice.com/Energy/Energy-General/Oil-Prices-Slide-as-Traders-Bet-on-Diplomacy.html",
+      "date": "2026-06-12 11:00",
+      "score": 10.0,
+      "impact": "neutral",
+      "sectors": [
+        "Broad Market",
+        "Commodities",
+        "Energy",
+        "Industrials",
+        "International"
+      ],
+      "primary_sector": "Broad Market",
+      "etf_tickers": [],
+      "rotation": ""
+    },
+    {
+      "title": "Household worries over finances hit highest level since July 2022, New York Fed survey shows",
+      "headline_it": "",
+      "summary_it": "",
+      "summary_en": "While the central bank's monthly survey showed the inflation outlook mostly unchanged, the general perception of conditions deteriorated.",
+      "source": "CNBC Economy",
+      "link": "https://www.cnbc.com/2026/06/08/household-financial-worries-at-highest-level-since-2022-new-york-fed-says.html",
+      "date": "2026-06-08 16:13",
+      "score": 9.9,
+      "impact": "neutral",
+      "sectors": [
+        "Bonds",
+        "Broad Market",
+        "Commodities",
+        "Financials",
+        "Industrials"
+      ],
+      "primary_sector": "Bonds",
+      "etf_tickers": [],
+      "rotation": ""
+    },
+    {
+      "title": "Gold gains on growing U.S.-Iran deal hopes, tempering rate hike expectations",
+      "headline_it": "",
+      "summary_it": "",
+      "summary_en": "",
+      "source": "Seeking Alpha",
+      "link": "https://seekingalpha.com/news/4603089-gold-gains-on-growing-us-iran-deal-hopes-tempering-rate-hike-expectations?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+      "date": "2026-06-12 21:53",
+      "score": 9.9,
+      "impact": "mixed",
+      "sectors": [
+        "Bonds",
+        "Broad Market",
+        "Commodities",
+        "Energy",
+        "Financials",
+        "Industrials",
+        "International"
+      ],
+      "primary_sector": "Bonds",
+      "etf_tickers": [],
+      "rotation": ""
+    },
+    {
+      "title": "Will Farmers Lose Faith With Trump?",
+      "headline_it": "",
+      "summary_it": "",
+      "summary_en": "The economic effects of the Iran war are straining a key Republican constituency ahead of midterm elections.",
+      "source": "Foreign Policy",
+      "link": "https://foreignpolicy.com/2026/06/12/iran-war-energy-farmers-fertilizer-economic-strain-midterms/",
+      "date": "2026-06-12 17:59",
+      "score": 9.9,
+      "impact": "neutral",
+      "sectors": [
+        "Broad Market",
+        "Commodities",
+        "Energy",
+        "Industrials",
+        "International"
+      ],
+      "primary_sector": "Broad Market",
+      "etf_tickers": [],
+      "rotation": ""
+    },
+    {
+      "title": "Trump Says Iran Peace Deal Could Be Signed Within Days",
+      "headline_it": "",
+      "summary_it": "",
+      "summary_en": "US President Donald Trump ‌has claimed that a \"great settlement\" has been reached with Iran to end the Middle East war and that the agreement could be signed as early as this weekend, possibly in Europe. \"We just made a great settlement of the war with Iran,\" Trump told reporters in the Oval Office on June 11. He added, though, that the agreement is still \"subject to finalization of documents, which should get done, over the next few days, probably have a signing, maybe in Europe.\" Asked by reporters if Iranian Supreme Leader Mojtaba Khamenei…",
+      "source": "OilPrice",
+      "link": "https://oilprice.com/Energy/Energy-General/Trump-Says-Iran-Peace-Deal-Could-Be-Signed-Within-Days.html",
+      "date": "2026-06-12 14:00",
+      "score": 9.9,
+      "impact": "neutral",
+      "sectors": [
+        "Broad Market",
+        "Commodities",
+        "Energy",
+        "Industrials",
+        "International"
+      ],
+      "primary_sector": "Broad Market",
+      "etf_tickers": [],
+      "rotation": ""
+    },
+    {
+      "title": "From startup to $1.8 trillion: The investors who took a chance on SpaceX now reap the rewards",
+      "headline_it": "",
+      "summary_it": "",
+      "summary_en": "With SpaceX seeking an IPO valuation of nearly $1.8 trillion, early bets are poised to generate some of the biggest paper gains in venture capital history.",
+      "source": "CNBC Finance",
+      "link": "https://www.cnbc.com/2026/06/11/spacex-investors-reap-rewards-1-8-trillion-valuation.html",
+      "date": "2026-06-12 14:46",
+      "score": 9.8,
+      "impact": "bullish",
+      "sectors": [
+        "Broad Market",
+        "Commodities",
+        "Energy",
+        "International"
+      ],
+      "primary_sector": "Broad Market",
+      "etf_tickers": [],
+      "rotation": ""
+    },
+    {
+      "title": "KKR says AI productivity boom to keep on going — but warns of 'extreme' trend not seen since the 19th century",
+      "headline_it": "",
+      "summary_it": "",
+      "summary_en": "KKR said in its mid-year outlook Thursday that AI will drive economic growth for years to come, but only in specific sectors.",
+      "source": "CNBC Finance",
+      "link": "https://www.cnbc.com/2026/06/11/ais-impact-on-economic-growth-kkr.html",
+      "date": "2026-06-11 05:39",
+      "score": 9.8,
+      "impact": "bullish",
+      "sectors": [
+        "Broad Market",
+        "Commodities",
+        "Energy",
+        "International"
+      ],
+      "primary_sector": "Broad Market",
+      "etf_tickers": [],
+      "rotation": ""
+    },
+    {
+      "title": "UAE denies 'false' reports of fund transfer to Iran",
+      "headline_it": "",
+      "summary_it": "",
+      "summary_en": "The statement follows a Reuters report that the UAE has agreed to unlock billions of dollars of frozen funds for Iran.",
+      "source": "CNBC World",
+      "link": "https://www.cnbc.com/2026/06/13/uae-denies-false-reports-of-fund-transfer-to-iran.html",
+      "date": "2026-06-13 09:30",
+      "score": 9.8,
+      "impact": "neutral",
+      "sectors": [
+        "Commodities",
+        "Energy",
+        "Industrials",
+        "International"
+      ],
+      "primary_sector": "Commodities",
+      "etf_tickers": [],
+      "rotation": ""
+    },
+    {
+      "title": "Stocks end higher as SpaceX soars in debut, U.S.-Iran deal nears",
+      "headline_it": "",
+      "summary_it": "",
+      "summary_en": "Stocks rose on Friday as SpaceX's opening pop bolstered sentiment, with investors hoping for the arrival of a potential peace deal between the U.S. and Iran.",
+      "source": "CNBC World",
+      "link": "https://www.cnbc.com/2026/06/11/stock-market-today-live-updates.html",
+      "date": "2026-06-12 20:26",
+      "score": 9.8,
+      "impact": "bullish",
+      "sectors": [
+        "Commodities",
+        "Energy",
+        "Industrials",
+        "International"
+      ],
+      "primary_sector": "Commodities",
+      "etf_tickers": [],
+      "rotation": ""
+    },
+    {
+      "title": "Deal to end fighting would lead to Hormuz reopening, Iran says",
+      "headline_it": "",
+      "summary_it": "",
+      "summary_en": "The deal which will pave the way for hostilities to end is close to being finalised, the US, Iran and mediators Pakistan say.",
+      "source": "BBC World",
+      "link": "https://www.bbc.com/news/articles/c39y02x98k8o?at_medium=RSS&at_campaign=rss",
+      "date": "2026-06-13 00:51",
+      "score": 9.8,
+      "impact": "neutral",
+      "sectors": [
+        "Commodities",
+        "Energy",
+        "Industrials",
+        "International"
+      ],
+      "primary_sector": "Commodities",
+      "etf_tickers": [],
+      "rotation": ""
+    },
+    {
+      "title": "ECB hikes interest rates for first time since 2023 as Iran war ramps up energy costs",
+      "headline_it": "BCE alza tassi d'interesse",
+      "summary_it": "La Banca Centrale Europea aumenta le previsioni di inflazione e taglia le stime di crescita. Ciò potrebbe avere un impatto significativo sui mercati finanziari e sui settori energetici.",
+      "summary_en": "The European Central Bank also raised its inflation forecasts and cut its growth outlook.",
+      "source": "CNBC Economy",
+      "link": "https://www.cnbc.com/2026/06/11/ecb-hikes-interest-rates.html",
+      "date": "2026-06-11 13:57",
+      "score": 9.4,
+      "impact": "bearish",
+      "sectors": [
+        "Bonds",
+        "Broad Market",
+        "Commodities",
+        "Energy",
+        "Financials",
+        "Industrials",
+        "International"
+      ],
+      "primary_sector": "Bonds",
+      "etf_tickers": [
+        "QQQ",
+        "XLF"
+      ],
+      "rotation": ""
+    },
+    {
+      "title": "CNBC Daily Open: The buyers are back ahead of SpaceX IPO",
+      "headline_it": "SpaceX debutta in borsa",
+      "summary_it": "SpaceX inizia a negoziare sul Nasdaq dopo aver raccolto 75 miliardi di dollari nella sua IPO record. Ciò avviene mentre il rally di Wall Street riprende grazie alle speranze di pace in Iran.",
+      "summary_en": "SpaceX will start trading on the Nasdaq today after raising $75 billion in its record-breaking IPO, as Wall Street's rally resumes on Iran peace hopes.",
+      "source": "CNBC World",
+      "link": "https://www.cnbc.com/2026/06/12/spacex-ipo-the-largest-in-history.html",
+      "date": "2026-06-12 11:37",
+      "score": 9.4,
+      "impact": "bullish",
+      "sectors": [
+        "Broad Market",
+        "Commodities",
+        "Energy",
+        "Industrials",
+        "International",
+        "Tech & Semiconductors"
+      ],
+      "primary_sector": "Broad Market",
+      "etf_tickers": [
+        "QQQ",
+        "SMH"
+      ],
+      "rotation": ""
+    },
+    {
+      "title": "Beijing escalating AI espionage to catch up with the U.S. on tech, cybersecurity firm says",
+      "headline_it": "Cina aumenta spionaggio AI",
+      "summary_it": "La Cina sta aumentando gli attacchi informatici per rubare tecnologie AI. Ciò potrebbe avere un impatto negativo sui settori tecnologici e di mercato.",
+      "summary_en": "U.S. cybersecurity giant CrowdStrike said China-based entities made over half of state-sponsored cyberattacks on tech firms for artificial intelligence assets.",
+      "source": "CNBC Finance",
+      "link": "https://www.cnbc.com/2026/06/10/crowdstrike-warns-of-increasing-chinese-ai-cyberattacks-on-us-tech.html",
+      "date": "2026-06-10 05:02",
+      "score": 8.7,
+      "impact": "bearish",
+      "sectors": [
+        "Broad Market",
+        "International",
+        "Tech & Semiconductors"
+      ],
+      "primary_sector": "Broad Market",
+      "etf_tickers": [
+        "QQQ",
+        "SMH"
+      ],
+      "rotation": ""
+    },
+    {
+      "title": "Trump administration: Iran deal signing likely in coming days, but not '100%' certain",
+      "headline_it": "Accordo Iran a portata di mano",
+      "summary_it": "Un accordo per porre fine alla guerra in Iran potrebbe essere firmato a breve, secondo un funzionario dell'amministrazione Trump. Ciò potrebbe avere un impatto significativo sul settore energetico.",
+      "summary_en": "A deal to end the Iran war could be signed soon, a senior Trump administration official said, following recent conflicting statements from the warring nations.",
+      "source": "CNBC World",
+      "link": "https://www.cnbc.com/2026/06/12/iran-deal-trump-pakistan-sharif.html",
+      "date": "2026-06-12 20:21",
+      "score": 8.7,
+      "impact": "bullish",
+      "sectors": [
+        "Broad Market",
+        "Commodities",
+        "Energy",
+        "Industrials",
+        "International"
+      ],
+      "primary_sector": "Broad Market",
+      "etf_tickers": [],
+      "rotation": ""
+    },
+    {
+      "title": "Trump denies Iran's account of deal terms, decries new drone attack: 'Dishonorable people'",
+      "headline_it": "Trump smentisce accordo con Iran",
+      "summary_it": "Le tensioni tra Stati Uniti e Iran potrebbero influenzare i mercati energetici. L'instabilità potrebbe aumentare la volatilità del prezzo del petrolio.",
+      "summary_en": "\"They better get their act together, and FAST!\" President Donald Trump said of Iran one day after announcing that a deal would be finalized within days.",
+      "source": "CNBC World",
+      "link": "https://www.cnbc.com/2026/06/12/iran-us-peace-memo-strait-hormuz-oil-sanctions.html",
+      "date": "2026-06-12 18:36",
+      "score": 8.7,
+      "impact": "bearish",
+      "sectors": [
+        "Broad Market",
+        "Commodities",
+        "Energy",
+        "Industrials",
+        "International"
+      ],
+      "primary_sector": "Broad Market",
+      "etf_tickers": [],
+      "rotation": ""
+    },
+    {
+      "title": "Iran threatens Elon Musk's companies in Middle East: Iranian state media",
+      "headline_it": "Minacce iraniane a Elon Musk",
+      "summary_it": "L'Iran considererà le aziende di Elon Musk nel Medio Oriente come obiettivi militari. Ciò potrebbe avere un impatto negativo sugli ETF tecnologici.",
+      "summary_en": "Iran will consider all of Elon Musk's companies in the Middle East as military targets as it retaliates against the U.S., Iranian state media reported.",
+      "source": "CNBC World",
+      "link": "https://www.cnbc.com/2026/06/11/iran-threatens-elon-musks-companies-in-middle-east-iranian-state-media.html",
+      "date": "2026-06-11 15:18",
+      "score": 8.7,
+      "impact": "bearish",
+      "sectors": [
+        "Broad Market",
+        "Commodities",
+        "Energy",
+        "Industrials",
+        "International",
+        "Tech & Semiconductors"
+      ],
+      "primary_sector": "Broad Market",
+      "etf_tickers": [
+        "QQQ"
+      ],
+      "rotation": ""
+    },
+    {
+      "title": "Warner Bros $111bn sale to Paramount approved by US justice department",
+      "headline_it": "Approvata fusione Warner Bros",
+      "summary_it": "La fusione da 111 miliardi di dollari tra Warner Bros e Paramount è stata approvata dal dipartimento di giustizia degli Stati Uniti, segnando un importante passo avanti per il settore dei media.",
+      "summary_en": "The approval marks a key development in the merger that will reshape media, allowing the continue of the takeover of the Hollywood studio, which owns CNN and HBO.",
+      "source": "BBC World",
+      "link": "https://www.bbc.com/news/articles/cjwgled9jxwo?at_medium=RSS&at_campaign=rss",
+      "date": "2026-06-13 03:28",
+      "score": 8.7,
+      "impact": "bullish",
+      "sectors": [
+        "Broad Market",
+        "Commodities",
+        "Energy",
+        "Industrials",
+        "International",
+        "Tech & Semiconductors"
+      ],
+      "primary_sector": "Broad Market",
+      "etf_tickers": [
+        "QQQ",
+        "SMH"
+      ],
+      "rotation": ""
+    },
+    {
+      "title": "More than 50 Iranian military bases damaged in US strikes since start of war, satellite images show",
+      "headline_it": "Iran: danni a 50 basi militari",
+      "summary_it": "Gli attacchi USA hanno colpito diverse basi militari in Iran, danneggiando jet e navi da guerra, con possibili ripercussioni sui mercati energetici e globali.",
+      "summary_en": "Bases across Iran have been hit by US strikes, with experts identifying damage to jets and warships.",
+      "source": "BBC World",
+      "link": "https://www.bbc.com/news/articles/cd6p6z7pq9wo?at_medium=RSS&at_campaign=rss",
+      "date": "2026-06-11 23:37",
+      "score": 8.7,
+      "impact": "bearish",
+      "sectors": [
+        "Broad Market",
+        "Commodities",
+        "Energy",
+        "Industrials",
+        "International"
+      ],
+      "primary_sector": "Broad Market",
+      "etf_tickers": [
+        "SPY",
+        "XLE"
+      ],
+      "rotation": ""
+    },
+    {
+      "title": "Iran war day 106: US and Iran say deal close but Lebanon fighting continues",
+      "headline_it": "Accordo vicino tra US e Iran",
+      "summary_it": "Gli Stati Uniti e l'Iran affermano che un accordo per porre fine alla guerra è vicino, ma i combattimenti in Libano continuano. Ciò potrebbe avere un impatto significativo sui mercati energetici e azionari.",
+      "summary_en": "US and Iran say a deal to end the war is close, with a final text agreed but key steps still pending.",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/news/2026/6/13/iran-war-day-106-us-and-iran-say-deal-close-but-lebanon-fighting-continues?traffic_source=rss",
+      "date": "2026-06-13 09:12",
+      "score": 8.7,
+      "impact": "bullish",
+      "sectors": [
+        "Broad Market",
+        "Commodities",
+        "Energy",
+        "Industrials",
+        "International"
+      ],
+      "primary_sector": "Broad Market",
+      "etf_tickers": [
+        "SPY",
+        "XLE"
+      ],
+      "rotation": ""
+    },
+    {
+      "title": "Trump seeks ‘off-ramp’ from war in ‘Iran deal’",
+      "headline_it": "Trump cerca via d'uscita guerra Iran",
+      "summary_it": "La possibile intesa tra Stati Uniti e Iran potrebbe avere un impatto positivo sui mercati energetici e globali. Ciò potrebbe influenzare gli ETF legati all'energia e al mercato azionario.",
+      "summary_en": "As reports emerge of a possible US-Iran agreement, President Donald Trump is looking for an ‘off-ramp’ from Iran war.",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/6/13/trump-seeks-off-ramp-from-war-in-iran?traffic_source=rss",
+      "date": "2026-06-13 07:23",
+      "score": 8.7,
+      "impact": "bullish",
+      "sectors": [
+        "Broad Market",
+        "Commodities",
+        "Energy",
+        "Industrials",
+        "International"
+      ],
+      "primary_sector": "Broad Market",
+      "etf_tickers": [
+        "SPY",
+        "XLE"
+      ],
+      "rotation": ""
+    },
+    {
+      "title": "Missile Defense Worked Against Iran. It Might Not Work Against China.",
+      "headline_it": "Difesa missilistica inefficace contro la Cina",
+      "summary_it": "La guerra in corso ha rivelato vulnerabilità che potrebbero essere più pericolose in un conflitto su Taiwan. Ciò potrebbe avere un impatto significativo sui settori tecnologici e industriali.",
+      "summary_en": "The ongoing war has revealed vulnerabilities that could prove far more dangerous in a conflict over Taiwan.",
+      "source": "Foreign Policy",
+      "link": "https://foreignpolicy.com/2026/06/12/iran-war-us-china-taiwan-missile-defense-radar-interceptors/",
+      "date": "2026-06-12 13:48",
+      "score": 8.7,
+      "impact": "bearish",
+      "sectors": [
+        "Broad Market",
+        "Commodities",
+        "Energy",
+        "Industrials",
+        "International",
+        "Tech & Semiconductors"
+      ],
+      "primary_sector": "Broad Market",
+      "etf_tickers": [
+        "ITA",
+        "QQQ",
+        "SMH"
+      ],
+      "rotation": ""
+    },
+    {
+      "title": "Federal Reserve Board announces final rule that establishes data standards for certain information collections",
+      "headline_it": "Fed stabilisce standard dati",
+      "summary_it": "La Federal Reserve stabilisce standard per la raccolta di dati. Ciò potrebbe avere un impatto sulla trasparenza e sulla gestione dei dati nel settore finanziario.",
+      "summary_en": "Federal Reserve Board announces final rule that establishes data standards for certain information collections",
+      "source": "Federal Reserve",
+      "link": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20260611a.htm",
+      "date": "2026-06-11 15:00",
+      "score": 7.4,
+      "impact": "neutral",
+      "sectors": [
+        "Broad Market",
+        "Financials"
+      ],
+      "primary_sector": "Broad Market",
+      "etf_tickers": [
+        "SPY",
+        "XLF"
+      ],
+      "rotation": ""
+    },
+    {
+      "title": "Federal Reserve Board announces that results from its annual bank stress test will be released on Wednesday, June 24, at 4 p.m. EDT.",
+      "headline_it": "Stress test banche",
+      "summary_it": "La Federal Reserve pubblicherà i risultati degli stress test bancari il 24 giugno. Ciò potrebbe avere un impatto significativo sul settore finanziario.",
+      "summary_en": "Federal Reserve Board announces that results from its annual bank stress test will be released on Wednesday, June 24, at 4 p.m. EDT.",
+      "source": "Federal Reserve",
+      "link": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20260609a.htm",
+      "date": "2026-06-09 20:00",
+      "score": 7.4,
+      "impact": "neutral",
+      "sectors": [
+        "Broad Market",
+        "Financials"
+      ],
+      "primary_sector": "Broad Market",
+      "etf_tickers": [
+        "SPY",
+        "XLF"
+      ],
+      "rotation": ""
+    },
+    {
+      "title": "UK economy shrank 0.1% in April as Iran conflict weighed on growth",
+      "headline_it": "Economia UK in calo",
+      "summary_it": "L'economia del Regno Unito è scesa dell'0,1% ad aprile a causa della diminuzione dell'attività dei servizi e della pressione esercitata dal conflitto in Medio Oriente. Ciò potrebbe avere un impatto negativo sugli ETF internazionali.",
+      "summary_en": "U.K. GDP fell 0.1% in April as services activity declined and companies cited pressure from the Middle East conflict.",
+      "source": "CNBC Economy",
+      "link": "https://www.cnbc.com/2026/06/12/uk-gdp-april-iran-war-growth.html",
+      "date": "2026-06-12 07:01",
+      "score": 7.4,
+      "impact": "bearish",
+      "sectors": [
+        "Broad Market",
+        "Commodities",
+        "Energy",
+        "Industrials",
+        "International"
+      ],
+      "primary_sector": "Broad Market",
+      "etf_tickers": [],
+      "rotation": ""
+    },
+    {
+      "title": "Gold slumps to 6-month low even as inflation fears rise. Here's why bullion is out of favor",
+      "headline_it": "Oro a minimi da 6 mesi",
+      "summary_it": "Il prezzo dell'oro è al minimo dell'anno a causa delle possibili aumenti dei tassi di interesse e dei segnali tecnici deboli. Ciò influenza negativamente i prezzi delle commodity.",
+      "summary_en": "The yellow metal is at its lowest level of the year as potential interest rate increases and faltering technical signals weigh on prices.",
+      "source": "CNBC Finance",
+      "link": "https://www.cnbc.com/2026/06/11/gold-slumps-to-6-month-low-even-as-inflation-fears-rise-heres-why-bullion-is-out-of-favor.html",
+      "date": "2026-06-11 19:06",
+      "score": 7.4,
+      "impact": "bearish",
+      "sectors": [
+        "Bonds",
+        "Broad Market",
+        "Commodities",
+        "Consumers",
+        "Industrials",
+        "Tech & Semiconductors"
+      ],
+      "primary_sector": "Bonds",
+      "etf_tickers": [
+        "GLD"
+      ],
+      "rotation": ""
+    },
+    {
+      "title": "Why Nokia is betting on AI-powered networks",
+      "headline_it": "Nokia punta su reti AI",
+      "summary_it": "Nokia si concentra sull'integrazione dell'intelligenza artificiale nelle reti, puntando su un futuro più software-centrico e sulla tecnologia 6G. Ciò potrebbe avere un impatto positivo sul settore tecnologico.",
+      "summary_en": "Nokia helped define the mobile era. Now it's trying to shape what comes next. As artificial intelligence transforms how networks are built and managed, the Finnish telecom giant is betting on AI-driven infrastructure, 6G and a more software-centric future.",
+      "source": "CNBC World",
+      "link": "https://www.cnbc.com/video/2026/06/12/why-nokia-is-betting-on-ai-powered-networks.html",
+      "date": "2026-06-12 08:21",
+      "score": 7.4,
+      "impact": "bullish",
+      "sectors": [
+        "Broad Market",
+        "Commodities",
+        "Energy",
+        "Industrials",
+        "International",
+        "Real Estate",
+        "Tech & Semiconductors"
+      ],
+      "primary_sector": "Broad Market",
+      "etf_tickers": [
+        "SMH"
+      ],
+      "rotation": ""
+    },
+    {
+      "title": "Luxury stocks spike on proposed U.S.-Iran peace deal; LVMH up 5%",
+      "headline_it": "Titolo azioni lusso sale",
+      "summary_it": "Le azioni di lusso sono state colpite dalla guerra in Iran, ma un possibile accordo di pace potrebbe portare a una ripresa. I settori dei consumi potrebbero beneficiarne.",
+      "summary_en": "Luxury stocks have been hard hit by the Iran war, as the Middle East had been a fast-growing market for the otherwise largely muted sector.",
+      "source": "CNBC World",
+      "link": "https://www.cnbc.com/2026/06/12/luxury-stocks-lvmh-hermes-burberry-iran-war-peace-deal.html",
+      "date": "2026-06-12 09:15",
+      "score": 7.4,
+      "impact": "bullish",
+      "sectors": [
+        "Broad Market",
+        "Commodities",
+        "Consumers",
+        "Energy",
+        "Industrials",
+        "International"
+      ],
+      "primary_sector": "Broad Market",
+      "etf_tickers": [
+        "XLY"
+      ],
+      "rotation": ""
+    },
+    {
+      "title": "Oil tanker CEO sees Hormuz ship traffic quickly increasing if U.S. and Iran reach a deal",
+      "headline_it": "Traffico navale a Hormuz aumenterà",
+      "summary_it": "Il CEO di Frontline prevede un aumento del traffico navale a Hormuz se Stati Uniti e Iran raggiungeranno un accordo. Ciò potrebbe avere un impatto positivo sul settore energetico.",
+      "summary_en": "Many shipowners are just waiting for the threat assessment to be downgraded before crossing Hormuz, Frontline CEO Lars Barstad said.",
+      "source": "CNBC World",
+      "link": "https://www.cnbc.com/2026/06/11/iran-strait-hormuz-oil-tanker-traffic-frontline.html",
+      "date": "2026-06-11 19:00",
+      "score": 7.4,
+      "impact": "bullish",
+      "sectors": [
+        "Commodities",
+        "Energy",
+        "Industrials",
+        "International"
+      ],
+      "primary_sector": "Commodities",
+      "etf_tickers": [
+        "XLE"
+      ],
+      "rotation": ""
+    },
+    {
+      "title": "Flip flop or deliberate? - Unpacking Trump’s strategy on Iran",
+      "headline_it": "Trump e l'Iran",
+      "summary_it": "La strategia di Trump sull'Iran genera incertezza. Ciò potrebbe influenzare il settore energetico.",
+      "summary_en": "The BBC's Gary O'Donoghue looks at the US president's mixed messaging over the war and the questions it raises.",
+      "source": "BBC World",
+      "link": "https://www.bbc.com/news/videos/cz9lg5ywzvpo?at_medium=RSS&at_campaign=rss",
+      "date": "2026-06-11 20:22",
+      "score": 7.4,
+      "impact": "neutral",
+      "sectors": [
+        "Broad Market",
+        "Commodities",
+        "Energy",
+        "Industrials",
+        "International"
+      ],
+      "primary_sector": "Broad Market",
+      "etf_tickers": [],
+      "rotation": ""
+    },
+    {
+      "title": "One killed as Israel hits south Lebanon, issues forced displacement orders",
+      "headline_it": "Tensioni Israele-Libano",
+      "summary_it": "La tensione tra Israele e il Libano potrebbe influenzare i mercati energetici. Gli ordini di sfollamento forzato potrebbero avere un impatto sulla stabilità della regione.",
+      "summary_en": "The Israeli military has ordered residents of 20 Lebanese towns and villages to leave their homes immediately.",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/news/2026/6/13/one-killed-as-israel-hits-south-lebanon-issues-forced-displacement-orders?traffic_source=rss",
+      "date": "2026-06-13 07:33",
+      "score": 7.4,
+      "impact": "bearish",
+      "sectors": [
+        "Energy",
+        "Industrials",
+        "International"
+      ],
+      "primary_sector": "Energy",
+      "etf_tickers": [],
+      "rotation": ""
+    },
+    {
+      "title": "Netanyahu’s Reelection Could Hinge on Outcome of Iran War",
+      "headline_it": "Rielezione di Netanyahu",
+      "summary_it": "La rielezione di Netanyahu potrebbe dipendere dall'esito del conflitto con l'Iran, con possibili impatti sulla stabilità energetica e sui mercati internazionali.",
+      "summary_en": "He promised Israelis “total victory” but has fallen short on three fronts.",
+      "source": "Foreign Policy",
+      "link": "https://foreignpolicy.com/2026/06/12/netanyahu-election-iran-war-outcome-us-trump/",
+      "date": "2026-06-12 20:49",
+      "score": 7.4,
+      "impact": "bearish",
+      "sectors": [
+        "Broad Market",
+        "Commodities",
+        "Energy",
+        "Industrials",
+        "International"
+      ],
+      "primary_sector": "Broad Market",
+      "etf_tickers": [
+        "EEM"
+      ],
+      "rotation": ""
+    },
+    {
+      "title": "Why the economics make this the craziest World Cup ever",
+      "headline_it": "Mondiale più costoso",
+      "summary_it": "Il Mondiale 2026 riflette l'economia globale in cambiamento. I prezzi dei biglietti alle stelle e le guerre commerciali sono solo alcuni degli aspetti che lo rendono unico.",
+      "summary_en": "From trade wars to soaring ticket prices, the 2026 World Cup is unlike any before it. Faisal Islam explores what this tournament reveals about our changing global economy.",
+      "source": "BBC World",
+      "link": "https://www.bbc.com/news/articles/cpv32417nlwo?at_medium=RSS&at_campaign=rss",
+      "date": "2026-06-11 23:07",
+      "score": 6.1,
+      "impact": "bullish",
+      "sectors": [
+        "Broad Market",
+        "Commodities",
+        "Energy",
+        "Industrials",
+        "International"
+      ],
+      "primary_sector": "Broad Market",
+      "etf_tickers": [
+        "EEM"
+      ],
+      "rotation": ""
+    },
+    {
+      "title": "'I will come home safely': Indian sailor's last words to wife before a US strike killed him",
+      "headline_it": "Marinaio indiano ucciso",
+      "summary_it": "La notizia non ha impatto diretto sui mercati finanziari. Un marinaio indiano è stato ucciso in un attacco.",
+      "summary_en": "Patnala Suresh and his wife were looking forward to celebrating their 15th wedding anniversary this month.",
+      "source": "BBC World",
+      "link": "https://www.bbc.com/news/articles/cx24vlj2nvyo?at_medium=RSS&at_campaign=rss",
+      "date": "2026-06-12 08:52",
+      "score": 4.8,
+      "impact": "neutral",
+      "sectors": [
+        "Broad Market",
+        "Commodities",
+        "Energy",
+        "International"
+      ],
+      "primary_sector": "Broad Market",
+      "etf_tickers": [],
+      "rotation": ""
+    },
+    {
+      "title": "Lebanon war victims among 117M people displaced worldwide",
+      "headline_it": "117M persone sfollate nel mondo",
+      "summary_it": "Il rapporto UNHCR rivela che 117,8 milioni di persone sono state sfollate a causa di conflitti e persecuzioni. L'impatto sugli ETF è minimo.",
+      "summary_en": "A new UNHCR report reveals that 117.8 million people worldwide were forcibly displaced by the end of 2025.",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/6/13/lebanon-war-victims-among-117m-people-displaced-worldwide?traffic_source=rss",
+      "date": "2026-06-13 07:56",
+      "score": 4.8,
+      "impact": "neutral",
+      "sectors": [
+        "Broad Market",
+        "Commodities",
+        "Energy",
+        "Industrials",
+        "International"
+      ],
+      "primary_sector": "Broad Market",
+      "etf_tickers": [
+        "SPY"
+      ],
+      "rotation": ""
+    },
+    {
+      "title": "Separated by the Gaza war, a Palestinian yearns to see his family again",
+      "headline_it": "Palestinese separato dalla famiglia",
+      "summary_it": "La storia di Shady al-Areer, 38, separato dalla famiglia a causa della guerra a Gaza. Non ci sono impatti diretti sui mercati finanziari.",
+      "summary_en": "Shady al-Areer, 38, was smuggled from Israel into the occupied West Bank after October 7, 2023. This is his story.",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/features/longform/2026/6/13/separated-by-the-gaza-war-a-palestinian-yearns-to-see-his-family-again?traffic_source=rss",
+      "date": "2026-06-13 08:04",
+      "score": 4.2,
+      "impact": "bullish",
+      "sectors": [
+        "Broad Market",
+        "Commodities",
+        "Energy",
+        "Financials",
+        "Industrials",
+        "International"
+      ],
+      "primary_sector": "Broad Market",
+      "etf_tickers": [],
+      "rotation": ""
+    }
+  ]
+}
