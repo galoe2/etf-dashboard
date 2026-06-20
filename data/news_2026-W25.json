@@ -1,0 +1,1419 @@
+{
+  "generated": "2026-06-20T10:24:55.104111",
+  "lookback_days": 7,
+  "total_articles": 50,
+  "sector_news": {
+    "Broad Market": {
+      "count": 39,
+      "top": [
+        {
+          "headline": "China to return as major oil buyer in August, JPMorgan says, naming its top stock picks",
+          "summary": "The pullback in oil imports by the world's largest oil importer has helped absorb the global energy shock and cap the surge in oil prices since the war began.",
+          "impact": "bullish",
+          "source": "CNBC World",
+          "score": 10.0,
+          "link": "https://www.cnbc.com/2026/06/18/china-crude-oil-imports-rebound-jpmorgan-petrochina-lg-chem.html",
+          "etf_tickers": []
+        },
+        {
+          "headline": "U.S. opens tariff probe targeting Germany’s drug pricing policies",
+          "summary": "U.S. Trade Representative Jamieson Greer said Germany's proposal to reduce spending on medicines was \"a serious step backwards.\"",
+          "impact": "neutral",
+          "source": "CNBC World",
+          "score": 10.0,
+          "link": "https://www.cnbc.com/2026/06/19/us-tariff-probe-germany-drug-pricing-policies-mfn.html",
+          "etf_tickers": []
+        },
+        {
+          "headline": "Strait of Hormuz reopening may take weeks to ease shipping backlog and oil pressure",
+          "summary": "The Strait of Hormuz is set to reopen after Iran and the U.S. sign a peace deal, but experts warn backlogs and security checks could delay normal shipping.",
+          "impact": "neutral",
+          "source": "CNBC World",
+          "score": 10.0,
+          "link": "https://www.cnbc.com/2026/06/18/strait-hormuz-reopening-shipping-oil.html",
+          "etf_tickers": []
+        }
+      ]
+    },
+    "International": {
+      "count": 44,
+      "top": [
+        {
+          "headline": "OPEC chief dismisses IEA supply glut forecast as 'critical' Strait of Hormuz reopens",
+          "summary": "The IEA said on Wednesday that a lasting resolution to the conflict could drive a surge in supply volumes and trigger a major oil overhang next year.",
+          "impact": "mixed",
+          "source": "CNBC World",
+          "score": 10.0,
+          "link": "https://www.cnbc.com/2026/06/18/opec-iea-supply-glut-forecast-critical-strait-hormuz-reopens-oil.html",
+          "etf_tickers": []
+        },
+        {
+          "headline": "Israel and Hezbollah agree ceasefire, US says, as more Lebanon strikes reported",
+          "summary": "The agreement followed concerns that continued clashes would undermine the deal to end the war between the US and Iran.",
+          "impact": "neutral",
+          "source": "BBC World",
+          "score": 10.0,
+          "link": "https://www.bbc.com/news/articles/cwyk7kkygj5o?at_medium=RSS&at_campaign=rss",
+          "etf_tickers": []
+        },
+        {
+          "headline": "Italy's Meloni says Trump 'made up' story that she 'begged' him for photo at G7",
+          "summary": "The highly public exchange is an indication that their earlier close ties have frayed  since Trump's decision to go to war with Iran.",
+          "impact": "neutral",
+          "source": "BBC World",
+          "score": 10.0,
+          "link": "https://www.bbc.com/news/articles/c20y1ygn707o?at_medium=RSS&at_campaign=rss",
+          "etf_tickers": []
+        }
+      ]
+    },
+    "Tech & Semiconductors": {
+      "count": 4,
+      "top": [
+        {
+          "headline": "Amazon AI exec predicts first 'commercially useful' quantum computers in 5-7 years",
+          "summary": "Quantum computing is becoming an increasingly competitive field, with tech giants including Microsoft, Google and IBM developing the technology.",
+          "impact": "bullish",
+          "source": "CNBC World",
+          "score": 10.0,
+          "link": "https://www.cnbc.com/2026/06/17/amazon-quantum-computing-timeline.html",
+          "etf_tickers": []
+        },
+        {
+          "headline": "Titoli in movimento",
+          "summary": "Alcuni titoli mostrano grandi movimenti a metà giornata, inclusi quelli di settori tecnologici e finanziari.",
+          "impact": "mixed",
+          "source": "CNBC Finance",
+          "score": 7.4,
+          "link": "https://www.cnbc.com/2026/06/17/stocks-making-the-biggest-moves-midday-spcx-jpm-qure-nne.html",
+          "etf_tickers": [
+            "QQQ",
+            "SMH",
+            "XLF"
+          ]
+        },
+        {
+          "headline": "Burry critica SpaceX",
+          "summary": "Michael Burry esprime scetticismo sul valore di mercato di SpaceX, che supera quello di molte aziende consolidate. Ciò potrebbe avere un impatto negativo sul settore tecnologico.",
+          "impact": "bearish",
+          "source": "CNBC Finance",
+          "score": 7.4,
+          "link": "https://www.cnbc.com/2026/06/16/michael-burry-says-hes-tempted-to-bet-against-spacex-but-passes-on-expensive-options.html",
+          "etf_tickers": [
+            "QQQ"
+          ]
+        }
+      ]
+    },
+    "Financials": {
+      "count": 18,
+      "top": [
+        {
+          "headline": "Fed pubblica dichiarazione FOMC",
+          "summary": "La Federal Reserve pubblica la dichiarazione del FOMC, influenzando il mercato azionario e obbligazionario. Ciò potrebbe avere un impatto significativo sui settori finanziari e del mercato più ampio.",
+          "impact": "neutral",
+          "source": "Federal Reserve",
+          "score": 9.4,
+          "link": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20260617a.htm",
+          "etf_tickers": [
+            "SPY",
+            "TLT",
+            "XLF"
+          ]
+        },
+        {
+          "headline": "Proiezioni economiche della Fed",
+          "summary": "La Federal Reserve ha pubblicato le proiezioni economiche dell'incontro del FOMC del 16-17 giugno, influenzando i mercati finanziari e i tassi di interesse.",
+          "impact": "bearish",
+          "source": "Federal Reserve",
+          "score": 9.4,
+          "link": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20260617b.htm",
+          "etf_tickers": [
+            "SPY",
+            "TLT",
+            "XLF"
+          ]
+        },
+        {
+          "headline": "Fed più hawkish del previsto",
+          "summary": "Le parole dure del presidente della Fed Kevin Warsh sull'inflazione hanno avuto un forte impatto sui mercati finanziari, prefigurando un contesto più difficile per i titoli.",
+          "impact": "bearish",
+          "source": "CNBC Finance",
+          "score": 9.4,
+          "link": "https://www.cnbc.com/2026/06/18/markets-are-set-for-a-much-more-hawkish-warsh-fed-than-expected.html",
+          "etf_tickers": [
+            "SPY",
+            "TLT",
+            "XLF"
+          ]
+        }
+      ]
+    },
+    "Energy": {
+      "count": 42,
+      "top": [
+        {
+          "headline": "Family, including two daughters, killed in Israeli strikes on Gaza",
+          "summary": "Israel has repeatedly violated the October ceasefire brokered by the US.",
+          "impact": "neutral",
+          "source": "Al Jazeera",
+          "score": 10.0,
+          "link": "https://www.aljazeera.com/news/2026/6/20/family-including-two-daughters-killed-in-israeli-strikes-on-gaza?traffic_source=rss",
+          "etf_tickers": []
+        },
+        {
+          "headline": "Moscow residents complain of black rain after largest Ukrainian attack hits oil refinery",
+          "summary": "A refinery and a shopping centre burned after almost 200 Ukrainian drones were launched towards an area to the south-east of the Russian capital.",
+          "impact": "neutral",
+          "source": "BBC World",
+          "score": 10.0,
+          "link": "https://www.bbc.com/news/articles/c98291g5rr1o?at_medium=RSS&at_campaign=rss",
+          "etf_tickers": []
+        },
+        {
+          "headline": "Bowen: US-Iran deal raises inescapable question of what the war was for",
+          "summary": "While the human cost is clear, the Iranian regime has not just survived the war, it has been empowered.",
+          "impact": "neutral",
+          "source": "BBC World",
+          "score": 10.0,
+          "link": "https://www.bbc.com/news/articles/clyegr2mp8jo?at_medium=RSS&at_campaign=rss",
+          "etf_tickers": []
+        }
+      ]
+    },
+    "Commodities": {
+      "count": 39,
+      "top": [
+        {
+          "headline": "What's in the US-Iran agreement?",
+          "summary": "The 14-paragraph memo includes an end to fighting, an agreement that Iran will never have a nuclear weapon, and a $300bn redevelopment package for Iran.",
+          "impact": "neutral",
+          "source": "BBC World",
+          "score": 10.0,
+          "link": "https://www.bbc.com/news/articles/cvgmqzr6p9mo?at_medium=RSS&at_campaign=rss",
+          "etf_tickers": []
+        },
+        {
+          "headline": "US-Iran deal leaves core sticking points unresolved - and a $300bn question",
+          "summary": "Trump has insisted the deal ensures that Iran will never buy, develop or produce a nuclear weapon. But text of the agreement falls short of that.",
+          "impact": "bearish",
+          "source": "BBC World",
+          "score": 10.0,
+          "link": "https://www.bbc.com/news/articles/cgmd8dgklzzo?at_medium=RSS&at_campaign=rss",
+          "etf_tickers": []
+        },
+        {
+          "headline": "Trump’s Iran deal, Israel’s meltdown",
+          "summary": "The precarious memorandum of understanding between the US and Iran.",
+          "impact": "neutral",
+          "source": "Al Jazeera",
+          "score": 10.0,
+          "link": "https://www.aljazeera.com/video/the-listening-post/2026/6/20/trumps-iran-deal-israels-meltdown?traffic_source=rss",
+          "etf_tickers": []
+        }
+      ]
+    },
+    "Industrials": {
+      "count": 35,
+      "top": [
+        {
+          "headline": "Thousands killed in US-Israeli war on Iran - but experts say true total may never be known",
+          "summary": "Experts say internet, media and government restrictions have all hampered casualty reporting across the region.",
+          "impact": "neutral",
+          "source": "BBC World",
+          "score": 10.0,
+          "link": "https://www.bbc.com/news/articles/cy735xlv50ko?at_medium=RSS&at_campaign=rss",
+          "etf_tickers": []
+        },
+        {
+          "headline": "What Iran and US get from deal and why both could struggle to keep it",
+          "summary": "BBC analysts assess the claims by both Washington and Tehran to have won a victory with the deal to end their war.",
+          "impact": "neutral",
+          "source": "BBC World",
+          "score": 10.0,
+          "link": "https://www.bbc.com/news/articles/c932yqz8lggo?at_medium=RSS&at_campaign=rss",
+          "etf_tickers": []
+        },
+        {
+          "headline": "First Russian shadow fleet tanker enters Channel since Smyrtos boarding",
+          "summary": "Forwarder, a Russian-flagged ship which left port in Primorsk last week, entered the Channel on Wednesday evening.",
+          "impact": "neutral",
+          "source": "BBC World",
+          "score": 10.0,
+          "link": "https://www.bbc.com/news/articles/cgk6d12lz6jo?at_medium=RSS&at_campaign=rss",
+          "etf_tickers": []
+        }
+      ]
+    },
+    "Bonds": {
+      "count": 13,
+      "top": [
+        {
+          "headline": "Fed modifica dichiarazione sui tassi",
+          "summary": "Il Chairman Warsh ha modificato la dichiarazione sui tassi della Fed, influenzando il mercato. Ciò potrebbe avere un impatto significativo sui settori finanziari e obbligazionari.",
+          "impact": "bearish",
+          "source": "CNBC Finance",
+          "score": 9.4,
+          "link": "https://www.cnbc.com/2026/06/17/june-fed-meeting-redline.html",
+          "etf_tickers": [
+            "SPY",
+            "TLT",
+            "XLF"
+          ]
+        },
+        {
+          "headline": "Fed non sarà troppo accomodante",
+          "summary": "La posizione di Warsh riduce il rischio di una politica monetaria troppo accomodante, che potrebbe riaccendere l'inflazione e spingere i costi di prestito a lungo termine più in alto. Ciò potrebbe avere un impatto positivo sui titoli di Stato e sul settore finanziario.",
+          "impact": "bullish",
+          "source": "CNBC Finance",
+          "score": 8.7,
+          "link": "https://www.cnbc.com/2026/06/17/jeffrey-gundlach-says-feds-warsh-is-not-going-to-be-the-easy-money-chairman-many-hoped-for.html",
+          "etf_tickers": [
+            "TLT",
+            "XLF"
+          ]
+        },
+        {
+          "headline": "Proiezioni tassi interessi 2026",
+          "summary": "La proiezione mediana prevede un aumento dei tassi federali a fine 2026. Ciò potrebbe influenzare i settori finanziari e obbligazionari.",
+          "impact": "bearish",
+          "source": "CNBC Finance",
+          "score": 8.7,
+          "link": "https://www.cnbc.com/2026/06/17/fed-projections-call-for-a-rate-hike-in-2026-but-chairman-warsh-likely-abstained.html",
+          "etf_tickers": [
+            "TLT",
+            "XLF"
+          ]
+        }
+      ]
+    },
+    "Crypto": {
+      "count": 1,
+      "top": [
+        {
+          "headline": "Fed propone regole per stablecoin",
+          "summary": "La Federal Reserve richiede commenti su una proposta per obbligare gli emittenti di stablecoin a implementare un programma di identificazione del cliente. Ciò potrebbe avere un impatto sul settore delle criptovalute e dei servizi finanziari.",
+          "impact": "bearish",
+          "source": "Federal Reserve",
+          "score": 7.4,
+          "link": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20260618a.htm",
+          "etf_tickers": [
+            "BITO"
+          ]
+        }
+      ]
+    }
+  },
+  "rotation_signals": [],
+  "articles": [
+    {
+      "title": "China to return as major oil buyer in August, JPMorgan says, naming its top stock picks",
+      "headline_it": "",
+      "summary_it": "",
+      "summary_en": "The pullback in oil imports by the world's largest oil importer has helped absorb the global energy shock and cap the surge in oil prices since the war began.",
+      "source": "CNBC World",
+      "link": "https://www.cnbc.com/2026/06/18/china-crude-oil-imports-rebound-jpmorgan-petrochina-lg-chem.html",
+      "date": "2026-06-18 05:55",
+      "score": 10.0,
+      "impact": "bullish",
+      "sectors": [
+        "Broad Market",
+        "Commodities",
+        "Energy",
+        "Financials",
+        "International"
+      ],
+      "primary_sector": "Broad Market",
+      "etf_tickers": [],
+      "rotation": ""
+    },
+    {
+      "title": "U.S. opens tariff probe targeting Germany’s drug pricing policies",
+      "headline_it": "",
+      "summary_it": "",
+      "summary_en": "U.S. Trade Representative Jamieson Greer said Germany's proposal to reduce spending on medicines was \"a serious step backwards.\"",
+      "source": "CNBC World",
+      "link": "https://www.cnbc.com/2026/06/19/us-tariff-probe-germany-drug-pricing-policies-mfn.html",
+      "date": "2026-06-19 14:44",
+      "score": 10.0,
+      "impact": "neutral",
+      "sectors": [
+        "Broad Market",
+        "Commodities",
+        "Energy",
+        "International"
+      ],
+      "primary_sector": "Broad Market",
+      "etf_tickers": [],
+      "rotation": ""
+    },
+    {
+      "title": "Amazon AI exec predicts first 'commercially useful' quantum computers in 5-7 years",
+      "headline_it": "",
+      "summary_it": "",
+      "summary_en": "Quantum computing is becoming an increasingly competitive field, with tech giants including Microsoft, Google and IBM developing the technology.",
+      "source": "CNBC World",
+      "link": "https://www.cnbc.com/2026/06/17/amazon-quantum-computing-timeline.html",
+      "date": "2026-06-17 17:43",
+      "score": 10.0,
+      "impact": "bullish",
+      "sectors": [
+        "Consumers",
+        "Industrials",
+        "Tech & Semiconductors"
+      ],
+      "primary_sector": "Consumers",
+      "etf_tickers": [],
+      "rotation": ""
+    },
+    {
+      "title": "OPEC chief dismisses IEA supply glut forecast as 'critical' Strait of Hormuz reopens",
+      "headline_it": "",
+      "summary_it": "",
+      "summary_en": "The IEA said on Wednesday that a lasting resolution to the conflict could drive a surge in supply volumes and trigger a major oil overhang next year.",
+      "source": "CNBC World",
+      "link": "https://www.cnbc.com/2026/06/18/opec-iea-supply-glut-forecast-critical-strait-hormuz-reopens-oil.html",
+      "date": "2026-06-18 15:19",
+      "score": 10.0,
+      "impact": "mixed",
+      "sectors": [
+        "Commodities",
+        "Energy",
+        "International"
+      ],
+      "primary_sector": "Commodities",
+      "etf_tickers": [],
+      "rotation": ""
+    },
+    {
+      "title": "Strait of Hormuz reopening may take weeks to ease shipping backlog and oil pressure",
+      "headline_it": "",
+      "summary_it": "",
+      "summary_en": "The Strait of Hormuz is set to reopen after Iran and the U.S. sign a peace deal, but experts warn backlogs and security checks could delay normal shipping.",
+      "source": "CNBC World",
+      "link": "https://www.cnbc.com/2026/06/18/strait-hormuz-reopening-shipping-oil.html",
+      "date": "2026-06-18 08:10",
+      "score": 10.0,
+      "impact": "neutral",
+      "sectors": [
+        "Broad Market",
+        "Commodities",
+        "Energy",
+        "Industrials",
+        "International"
+      ],
+      "primary_sector": "Broad Market",
+      "etf_tickers": [],
+      "rotation": ""
+    },
+    {
+      "title": "Israel and Hezbollah agree ceasefire, US says, as more Lebanon strikes reported",
+      "headline_it": "",
+      "summary_it": "",
+      "summary_en": "The agreement followed concerns that continued clashes would undermine the deal to end the war between the US and Iran.",
+      "source": "BBC World",
+      "link": "https://www.bbc.com/news/articles/cwyk7kkygj5o?at_medium=RSS&at_campaign=rss",
+      "date": "2026-06-19 19:27",
+      "score": 10.0,
+      "impact": "neutral",
+      "sectors": [
+        "Broad Market",
+        "Commodities",
+        "Energy",
+        "Industrials",
+        "International"
+      ],
+      "primary_sector": "Broad Market",
+      "etf_tickers": [],
+      "rotation": ""
+    },
+    {
+      "title": "Italy's Meloni says Trump 'made up' story that she 'begged' him for photo at G7",
+      "headline_it": "",
+      "summary_it": "",
+      "summary_en": "The highly public exchange is an indication that their earlier close ties have frayed  since Trump's decision to go to war with Iran.",
+      "source": "BBC World",
+      "link": "https://www.bbc.com/news/articles/c20y1ygn707o?at_medium=RSS&at_campaign=rss",
+      "date": "2026-06-19 19:36",
+      "score": 10.0,
+      "impact": "neutral",
+      "sectors": [
+        "Broad Market",
+        "Commodities",
+        "Energy",
+        "Industrials",
+        "International"
+      ],
+      "primary_sector": "Broad Market",
+      "etf_tickers": [],
+      "rotation": ""
+    },
+    {
+      "title": "Moscow residents complain of black rain after largest Ukrainian attack hits oil refinery",
+      "headline_it": "",
+      "summary_it": "",
+      "summary_en": "A refinery and a shopping centre burned after almost 200 Ukrainian drones were launched towards an area to the south-east of the Russian capital.",
+      "source": "BBC World",
+      "link": "https://www.bbc.com/news/articles/c98291g5rr1o?at_medium=RSS&at_campaign=rss",
+      "date": "2026-06-18 15:46",
+      "score": 10.0,
+      "impact": "neutral",
+      "sectors": [
+        "Broad Market",
+        "Commodities",
+        "Energy",
+        "International"
+      ],
+      "primary_sector": "Broad Market",
+      "etf_tickers": [],
+      "rotation": ""
+    },
+    {
+      "title": "Bowen: US-Iran deal raises inescapable question of what the war was for",
+      "headline_it": "",
+      "summary_it": "",
+      "summary_en": "While the human cost is clear, the Iranian regime has not just survived the war, it has been empowered.",
+      "source": "BBC World",
+      "link": "https://www.bbc.com/news/articles/clyegr2mp8jo?at_medium=RSS&at_campaign=rss",
+      "date": "2026-06-18 15:53",
+      "score": 10.0,
+      "impact": "neutral",
+      "sectors": [
+        "Broad Market",
+        "Commodities",
+        "Energy",
+        "Industrials",
+        "International"
+      ],
+      "primary_sector": "Broad Market",
+      "etf_tickers": [],
+      "rotation": ""
+    },
+    {
+      "title": "Thousands killed in US-Israeli war on Iran - but experts say true total may never be known",
+      "headline_it": "",
+      "summary_it": "",
+      "summary_en": "Experts say internet, media and government restrictions have all hampered casualty reporting across the region.",
+      "source": "BBC World",
+      "link": "https://www.bbc.com/news/articles/cy735xlv50ko?at_medium=RSS&at_campaign=rss",
+      "date": "2026-06-19 05:33",
+      "score": 10.0,
+      "impact": "neutral",
+      "sectors": [
+        "Broad Market",
+        "Commodities",
+        "Energy",
+        "Industrials",
+        "International"
+      ],
+      "primary_sector": "Broad Market",
+      "etf_tickers": [],
+      "rotation": ""
+    },
+    {
+      "title": "What Iran and US get from deal and why both could struggle to keep it",
+      "headline_it": "",
+      "summary_it": "",
+      "summary_en": "BBC analysts assess the claims by both Washington and Tehran to have won a victory with the deal to end their war.",
+      "source": "BBC World",
+      "link": "https://www.bbc.com/news/articles/c932yqz8lggo?at_medium=RSS&at_campaign=rss",
+      "date": "2026-06-18 20:04",
+      "score": 10.0,
+      "impact": "neutral",
+      "sectors": [
+        "Broad Market",
+        "Commodities",
+        "Energy",
+        "Industrials",
+        "International"
+      ],
+      "primary_sector": "Broad Market",
+      "etf_tickers": [],
+      "rotation": ""
+    },
+    {
+      "title": "What's in the US-Iran agreement?",
+      "headline_it": "",
+      "summary_it": "",
+      "summary_en": "The 14-paragraph memo includes an end to fighting, an agreement that Iran will never have a nuclear weapon, and a $300bn redevelopment package for Iran.",
+      "source": "BBC World",
+      "link": "https://www.bbc.com/news/articles/cvgmqzr6p9mo?at_medium=RSS&at_campaign=rss",
+      "date": "2026-06-18 01:28",
+      "score": 10.0,
+      "impact": "neutral",
+      "sectors": [
+        "Commodities",
+        "Energy",
+        "Industrials",
+        "International"
+      ],
+      "primary_sector": "Commodities",
+      "etf_tickers": [],
+      "rotation": ""
+    },
+    {
+      "title": "First Russian shadow fleet tanker enters Channel since Smyrtos boarding",
+      "headline_it": "",
+      "summary_it": "",
+      "summary_en": "Forwarder, a Russian-flagged ship which left port in Primorsk last week, entered the Channel on Wednesday evening.",
+      "source": "BBC World",
+      "link": "https://www.bbc.com/news/articles/cgk6d12lz6jo?at_medium=RSS&at_campaign=rss",
+      "date": "2026-06-18 14:02",
+      "score": 10.0,
+      "impact": "neutral",
+      "sectors": [
+        "Broad Market",
+        "Commodities",
+        "Energy",
+        "Industrials",
+        "International"
+      ],
+      "primary_sector": "Broad Market",
+      "etf_tickers": [],
+      "rotation": ""
+    },
+    {
+      "title": "US-Iran deal leaves core sticking points unresolved - and a $300bn question",
+      "headline_it": "",
+      "summary_it": "",
+      "summary_en": "Trump has insisted the deal ensures that Iran will never buy, develop or produce a nuclear weapon. But text of the agreement falls short of that.",
+      "source": "BBC World",
+      "link": "https://www.bbc.com/news/articles/cgmd8dgklzzo?at_medium=RSS&at_campaign=rss",
+      "date": "2026-06-18 01:29",
+      "score": 10.0,
+      "impact": "bearish",
+      "sectors": [
+        "Commodities",
+        "Energy",
+        "Industrials",
+        "International"
+      ],
+      "primary_sector": "Commodities",
+      "etf_tickers": [],
+      "rotation": ""
+    },
+    {
+      "title": "Will Putin change tactics after Ukrainian drone attacks?",
+      "headline_it": "",
+      "summary_it": "",
+      "summary_en": "Steve Rosenberg explains what Russia's next steps may be after frequent Ukrainian drone attacks.",
+      "source": "BBC World",
+      "link": "https://www.bbc.com/news/videos/cgjx87jljqpo?at_medium=RSS&at_campaign=rss",
+      "date": "2026-06-18 10:52",
+      "score": 10.0,
+      "impact": "neutral",
+      "sectors": [
+        "Broad Market",
+        "Commodities",
+        "Energy",
+        "Industrials",
+        "International"
+      ],
+      "primary_sector": "Broad Market",
+      "etf_tickers": [],
+      "rotation": ""
+    },
+    {
+      "title": "'Warning fire went up': Couple on board yacht describe encounter with Russian warship",
+      "headline_it": "",
+      "summary_it": "",
+      "summary_en": "The Russian frigate fired warning shots near a British retired couple on a yacht in the English Channel.",
+      "source": "BBC World",
+      "link": "https://www.bbc.com/news/videos/cevldxgklxko?at_medium=RSS&at_campaign=rss",
+      "date": "2026-06-16 22:01",
+      "score": 10.0,
+      "impact": "bearish",
+      "sectors": [
+        "Broad Market",
+        "Commodities",
+        "Energy",
+        "International"
+      ],
+      "primary_sector": "Broad Market",
+      "etf_tickers": [],
+      "rotation": ""
+    },
+    {
+      "title": "Trump’s Iran deal, Israel’s meltdown",
+      "headline_it": "",
+      "summary_it": "",
+      "summary_en": "The precarious memorandum of understanding between the US and Iran.",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/video/the-listening-post/2026/6/20/trumps-iran-deal-israels-meltdown?traffic_source=rss",
+      "date": "2026-06-20 09:45",
+      "score": 10.0,
+      "impact": "neutral",
+      "sectors": [
+        "Commodities",
+        "Energy",
+        "Industrials",
+        "International"
+      ],
+      "primary_sector": "Commodities",
+      "etf_tickers": [],
+      "rotation": ""
+    },
+    {
+      "title": "Two roadside bombs kill at least seven in northwestern Pakistan",
+      "headline_it": "",
+      "summary_it": "",
+      "summary_en": "No group has yet claimed responsibility for the attacks.",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/news/2026/6/20/two-roadside-bombs-kill-at-least-seven-in-northwestern-pakistan?traffic_source=rss",
+      "date": "2026-06-20 08:53",
+      "score": 10.0,
+      "impact": "neutral",
+      "sectors": [
+        "Broad Market",
+        "Industrials",
+        "International"
+      ],
+      "primary_sector": "Broad Market",
+      "etf_tickers": [],
+      "rotation": ""
+    },
+    {
+      "title": "Family, including two daughters, killed in Israeli strikes on Gaza",
+      "headline_it": "",
+      "summary_it": "",
+      "summary_en": "Israel has repeatedly violated the October ceasefire brokered by the US.",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/news/2026/6/20/family-including-two-daughters-killed-in-israeli-strikes-on-gaza?traffic_source=rss",
+      "date": "2026-06-20 08:18",
+      "score": 10.0,
+      "impact": "neutral",
+      "sectors": [
+        "Energy",
+        "Industrials",
+        "International"
+      ],
+      "primary_sector": "Energy",
+      "etf_tickers": [],
+      "rotation": ""
+    },
+    {
+      "title": "Mona Khalil, Lebanon’s turtle advocate, dies after Israeli attack",
+      "headline_it": "",
+      "summary_it": "",
+      "summary_en": "Khalil spent more than two decades protecting the nests of endangered turtle species in southern Lebanon.",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/news/2026/6/20/mona-khalil-lebanons-turtle-advocate-dies-after-israeli-attack?traffic_source=rss",
+      "date": "2026-06-20 07:42",
+      "score": 10.0,
+      "impact": "neutral",
+      "sectors": [
+        "Broad Market",
+        "Energy",
+        "Industrials",
+        "International"
+      ],
+      "primary_sector": "Broad Market",
+      "etf_tickers": [],
+      "rotation": ""
+    },
+    {
+      "title": "US envoy headed for Switzerland, Israeli strikes on Lebanon threaten talks",
+      "headline_it": "",
+      "summary_it": "",
+      "summary_en": "US media are reporting that Witkoff and Kushner are preparing for negotiations with Iran after talks were postponed.",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/news/2026/6/20/us-envoy-headed-for-switzerland-israeli-strikes-on-lebanon-threaten-talks?traffic_source=rss",
+      "date": "2026-06-20 07:02",
+      "score": 10.0,
+      "impact": "neutral",
+      "sectors": [
+        "Commodities",
+        "Energy",
+        "Industrials",
+        "International"
+      ],
+      "primary_sector": "Commodities",
+      "etf_tickers": [],
+      "rotation": ""
+    },
+    {
+      "title": "Iran war day 113: Tehran presses US over Lebanon ceasefire",
+      "headline_it": "",
+      "summary_it": "",
+      "summary_en": "Iran presses US over Lebanon as Israeli strikes test fragile ceasefire and broader peace efforts.",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/news/2026/6/20/iran-war-day-113-tehran-presses-us-over-lebanon-ceasefire?traffic_source=rss",
+      "date": "2026-06-20 05:58",
+      "score": 10.0,
+      "impact": "neutral",
+      "sectors": [
+        "Broad Market",
+        "Commodities",
+        "Energy",
+        "Industrials",
+        "International"
+      ],
+      "primary_sector": "Broad Market",
+      "etf_tickers": [],
+      "rotation": ""
+    },
+    {
+      "title": "Lebanese influencer organises World Cup event amid Israel’s attack on Leban",
+      "headline_it": "",
+      "summary_it": "",
+      "summary_en": "As Israel’s war on Lebanon rages, hundreds gather in Rmeileh by Sidon Gate to watch the 2026 World Cup.",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/6/20/lebanese-influencer-organises-world-cup-event-amid-israels-attack-on-leban?traffic_source=rss",
+      "date": "2026-06-20 01:05",
+      "score": 10.0,
+      "impact": "neutral",
+      "sectors": [
+        "Broad Market",
+        "Commodities",
+        "Energy",
+        "Industrials",
+        "International"
+      ],
+      "primary_sector": "Broad Market",
+      "etf_tickers": [],
+      "rotation": ""
+    },
+    {
+      "title": "Iran war live: Tehran says US must ensure Israel ends attacks on Lebanon",
+      "headline_it": "",
+      "summary_it": "",
+      "summary_en": "Iranian deputy foreign minister says Iran &#039;ready to move forward&#039; on diplomacy with US, but war must end on all fronts.",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/news/liveblog/2026/6/20/iran-war-live-tehran-says-us-must-ensure-israel-ends-attacks-on-lebanon?traffic_source=rss",
+      "date": "2026-06-20 00:00",
+      "score": 10.0,
+      "impact": "neutral",
+      "sectors": [
+        "Broad Market",
+        "Commodities",
+        "Energy",
+        "Industrials",
+        "International"
+      ],
+      "primary_sector": "Broad Market",
+      "etf_tickers": [],
+      "rotation": ""
+    },
+    {
+      "title": "The Iran War Damaged U.S.-India Ties",
+      "headline_it": "",
+      "summary_it": "",
+      "summary_en": "Diplomatic fractures between the two strategic partners are likely to outlast the conflict.",
+      "source": "Foreign Policy",
+      "link": "https://foreignpolicy.com/2026/06/18/iran-war-us-india-ties-damage-economy-modi-rubio-trump/",
+      "date": "2026-06-18 15:04",
+      "score": 10.0,
+      "impact": "neutral",
+      "sectors": [
+        "Broad Market",
+        "Commodities",
+        "Energy",
+        "Industrials",
+        "International"
+      ],
+      "primary_sector": "Broad Market",
+      "etf_tickers": [],
+      "rotation": ""
+    },
+    {
+      "title": "Federal Reserve issues FOMC statement",
+      "headline_it": "Fed pubblica dichiarazione FOMC",
+      "summary_it": "La Federal Reserve pubblica la dichiarazione del FOMC, influenzando il mercato azionario e obbligazionario. Ciò potrebbe avere un impatto significativo sui settori finanziari e del mercato più ampio.",
+      "summary_en": "Federal Reserve issues FOMC statement",
+      "source": "Federal Reserve",
+      "link": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20260617a.htm",
+      "date": "2026-06-17 18:00",
+      "score": 9.4,
+      "impact": "neutral",
+      "sectors": [
+        "Bonds",
+        "Broad Market",
+        "Financials"
+      ],
+      "primary_sector": "Bonds",
+      "etf_tickers": [
+        "SPY",
+        "TLT",
+        "XLF"
+      ],
+      "rotation": ""
+    },
+    {
+      "title": "Federal Reserve Board and Federal Open Market Committee release economic projections from the June 16-17 FOMC meeting",
+      "headline_it": "Proiezioni economiche della Fed",
+      "summary_it": "La Federal Reserve ha pubblicato le proiezioni economiche dell'incontro del FOMC del 16-17 giugno, influenzando i mercati finanziari e i tassi di interesse.",
+      "summary_en": "Federal Reserve Board and Federal Open Market Committee release economic projections from the June 16-17 FOMC meeting",
+      "source": "Federal Reserve",
+      "link": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20260617b.htm",
+      "date": "2026-06-17 18:00",
+      "score": 9.4,
+      "impact": "bearish",
+      "sectors": [
+        "Bonds",
+        "Broad Market",
+        "Financials"
+      ],
+      "primary_sector": "Bonds",
+      "etf_tickers": [
+        "SPY",
+        "TLT",
+        "XLF"
+      ],
+      "rotation": ""
+    },
+    {
+      "title": "Markets are set for a much more hawkish Warsh Fed than expected",
+      "headline_it": "Fed più hawkish del previsto",
+      "summary_it": "Le parole dure del presidente della Fed Kevin Warsh sull'inflazione hanno avuto un forte impatto sui mercati finanziari, prefigurando un contesto più difficile per i titoli.",
+      "summary_en": "Fed Chairman Kevin Warsh's tough talk on inflation Wednesday reverberated through financial markets.",
+      "source": "CNBC Finance",
+      "link": "https://www.cnbc.com/2026/06/18/markets-are-set-for-a-much-more-hawkish-warsh-fed-than-expected.html",
+      "date": "2026-06-18 18:04",
+      "score": 9.4,
+      "impact": "bearish",
+      "sectors": [
+        "Bonds",
+        "Broad Market",
+        "Commodities",
+        "Energy",
+        "Financials",
+        "Industrials",
+        "International"
+      ],
+      "primary_sector": "Bonds",
+      "etf_tickers": [
+        "SPY",
+        "TLT",
+        "XLF"
+      ],
+      "rotation": ""
+    },
+    {
+      "title": "Chairman Warsh drastically alters Fed rate statement. Here's what's changed",
+      "headline_it": "Fed modifica dichiarazione sui tassi",
+      "summary_it": "Il Chairman Warsh ha modificato la dichiarazione sui tassi della Fed, influenzando il mercato. Ciò potrebbe avere un impatto significativo sui settori finanziari e obbligazionari.",
+      "summary_en": "This is a comparison of Wednesday's Federal Open Market Committee statement with the one issued after the Fed's previous policymaking meeting in April.",
+      "source": "CNBC Finance",
+      "link": "https://www.cnbc.com/2026/06/17/june-fed-meeting-redline.html",
+      "date": "2026-06-18 22:03",
+      "score": 9.4,
+      "impact": "bearish",
+      "sectors": [
+        "Bonds",
+        "Broad Market",
+        "Commodities",
+        "Energy",
+        "Financials",
+        "Industrials",
+        "International"
+      ],
+      "primary_sector": "Bonds",
+      "etf_tickers": [
+        "SPY",
+        "TLT",
+        "XLF"
+      ],
+      "rotation": ""
+    },
+    {
+      "title": "Jeffrey Gundlach says Fed's Warsh is not going to be the 'easy money' chairman many hoped for",
+      "headline_it": "Fed non sarà troppo accomodante",
+      "summary_it": "La posizione di Warsh riduce il rischio di una politica monetaria troppo accomodante, che potrebbe riaccendere l'inflazione e spingere i costi di prestito a lungo termine più in alto. Ciò potrebbe avere un impatto positivo sui titoli di Stato e sul settore finanziario.",
+      "summary_en": "Gundlach said Warsh's stance reduces the risk of overly accommodative monetary policy that could reignite inflation and push longer-term borrowing costs higher.",
+      "source": "CNBC Finance",
+      "link": "https://www.cnbc.com/2026/06/17/jeffrey-gundlach-says-feds-warsh-is-not-going-to-be-the-easy-money-chairman-many-hoped-for.html",
+      "date": "2026-06-17 20:26",
+      "score": 8.7,
+      "impact": "bullish",
+      "sectors": [
+        "Bonds",
+        "Broad Market",
+        "Commodities",
+        "Energy",
+        "Financials",
+        "International"
+      ],
+      "primary_sector": "Bonds",
+      "etf_tickers": [
+        "TLT",
+        "XLF"
+      ],
+      "rotation": ""
+    },
+    {
+      "title": "Chairman Warsh abstains from giving rate forecast as several members signal a hike in 2026",
+      "headline_it": "Proiezioni tassi interessi 2026",
+      "summary_it": "La proiezione mediana prevede un aumento dei tassi federali a fine 2026. Ciò potrebbe influenzare i settori finanziari e obbligazionari.",
+      "summary_en": "The median projection called for the federal funds rate to end 2026 at 3.8%, a quarter percentage point above the current target range.",
+      "source": "CNBC Finance",
+      "link": "https://www.cnbc.com/2026/06/17/fed-projections-call-for-a-rate-hike-in-2026-but-chairman-warsh-likely-abstained.html",
+      "date": "2026-06-17 19:27",
+      "score": 8.7,
+      "impact": "bearish",
+      "sectors": [
+        "Bonds",
+        "Broad Market",
+        "Commodities",
+        "Energy",
+        "Financials",
+        "Industrials",
+        "International"
+      ],
+      "primary_sector": "Bonds",
+      "etf_tickers": [
+        "TLT",
+        "XLF"
+      ],
+      "rotation": ""
+    },
+    {
+      "title": "Fed Chair Warsh expected to withhold 'dot' from central bank's interest rate outlook",
+      "headline_it": "Fed esclude aumento tassi",
+      "summary_it": "La Fed non prevede aumenti dei tassi di interesse, impatto su settori finanziari e obbligazionari. Ciò potrebbe influenzare l'intero mercato.",
+      "summary_en": "The central bank's Federal Open Market Committee is set to release its quarterly update of where individual officials expect interest rates to head.",
+      "source": "CNBC Finance",
+      "link": "https://www.cnbc.com/2026/06/16/fed-chair-warsh-expected-to-withhold-dot-from-central-banks-interest-rate-outlook.html",
+      "date": "2026-06-17 15:23",
+      "score": 8.7,
+      "impact": "bullish",
+      "sectors": [
+        "Bonds",
+        "Broad Market",
+        "Commodities",
+        "Energy",
+        "Financials",
+        "International"
+      ],
+      "primary_sector": "Bonds",
+      "etf_tickers": [
+        "SPY",
+        "TLT",
+        "XLF"
+      ],
+      "rotation": ""
+    },
+    {
+      "title": "Trump claims Iran deal is 'unconditional surrender,' says his power has 'no limits': Axios",
+      "headline_it": "Trump: accordo Iran senza condizioni",
+      "summary_it": "L'accordo con l'Iran potrebbe prevenire una depressione globale. Ciò potrebbe avere un impatto positivo sui mercati azionari e sul settore energetico.",
+      "summary_en": "Trump said in an interview with Axios on Thursday evening stateside that he negotiated the deal to prevent the conflict from triggering a global depression.",
+      "source": "CNBC Economy",
+      "link": "https://www.cnbc.com/2026/06/19/trump-claims-iran-deal-is-unconditional-surrender-axios-.html",
+      "date": "2026-06-19 02:00",
+      "score": 8.7,
+      "impact": "bullish",
+      "sectors": [
+        "Broad Market",
+        "Commodities",
+        "Energy",
+        "Industrials",
+        "International"
+      ],
+      "primary_sector": "Broad Market",
+      "etf_tickers": [
+        "SPY",
+        "XLE"
+      ],
+      "rotation": ""
+    },
+    {
+      "title": "Bank of England holds interest rates at 3.75% amid Iran war peace prospects",
+      "headline_it": "Banca d'Inghilterra mantiene tassi",
+      "summary_it": "La Banca d'Inghilterra mantiene i tassi di interesse al 3,75% in attesa di sviluppi sulla pace nel conflitto Iran. Ciò potrebbe influenzare i mercati finanziari e obbligazionari.",
+      "summary_en": "The Bank of England's Monetary Policy Committee voted 7-2 to keep rates on hold.",
+      "source": "CNBC Economy",
+      "link": "https://www.cnbc.com/2026/06/18/inflation-interest-rates-uk-bank-of-england-iran-deal.html",
+      "date": "2026-06-18 11:49",
+      "score": 8.7,
+      "impact": "neutral",
+      "sectors": [
+        "Bonds",
+        "Broad Market",
+        "Commodities",
+        "Energy",
+        "Financials",
+        "Industrials",
+        "International"
+      ],
+      "primary_sector": "Bonds",
+      "etf_tickers": [
+        "SPY",
+        "TLT",
+        "XLF"
+      ],
+      "rotation": ""
+    },
+    {
+      "title": "Here are the five big takeaways from Kevin Warsh's first meeting as Fed chairman",
+      "headline_it": "Fed mantiene la linea",
+      "summary_it": "La Federal Reserve guidata da Kevin Warsh mantiene la linea sugli interessi. Ciò potrebbe avere un impatto significativo sui settori finanziari e obbligazionari.",
+      "summary_en": "The Federal Reserve and Chairman Kevin Warsh on Wednesday followed the script on interest rates closely.",
+      "source": "CNBC Economy",
+      "link": "https://www.cnbc.com/2026/06/17/here-are-the-five-big-takeaways-from-kevin-warshs-first-meeting-as-fed-chairman.html",
+      "date": "2026-06-18 19:17",
+      "score": 8.7,
+      "impact": "neutral",
+      "sectors": [
+        "Bonds",
+        "Broad Market",
+        "Commodities",
+        "Energy",
+        "Financials",
+        "Industrials",
+        "International"
+      ],
+      "primary_sector": "Bonds",
+      "etf_tickers": [
+        "SPY",
+        "TLT",
+        "XLF"
+      ],
+      "rotation": ""
+    },
+    {
+      "title": "Warsh’s new task forces give the Fed wiggle room to put off changing rates until December",
+      "headline_it": "Fed posticipa decisioni sui tassi",
+      "summary_it": "Il nuovo presidente della Fed, Kevin Warsh, ha annunciato che task force esamineranno varie questioni, permettendo alla Fed di posticipare le decisioni sui tassi di interesse fino a dicembre. Ciò potrebbe influenzare i mercati finanziari e i settori correlati.",
+      "summary_en": "During his first press conference as Fed chair Wednesday, Kevin Warsh repeated one refrain in his answers to many reporters’ questions: A task force is looking into it.",
+      "source": "MarketWatch",
+      "link": "https://www.marketwatch.com/story/warshs-task-forces-give-the-fed-wiggle-room-to-put-off-changing-rates-until-december-364fc1fc?mod=mw_rss_topstories",
+      "date": "2026-06-19 17:25",
+      "score": 8.7,
+      "impact": "neutral",
+      "sectors": [
+        "Bonds",
+        "Broad Market",
+        "Commodities",
+        "Energy",
+        "Financials",
+        "Industrials",
+        "International"
+      ],
+      "primary_sector": "Bonds",
+      "etf_tickers": [
+        "SPY",
+        "TLT",
+        "XLF"
+      ],
+      "rotation": ""
+    },
+    {
+      "title": "Trump picked Kevin Warsh to cut rates. The new Fed chief just told us he has other plans.",
+      "headline_it": "Fed: piano di rialzo tassi",
+      "summary_it": "La nuova agenda della Fed potrebbe influenzare i mercati finanziari e i tassi di interesse. Ciò potrebbe avere un impatto significativo sugli ETF del settore finanziario e dei bond.",
+      "summary_en": "Here’s what the central bank’s hawkish agenda means for your money.",
+      "source": "MarketWatch",
+      "link": "https://www.marketwatch.com/story/trump-picked-kevin-warsh-to-cut-rates-the-new-fed-chief-just-told-us-he-has-other-plans-096bba56?mod=mw_rss_topstories",
+      "date": "2026-06-19 17:08",
+      "score": 8.7,
+      "impact": "bearish",
+      "sectors": [
+        "Bonds",
+        "Broad Market",
+        "Commodities",
+        "Energy",
+        "Financials",
+        "Industrials",
+        "International"
+      ],
+      "primary_sector": "Bonds",
+      "etf_tickers": [
+        "SPY",
+        "TLT",
+        "XLF"
+      ],
+      "rotation": ""
+    },
+    {
+      "title": "Oil prices face fresh wave of volatility amid conflicting reports about Strait of Hormuz reopening and ongoing regional strife",
+      "headline_it": "Prezzi petrolio in volatilità",
+      "summary_it": "I prezzi del petrolio sono influenzati da notizie contrastanti sull'accordo tra Stati Uniti e Iran. Ciò potrebbe avere un impatto significativo sui settori energetico e delle commodity.",
+      "summary_en": "A flurry of headlines on Friday point to an increasingly fragile deal between the U.S. and Iran.",
+      "source": "MarketWatch",
+      "link": "https://www.marketwatch.com/story/oil-prices-under-new-wave-of-pressure-amid-lingering-questions-over-a-strait-of-hormuz-reopening-c58fc9e8?mod=mw_rss_topstories",
+      "date": "2026-06-19 16:05",
+      "score": 8.7,
+      "impact": "bearish",
+      "sectors": [
+        "Broad Market",
+        "Commodities",
+        "Energy",
+        "Industrials",
+        "International"
+      ],
+      "primary_sector": "Broad Market",
+      "etf_tickers": [
+        "USO"
+      ],
+      "rotation": ""
+    },
+    {
+      "title": "Oil tanker traffic in Strait of Hormuz jumps after U.S. and Iran implement deal to open sea lane",
+      "headline_it": "Traffico petroliere aumenta nello Stretto di Hormuz",
+      "summary_it": "L'accordo tra Stati Uniti e Iran ha aumentato il traffico di petroliere nello Stretto di Hormuz, ma solleva interrogativi sulla governance della regione.",
+      "summary_en": "The U.S.-Iran deal has raised questions about how the Strait of Hormuz will be governed after the toll-free period ends.",
+      "source": "CNBC World",
+      "link": "https://www.cnbc.com/2026/06/19/iran-oil-tanker-traffic-strait-hormuz-gulf-vlcc.html",
+      "date": "2026-06-19 23:00",
+      "score": 8.7,
+      "impact": "bullish",
+      "sectors": [
+        "Commodities",
+        "Energy",
+        "Industrials",
+        "International"
+      ],
+      "primary_sector": "Commodities",
+      "etf_tickers": [
+        "USO"
+      ],
+      "rotation": ""
+    },
+    {
+      "title": "Russia threatens escalation after Ukraine hits Moscow with largest-ever drone attack",
+      "headline_it": "Russia minaccia escalation",
+      "summary_it": "La Russia ha promesso di effettuare frequenti e massicce azioni di rappresaglia contro l'Ucraina dopo l'attacco con droni più grande mai visto su Mosca. Ciò potrebbe avere un impatto significativo sui mercati energetici e globali.",
+      "summary_en": "Russia has pledged to carry out frequent and \"massive group strikes\" against Ukraine shortly after Kyiv launched a barrage of drones on Moscow.",
+      "source": "CNBC World",
+      "link": "https://www.cnbc.com/2026/06/19/russia-ukraine-moscow-drone-attack-trump.html",
+      "date": "2026-06-19 10:25",
+      "score": 8.7,
+      "impact": "bearish",
+      "sectors": [
+        "Broad Market",
+        "Commodities",
+        "Energy",
+        "Industrials",
+        "International"
+      ],
+      "primary_sector": "Broad Market",
+      "etf_tickers": [
+        "SPY",
+        "XLE"
+      ],
+      "rotation": ""
+    },
+    {
+      "title": "Federal Reserve Board requests comment on proposal to require certain payment stablecoin issuers to maintain an effective customer identification program",
+      "headline_it": "Fed propone regole per stablecoin",
+      "summary_it": "La Federal Reserve richiede commenti su una proposta per obbligare gli emittenti di stablecoin a implementare un programma di identificazione del cliente. Ciò potrebbe avere un impatto sul settore delle criptovalute e dei servizi finanziari.",
+      "summary_en": "Federal Reserve Board requests comment on proposal to require certain payment stablecoin issuers to maintain an effective customer identification program",
+      "source": "Federal Reserve",
+      "link": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20260618a.htm",
+      "date": "2026-06-18 13:00",
+      "score": 7.4,
+      "impact": "bearish",
+      "sectors": [
+        "Crypto",
+        "Financials"
+      ],
+      "primary_sector": "Crypto",
+      "etf_tickers": [
+        "BITO"
+      ],
+      "rotation": ""
+    },
+    {
+      "title": "Stocks making the biggest moves midday: SpaceX, JPMorgan, UniQure, Intel, Figma, Nano Nuclear & more",
+      "headline_it": "Titoli in movimento",
+      "summary_it": "Alcuni titoli mostrano grandi movimenti a metà giornata, inclusi quelli di settori tecnologici e finanziari.",
+      "summary_en": "These are some of the stocks posting the largest moves midday.",
+      "source": "CNBC Finance",
+      "link": "https://www.cnbc.com/2026/06/17/stocks-making-the-biggest-moves-midday-spcx-jpm-qure-nne.html",
+      "date": "2026-06-17 19:55",
+      "score": 7.4,
+      "impact": "mixed",
+      "sectors": [
+        "Broad Market",
+        "Energy",
+        "Financials",
+        "International",
+        "Tech & Semiconductors"
+      ],
+      "primary_sector": "Broad Market",
+      "etf_tickers": [
+        "QQQ",
+        "SMH",
+        "XLF"
+      ],
+      "rotation": ""
+    },
+    {
+      "title": "Michael Burry says he's tempted to bet against SpaceX, but passes on expensive options",
+      "headline_it": "Burry critica SpaceX",
+      "summary_it": "Michael Burry esprime scetticismo sul valore di mercato di SpaceX, che supera quello di molte aziende consolidate. Ciò potrebbe avere un impatto negativo sul settore tecnologico.",
+      "summary_en": "Burry argued the company's market capitalization had reached levels that dwarf many established businesses and fortunes.",
+      "source": "CNBC Finance",
+      "link": "https://www.cnbc.com/2026/06/16/michael-burry-says-hes-tempted-to-bet-against-spacex-but-passes-on-expensive-options.html",
+      "date": "2026-06-16 20:55",
+      "score": 7.4,
+      "impact": "bearish",
+      "sectors": [
+        "Broad Market",
+        "Commodities",
+        "Energy",
+        "Industrials",
+        "International",
+        "Tech & Semiconductors"
+      ],
+      "primary_sector": "Broad Market",
+      "etf_tickers": [
+        "QQQ"
+      ],
+      "rotation": ""
+    },
+    {
+      "title": "Hormuz relief may not ease the economic toll that's already 'baked in,' analysts warn",
+      "headline_it": "Riapertura dello Stretto di Hormuz",
+      "summary_it": "La riapertura dello Stretto di Hormuz potrebbe non alleviare immediatamente l'impatto economico già subito. Gli analisti avvertono che i danni economici della guerra richiederanno mesi per essere superati.",
+      "summary_en": "Early signs of reopening of the Strait of Hormuz have lifted the most acute threat to global energy supplies but economic damages from the war will take months to unwind.",
+      "source": "CNBC Economy",
+      "link": "https://www.cnbc.com/2026/06/19/hormuz-relief-may-not-ease-the-economic-toll-thats-already-baked-in-analysts-warn.html",
+      "date": "2026-06-19 08:08",
+      "score": 7.4,
+      "impact": "bearish",
+      "sectors": [
+        "Broad Market",
+        "Commodities",
+        "Energy",
+        "International"
+      ],
+      "primary_sector": "Broad Market",
+      "etf_tickers": [
+        "SPY",
+        "XLE"
+      ],
+      "rotation": ""
+    },
+    {
+      "title": "Three Iranian tankers exit U.S. blockade for first time in months as shipowners eye Hormuz in 'wary disbelief'",
+      "headline_it": "Petroliferi iraniani escono dal blocco USA",
+      "summary_it": "Tre petroliere iraniane sono uscite dal blocco navale USA, trasportando quasi 5 milioni di barili di petrolio greggio. Ciò potrebbe avere un impatto sul settore energetico e delle commodity.",
+      "summary_en": "At least three Iranian tankers carrying nearly five million barrels of crude oil have exited the U.S. Navy blockade.",
+      "source": "CNBC Economy",
+      "link": "https://www.cnbc.com/2026/06/17/iranian-tankers-oil-shipment-us-iran-deal-strait-of-hormuz-.html",
+      "date": "2026-06-17 07:23",
+      "score": 7.4,
+      "impact": "bullish",
+      "sectors": [
+        "Broad Market",
+        "Commodities",
+        "Energy",
+        "Industrials",
+        "International"
+      ],
+      "primary_sector": "Broad Market",
+      "etf_tickers": [
+        "USO"
+      ],
+      "rotation": ""
+    },
+    {
+      "title": "At least five killed in Israeli strikes on south Lebanon despite ceasefire",
+      "headline_it": "Israele colpisce il Libano",
+      "summary_it": "Gli attacchi israeliani nel sud del Libano nonostante la tregua potrebbero influenzare i mercati energetici e di broader market. Ciò potrebbe avere un impatto negativo sui prezzi del petrolio e sui mercati azionari.",
+      "summary_en": "Lebanese state news agency NNA said Israeli warplanes and drones carried out a series of strikes across the Nabatieh area overnight and into Saturday morning.",
+      "source": "CNBC World",
+      "link": "https://www.cnbc.com/2026/06/20/at-least-five-killed-in-israeli-strikes-on-lebanon-despite-ceasefire.html",
+      "date": "2026-06-20 06:37",
+      "score": 7.4,
+      "impact": "bearish",
+      "sectors": [
+        "Broad Market",
+        "Commodities",
+        "Energy",
+        "Industrials",
+        "International"
+      ],
+      "primary_sector": "Broad Market",
+      "etf_tickers": [
+        "SPY"
+      ],
+      "rotation": ""
+    },
+    {
+      "title": "Massive bonuses for South Korea's chip workers puts central bank on inflation alert",
+      "headline_it": "Bonus milionari per lavoratori coreani",
+      "summary_it": "I lavoratori del settore tecnologico ricevono bonus milionari, allertando la banca centrale coreana sulla pressione verso l'alto dell'inflazione. Ciò potrebbe avere un impatto sul settore dei semiconduttori.",
+      "summary_en": "Workers from tech industries receive bonus worth millions of won, prompting the Bank of Korea to warn of the upward pressure to inflation.",
+      "source": "CNBC World",
+      "link": "https://www.cnbc.com/2026/06/20/south-korea-tech-samsung-sk-hynix-bonus-bank-of-korea.html",
+      "date": "2026-06-20 08:59",
+      "score": 7.4,
+      "impact": "bearish",
+      "sectors": [
+        "Bonds",
+        "Broad Market",
+        "Commodities",
+        "Energy",
+        "Financials",
+        "International",
+        "Tech & Semiconductors"
+      ],
+      "primary_sector": "Bonds",
+      "etf_tickers": [
+        "SMH"
+      ],
+      "rotation": ""
+    },
+    {
+      "title": "Why Japan's $70 billion-plus intervention and a rate hike didn't prop up the yen more",
+      "headline_it": "Intervento giapponese",
+      "summary_it": "Il Giappone interviene per difendere lo yen, ma l'effetto è limitato. Ciò potrebbe influenzare gli ETF legati al mercato internazionale e ai finanziari.",
+      "summary_en": "Japan was willing to step in to defend the yen around the 160 level before, and it's at that point again.",
+      "source": "CNBC World",
+      "link": "https://www.cnbc.com/2026/06/19/japan-yen-intervention-boj-rate-hike.html",
+      "date": "2026-06-19 02:04",
+      "score": 7.4,
+      "impact": "bearish",
+      "sectors": [
+        "Bonds",
+        "Broad Market",
+        "Financials",
+        "Industrials",
+        "International"
+      ],
+      "primary_sector": "Bonds",
+      "etf_tickers": [],
+      "rotation": ""
+    },
+    {
+      "title": "Federal Reserve Board issues enforcement action with former employee of Manufacturers and Traders Trust Company",
+      "headline_it": "Azione di enforcement della Fed",
+      "summary_it": "La Federal Reserve ha emesso un'azione di enforcement contro un ex dipendente di Manufacturers and Traders Trust Company, un evento che potrebbe avere un impatto limitato sul settore finanziario.",
+      "summary_en": "Federal Reserve Board issues enforcement action with former employee of Manufacturers and Traders Trust Company",
+      "source": "Federal Reserve",
+      "link": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20260618a.htm",
+      "date": "2026-06-18 15:00",
+      "score": 5.5,
+      "impact": "neutral",
+      "sectors": [
+        "Financials"
+      ],
+      "primary_sector": "Financials",
+      "etf_tickers": [
+        "XLF"
+      ],
+      "rotation": ""
+    },
+    {
+      "title": "Federal Reserve Board issues enforcement action with former employee of Bank of Eufaula and S N B Bancshares, Inc.",
+      "headline_it": "Azione di enforcement della Fed",
+      "summary_it": "La Federal Reserve ha emesso un'azione di enforcement contro un ex dipendente di Bank of Eufaula e S N B Bancshares, Inc. L'impatto è limitato e non dovrebbe influenzare significativamente il settore finanziario.",
+      "summary_en": "Federal Reserve Board issues enforcement action with former employee of Bank of Eufaula and S N B Bancshares, Inc.",
+      "source": "Federal Reserve",
+      "link": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20260618b.htm",
+      "date": "2026-06-18 19:00",
+      "score": 4.8,
+      "impact": "neutral",
+      "sectors": [
+        "Financials"
+      ],
+      "primary_sector": "Financials",
+      "etf_tickers": [
+        "XLF"
+      ],
+      "rotation": ""
+    }
+  ]
+}

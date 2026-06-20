@@ -1,36 +1,42 @@
 {
-  "date": "June 13, 2026",
-  "week": "2026-W24",
+  "date": "June 20, 2026",
+  "week": "2026-W25",
   "ideas": [
     {
-      "ticker": "QQQ",
-      "price": 721.34,
+      "ticker": "REMX",
+      "price": 96.04,
       "direction": "long",
-      "desc": "Nasdaq 100"
+      "desc": "Rare Earth"
+    },
+    {
+      "ticker": "UFO",
+      "price": 50.27,
+      "direction": "long",
+      "desc": "Space"
+    },
+    {
+      "ticker": "KWEB",
+      "price": 25.24,
+      "direction": "long",
+      "desc": "China Internet"
+    },
+    {
+      "ticker": "XLC",
+      "price": 109.2,
+      "direction": "long",
+      "desc": "Communications"
+    },
+    {
+      "ticker": "ARKG",
+      "price": 36.86,
+      "direction": "long",
+      "desc": "Genomics"
     },
     {
       "ticker": "SMH",
-      "price": 619.96,
+      "price": 659.88,
       "direction": "long",
       "desc": "Semiconductors"
-    },
-    {
-      "ticker": "USO",
-      "price": 125.43,
-      "direction": "long",
-      "desc": "Crude Oil"
-    },
-    {
-      "ticker": "SPY",
-      "price": 741.75,
-      "direction": "long",
-      "desc": "S&P 500"
-    },
-    {
-      "ticker": "REMX",
-      "price": 95.5,
-      "direction": "long",
-      "desc": "Rare Earth"
     }
   ]
 }
