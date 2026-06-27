@@ -1,42 +1,36 @@
 {
-  "date": "June 20, 2026",
-  "week": "2026-W25",
+  "date": "June 27, 2026",
+  "week": "2026-W26",
   "ideas": [
     {
-      "ticker": "REMX",
-      "price": 96.04,
-      "direction": "long",
-      "desc": "Rare Earth"
-    },
-    {
-      "ticker": "UFO",
-      "price": 50.27,
-      "direction": "long",
-      "desc": "Space"
-    },
-    {
-      "ticker": "KWEB",
-      "price": 25.24,
-      "direction": "long",
-      "desc": "China Internet"
-    },
-    {
-      "ticker": "XLC",
-      "price": 109.2,
-      "direction": "long",
-      "desc": "Communications"
-    },
-    {
       "ticker": "ARKG",
-      "price": 36.86,
+      "price": 40.11,
       "direction": "long",
       "desc": "Genomics"
     },
     {
-      "ticker": "SMH",
-      "price": 659.88,
+      "ticker": "SLV",
+      "price": 52.36,
       "direction": "long",
-      "desc": "Semiconductors"
+      "desc": "Silver"
+    },
+    {
+      "ticker": "IWM",
+      "price": 298.91,
+      "direction": "long",
+      "desc": "Russell 2000"
+    },
+    {
+      "ticker": "QQQ",
+      "price": 716.38,
+      "direction": "long",
+      "desc": "Nasdaq 100"
+    },
+    {
+      "ticker": "SPY",
+      "price": 734.3,
+      "direction": "long",
+      "desc": "S&P 500"
     }
   ]
 }
