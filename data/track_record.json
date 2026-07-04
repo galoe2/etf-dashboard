@@ -1,36 +1,48 @@
 {
-  "date": "June 27, 2026",
-  "week": "2026-W26",
+  "date": "July 04, 2026",
+  "week": "2026-W27",
   "ideas": [
     {
-      "ticker": "ARKG",
-      "price": 40.11,
+      "ticker": "HACK",
+      "price": 106.97,
       "direction": "long",
-      "desc": "Genomics"
+      "desc": "Cybersecurity"
     },
     {
-      "ticker": "SLV",
-      "price": 52.36,
+      "ticker": "USO",
+      "price": 103.98,
       "direction": "long",
-      "desc": "Silver"
-    },
-    {
-      "ticker": "IWM",
-      "price": 298.91,
-      "direction": "long",
-      "desc": "Russell 2000"
+      "desc": "Crude Oil"
     },
     {
       "ticker": "QQQ",
-      "price": 716.38,
+      "price": 712.6,
       "direction": "long",
       "desc": "Nasdaq 100"
     },
     {
+      "ticker": "KWEB",
+      "price": 24.99,
+      "direction": "long",
+      "desc": "China Internet"
+    },
+    {
+      "ticker": "SMH",
+      "price": 592.29,
+      "direction": "long",
+      "desc": "Semiconductors"
+    },
+    {
       "ticker": "SPY",
-      "price": 734.3,
+      "price": 744.78,
       "direction": "long",
       "desc": "S&P 500"
+    },
+    {
+      "ticker": "UFO",
+      "price": 50.67,
+      "direction": "long",
+      "desc": "Space"
     }
   ]
 }
