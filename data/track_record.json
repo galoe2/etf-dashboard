@@ -1,48 +1,42 @@
 {
-  "date": "July 04, 2026",
-  "week": "2026-W27",
+  "date": "July 11, 2026",
+  "week": "2026-W28",
   "ideas": [
     {
-      "ticker": "HACK",
-      "price": 106.97,
-      "direction": "long",
-      "desc": "Cybersecurity"
-    },
-    {
-      "ticker": "USO",
-      "price": 103.98,
-      "direction": "long",
-      "desc": "Crude Oil"
-    },
-    {
-      "ticker": "QQQ",
-      "price": 712.6,
-      "direction": "long",
-      "desc": "Nasdaq 100"
-    },
-    {
-      "ticker": "KWEB",
-      "price": 24.99,
-      "direction": "long",
-      "desc": "China Internet"
-    },
-    {
-      "ticker": "SMH",
-      "price": 592.29,
-      "direction": "long",
-      "desc": "Semiconductors"
-    },
-    {
       "ticker": "SPY",
-      "price": 744.78,
+      "price": 754.95,
       "direction": "long",
       "desc": "S&P 500"
     },
     {
-      "ticker": "UFO",
-      "price": 50.67,
+      "ticker": "USO",
+      "price": 108.7,
       "direction": "long",
-      "desc": "Space"
+      "desc": "Crude Oil"
+    },
+    {
+      "ticker": "BITO",
+      "price": 8.67,
+      "direction": "long",
+      "desc": "Bitcoin Futures"
+    },
+    {
+      "ticker": "QQQ",
+      "price": 725.51,
+      "direction": "long",
+      "desc": "Nasdaq 100"
+    },
+    {
+      "ticker": "REMX",
+      "price": 79.76,
+      "direction": "long",
+      "desc": "Rare Earth"
+    },
+    {
+      "ticker": "KWEB",
+      "price": 26.38,
+      "direction": "long",
+      "desc": "China Internet"
     }
   ]
 }
