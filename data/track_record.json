@@ -1,24 +1,30 @@
 {
-  "date": "July 18, 2026",
-  "week": "2026-W29",
+  "date": "July 25, 2026",
+  "week": "2026-W30",
   "ideas": [
     {
-      "ticker": "SPY",
-      "price": 743.29,
+      "ticker": "XLU",
+      "price": 46.29,
       "direction": "long",
-      "desc": "S&P 500"
-    },
-    {
-      "ticker": "VNQ",
-      "price": 100.02,
-      "direction": "long",
-      "desc": "REITs"
+      "desc": "Utilities"
     },
     {
       "ticker": "QQQ",
-      "price": 695.33,
+      "price": 684.23,
       "direction": "long",
       "desc": "Nasdaq 100"
+    },
+    {
+      "ticker": "XLY",
+      "price": 109.41,
+      "direction": "long",
+      "desc": "Discretionary"
+    },
+    {
+      "ticker": "USO",
+      "price": 136.69,
+      "direction": "long",
+      "desc": "Crude Oil"
     }
   ]
 }
