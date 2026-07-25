@@ -458,7 +458,7 @@ analysis_data = {
                      "outflow":[{"group":f["group"],"flow_score":f["flow_score"]} for f in sec_flows["outflow"][:3]]},
     "country_flows":{"inflow":[{"group":f["group"],"flow_score":f["flow_score"]} for f in reg_flows["inflow"][:3]],
                      "outflow":[{"group":f["group"],"flow_score":f["flow_score"]} for f in reg_flows["outflow"][:3]]},
-    "rsi_extremes":{"overbought":[{"t":t,"rsi":r} for t,r in rsi_hi5[:3]],"oversold":[{"t":t,"rsi":r} for t,r in rsi_lo5[:3]]},
+    "rsi_extremes":{"overbought":[{"t":t,"d":SEC_DESC.get(t, REG_DESC.get(t,"")),"rsi":r} for t,r in rsi_hi5[:5]],"oversold":[{"t":t,"d":SEC_DESC.get(t, REG_DESC.get(t,"")),"rsi":r} for t,r in rsi_lo5[:5]]},
     "news_by_sector": news_summary,
     "rotation_signals": news_rotations,
     "best_region":{"name":br[0],"w1":round(br[1]["w1"],2)},
@@ -1122,6 +1122,17 @@ window.addEventListener('DOMContentLoaded',function(){{updSel('sec');updSel('reg
 # Write output
 out = os.path.join(os.path.dirname(os.path.abspath(__file__)), 'ETF_Report.html')
 with open(out, 'w', encoding='utf-8') as f: f.write(html)
+
+# Dump analysis data + AI commentary for the blog post generator (make_post.py)
+post_data_out = os.path.join(os.path.dirname(os.path.abspath(__file__)), 'analysis_data.json')
+with open(post_data_out, 'w', encoding='utf-8') as f:
+    json.dump({
+        "report_date": REPORT_DATE,
+        "week": datetime.now().strftime("%Y-W%V"),
+        "analysis": analysis_data,
+        "ai_commentary_html": ai_commentary_html,
+    }, f, ensure_ascii=False, indent=2)
+print(f"  Analysis data -> {post_data_out}")
 
 # Validation
 ok = all(len(re.findall(f'<{t}[\\s>]',html))==len(re.findall(f'</{t}>',html)) for t in ['div','table','thead','tbody','tr','td','th','span','canvas','label','nav'])

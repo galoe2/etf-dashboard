@@ -8,6 +8,7 @@ Report settimanale automatizzato: 109 ETF, 12 settori, 8 regioni, news 7gg, AI c
 pip install -r requirements.txt
 python run.py               # genera report
 python run.py --email       # genera + invia email
+python run.py --post        # genera + articolo blog per il sito Ex Ante (../exante)
 python run.py --skip-news   # salta news
 python run.py --email-only  # invia ultimo report
 ```
@@ -66,6 +67,17 @@ Il report si genera automaticamente ogni sabato alle 09:00 CET nel cloud di GitH
 ### Costi
 
 Zero. GitHub Free include 2.000 minuti/mese. Il report usa ~5 minuti a settimana = ~20 min/mese (1%).
+
+## Integrazione blog Ex Ante
+
+`src/make_post.py` trasforma i dati del report (`data/analysis_YYYY-Www.json`, salvati da
+`build_report.py`) in un articolo Markdown per la rubrica MERCATI del sito Astro, e copia
+il report HTML completo in `public/reports/` del sito. Testo via Groq, con fallback
+deterministico se la chiave manca. Path del sito: env `SITE_DIR` (default `../exante`).
+
+Nel cloud: il workflow settimanale, se sono configurati la variable `SITE_REPO`
+(`tuo-user/repo-sito`) e il secret `SITE_PUSH_TOKEN` (PAT con Contents: read/write sul repo
+del sito), pusha l'articolo nel repo del sito → GitHub Pages rideploya automaticamente.
 
 ## Email
 

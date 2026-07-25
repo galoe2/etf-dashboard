@@ -206,6 +206,7 @@ def main():
     ap.add_argument("--skip-news", action="store_true", help="Salta scanner news")
     ap.add_argument("--news-only", action="store_true", help="Solo scanner news")
     ap.add_argument("--email", action="store_true", help="Invia report via email dopo generazione")
+    ap.add_argument("--post", action="store_true", help="Genera articolo blog per il sito Ex Ante")
     ap.add_argument("--email-only", action="store_true", help="Invia ultimo report senza rigenerare")
     ap.add_argument("--test-email", action="store_true", help="Test invio email con file di prova")
     args = ap.parse_args()
@@ -268,6 +269,15 @@ def main():
     ok = run("build_report.py")
     results["Report"] = ok
     report_path = move("ETF_Report.html", "ETF_Report.html")
+    # Archivia i dati di analisi (usati da make_post.py)
+    aj = os.path.join(SRC, "analysis_data.json")
+    if os.path.exists(aj):
+        shutil.copy2(aj, os.path.join(DATA, f"analysis_{WEEK}.json"))
+
+    # ── STEP 2b: Articolo blog ─────────────────────────
+    if args.post:
+        banner("STEP 2b — Articolo blog (Ex Ante)")
+        results["Post"] = run("make_post.py")
 
     # ── STEP 3: Email ──────────────────────────────────
     if args.email and report_path:

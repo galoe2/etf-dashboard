@@ -26,12 +26,42 @@ jobs:
           python -m pip install --upgrade pip
           pip install -r requirements.txt
 
+      # Checkout del repo del sito Ex Ante (per pubblicare l'articolo settimanale).
+      # Config necessaria su questo repo:
+      #   - Variable SITE_REPO (Settings → Secrets and variables → Actions → Variables),
+      #     es. "tuo-user/exante"
+      #   - Secret SITE_PUSH_TOKEN: fine-grained PAT con permesso
+      #     Contents: read/write sul repo del sito
+      - name: Checkout blog repository
+        if: ${{ vars.SITE_REPO != '' }}
+        uses: actions/checkout@v4
+        with:
+          repository: ${{ vars.SITE_REPO }}
+          token: ${{ secrets.SITE_PUSH_TOKEN }}
+          path: site
+
       - name: Run ETF Report
         env:
           GROQ_API_KEY: ${{ secrets.GROQ_API_KEY }}
           EMAIL_TO: ${{ secrets.EMAIL_TO }}
           RESEND_API_KEY: ${{ secrets.RESEND_API_KEY }}
-        run: python run.py --email
+          SITE_DIR: ${{ github.workspace }}/site
+        run: |
+          if [ -d site ]; then
+            python run.py --email --post
+          else
+            python run.py --email
+          fi
+
+      - name: Publish blog post
+        if: ${{ vars.SITE_REPO != '' }}
+        run: |
+          cd site
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add src/content/blog/ src/data/ public/reports/
+          git diff --staged --quiet || git commit -m "Articolo settimanale $(date +%Y-W%V)"
+          git push
 
       - name: Upload report artifact
         uses: actions/upload-artifact@v4

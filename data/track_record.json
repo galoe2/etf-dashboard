@@ -1,30 +1,5 @@
 {
   "date": "July 25, 2026",
   "week": "2026-W30",
-  "ideas": [
-    {
-      "ticker": "XLU",
-      "price": 46.29,
-      "direction": "long",
-      "desc": "Utilities"
-    },
-    {
-      "ticker": "QQQ",
-      "price": 684.23,
-      "direction": "long",
-      "desc": "Nasdaq 100"
-    },
-    {
-      "ticker": "XLY",
-      "price": 109.41,
-      "direction": "long",
-      "desc": "Discretionary"
-    },
-    {
-      "ticker": "USO",
-      "price": 136.69,
-      "direction": "long",
-      "desc": "Crude Oil"
-    }
-  ]
+  "ideas": []
 }

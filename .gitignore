@@ -3,3 +3,4 @@ __pycache__/
 archive/
 sample/
 config.json
+src/analysis_data.json
