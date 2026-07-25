@@ -18,7 +18,22 @@ from datetime import datetime
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))  # ETF_Dashboard/
 DATA = os.path.join(ROOT, "data")
 OUT = os.path.join(ROOT, "output")
-SITE_DIR = os.environ.get("SITE_DIR", os.path.join(os.path.dirname(ROOT), "exante"))
+
+
+def _default_site_dir():
+    """Cerca il sito Astro nelle posizioni note rispetto a questo repo."""
+    parent = os.path.dirname(ROOT)
+    candidates = [
+        os.path.join(parent, "exante"),
+        os.path.join(parent, "Blog", "exante"),
+    ]
+    for c in candidates:
+        if os.path.isdir(os.path.join(c, "src")):
+            return c
+    return candidates[0]
+
+
+SITE_DIR = os.environ.get("SITE_DIR", _default_site_dir())
 
 WEEK = datetime.now().strftime("%Y-W%V")
 TODAY = datetime.now().strftime("%Y-%m-%d")
