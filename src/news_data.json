@@ -1,0 +1,1358 @@
+{
+  "generated": "2026-07-25T09:25:27.193676",
+  "lookback_days": 7,
+  "total_articles": 50,
+  "sector_news": {
+    "Broad Market": {
+      "count": 40,
+      "top": [
+        {
+          "headline": "Born too soon: Premature babies fight for survival in Gaza",
+          "summary": "Israel&#039;s genocidal war on Gaza is causing a surge in premature births and endangering mothers&#039; health.",
+          "impact": "bullish",
+          "source": "Al Jazeera",
+          "score": 10.0,
+          "link": "https://www.aljazeera.com/features/2026/7/25/born-too-soon-premature-babies-fighting-for-survival-in-gaza?traffic_source=rss",
+          "etf_tickers": []
+        },
+        {
+          "headline": "Iran war live: Trump says US ‘locked and loaded’ as it seeks Iran talks",
+          "summary": "US President Donald Trump says Washington remains ‘locked and loaded’ while pursuing diplomatic talks with Iran.",
+          "impact": "neutral",
+          "source": "Al Jazeera",
+          "score": 10.0,
+          "link": "https://www.aljazeera.com/news/liveblog/2026/7/25/iran-war-live-trump-says-us-locked-and-loaded-as-it-seeks-iran-talks?traffic_source=rss",
+          "etf_tickers": []
+        },
+        {
+          "headline": "How a U.S. Ground Operation in Iran Could Unfold",
+          "summary": "Military experts said limited raids could happen, but a large-scale invasion is unlikely.",
+          "impact": "neutral",
+          "source": "Foreign Policy",
+          "score": 10.0,
+          "link": "https://foreignpolicy.com/2026/07/24/us-ground-operation-iran-invasion-kharg-war-trump/",
+          "etf_tickers": []
+        }
+      ]
+    },
+    "International": {
+      "count": 37,
+      "top": [
+        {
+          "headline": "Trump says ‘it’s time’ for Saudi Arabia to normalise ties with Israel",
+          "summary": "US president reiterates that the nuclear deal with the kingdom is conditioned on Riyadh joining the &#039;Abraham Accords&#039;.",
+          "impact": "neutral",
+          "source": "Al Jazeera",
+          "score": 10.0,
+          "link": "https://www.aljazeera.com/news/2026/7/24/trump-says-its-time-for-saudi-arabia-to-normalise-ties-with-israel?traffic_source=rss",
+          "etf_tickers": []
+        },
+        {
+          "headline": "Is the Red Sea the New Hormuz Crisis?",
+          "summary": "Houthi attacks on Saudi shipping risk adding a new front to the Iran war.",
+          "impact": "bearish",
+          "source": "Foreign Policy",
+          "score": 10.0,
+          "link": "https://foreignpolicy.com/2026/07/23/houthi-rebels-saudi-arabia-shipping-red-sea-iran-war/",
+          "etf_tickers": []
+        },
+        {
+          "headline": "There’s Only One Way Out of Trump’s Reckless War",
+          "summary": "Pay off Iran to open Hormuz and freeze its nuclear program.",
+          "impact": "neutral",
+          "source": "Foreign Policy",
+          "score": 10.0,
+          "link": "https://foreignpolicy.com/2026/07/23/iran-united-states-trump-hormuz-war-nuclear/",
+          "etf_tickers": []
+        }
+      ]
+    },
+    "Tech & Semiconductors": {
+      "count": 3,
+      "top": [
+        {
+          "headline": "Spese AI minacciano qualità creditizia",
+          "summary": "La spesa per l'intelligenza artificiale sta costringendo anche le aziende più ricche a ricorrere al debito e alle vendite di azioni. Ciò potrebbe avere un impatto negativo sugli ETF tecnologici.",
+          "impact": "bearish",
+          "source": "CNBC Finance",
+          "score": 8.7,
+          "link": "https://www.cnbc.com/2026/07/24/moodys-ai-spending-credit-quality-amazon-meta-alphabet.html",
+          "etf_tickers": [
+            "QQQ",
+            "SMH"
+          ]
+        },
+        {
+          "headline": "Trump vuole indagare su multe UE",
+          "summary": "Trump chiede l'annullamento delle multe alla Google e ad altre aziende tech statunitensi. Ciò potrebbe avere un impatto significativo sul settore tech.",
+          "impact": "bullish",
+          "source": "BBC World",
+          "score": 8.7,
+          "link": "https://www.bbc.co.uk/news/articles/cvgjenp4680o?at_medium=RSS&at_campaign=rss",
+          "etf_tickers": [
+            "QQQ",
+            "SMH"
+          ]
+        },
+        {
+          "headline": "Modello AI cinese blocca attacco",
+          "summary": "Un modello AI cinese ha fermato un attacco informatico senza precedenti contro OpenAI. Ciò potrebbe avere un impatto significativo sul settore tecnologico.",
+          "impact": "bullish",
+          "source": "CNBC World",
+          "score": 7.4,
+          "link": "https://www.cnbc.com/2026/07/24/chinese-ai-model-openai-cyber-attack.html",
+          "etf_tickers": [
+            "QQQ"
+          ]
+        }
+      ]
+    },
+    "Healthcare": {
+      "count": 1,
+      "top": [
+        {
+          "headline": "Aumento prezzi farmaci generici",
+          "summary": "I dazi proposti da Trump sui farmaci generici renderanno più costosi i farmaci per i pazienti. Ciò potrebbe avere un impatto negativo sul settore sanitario.",
+          "impact": "bearish",
+          "source": "CNBC World",
+          "score": 7.4,
+          "link": "https://www.cnbc.com/2026/07/24/us-to-see-higher-generic-drug-prices-on-tariffs-indian-pharma-ceo.html",
+          "etf_tickers": [
+            "SPY",
+            "XLV"
+          ]
+        }
+      ]
+    },
+    "Financials": {
+      "count": 16,
+      "top": [
+        {
+          "headline": "ECB to start implementing enhanced repo facility for central banks",
+          "summary": "The European Central Bank (ECB) is the central bank of the European Union countries which have adopted the euro. Our main task is to maintain price stability in the euro area and so preserve the purchasing power of the single currency.",
+          "impact": "neutral",
+          "source": "ECB",
+          "score": 10.0,
+          "link": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr260724_2~d7d475d2f0.en.html",
+          "etf_tickers": []
+        },
+        {
+          "headline": "Results of the ECB Survey of Professional Forecasters for the third quarter of 2026",
+          "summary": "The European Central Bank (ECB) is the central bank of the European Union countries which have adopted the euro. Our main task is to maintain price stability in the euro area and so preserve the purchasing power of the single currency.",
+          "impact": "neutral",
+          "source": "ECB",
+          "score": 10.0,
+          "link": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr260724~a099353951.en.html",
+          "etf_tickers": []
+        },
+        {
+          "headline": "ECB Consumer Expectations Survey results – June 2026",
+          "summary": "The European Central Bank (ECB) is the central bank of the European Union countries which have adopted the euro. Our main task is to maintain price stability in the euro area and so preserve the purchasing power of the single currency.",
+          "impact": "neutral",
+          "source": "ECB",
+          "score": 10.0,
+          "link": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr260724_1~fa277eb6fe.en.html",
+          "etf_tickers": []
+        }
+      ]
+    },
+    "Energy": {
+      "count": 37,
+      "top": [
+        {
+          "headline": "Trump Approves Nuclear Deal With Saudi Arabia",
+          "summary": "But without “gold standard” constraints, the pact could allow Riyadh to eventually develop a warhead.",
+          "impact": "neutral",
+          "source": "Foreign Policy",
+          "score": 10.0,
+          "link": "https://foreignpolicy.com/2026/07/22/trump-nuclear-deal-saudi-arabia-uranium-enrichment-gold-standard/",
+          "etf_tickers": []
+        },
+        {
+          "headline": "The Strait of Hormuz Closure Is Already Hitting Supermarket Prices",
+          "summary": "Crop prices just hit a three-year high, indicating major downstream pain soon to come at the supermarket. There are two major factors leading to high crop prices and a potential global food crisis: heat waves and intensifying conflict in the Black Sea threatening to disrupt global grain trades, and volatility in fertilizer markets stemming from the war in Iran and the closure of the Strait of Hormuz. The International Food Policy Research Institute (IFPRI) is referring to the unfolding situation in fertilizer supply chains as an “input crisis”…",
+          "impact": "bearish",
+          "source": "OilPrice",
+          "score": 10.0,
+          "link": "https://oilprice.com/Finance/the-Economy/The-Strait-of-Hormuz-Closure-Is-Already-Hitting-Supermarket-Prices.html",
+          "etf_tickers": []
+        },
+        {
+          "headline": "The Red Sea Is Becoming Saudi Arabia's Biggest Oil Bottleneck",
+          "summary": "For years, Saudi Arabia's strategic answer to any disruption in the Strait of Hormuz has been remarkably straightforward. If volumes via the Persian Gulf were threatened, the answer was to pump west through the East-West Pipeline to Yanbu on the Red Sea. Markets have always seen this as reassuring, while strengthening Saudi energy security and reducing dependence on Hormuz. Current developments in the Red Sea, especially Bab El Mandab, however, have exposed a critical weakness in that assumption. The East-West Pipeline is not solving the total…",
+          "impact": "bearish",
+          "source": "OilPrice",
+          "score": 10.0,
+          "link": "https://oilprice.com/Energy/Crude-Oil/The-Red-Sea-Is-Becoming-Saudi-Arabias-Biggest-Oil-Bottleneck.html",
+          "etf_tickers": []
+        }
+      ]
+    },
+    "Commodities": {
+      "count": 33,
+      "top": [
+        {
+          "headline": "India Scours Angola, Venezuela for Crude as Mideast Supply Dries Up",
+          "summary": "Indian refiners are in search of crude supply from as far as Angola in Africa and Venezuela in South America as their term supplies from the Middle East are trapped again and unable to reach India as planned. Some of the biggest state-held refiners in India, the world’s third-largest crude oil importer, are looking for and testing new crude grades, to offset part of the supply lost to the Middle East conflict, senior refinery executives told Indian outlet Economic Times. “We diversified our crude sourcing outside of the Strait of Hormuz,…",
+          "impact": "bullish",
+          "source": "OilPrice",
+          "score": 10.0,
+          "link": "https://oilprice.com/Latest-Energy-News/World-News/India-Scours-Angola-Venezuela-for-Crude-as-Mideast-Supply-Dries-Up.html",
+          "etf_tickers": []
+        },
+        {
+          "headline": "ADNOC Issues Seventh Crude Tender Since June Despite Hormuz, Red Sea Risks",
+          "summary": "Abu Dhabi National Oil Company ADNOC has issued its seventh tender offering crude from the United Arab Emirates since the beginning of June, expecting to sell millions of barrels of oil between August and October, both from within and outside the Persian Gulf. Despite the renewed threats to supply from the Strait of Hormuz and the new threats to shipping in the Red Sea by the Iran-aligned Houthis in Yemen, ADNOC is inviting interested buyers to bid by the middle of next week for crude loading between August and October, Reuters reported on Friday,…",
+          "impact": "neutral",
+          "source": "OilPrice",
+          "score": 10.0,
+          "link": "https://oilprice.com/Latest-Energy-News/World-News/ADNOC-Issues-Seventh-Crude-Tender-Since-June-Despite-Hormuz-Red-Sea-Risks.html",
+          "etf_tickers": []
+        },
+        {
+          "headline": "Russia's Biggest Black Sea Oil Port Goes Quiet as Drone Threat Grows",
+          "summary": "Russia's largest Black Sea oil export terminal has effectively gone offline just days after drone attacks shut down the neighboring Caspian Pipeline Consortium terminal, tightening another artery that moves crude onto the global market. The Sheskharis terminal at Novorossiysk hasn’t loaded a crude tanker since July 21, according to Bloomberg. Sheskharis exported an average of about 650,000 barrels per day during the first half of the year. Losing those barrels, even temporarily, comes on top of the disruption at CPC, which normally handles…",
+          "impact": "bearish",
+          "source": "OilPrice",
+          "score": 10.0,
+          "link": "https://oilprice.com/Latest-Energy-News/World-News/Russias-Biggest-Black-Sea-Oil-Port-Goes-Quiet-as-Drone-Threat-Grows.html",
+          "etf_tickers": []
+        }
+      ]
+    },
+    "Industrials": {
+      "count": 33,
+      "top": [
+        {
+          "headline": "Oil Shock Could Turn Super El Niño Into an Inflation Problem Again",
+          "summary": "The world isn't just staring down another weather event. It's staring down a weather event colliding with a supply-driven oil shock. JPMorgan warned Friday that a \"super\" El Niño combined with higher energy prices from the Middle East conflict could slow the decline in global inflation next year, adding roughly 0.3 percentage points to headline inflation worldwide. The bank puts the odds of the current El Niño strengthening into a \"very strong\" or \"super\" event at 81% by the end of the year, with a 97% probability conditions persist…",
+          "impact": "mixed",
+          "source": "OilPrice",
+          "score": 10.0,
+          "link": "https://oilprice.com/Latest-Energy-News/World-News/Oil-Shock-Could-Turn-Super-El-Nio-Into-an-Inflation-Problem-Again.html",
+          "etf_tickers": []
+        },
+        {
+          "headline": "No Breakthrough as Top U.S. and Russian Diplomats Meet Over Ukraine",
+          "summary": "The top US and Russian diplomats met in a new push to find an end to Moscow's more-than-four-year-old war on Ukraine, but both sides signaled no new breakthroughs or cause for optimism. The July 23 meeting between US Secretary of State Marco Rubio and Russian Foreign Minister Sergei Lavrov came with US efforts to broker a peace deal frozen as the Trump administration shifts focus to the Iran war, and the Kremlin shows no sign of softening its maximalist war demands. Following their meeting, which lasted just 35 minutes, Rubio described the talks…",
+          "impact": "bullish",
+          "source": "OilPrice",
+          "score": 10.0,
+          "link": "https://oilprice.com/Geopolitics/Europe/No-Breakthrough-as-Top-US-and-Russian-Diplomats-Meet-Over-Ukraine.html",
+          "etf_tickers": []
+        },
+        {
+          "headline": "Hormuz Tanker Crossings Sink to Lowest Level Since May as War Risk Spikes",
+          "summary": "Only one oil tanker transited the Strait of Hormuz on Thursday, the lowest number of crossings since May 7, as war risks spiked this week to hike crude oil prices above $100 per barrel again. Three tankers transited the Strait of Hormuz on Wednesday, but this number crumbled to just one on Thursday, according to Kpler’s vessel-tracking data cited by Reuters on Friday. The New Giant, a supertanker loaded with about 2 million barrels of Basrah crude from Iraq, exited the Strait of Hormuz on Thursday, with China’s Rizhao port expected…",
+          "impact": "bullish",
+          "source": "OilPrice",
+          "score": 10.0,
+          "link": "https://oilprice.com/Latest-Energy-News/World-News/Hormuz-Tanker-Crossings-Sink-to-Lowest-Level-Since-May-as-War-Risk-Spikes.html",
+          "etf_tickers": []
+        }
+      ]
+    },
+    "Bonds": {
+      "count": 10,
+      "top": [
+        {
+          "headline": "Decisions taken by the Governing Council of the ECB (in addition to decisions setting interest rates)",
+          "summary": "The European Central Bank (ECB) is the central bank of the European Union countries which have adopted the euro. Our main task is to maintain price stability in the euro area and so preserve the purchasing power of the single currency.",
+          "impact": "neutral",
+          "source": "ECB",
+          "score": 10.0,
+          "link": "https://www.ecb.europa.eu//press/govcdec/otherdec/2026/html/ecb.gc260724~eebbc30622.en.html",
+          "etf_tickers": []
+        },
+        {
+          "headline": "ECB to extend use of climate factors in Eurosystem collateral framework to non-financial corporate credit claims",
+          "summary": "The European Central Bank (ECB) is the central bank of the European Union countries which have adopted the euro. Our main task is to maintain price stability in the euro area and so preserve the purchasing power of the single currency.",
+          "impact": "neutral",
+          "source": "ECB",
+          "score": 10.0,
+          "link": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr260724_4~f082ce289d.en.html",
+          "etf_tickers": []
+        },
+        {
+          "headline": "Results of the June 2026 survey on credit terms and conditions in euro-denominated securities financing and OTC derivatives markets (SESFOD)",
+          "summary": "The European Central Bank (ECB) is the central bank of the European Union countries which have adopted the euro. Our main task is to maintain price stability in the euro area and so preserve the purchasing power of the single currency.",
+          "impact": "neutral",
+          "source": "ECB",
+          "score": 10.0,
+          "link": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr260724_3~c0b45e246f.en.html",
+          "etf_tickers": []
+        }
+      ]
+    }
+  },
+  "rotation_signals": [],
+  "articles": [
+    {
+      "title": "Born too soon: Premature babies fight for survival in Gaza",
+      "headline_it": "",
+      "summary_it": "",
+      "summary_en": "Israel&#039;s genocidal war on Gaza is causing a surge in premature births and endangering mothers&#039; health.",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/features/2026/7/25/born-too-soon-premature-babies-fighting-for-survival-in-gaza?traffic_source=rss",
+      "date": "2026-07-25 07:25",
+      "score": 10.0,
+      "impact": "bullish",
+      "sectors": [
+        "Broad Market",
+        "Commodities",
+        "Energy",
+        "Industrials",
+        "International"
+      ],
+      "primary_sector": "Broad Market",
+      "etf_tickers": [],
+      "rotation": ""
+    },
+    {
+      "title": "Iran war live: Trump says US ‘locked and loaded’ as it seeks Iran talks",
+      "headline_it": "",
+      "summary_it": "",
+      "summary_en": "US President Donald Trump says Washington remains ‘locked and loaded’ while pursuing diplomatic talks with Iran.",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/news/liveblog/2026/7/25/iran-war-live-trump-says-us-locked-and-loaded-as-it-seeks-iran-talks?traffic_source=rss",
+      "date": "2026-07-25 00:00",
+      "score": 10.0,
+      "impact": "neutral",
+      "sectors": [
+        "Broad Market",
+        "Commodities",
+        "Energy",
+        "Industrials",
+        "International"
+      ],
+      "primary_sector": "Broad Market",
+      "etf_tickers": [],
+      "rotation": ""
+    },
+    {
+      "title": "Trump says ‘it’s time’ for Saudi Arabia to normalise ties with Israel",
+      "headline_it": "",
+      "summary_it": "",
+      "summary_en": "US president reiterates that the nuclear deal with the kingdom is conditioned on Riyadh joining the &#039;Abraham Accords&#039;.",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/news/2026/7/24/trump-says-its-time-for-saudi-arabia-to-normalise-ties-with-israel?traffic_source=rss",
+      "date": "2026-07-24 23:53",
+      "score": 10.0,
+      "impact": "neutral",
+      "sectors": [
+        "Energy",
+        "Industrials",
+        "International",
+        "Real Estate"
+      ],
+      "primary_sector": "Energy",
+      "etf_tickers": [],
+      "rotation": ""
+    },
+    {
+      "title": "How a U.S. Ground Operation in Iran Could Unfold",
+      "headline_it": "",
+      "summary_it": "",
+      "summary_en": "Military experts said limited raids could happen, but a large-scale invasion is unlikely.",
+      "source": "Foreign Policy",
+      "link": "https://foreignpolicy.com/2026/07/24/us-ground-operation-iran-invasion-kharg-war-trump/",
+      "date": "2026-07-24 15:07",
+      "score": 10.0,
+      "impact": "neutral",
+      "sectors": [
+        "Broad Market",
+        "Commodities",
+        "Energy",
+        "Industrials",
+        "International"
+      ],
+      "primary_sector": "Broad Market",
+      "etf_tickers": [],
+      "rotation": ""
+    },
+    {
+      "title": "Is the Red Sea the New Hormuz Crisis?",
+      "headline_it": "",
+      "summary_it": "",
+      "summary_en": "Houthi attacks on Saudi shipping risk adding a new front to the Iran war.",
+      "source": "Foreign Policy",
+      "link": "https://foreignpolicy.com/2026/07/23/houthi-rebels-saudi-arabia-shipping-red-sea-iran-war/",
+      "date": "2026-07-23 21:30",
+      "score": 10.0,
+      "impact": "bearish",
+      "sectors": [
+        "Broad Market",
+        "Commodities",
+        "Energy",
+        "Industrials",
+        "International"
+      ],
+      "primary_sector": "Broad Market",
+      "etf_tickers": [],
+      "rotation": ""
+    },
+    {
+      "title": "There’s Only One Way Out of Trump’s Reckless War",
+      "headline_it": "",
+      "summary_it": "",
+      "summary_en": "Pay off Iran to open Hormuz and freeze its nuclear program.",
+      "source": "Foreign Policy",
+      "link": "https://foreignpolicy.com/2026/07/23/iran-united-states-trump-hormuz-war-nuclear/",
+      "date": "2026-07-23 17:09",
+      "score": 10.0,
+      "impact": "neutral",
+      "sectors": [
+        "Broad Market",
+        "Commodities",
+        "Energy",
+        "Industrials",
+        "International"
+      ],
+      "primary_sector": "Broad Market",
+      "etf_tickers": [],
+      "rotation": ""
+    },
+    {
+      "title": "Trump Approves Nuclear Deal With Saudi Arabia",
+      "headline_it": "",
+      "summary_it": "",
+      "summary_en": "But without “gold standard” constraints, the pact could allow Riyadh to eventually develop a warhead.",
+      "source": "Foreign Policy",
+      "link": "https://foreignpolicy.com/2026/07/22/trump-nuclear-deal-saudi-arabia-uranium-enrichment-gold-standard/",
+      "date": "2026-07-22 21:25",
+      "score": 10.0,
+      "impact": "neutral",
+      "sectors": [
+        "Broad Market",
+        "Commodities",
+        "Energy",
+        "Industrials",
+        "International"
+      ],
+      "primary_sector": "Broad Market",
+      "etf_tickers": [],
+      "rotation": ""
+    },
+    {
+      "title": "The Strait of Hormuz Closure Is Already Hitting Supermarket Prices",
+      "headline_it": "",
+      "summary_it": "",
+      "summary_en": "Crop prices just hit a three-year high, indicating major downstream pain soon to come at the supermarket. There are two major factors leading to high crop prices and a potential global food crisis: heat waves and intensifying conflict in the Black Sea threatening to disrupt global grain trades, and volatility in fertilizer markets stemming from the war in Iran and the closure of the Strait of Hormuz. The International Food Policy Research Institute (IFPRI) is referring to the unfolding situation in fertilizer supply chains as an “input crisis”…",
+      "source": "OilPrice",
+      "link": "https://oilprice.com/Finance/the-Economy/The-Strait-of-Hormuz-Closure-Is-Already-Hitting-Supermarket-Prices.html",
+      "date": "2026-07-24 23:00",
+      "score": 10.0,
+      "impact": "bearish",
+      "sectors": [
+        "Broad Market",
+        "Commodities",
+        "Energy",
+        "Industrials",
+        "International"
+      ],
+      "primary_sector": "Broad Market",
+      "etf_tickers": [],
+      "rotation": ""
+    },
+    {
+      "title": "The Red Sea Is Becoming Saudi Arabia's Biggest Oil Bottleneck",
+      "headline_it": "",
+      "summary_it": "",
+      "summary_en": "For years, Saudi Arabia's strategic answer to any disruption in the Strait of Hormuz has been remarkably straightforward. If volumes via the Persian Gulf were threatened, the answer was to pump west through the East-West Pipeline to Yanbu on the Red Sea. Markets have always seen this as reassuring, while strengthening Saudi energy security and reducing dependence on Hormuz. Current developments in the Red Sea, especially Bab El Mandab, however, have exposed a critical weakness in that assumption. The East-West Pipeline is not solving the total…",
+      "source": "OilPrice",
+      "link": "https://oilprice.com/Energy/Crude-Oil/The-Red-Sea-Is-Becoming-Saudi-Arabias-Biggest-Oil-Bottleneck.html",
+      "date": "2026-07-24 19:00",
+      "score": 10.0,
+      "impact": "bearish",
+      "sectors": [
+        "Broad Market",
+        "Commodities",
+        "Energy",
+        "Industrials",
+        "International"
+      ],
+      "primary_sector": "Broad Market",
+      "etf_tickers": [],
+      "rotation": ""
+    },
+    {
+      "title": "Russia's Biggest Black Sea Oil Port Goes Quiet as Drone Threat Grows",
+      "headline_it": "",
+      "summary_it": "",
+      "summary_en": "Russia's largest Black Sea oil export terminal has effectively gone offline just days after drone attacks shut down the neighboring Caspian Pipeline Consortium terminal, tightening another artery that moves crude onto the global market. The Sheskharis terminal at Novorossiysk hasn’t loaded a crude tanker since July 21, according to Bloomberg. Sheskharis exported an average of about 650,000 barrels per day during the first half of the year. Losing those barrels, even temporarily, comes on top of the disruption at CPC, which normally handles…",
+      "source": "OilPrice",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/Russias-Biggest-Black-Sea-Oil-Port-Goes-Quiet-as-Drone-Threat-Grows.html",
+      "date": "2026-07-24 18:00",
+      "score": 10.0,
+      "impact": "bearish",
+      "sectors": [
+        "Broad Market",
+        "Commodities",
+        "Energy",
+        "Industrials",
+        "International"
+      ],
+      "primary_sector": "Broad Market",
+      "etf_tickers": [],
+      "rotation": ""
+    },
+    {
+      "title": "Oil Shock Could Turn Super El Niño Into an Inflation Problem Again",
+      "headline_it": "",
+      "summary_it": "",
+      "summary_en": "The world isn't just staring down another weather event. It's staring down a weather event colliding with a supply-driven oil shock. JPMorgan warned Friday that a \"super\" El Niño combined with higher energy prices from the Middle East conflict could slow the decline in global inflation next year, adding roughly 0.3 percentage points to headline inflation worldwide. The bank puts the odds of the current El Niño strengthening into a \"very strong\" or \"super\" event at 81% by the end of the year, with a 97% probability conditions persist…",
+      "source": "OilPrice",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/Oil-Shock-Could-Turn-Super-El-Nio-Into-an-Inflation-Problem-Again.html",
+      "date": "2026-07-24 17:30",
+      "score": 10.0,
+      "impact": "mixed",
+      "sectors": [
+        "Bonds",
+        "Broad Market",
+        "Commodities",
+        "Energy",
+        "Financials",
+        "Industrials",
+        "International"
+      ],
+      "primary_sector": "Bonds",
+      "etf_tickers": [],
+      "rotation": ""
+    },
+    {
+      "title": "India Scours Angola, Venezuela for Crude as Mideast Supply Dries Up",
+      "headline_it": "",
+      "summary_it": "",
+      "summary_en": "Indian refiners are in search of crude supply from as far as Angola in Africa and Venezuela in South America as their term supplies from the Middle East are trapped again and unable to reach India as planned. Some of the biggest state-held refiners in India, the world’s third-largest crude oil importer, are looking for and testing new crude grades, to offset part of the supply lost to the Middle East conflict, senior refinery executives told Indian outlet Economic Times. “We diversified our crude sourcing outside of the Strait of Hormuz,…",
+      "source": "OilPrice",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/India-Scours-Angola-Venezuela-for-Crude-as-Mideast-Supply-Dries-Up.html",
+      "date": "2026-07-24 15:30",
+      "score": 10.0,
+      "impact": "bullish",
+      "sectors": [
+        "Commodities",
+        "Energy",
+        "International"
+      ],
+      "primary_sector": "Commodities",
+      "etf_tickers": [],
+      "rotation": ""
+    },
+    {
+      "title": "ADNOC Issues Seventh Crude Tender Since June Despite Hormuz, Red Sea Risks",
+      "headline_it": "",
+      "summary_it": "",
+      "summary_en": "Abu Dhabi National Oil Company ADNOC has issued its seventh tender offering crude from the United Arab Emirates since the beginning of June, expecting to sell millions of barrels of oil between August and October, both from within and outside the Persian Gulf. Despite the renewed threats to supply from the Strait of Hormuz and the new threats to shipping in the Red Sea by the Iran-aligned Houthis in Yemen, ADNOC is inviting interested buyers to bid by the middle of next week for crude loading between August and October, Reuters reported on Friday,…",
+      "source": "OilPrice",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/ADNOC-Issues-Seventh-Crude-Tender-Since-June-Despite-Hormuz-Red-Sea-Risks.html",
+      "date": "2026-07-24 14:30",
+      "score": 10.0,
+      "impact": "neutral",
+      "sectors": [
+        "Commodities",
+        "Energy",
+        "Industrials",
+        "International"
+      ],
+      "primary_sector": "Commodities",
+      "etf_tickers": [],
+      "rotation": ""
+    },
+    {
+      "title": "No Breakthrough as Top U.S. and Russian Diplomats Meet Over Ukraine",
+      "headline_it": "",
+      "summary_it": "",
+      "summary_en": "The top US and Russian diplomats met in a new push to find an end to Moscow's more-than-four-year-old war on Ukraine, but both sides signaled no new breakthroughs or cause for optimism. The July 23 meeting between US Secretary of State Marco Rubio and Russian Foreign Minister Sergei Lavrov came with US efforts to broker a peace deal frozen as the Trump administration shifts focus to the Iran war, and the Kremlin shows no sign of softening its maximalist war demands. Following their meeting, which lasted just 35 minutes, Rubio described the talks…",
+      "source": "OilPrice",
+      "link": "https://oilprice.com/Geopolitics/Europe/No-Breakthrough-as-Top-US-and-Russian-Diplomats-Meet-Over-Ukraine.html",
+      "date": "2026-07-24 14:00",
+      "score": 10.0,
+      "impact": "bullish",
+      "sectors": [
+        "Broad Market",
+        "Commodities",
+        "Energy",
+        "Industrials",
+        "International"
+      ],
+      "primary_sector": "Broad Market",
+      "etf_tickers": [],
+      "rotation": ""
+    },
+    {
+      "title": "Hormuz Tanker Crossings Sink to Lowest Level Since May as War Risk Spikes",
+      "headline_it": "",
+      "summary_it": "",
+      "summary_en": "Only one oil tanker transited the Strait of Hormuz on Thursday, the lowest number of crossings since May 7, as war risks spiked this week to hike crude oil prices above $100 per barrel again. Three tankers transited the Strait of Hormuz on Wednesday, but this number crumbled to just one on Thursday, according to Kpler’s vessel-tracking data cited by Reuters on Friday. The New Giant, a supertanker loaded with about 2 million barrels of Basrah crude from Iraq, exited the Strait of Hormuz on Thursday, with China’s Rizhao port expected…",
+      "source": "OilPrice",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/Hormuz-Tanker-Crossings-Sink-to-Lowest-Level-Since-May-as-War-Risk-Spikes.html",
+      "date": "2026-07-24 12:30",
+      "score": 10.0,
+      "impact": "bullish",
+      "sectors": [
+        "Broad Market",
+        "Commodities",
+        "Energy",
+        "Industrials",
+        "International"
+      ],
+      "primary_sector": "Broad Market",
+      "etf_tickers": [],
+      "rotation": ""
+    },
+    {
+      "title": "Philip R. Lane: Outlook for the euro area economy",
+      "headline_it": "",
+      "summary_it": "",
+      "summary_en": "",
+      "source": "ECB",
+      "link": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp260724~d484b483b9.en.pdf",
+      "date": "2026-07-24 15:30",
+      "score": 10.0,
+      "impact": "neutral",
+      "sectors": [],
+      "primary_sector": null,
+      "etf_tickers": [],
+      "rotation": ""
+    },
+    {
+      "title": "Decisions taken by the Governing Council of the ECB (in addition to decisions setting interest rates)",
+      "headline_it": "",
+      "summary_it": "",
+      "summary_en": "The European Central Bank (ECB) is the central bank of the European Union countries which have adopted the euro. Our main task is to maintain price stability in the euro area and so preserve the purchasing power of the single currency.",
+      "source": "ECB",
+      "link": "https://www.ecb.europa.eu//press/govcdec/otherdec/2026/html/ecb.gc260724~eebbc30622.en.html",
+      "date": "2026-07-24 13:00",
+      "score": 10.0,
+      "impact": "neutral",
+      "sectors": [
+        "Bonds",
+        "Broad Market",
+        "Financials"
+      ],
+      "primary_sector": "Bonds",
+      "etf_tickers": [],
+      "rotation": ""
+    },
+    {
+      "title": "ECB to extend use of climate factors in Eurosystem collateral framework to non-financial corporate credit claims",
+      "headline_it": "",
+      "summary_it": "",
+      "summary_en": "The European Central Bank (ECB) is the central bank of the European Union countries which have adopted the euro. Our main task is to maintain price stability in the euro area and so preserve the purchasing power of the single currency.",
+      "source": "ECB",
+      "link": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr260724_4~f082ce289d.en.html",
+      "date": "2026-07-24 10:00",
+      "score": 10.0,
+      "impact": "neutral",
+      "sectors": [
+        "Bonds",
+        "Financials"
+      ],
+      "primary_sector": "Bonds",
+      "etf_tickers": [],
+      "rotation": ""
+    },
+    {
+      "title": "Results of the June 2026 survey on credit terms and conditions in euro-denominated securities financing and OTC derivatives markets (SESFOD)",
+      "headline_it": "",
+      "summary_it": "",
+      "summary_en": "The European Central Bank (ECB) is the central bank of the European Union countries which have adopted the euro. Our main task is to maintain price stability in the euro area and so preserve the purchasing power of the single currency.",
+      "source": "ECB",
+      "link": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr260724_3~c0b45e246f.en.html",
+      "date": "2026-07-24 09:00",
+      "score": 10.0,
+      "impact": "neutral",
+      "sectors": [
+        "Bonds",
+        "Financials"
+      ],
+      "primary_sector": "Bonds",
+      "etf_tickers": [],
+      "rotation": ""
+    },
+    {
+      "title": "ECB to start implementing enhanced repo facility for central banks",
+      "headline_it": "",
+      "summary_it": "",
+      "summary_en": "The European Central Bank (ECB) is the central bank of the European Union countries which have adopted the euro. Our main task is to maintain price stability in the euro area and so preserve the purchasing power of the single currency.",
+      "source": "ECB",
+      "link": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr260724_2~d7d475d2f0.en.html",
+      "date": "2026-07-24 08:30",
+      "score": 10.0,
+      "impact": "neutral",
+      "sectors": [
+        "Financials"
+      ],
+      "primary_sector": "Financials",
+      "etf_tickers": [],
+      "rotation": ""
+    },
+    {
+      "title": "Results of the ECB Survey of Professional Forecasters for the third quarter of 2026",
+      "headline_it": "",
+      "summary_it": "",
+      "summary_en": "The European Central Bank (ECB) is the central bank of the European Union countries which have adopted the euro. Our main task is to maintain price stability in the euro area and so preserve the purchasing power of the single currency.",
+      "source": "ECB",
+      "link": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr260724~a099353951.en.html",
+      "date": "2026-07-24 08:00",
+      "score": 10.0,
+      "impact": "neutral",
+      "sectors": [
+        "Financials"
+      ],
+      "primary_sector": "Financials",
+      "etf_tickers": [],
+      "rotation": ""
+    },
+    {
+      "title": "ECB Consumer Expectations Survey results – June 2026",
+      "headline_it": "",
+      "summary_it": "",
+      "summary_en": "The European Central Bank (ECB) is the central bank of the European Union countries which have adopted the euro. Our main task is to maintain price stability in the euro area and so preserve the purchasing power of the single currency.",
+      "source": "ECB",
+      "link": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr260724_1~fa277eb6fe.en.html",
+      "date": "2026-07-24 08:00",
+      "score": 10.0,
+      "impact": "neutral",
+      "sectors": [
+        "Financials"
+      ],
+      "primary_sector": "Financials",
+      "etf_tickers": [],
+      "rotation": ""
+    },
+    {
+      "title": "ECB reveals shortlisted designs for new banknotes and launches public survey",
+      "headline_it": "",
+      "summary_it": "",
+      "summary_en": "The European Central Bank (ECB) is the central bank of the European Union countries which have adopted the euro. Our main task is to maintain price stability in the euro area and so preserve the purchasing power of the single currency.",
+      "source": "ECB",
+      "link": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr260723~c2d43f9170.en.html",
+      "date": "2026-07-23 14:15",
+      "score": 10.0,
+      "impact": "neutral",
+      "sectors": [
+        "Financials",
+        "Industrials"
+      ],
+      "primary_sector": "Financials",
+      "etf_tickers": [],
+      "rotation": ""
+    },
+    {
+      "title": "Christine Lagarde, Boris Vujčić: Monetary policy statement (with Q&A)",
+      "headline_it": "",
+      "summary_it": "",
+      "summary_en": "The European Central Bank (ECB) is the central bank of the European Union countries which have adopted the euro. Our main task is to maintain price stability in the euro area and so preserve the purchasing power of the single currency.",
+      "source": "ECB",
+      "link": "https://www.ecb.europa.eu//press/press_conference/monetary-policy-statement/2026/html/ecb.is260723~b6fadd48f4.en.html",
+      "date": "2026-07-23 13:00",
+      "score": 10.0,
+      "impact": "neutral",
+      "sectors": [
+        "Bonds",
+        "Broad Market",
+        "Financials"
+      ],
+      "primary_sector": "Bonds",
+      "etf_tickers": [],
+      "rotation": ""
+    },
+    {
+      "title": "Monetary policy decisions",
+      "headline_it": "",
+      "summary_it": "",
+      "summary_en": "The European Central Bank (ECB) is the central bank of the European Union countries which have adopted the euro. Our main task is to maintain price stability in the euro area and so preserve the purchasing power of the single currency.",
+      "source": "ECB",
+      "link": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.mp260723~29f24d99bc.en.html",
+      "date": "2026-07-23 12:15",
+      "score": 10.0,
+      "impact": "neutral",
+      "sectors": [
+        "Bonds",
+        "Broad Market",
+        "Financials"
+      ],
+      "primary_sector": "Bonds",
+      "etf_tickers": [],
+      "rotation": ""
+    },
+    {
+      "title": "Odds of Federal Reserve rate hike surge as oil prices rip higher",
+      "headline_it": "Probabilità di aumento tassi Fed sale",
+      "summary_it": "Gli investitori si preparano a un aumento dei tassi di interesse della Fed a settembre, spinti dall'aumento dei prezzi del petrolio. Ciò potrebbe avere un impatto sul settore finanziario e sui mercati azionari.",
+      "summary_en": "Investors are increasingly readying for the Federal Reserve to hike interest rates in September.",
+      "source": "CNBC Finance",
+      "link": "https://www.cnbc.com/2026/07/23/fed-interest-rate-odds-oil-jobless-claims.html",
+      "date": "2026-07-23 20:25",
+      "score": 9.4,
+      "impact": "bearish",
+      "sectors": [
+        "Bonds",
+        "Broad Market",
+        "Commodities",
+        "Energy",
+        "Financials"
+      ],
+      "primary_sector": "Bonds",
+      "etf_tickers": [
+        "SPY",
+        "XLE",
+        "XLF"
+      ],
+      "rotation": ""
+    },
+    {
+      "title": "Shortsighted stock market can no longer brush off war: 'It's too hard to ignore $100 oil'",
+      "headline_it": "Guerra e petrolio",
+      "summary_it": "Il mercato azionario non può più ignorare la guerra, con il prezzo del petrolio oltre i 100 dollari al barile. Ciò potrebbe avere un impatto negativo sugli ETF di settore.",
+      "summary_en": "After staying flat as the U.S.-Iran war heated up again, equities tumbled on Thursday after oil prices crossed $100 per barrel.",
+      "source": "CNBC Finance",
+      "link": "https://www.cnbc.com/2026/07/23/short-sighted-stock-market-can-no-longer-brush-off-war-investors-say.html",
+      "date": "2026-07-24 14:10",
+      "score": 9.4,
+      "impact": "bearish",
+      "sectors": [
+        "Broad Market",
+        "Commodities",
+        "Energy",
+        "Industrials",
+        "International"
+      ],
+      "primary_sector": "Broad Market",
+      "etf_tickers": [
+        "SPY",
+        "XLE"
+      ],
+      "rotation": ""
+    },
+    {
+      "title": "Moody's says 'unprecedented' AI spending threatens credit quality of Amazon, Meta, Alphabet and others",
+      "headline_it": "Spese AI minacciano qualità creditizia",
+      "summary_it": "La spesa per l'intelligenza artificiale sta costringendo anche le aziende più ricche a ricorrere al debito e alle vendite di azioni. Ciò potrebbe avere un impatto negativo sugli ETF tecnologici.",
+      "summary_en": "Moody's said AI spending is forcing even the world's most cash-rich corporations to lean heavily on debt, stock sales and off-balance-sheet moves.",
+      "source": "CNBC Finance",
+      "link": "https://www.cnbc.com/2026/07/24/moodys-ai-spending-credit-quality-amazon-meta-alphabet.html",
+      "date": "2026-07-24 22:43",
+      "score": 8.7,
+      "impact": "bearish",
+      "sectors": [
+        "Bonds",
+        "Broad Market",
+        "Consumers",
+        "Financials",
+        "Industrials",
+        "Tech & Semiconductors"
+      ],
+      "primary_sector": "Bonds",
+      "etf_tickers": [
+        "QQQ",
+        "SMH"
+      ],
+      "rotation": ""
+    },
+    {
+      "title": "As the U.S.-Iran war heats up again, these parts of the stock market and economy could be affected",
+      "headline_it": "Tensioni USA-Iran",
+      "summary_it": "Le tensioni tra USA e Iran potrebbero avere un impatto sull'economia e sui mercati azionari, in particolare sul settore energetico.",
+      "summary_en": "Investors and economists are deliberating what the latest exchange in hostilities will mean for the broader economy.",
+      "source": "CNBC Finance",
+      "link": "https://www.cnbc.com/2026/07/21/iran-war-economy-markets-trump.html",
+      "date": "2026-07-21 14:37",
+      "score": 8.7,
+      "impact": "bearish",
+      "sectors": [
+        "Broad Market",
+        "Commodities",
+        "Energy",
+        "Industrials",
+        "International"
+      ],
+      "primary_sector": "Broad Market",
+      "etf_tickers": [
+        "SPY",
+        "XLE"
+      ],
+      "rotation": ""
+    },
+    {
+      "title": "Jamie Dimon says markets underestimate risks and he wouldn't buy stocks or Treasurys at current prices",
+      "headline_it": "Dimon: mercati sottovalutano rischi",
+      "summary_it": "Il CEO di JPMorgan Chase avverte che i mercati sottovalutano i rischi e non acquisterebbe azioni o titoli di Stato ai prezzi attuali. Ciò potrebbe influenzare la fiducia degli investitori.",
+      "summary_en": "Comments from JPMorgan Chase CEO Jamie Dimon contrast with investors' recent willingness to look past wars, tariffs and other shocks.",
+      "source": "CNBC Finance",
+      "link": "https://www.cnbc.com/2026/07/21/jpmorgan-chase-ceo-jamie-dimon-market-risk.html",
+      "date": "2026-07-21 10:24",
+      "score": 8.7,
+      "impact": "bearish",
+      "sectors": [
+        "Bonds",
+        "Broad Market",
+        "Commodities",
+        "Energy",
+        "Financials",
+        "International"
+      ],
+      "primary_sector": "Bonds",
+      "etf_tickers": [
+        "SPY",
+        "XLF"
+      ],
+      "rotation": ""
+    },
+    {
+      "title": "Trump considers ‘massive attack’ on Iran; Pakistan reportedly seeks to restart stalled peace talks",
+      "headline_it": "Tensioni geopolitiche",
+      "summary_it": "Le dichiarazioni del presidente Trump su un'operazione contro l'Iran e il tentativo del Pakistan di riavviare i colloqui di pace potrebbero avere un impatto significativo sui mercati energetici e globali.",
+      "summary_en": "The president told Axios he was considering an operation \"bigger than ever before\" before Reuters reported Pakistan is seeking to restart peace talks.",
+      "source": "CNBC World",
+      "link": "https://www.cnbc.com/2026/07/24/us-iran-war-trump-hormuz-houthis.html",
+      "date": "2026-07-24 18:48",
+      "score": 8.7,
+      "impact": "bearish",
+      "sectors": [
+        "Broad Market",
+        "Commodities",
+        "Energy",
+        "Industrials",
+        "International"
+      ],
+      "primary_sector": "Broad Market",
+      "etf_tickers": [
+        "SPY",
+        "XLE"
+      ],
+      "rotation": ""
+    },
+    {
+      "title": "Oil shipments are under attack on multiple fronts as fighting escalates in Red Sea, Hormuz and Black Sea",
+      "headline_it": "Attacchi ai tanker petroliferi",
+      "summary_it": "Oltre 60 navi commerciali sono state attaccate nel Golfo Persico, Stretto di Hormuz e Golfo di Oman dal 1 marzo. Ciò potrebbe avere un impatto significativo sui prezzi del petrolio e sui settori energetici.",
+      "summary_en": "More than 60 commercial ships have been attacked in the Persian Gulf, Strait of Hormuz and Gulf of Oman since March 1.",
+      "source": "CNBC World",
+      "link": "https://www.cnbc.com/2026/07/24/oil-tanker-red-sea-hormuz-black-sea-iran-ukraine.html",
+      "date": "2026-07-24 18:47",
+      "score": 8.7,
+      "impact": "bearish",
+      "sectors": [
+        "Broad Market",
+        "Commodities",
+        "Energy",
+        "International"
+      ],
+      "primary_sector": "Broad Market",
+      "etf_tickers": [
+        "USO"
+      ],
+      "rotation": ""
+    },
+    {
+      "title": "Trump says U.S. will hold Iran responsible for Houthi attacks after oil tankers targeted in Red Sea",
+      "headline_it": "Attacchi a petroliere",
+      "summary_it": "Gli attacchi ai petroliere potrebbero aumentare le tensioni e influenzare i prezzi del petrolio. Ciò potrebbe avere un impatto sul settore energetico.",
+      "summary_en": "Yemen's Houthis said they had targeted two Saudi oil tankers with drones and missiles for allegedly violating its maritime blockade.",
+      "source": "CNBC World",
+      "link": "https://www.cnbc.com/2026/07/23/iran-war-us-trump-houthis-red-sea-oil.html",
+      "date": "2026-07-23 12:36",
+      "score": 8.7,
+      "impact": "bearish",
+      "sectors": [
+        "Broad Market",
+        "Commodities",
+        "Energy",
+        "Industrials",
+        "International"
+      ],
+      "primary_sector": "Broad Market",
+      "etf_tickers": [],
+      "rotation": ""
+    },
+    {
+      "title": "Russian attack cuts power to around 150,000 in Ukraine’s north as Kyiv hits missile, oil facilities",
+      "headline_it": "Attacco russo colpisce elettricità in Ucraina",
+      "summary_it": "L'attacco russo ha causato interruzioni di corrente in Ucraina, mentre il presidente Zelenskyy ha accolto con favore gli attacchi a strutture russe. Ciò potrebbe avere un impatto significativo sui mercati energetici.",
+      "summary_en": "The update comes as Ukrainian President Volodymyr Zelenskyy welcomed strikes on a key missile components facility in the Russian city of Kirov.",
+      "source": "CNBC World",
+      "link": "https://www.cnbc.com/2026/07/24/russia-ukraine-war-zelenskyy-putin-oil.html",
+      "date": "2026-07-24 13:09",
+      "score": 8.7,
+      "impact": "bearish",
+      "sectors": [
+        "Broad Market",
+        "Commodities",
+        "Energy",
+        "Industrials",
+        "International"
+      ],
+      "primary_sector": "Broad Market",
+      "etf_tickers": [
+        "SPY",
+        "XLE"
+      ],
+      "rotation": ""
+    },
+    {
+      "title": "Oil falls on report Pakistan is pushing for new U.S.-Iran talks with China's backing",
+      "headline_it": "Prezzi petrolio scendono",
+      "summary_it": "I prezzi del petrolio sono scesi del 3% a causa di possibili nuovi colloqui tra Stati Uniti e Iran. Ciò potrebbe influenzare gli ETF del settore energetico.",
+      "summary_en": "Oil prices dropped by around 3% on Friday, but remained on track for a weekly jump of 10% as the U.S.-Iran war continued to escalate.",
+      "source": "CNBC World",
+      "link": "https://www.cnbc.com/2026/07/24/oil-price-trump-hormuz-red-sea-iran-war.html",
+      "date": "2026-07-24 19:12",
+      "score": 8.7,
+      "impact": "bearish",
+      "sectors": [
+        "Broad Market",
+        "Commodities",
+        "Energy",
+        "Industrials",
+        "International"
+      ],
+      "primary_sector": "Broad Market",
+      "etf_tickers": [
+        "XLE"
+      ],
+      "rotation": ""
+    },
+    {
+      "title": "Ten killed in Russian attack on drone exhibition near Kyiv",
+      "headline_it": "Attacco russo vicino a Kyiv",
+      "summary_it": "L'attacco ha colpito un'esposizione di droni, uccidendo 10 persone. Ciò potrebbe aumentare le tensioni internazionali e avere un impatto sul settore energetico.",
+      "summary_en": "The event, attended by prominent members of the Ukrainian defence industry, was hit by ballistic missiles in the middle of the day.",
+      "source": "BBC World",
+      "link": "https://www.bbc.co.uk/news/articles/cj637zd1k1ko?at_medium=RSS&at_campaign=rss",
+      "date": "2026-07-25 00:06",
+      "score": 8.7,
+      "impact": "bearish",
+      "sectors": [
+        "Broad Market",
+        "Commodities",
+        "Energy",
+        "Industrials",
+        "International"
+      ],
+      "primary_sector": "Broad Market",
+      "etf_tickers": [
+        "EEM"
+      ],
+      "rotation": ""
+    },
+    {
+      "title": "Trump vows to investigate EU over fining of US tech companies",
+      "headline_it": "Trump vuole indagare su multe UE",
+      "summary_it": "Trump chiede l'annullamento delle multe alla Google e ad altre aziende tech statunitensi. Ciò potrebbe avere un impatto significativo sul settore tech.",
+      "summary_en": "The US president says fines against Google, as well as Apple, Meta and Amazon, should be \"entirely reversed.\"",
+      "source": "BBC World",
+      "link": "https://www.bbc.co.uk/news/articles/cvgjenp4680o?at_medium=RSS&at_campaign=rss",
+      "date": "2026-07-24 20:23",
+      "score": 8.7,
+      "impact": "bullish",
+      "sectors": [
+        "Broad Market",
+        "Consumers",
+        "Industrials",
+        "Tech & Semiconductors"
+      ],
+      "primary_sector": "Broad Market",
+      "etf_tickers": [
+        "QQQ",
+        "SMH"
+      ],
+      "rotation": ""
+    },
+    {
+      "title": "US hits dozens of countries with new wave of tariffs",
+      "headline_it": "Stati Uniti impone nuove tariffe a decine di paesi",
+      "summary_it": "Le nuove tariffe sono state imposte a causa di preoccupazioni sul lavoro forzato, sostituendo una duty globale temporanea. Ciò potrebbe avere un impatto significativo sui mercati globali e sui settori industriali.",
+      "summary_en": "Imposed citing forced labour concerns, the levies replace a temporary global duty brought in after the US Supreme Court struck down tariffs in February.",
+      "source": "BBC World",
+      "link": "https://www.bbc.co.uk/news/articles/cvgj61j6l08o?at_medium=RSS&at_campaign=rss",
+      "date": "2026-07-24 12:40",
+      "score": 8.7,
+      "impact": "bearish",
+      "sectors": [
+        "Broad Market",
+        "Industrials",
+        "International"
+      ],
+      "primary_sector": "Broad Market",
+      "etf_tickers": [
+        "EEM",
+        "SPY",
+        "XLI"
+      ],
+      "rotation": ""
+    },
+    {
+      "title": "Houthi attacks raise fears of wider Middle East conflict and more global economic damage",
+      "headline_it": "Attacchi Houthi minacciano Medio Oriente",
+      "summary_it": "Gli attacchi potrebbero aumentare i costi energetici e danneggiare l'economia globale. Ciò potrebbe avere un impatto negativo sui settori energetico e di mercato più ampio.",
+      "summary_en": "The Iran-backed group in Yemen has threatened to target Saudi vessels in a vital shipping route.",
+      "source": "BBC World",
+      "link": "https://www.bbc.co.uk/news/articles/cvgve0vxy1yo?at_medium=RSS&at_campaign=rss",
+      "date": "2026-07-24 01:59",
+      "score": 8.7,
+      "impact": "bearish",
+      "sectors": [
+        "Broad Market",
+        "Commodities",
+        "Energy",
+        "Industrials",
+        "International"
+      ],
+      "primary_sector": "Broad Market",
+      "etf_tickers": [
+        "SPY",
+        "XLE"
+      ],
+      "rotation": ""
+    },
+    {
+      "title": "Kevin Warsh has homed in on three key phrases. How Fed watchers interpret them",
+      "headline_it": "Fed: parole chiave per il mercato",
+      "summary_it": "Le recenti dichiarazioni di Kevin Warsh potrebbero influenzare le decisioni della Fed, con possibili ripercussioni sui settori finanziari e obbligazionari. Le sue parole chiave potrebbero indicare una futura stretta monetaria.",
+      "summary_en": "In five public appearances, Warsh has used the phrase \"family fight\" 13 times, returning to \"first principles\" 11 times and \"inflation is a choice\" for the Fed six times.",
+      "source": "CNBC Economy",
+      "link": "https://www.cnbc.com/2026/07/22/kevin-warsh-has-homed-in-on-three-key-phrases-how-fed-watchers-interpret-them.html",
+      "date": "2026-07-22 16:57",
+      "score": 7.4,
+      "impact": "bearish",
+      "sectors": [
+        "Bonds",
+        "Broad Market",
+        "Commodities",
+        "Energy",
+        "Financials",
+        "Industrials",
+        "International"
+      ],
+      "primary_sector": "Bonds",
+      "etf_tickers": [
+        "TLT",
+        "XLF"
+      ],
+      "rotation": ""
+    },
+    {
+      "title": "'WarshGPT': How Wall Street is adapting to the Fed's new era of communication",
+      "headline_it": "Wall Street si adatta",
+      "summary_it": "Le società di investimento si stanno preparando a un'era con meno commenti pubblici dalla banca centrale americana, utilizzando l'AI per ottenere un vantaggio. Ciò potrebbe avere un impatto significativo sui settori finanziari e del mercato generale.",
+      "summary_en": "Investment firms are readying for an era with less public commentary from the U.S. central bank. Some are relying on AI for an edge.",
+      "source": "CNBC Finance",
+      "link": "https://www.cnbc.com/2026/07/18/warshgpt-federal-reserve-communications-task-force-warsh.html",
+      "date": "2026-07-18 18:16",
+      "score": 7.4,
+      "impact": "neutral",
+      "sectors": [
+        "Broad Market",
+        "Commodities",
+        "Energy",
+        "Financials",
+        "International"
+      ],
+      "primary_sector": "Broad Market",
+      "etf_tickers": [
+        "SPY",
+        "XLF"
+      ],
+      "rotation": ""
+    },
+    {
+      "title": "How a Chinese AI model stopped OpenAI’s ‘unprecedented’ cyber attack",
+      "headline_it": "Modello AI cinese blocca attacco",
+      "summary_it": "Un modello AI cinese ha fermato un attacco informatico senza precedenti contro OpenAI. Ciò potrebbe avere un impatto significativo sul settore tecnologico.",
+      "summary_en": "The origin of the model Hugging Face used to combat the rogue AI is turning heads.",
+      "source": "CNBC World",
+      "link": "https://www.cnbc.com/2026/07/24/chinese-ai-model-openai-cyber-attack.html",
+      "date": "2026-07-24 13:01",
+      "score": 7.4,
+      "impact": "bullish",
+      "sectors": [
+        "Broad Market",
+        "Energy",
+        "International",
+        "Tech & Semiconductors"
+      ],
+      "primary_sector": "Broad Market",
+      "etf_tickers": [
+        "QQQ"
+      ],
+      "rotation": ""
+    },
+    {
+      "title": "Pentagon lowers official Iran war death toll, omitting four killed this month",
+      "headline_it": "Pentagono riduce conta vittime guerra Iran",
+      "summary_it": "Il Pentagono ha ridotto il numero ufficiale di vittime nella guerra con l'Iran, escludendo quattro militari uccisi questo mese. Ciò potrebbe avere un impatto sul mercato energetico e sui mercati azionari in generale.",
+      "summary_en": "The Pentagon lowered its official Iran war death toll to 14 from 18, removing four service members killed this month.",
+      "source": "CNBC World",
+      "link": "https://www.cnbc.com/2026/07/24/pentagon-removed-four-official-iran-war-death-toll.html",
+      "date": "2026-07-24 15:41",
+      "score": 7.4,
+      "impact": "neutral",
+      "sectors": [
+        "Broad Market",
+        "Commodities",
+        "Energy",
+        "Industrials",
+        "International"
+      ],
+      "primary_sector": "Broad Market",
+      "etf_tickers": [
+        "SPY",
+        "XLE"
+      ],
+      "rotation": ""
+    },
+    {
+      "title": "U.S. to see higher generic drug prices thanks to tariffs, CEO of leading India pharma firm warns",
+      "headline_it": "Aumento prezzi farmaci generici",
+      "summary_it": "I dazi proposti da Trump sui farmaci generici renderanno più costosi i farmaci per i pazienti. Ciò potrebbe avere un impatto negativo sul settore sanitario.",
+      "summary_en": "CEO of Indian pharma company Dr Reddy's has warned that Trump's proposed tariffs on generic drugs will make them more expensive for patients.",
+      "source": "CNBC World",
+      "link": "https://www.cnbc.com/2026/07/24/us-to-see-higher-generic-drug-prices-on-tariffs-indian-pharma-ceo.html",
+      "date": "2026-07-24 06:13",
+      "score": 7.4,
+      "impact": "bearish",
+      "sectors": [
+        "Broad Market",
+        "Commodities",
+        "Energy",
+        "Healthcare",
+        "International"
+      ],
+      "primary_sector": "Broad Market",
+      "etf_tickers": [
+        "SPY",
+        "XLV"
+      ],
+      "rotation": ""
+    },
+    {
+      "title": "More than 220,000 evacuated in France and Spain due to wildfires",
+      "headline_it": "Incendi in Francia e Spagna",
+      "summary_it": "Incendi devastanti in Francia e Spagna, possibili impatti sulle risorse energetiche e le materie prime.",
+      "summary_en": "French firefighters battle a blaze heading towards Bordeaux while officials in Madrid say they face the \"worst fire in the history of the region\".",
+      "source": "BBC World",
+      "link": "https://www.bbc.co.uk/news/articles/czjlenp0xk8o?at_medium=RSS&at_campaign=rss",
+      "date": "2026-07-25 02:29",
+      "score": 7.4,
+      "impact": "bearish",
+      "sectors": [
+        "Broad Market",
+        "Commodities",
+        "Energy",
+        "Industrials",
+        "International"
+      ],
+      "primary_sector": "Broad Market",
+      "etf_tickers": [],
+      "rotation": ""
+    },
+    {
+      "title": "Iran-backed Houthis claim missile attack on Saudi Arabia",
+      "headline_it": "Iran: attacco missilistico in Arabia Saudita",
+      "summary_it": "L'attacco potrebbe aumentare le tensioni nella regione e influenzare i mercati energetici. Gli Stati Uniti hanno disabilitato una petroliera che cercava di eludere il blocco americano nei porti iraniani.",
+      "summary_en": "US military says it disabled a tanker that was attempting to evade the American blockade on Iranian ports.",
+      "source": "BBC World",
+      "link": "https://www.bbc.co.uk/news/articles/cj9d27v70j1o?at_medium=RSS&at_campaign=rss",
+      "date": "2026-07-25 06:34",
+      "score": 7.4,
+      "impact": "bearish",
+      "sectors": [
+        "Broad Market",
+        "Commodities",
+        "Energy",
+        "Industrials",
+        "International"
+      ],
+      "primary_sector": "Broad Market",
+      "etf_tickers": [],
+      "rotation": ""
+    },
+    {
+      "title": "Nigeria's president approves largest military expansion in recent times",
+      "headline_it": "Nigeria amplia forze militari",
+      "summary_it": "La Nigeria amplia le sue forze militari per contrastare i gruppi armati. Ciò potrebbe avere un impatto sul settore energetico e sui mercati internazionali.",
+      "summary_en": "The government is under intense pressure to tackle a slew of armed groups, many of whom attack civilians.",
+      "source": "BBC World",
+      "link": "https://www.bbc.co.uk/news/articles/cwymjx3nrxvo?at_medium=RSS&at_campaign=rss",
+      "date": "2026-07-24 15:22",
+      "score": 6.1,
+      "impact": "neutral",
+      "sectors": [
+        "Broad Market",
+        "Energy",
+        "Industrials",
+        "International"
+      ],
+      "primary_sector": "Broad Market",
+      "etf_tickers": [
+        "EEM",
+        "XLE"
+      ],
+      "rotation": ""
+    },
+    {
+      "title": "Four Palestinians and two Israelis killed in West Bank shooting",
+      "headline_it": "Sparatoria in West Bank",
+      "summary_it": "Scontri nella regione potrebbero influenzare i mercati energetici. Tuttavia, l'impatto è attualmente limitato.",
+      "summary_en": "Palestinians say villagers came under attack by settlers, while the Israeli military says a Palestinian stole a weapon and opened fire on hikers.",
+      "source": "BBC World",
+      "link": "https://www.bbc.co.uk/news/articles/cx2rxmye4k3o?at_medium=RSS&at_campaign=rss",
+      "date": "2026-07-24 22:49",
+      "score": 4.8,
+      "impact": "neutral",
+      "sectors": [
+        "Broad Market",
+        "Energy",
+        "Financials",
+        "Industrials",
+        "International"
+      ],
+      "primary_sector": "Broad Market",
+      "etf_tickers": [],
+      "rotation": ""
+    },
+    {
+      "title": "World chess chief faces endgame after EU announces Russia war sanctions",
+      "headline_it": "Sanzioni UE colpiscono capo scacchi",
+      "summary_it": "L'Unione Europea ha annunciato sanzioni contro il capo della Federazione internazionale degli scacchi, Arkady Dvorkovich, ex vicepremier russo. L'impatto sugli ETF è minimo.",
+      "summary_en": "Arkady Dvorkovich, a former Russian deputy prime minister, now faces an EU travel ban and asset freeze.",
+      "source": "BBC World",
+      "link": "https://www.bbc.co.uk/news/articles/cewrk58k2k4o?at_medium=RSS&at_campaign=rss",
+      "date": "2026-07-24 16:08",
+      "score": 4.8,
+      "impact": "neutral",
+      "sectors": [
+        "Broad Market",
+        "Commodities",
+        "Energy",
+        "International"
+      ],
+      "primary_sector": "Broad Market",
+      "etf_tickers": [],
+      "rotation": ""
+    },
+    {
+      "title": "'What was their crime?': BBC visits Iran school where strike killed 120 children",
+      "headline_it": "Colpo in Iran",
+      "summary_it": "Un attacco in Iran ha colpito una scuola, ma l'impatto diretto sui mercati energetici sembra limitato. La notizia potrebbe avere un impatto marginale sul settore dell'energia.",
+      "summary_en": "Nearly five months on, grief is still raw as a teacher and a mother recall the horror of the attack in Minab.",
+      "source": "BBC World",
+      "link": "https://www.bbc.co.uk/news/articles/cewrx0ldlkko?at_medium=RSS&at_campaign=rss",
+      "date": "2026-07-23 04:49",
+      "score": 4.8,
+      "impact": "neutral",
+      "sectors": [
+        "Broad Market",
+        "Commodities",
+        "Energy",
+        "Industrials",
+        "International"
+      ],
+      "primary_sector": "Broad Market",
+      "etf_tickers": [],
+      "rotation": ""
+    }
+  ]
+}

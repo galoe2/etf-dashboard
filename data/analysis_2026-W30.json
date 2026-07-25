@@ -423,7 +423,138 @@
         }
       ]
     },
-    "news_by_sector": {},
+    "news_by_sector": {
+      "Broad Market": {
+        "count": 40,
+        "top": [
+          {
+            "hl": "Born too soon: Premature babies fight for survival in Gaza",
+            "impact": "bullish",
+            "src": "Al Jazeera"
+          },
+          {
+            "hl": "Iran war live: Trump says US ‘locked and loaded’ as it seeks Iran talks",
+            "impact": "neutral",
+            "src": "Al Jazeera"
+          }
+        ]
+      },
+      "International": {
+        "count": 37,
+        "top": [
+          {
+            "hl": "Trump says ‘it’s time’ for Saudi Arabia to normalise ties with Israel",
+            "impact": "neutral",
+            "src": "Al Jazeera"
+          },
+          {
+            "hl": "Is the Red Sea the New Hormuz Crisis?",
+            "impact": "bearish",
+            "src": "Foreign Policy"
+          }
+        ]
+      },
+      "Tech & Semiconductors": {
+        "count": 3,
+        "top": [
+          {
+            "hl": "Spese AI minacciano qualità creditizia",
+            "impact": "bearish",
+            "src": "CNBC Finance"
+          },
+          {
+            "hl": "Trump vuole indagare su multe UE",
+            "impact": "bullish",
+            "src": "BBC World"
+          }
+        ]
+      },
+      "Healthcare": {
+        "count": 1,
+        "top": [
+          {
+            "hl": "Aumento prezzi farmaci generici",
+            "impact": "bearish",
+            "src": "CNBC World"
+          }
+        ]
+      },
+      "Financials": {
+        "count": 16,
+        "top": [
+          {
+            "hl": "ECB to start implementing enhanced repo facility for central banks",
+            "impact": "neutral",
+            "src": "ECB"
+          },
+          {
+            "hl": "Results of the ECB Survey of Professional Forecasters for the third quarter of 2026",
+            "impact": "neutral",
+            "src": "ECB"
+          }
+        ]
+      },
+      "Energy": {
+        "count": 37,
+        "top": [
+          {
+            "hl": "Trump Approves Nuclear Deal With Saudi Arabia",
+            "impact": "neutral",
+            "src": "Foreign Policy"
+          },
+          {
+            "hl": "The Strait of Hormuz Closure Is Already Hitting Supermarket Prices",
+            "impact": "bearish",
+            "src": "OilPrice"
+          }
+        ]
+      },
+      "Commodities": {
+        "count": 33,
+        "top": [
+          {
+            "hl": "India Scours Angola, Venezuela for Crude as Mideast Supply Dries Up",
+            "impact": "bullish",
+            "src": "OilPrice"
+          },
+          {
+            "hl": "ADNOC Issues Seventh Crude Tender Since June Despite Hormuz, Red Sea Risks",
+            "impact": "neutral",
+            "src": "OilPrice"
+          }
+        ]
+      },
+      "Industrials": {
+        "count": 33,
+        "top": [
+          {
+            "hl": "Oil Shock Could Turn Super El Niño Into an Inflation Problem Again",
+            "impact": "mixed",
+            "src": "OilPrice"
+          },
+          {
+            "hl": "No Breakthrough as Top U.S. and Russian Diplomats Meet Over Ukraine",
+            "impact": "bullish",
+            "src": "OilPrice"
+          }
+        ]
+      },
+      "Bonds": {
+        "count": 10,
+        "top": [
+          {
+            "hl": "Decisions taken by the Governing Council of the ECB (in addition to decisions setting interest rates",
+            "impact": "neutral",
+            "src": "ECB"
+          },
+          {
+            "hl": "ECB to extend use of climate factors in Eurosystem collateral framework to non-financial corporate c",
+            "impact": "neutral",
+            "src": "ECB"
+          }
+        ]
+      }
+    },
     "rotation_signals": [],
     "best_region": {
       "name": "EM Latin America",
@@ -496,5 +627,21 @@
       ]
     }
   },
-  "ai_commentary_html": ""
+  "ai_commentary_html": "",
+  "counts": {
+    "etfs": 106,
+    "sectors": 13,
+    "regions": 8
+  },
+  "spy_weekly": [
+    754.54,
+    735.65,
+    739.84,
+    746.74,
+    728.99,
+    744.78,
+    754.95,
+    743.29,
+    738.18
+  ]
 }

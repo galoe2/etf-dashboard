@@ -52,6 +52,36 @@ def fmt_pct(v):
     return f"{v:+.1f}%".replace(".", ",")
 
 
+def market_regime(mo):
+    """Regime deterministico da SPY 1W + breadth: RISK-ON / RISK-OFF / ROTATIONAL."""
+    spy = mo.get("spy_1w", 0)
+    try:
+        pos, tot = mo.get("breadth", "0/1").split("/")
+        ratio = int(pos) / max(int(tot), 1)
+    except Exception:
+        ratio = 0.5
+    if spy > 0.5 and ratio >= 0.6:
+        return "RISK-ON"
+    if spy < -0.5 and ratio <= 0.4:
+        return "RISK-OFF"
+    return "ROTATIONAL"
+
+
+def sparkline_points(values, width=64, height=18, pad=2):
+    """Serie numerica -> stringa punti per la polyline SVG delle card (64x18)."""
+    vals = [float(v) for v in values if v is not None]
+    if len(vals) < 2:
+        return ""
+    lo, hi = min(vals), max(vals)
+    span = (hi - lo) or 1.0
+    pts = []
+    for i, v in enumerate(vals):
+        x = pad + i * (width - 2 * pad) / (len(vals) - 1)
+        y = height - pad - (v - lo) * (height - 2 * pad) / span
+        pts.append(f"{x:.1f},{y:.1f}")
+    return " ".join(pts)
+
+
 # ── Corpo articolo: AI (Groq) con fallback deterministico ──────────
 
 def ai_article(analysis, commentary_text):
@@ -139,7 +169,7 @@ Se i flussi confermano la rotazione e la breadth non si deteriora, la struttura 
     return {"title": title, "abstract": abstract, "body": body}
 
 
-def write_market_json(analysis, article, week):
+def write_market_json(analysis, article, week, counts=None, spy_weekly=None, report_ref=""):
     """Aggiorna src/data/market.json del sito: Market Pulse + overview + commento per la home."""
     mo = analysis.get("market_overview", {})
     comment = article.get("table_comment", "")
@@ -175,6 +205,16 @@ def write_market_json(analysis, article, week):
             "losers": analysis.get("top_losers", [])[:5],
             "overbought": rsi.get("overbought", [])[:5],
             "oversold": rsi.get("oversold", [])[:5],
+            "pipeline": {
+                "week": week,
+                "etfs": (counts or {}).get("etfs"),
+                "sectors": (counts or {}).get("sectors"),
+                "regions": (counts or {}).get("regions"),
+                "regime": market_regime(mo),
+                "risk_score": risk.get("risk_score"),
+                "report": report_ref,
+            },
+            "spy_spark": sparkline_points(spy_weekly or []),
         }, f, ensure_ascii=False, indent=2)
     print(f"  Market pulse -> {out}")
 
@@ -187,7 +227,6 @@ def main():
     commentary = strip_html(payload.get("ai_commentary_html", ""))
 
     article = ai_article(analysis, commentary) or deterministic_article(analysis)
-    write_market_json(analysis, article, week)
 
     # Copia il report HTML completo in public/reports/
     report_src = find_latest(OUT, "ETF_Report_", ".html")
@@ -200,8 +239,16 @@ def main():
         report_ref = f"/reports/{os.path.basename(report_src)}"
         print(f"  Report copiato: {report_ref}")
 
+    write_market_json(
+        analysis, article, week,
+        counts=payload.get("counts"),
+        spy_weekly=payload.get("spy_weekly"),
+        report_ref=report_ref,
+    )
+
     spy = analysis.get("market_overview", {}).get("spy_1w", 0)
     stat = f"SPY {fmt_pct(spy)}"
+    spark = sparkline_points(payload.get("spy_weekly") or [])
 
     fm = [
         "---",
@@ -211,6 +258,8 @@ def main():
         f'abstract: "{article.get("abstract", "").replace(chr(34), chr(92) + chr(34))}"',
         f'stat: "{stat}"',
     ]
+    if spark:
+        fm.append(f'sparkline: "{spark}"')
     if report_ref:
         fm.append(f'report: "{report_ref}"')
     fm.append("---")

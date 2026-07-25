@@ -1124,6 +1124,13 @@ out = os.path.join(os.path.dirname(os.path.abspath(__file__)), 'ETF_Report.html'
 with open(out, 'w', encoding='utf-8') as f: f.write(html)
 
 # Dump analysis data + AI commentary for the blog post generator (make_post.py)
+spy_weekly = []
+try:
+    _spy = daily_close["SPY"]
+    spy_weekly = [round(float(v), 2) for v in _spy.resample("W-FRI").last().dropna().iloc[-9:].tolist()]
+except Exception:
+    pass
+
 post_data_out = os.path.join(os.path.dirname(os.path.abspath(__file__)), 'analysis_data.json')
 with open(post_data_out, 'w', encoding='utf-8') as f:
     json.dump({
@@ -1131,6 +1138,8 @@ with open(post_data_out, 'w', encoding='utf-8') as f:
         "week": datetime.now().strftime("%Y-W%V"),
         "analysis": analysis_data,
         "ai_commentary_html": ai_commentary_html,
+        "counts": {"etfs": len(sec_nl) + len(reg_nl), "sectors": len(sec_avgs), "regions": len(reg_avgs)},
+        "spy_weekly": spy_weekly,
     }, f, ensure_ascii=False, indent=2)
 print(f"  Analysis data -> {post_data_out}")
 
