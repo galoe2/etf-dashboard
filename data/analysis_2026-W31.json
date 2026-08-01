@@ -1,0 +1,630 @@
+{
+  "report_date": "August 01, 2026",
+  "week": "2026-W31",
+  "analysis": {
+    "report_date": "August 01, 2026",
+    "market_overview": {
+      "spy_1w": 1.1,
+      "qqq_1w": 0.55,
+      "breadth": "6/13",
+      "best_sector": {
+        "name": "International",
+        "w1": 3.89
+      },
+      "worst_sector": {
+        "name": "Utilities",
+        "w1": -4.19
+      },
+      "best_etf": {
+        "ticker": "CLOU",
+        "desc": "Cloud Software",
+        "w1": 9.06
+      },
+      "worst_etf": {
+        "ticker": "USO",
+        "desc": "Crude Oil",
+        "w1": -5.5
+      }
+    },
+    "sector_performance": {
+      "Broad Market": {
+        "w1": 0.73,
+        "m1": -1.51,
+        "m3": 4.52,
+        "m6": 8.95,
+        "y1": 22.5,
+        "y3": 66.58
+      },
+      "International": {
+        "w1": 3.89,
+        "m1": 4.1,
+        "m3": 1.51,
+        "m6": -3.14,
+        "y1": 14.42,
+        "y3": 42.7
+      },
+      "Tech & Semiconductors": {
+        "w1": 2.44,
+        "m1": -3.23,
+        "m3": 14.39,
+        "m6": 17.8,
+        "y1": 24.31,
+        "y3": 93.77
+      },
+      "Healthcare": {
+        "w1": -0.32,
+        "m1": -3.92,
+        "m3": 15.87,
+        "m6": 13.19,
+        "y1": 47.92,
+        "y3": 38.44
+      },
+      "Financials": {
+        "w1": 1.63,
+        "m1": 2.44,
+        "m3": 5.52,
+        "m6": 0.28,
+        "y1": -7.83,
+        "y3": 37.45
+      },
+      "Energy": {
+        "w1": -2.13,
+        "m1": -2.8,
+        "m3": -14.87,
+        "m6": 4.88,
+        "y1": 33.56,
+        "y3": 33.17
+      },
+      "Commodities": {
+        "w1": -0.74,
+        "m1": -4.08,
+        "m3": -14.92,
+        "m6": -25.11,
+        "y1": 43.51,
+        "y3": 81.29
+      },
+      "Real Estate": {
+        "w1": -2.74,
+        "m1": -2.84,
+        "m3": 0.51,
+        "m6": 1.92,
+        "y1": 5.63,
+        "y3": 23.31
+      },
+      "Industrials": {
+        "w1": 0.63,
+        "m1": -6.4,
+        "m3": -1.85,
+        "m6": 1.13,
+        "y1": 25.91,
+        "y3": 69.55
+      },
+      "Bonds": {
+        "w1": -0.29,
+        "m1": -2.0,
+        "m3": -1.25,
+        "m6": -1.59,
+        "y1": 1.93,
+        "y3": 9.98
+      },
+      "Crypto": {
+        "w1": -1.86,
+        "m1": -0.33,
+        "m3": -9.26,
+        "m6": -15.07,
+        "y1": -23.53,
+        "y3": 112.56
+      },
+      "Consumers": {
+        "w1": 3.76,
+        "m1": 0.56,
+        "m3": -1.2,
+        "m6": -4.58,
+        "y1": 1.48,
+        "y3": 48.91
+      },
+      "Utilities": {
+        "w1": -4.19,
+        "m1": -0.94,
+        "m3": -4.73,
+        "m6": 3.73,
+        "y1": 7.0,
+        "y3": 41.92
+      }
+    },
+    "country_performance": {
+      "United States": {
+        "w1": 0.73,
+        "m1": -1.51,
+        "m3": 4.52,
+        "m6": 8.95,
+        "y1": 22.5,
+        "y3": 66.58
+      },
+      "Europe": {
+        "w1": 2.66,
+        "m1": 3.06,
+        "m3": 5.94,
+        "m6": 5.27,
+        "y1": 23.39,
+        "y3": 66.92
+      },
+      "China": {
+        "w1": 4.4,
+        "m1": 5.42,
+        "m3": -2.6,
+        "m6": -11.38,
+        "y1": 0.7,
+        "y3": 21.24
+      },
+      "India": {
+        "w1": 3.22,
+        "m1": 0.75,
+        "m3": 1.13,
+        "m6": -1.68,
+        "y1": -5.08,
+        "y3": 15.28
+      },
+      "EM Asia": {
+        "w1": 0.53,
+        "m1": -0.03,
+        "m3": 0.51,
+        "m6": 7.1,
+        "y1": 31.37,
+        "y3": 52.96
+      },
+      "EM Latin America": {
+        "w1": 1.73,
+        "m1": 3.06,
+        "m3": 0.74,
+        "m6": -2.04,
+        "y1": 37.12,
+        "y3": 71.44
+      },
+      "EM Africa & Middle East": {
+        "w1": 0.12,
+        "m1": -1.57,
+        "m3": -4.08,
+        "m6": -9.19,
+        "y1": 6.77,
+        "y3": 27.62
+      },
+      "Other": {
+        "w1": 0.87,
+        "m1": 2.36,
+        "m3": 0.95,
+        "m6": 3.71,
+        "y1": 22.24,
+        "y3": 59.42
+      }
+    },
+    "top_gainers": [
+      {
+        "t": "CLOU",
+        "d": "Cloud Software",
+        "w1": 9.06
+      },
+      {
+        "t": "KWEB",
+        "d": "China Internet",
+        "w1": 8.37
+      },
+      {
+        "t": "SKYY",
+        "d": "Cloud Computing",
+        "w1": 8.37
+      },
+      {
+        "t": "XLY",
+        "d": "Discretionary",
+        "w1": 6.11
+      },
+      {
+        "t": "ESPO",
+        "d": "Gaming",
+        "w1": 6.02
+      }
+    ],
+    "top_losers": [
+      {
+        "t": "USO",
+        "d": "Crude Oil",
+        "w1": -5.5
+      },
+      {
+        "t": "XHB",
+        "d": "Housing",
+        "w1": -4.38
+      },
+      {
+        "t": "XLU",
+        "d": "Utilities",
+        "w1": -4.19
+      },
+      {
+        "t": "TAN",
+        "d": "Solar",
+        "w1": -3.8
+      },
+      {
+        "t": "SMH",
+        "d": "Semiconductors",
+        "w1": -3.68
+      }
+    ],
+    "momentum": {
+      "International": {
+        "score": 95
+      },
+      "Tech & Semiconductors": {
+        "score": 74
+      },
+      "Financials": {
+        "score": 72
+      },
+      "Consumers": {
+        "score": 71
+      },
+      "Broad Market": {
+        "score": 68
+      },
+      "Healthcare": {
+        "score": 52
+      },
+      "Industrials": {
+        "score": 32
+      },
+      "Crypto": {
+        "score": 26
+      },
+      "Bonds": {
+        "score": 23
+      },
+      "Commodities": {
+        "score": 17
+      },
+      "Energy": {
+        "score": 14
+      },
+      "Utilities": {
+        "score": 13
+      },
+      "Real Estate": {
+        "score": 10
+      }
+    },
+    "country_momentum": {
+      "Europe": {
+        "score": 95
+      },
+      "EM Latin America": {
+        "score": 87
+      },
+      "China": {
+        "score": 76
+      },
+      "India": {
+        "score": 63
+      },
+      "Other": {
+        "score": 62
+      },
+      "United States": {
+        "score": 54
+      },
+      "EM Asia": {
+        "score": 43
+      },
+      "EM Africa & Middle East": {
+        "score": 10
+      }
+    },
+    "capital_flows": {
+      "inflow": [],
+      "outflow": [
+        {
+          "group": "Crypto",
+          "flow_score": -37
+        },
+        {
+          "group": "Energy",
+          "flow_score": -33
+        },
+        {
+          "group": "Bonds",
+          "flow_score": -28
+        }
+      ]
+    },
+    "country_flows": {
+      "inflow": [],
+      "outflow": [
+        {
+          "group": "Other",
+          "flow_score": -21
+        }
+      ]
+    },
+    "rsi_extremes": {
+      "overbought": [
+        {
+          "t": "KWEB",
+          "d": "China Internet",
+          "rsi": 66.8
+        },
+        {
+          "t": "CLOU",
+          "d": "Cloud Software",
+          "rsi": 64.6
+        },
+        {
+          "t": "XLE",
+          "d": "Oil & Gas",
+          "rsi": 63.6
+        },
+        {
+          "t": "SKYY",
+          "d": "Cloud Computing",
+          "rsi": 63.3
+        },
+        {
+          "t": "XLF",
+          "d": "Financial Sector",
+          "rsi": 62.3
+        }
+      ],
+      "oversold": [
+        {
+          "t": "REMX",
+          "d": "Rare Earth",
+          "rsi": 29.2
+        },
+        {
+          "t": "TLT",
+          "d": "20Y+ Treasury",
+          "rsi": 31.6
+        },
+        {
+          "t": "TAN",
+          "d": "Solar",
+          "rsi": 35.4
+        },
+        {
+          "t": "LQD",
+          "d": "Investment Grade",
+          "rsi": 36.3
+        },
+        {
+          "t": "ICLN",
+          "d": "Clean Energy",
+          "rsi": 37.7
+        }
+      ]
+    },
+    "news_by_sector": {
+      "Broad Market": {
+        "count": 37,
+        "top": [
+          {
+            "hl": "U.S.-Saudi Strikes Add a New Front to the Iran War",
+            "impact": "neutral",
+            "src": "Foreign Policy"
+          },
+          {
+            "hl": "Israeli West Bank settler tells BBC attacks on Palestinians are justified as revenge",
+            "impact": "bullish",
+            "src": "BBC World"
+          }
+        ]
+      },
+      "International": {
+        "count": 40,
+        "top": [
+          {
+            "hl": "Danube's record low levels force shutdown of Hungary's only nuclear plant",
+            "impact": "bearish",
+            "src": "BBC World"
+          },
+          {
+            "hl": "Missile that left crater deep inside Poland was probably Russian - Polish PM",
+            "impact": "bearish",
+            "src": "BBC World"
+          }
+        ]
+      },
+      "Tech & Semiconductors": {
+        "count": 6,
+        "top": [
+          {
+            "hl": "VC Money Floods Into U.S. Nuclear Startups as AI Power Demand Explodes",
+            "impact": "bullish",
+            "src": "OilPrice"
+          },
+          {
+            "hl": "South Korea's 'bipolar' stock market: meltdowns, a record rally and what's to come",
+            "impact": "bullish",
+            "src": "CNBC World"
+          }
+        ]
+      },
+      "Financials": {
+        "count": 14,
+        "top": [
+          {
+            "hl": "Digital euro app to incorporate highest accessibility standards",
+            "impact": "neutral",
+            "src": "ECB"
+          },
+          {
+            "hl": "ECB wage tracker at 2.7% in Q1 2027, indicating stable negotiated wage pressures",
+            "impact": "neutral",
+            "src": "ECB"
+          }
+        ]
+      },
+      "Energy": {
+        "count": 39,
+        "top": [
+          {
+            "hl": "Abqaiq Is a Warning That Oil Markets May Be Misreading",
+            "impact": "bearish",
+            "src": "OilPrice"
+          },
+          {
+            "hl": "Why Trump’s Trade Threat Puts Spain’s Energy Security on the Line",
+            "impact": "mixed",
+            "src": "OilPrice"
+          }
+        ]
+      },
+      "Commodities": {
+        "count": 34,
+        "top": [
+          {
+            "hl": "Ukraine Strikes Lukoil's Volgograd Refinery as Drone Attacks Resume",
+            "impact": "neutral",
+            "src": "OilPrice"
+          },
+          {
+            "hl": "Ukraine Is Now Targeting Iranian Shipping in the Caspian Sea",
+            "impact": "bullish",
+            "src": "OilPrice"
+          }
+        ]
+      },
+      "Real Estate": {
+        "count": 1,
+        "top": [
+          {
+            "hl": "Prezzi petrolio in aumento",
+            "impact": "bullish",
+            "src": "CNBC World"
+          }
+        ]
+      },
+      "Industrials": {
+        "count": 33,
+        "top": [
+          {
+            "hl": "Chinese data challenges US-Iran war claims; bamboo vs desertification: SCMP’s 7 highlights",
+            "impact": "neutral",
+            "src": "SCMP"
+          },
+          {
+            "hl": "Chevron targets 2%-3% annual production growth as Project Kilby moves toward FID later this year",
+            "impact": "bullish",
+            "src": "Seeking Alpha"
+          }
+        ]
+      },
+      "Bonds": {
+        "count": 8,
+        "top": [
+          {
+            "hl": "Fed pubblica dichiarazione FOMC",
+            "impact": "neutral",
+            "src": "Federal Reserve"
+          },
+          {
+            "hl": "Inflazione ai minimi",
+            "impact": "bullish",
+            "src": "CNBC Economy"
+          }
+        ]
+      }
+    },
+    "rotation_signals": [
+      {
+        "signal": "da Tech & Semiconductors a Energy",
+        "source": "Al Jazeera"
+      }
+    ],
+    "best_region": {
+      "name": "China",
+      "w1": 4.4
+    },
+    "worst_region": {
+      "name": "EM Africa & Middle East",
+      "w1": 0.12
+    },
+    "top_country_etfs": [
+      {
+        "t": "KWEB",
+        "d": "Internet",
+        "w1": 8.37
+      },
+      {
+        "t": "CHIQ",
+        "d": "Consumer",
+        "w1": 8.02
+      },
+      {
+        "t": "FXI",
+        "d": "Large Cap",
+        "w1": 5.55
+      }
+    ],
+    "bot_country_etfs": [
+      {
+        "t": "EWY",
+        "d": "South Korea",
+        "w1": -3.6
+      },
+      {
+        "t": "TUR",
+        "d": "Turkey",
+        "w1": -2.81
+      },
+      {
+        "t": "EWT",
+        "d": "Taiwan",
+        "w1": -1.49
+      }
+    ],
+    "risk": {
+      "realized_vol": 12.4,
+      "pct_overbought": 1,
+      "pct_oversold": 1,
+      "risk_score": 100,
+      "worst_drawdowns_3m": [
+        {
+          "t": "REMX",
+          "dd": -41.0
+        },
+        {
+          "t": "UFO",
+          "dd": -36.7
+        },
+        {
+          "t": "SLV",
+          "dd": -36.5
+        },
+        {
+          "t": "URA",
+          "dd": -35.6
+        },
+        {
+          "t": "TAN",
+          "dd": -35.5
+        }
+      ]
+    }
+  },
+  "ai_commentary_html": "<h3>Regime di Mercato & Breadth</h3>\n<p>Il mercato attuale sembra essere in una fase di <span class=\"sig-up\">risk-on</span>, con il settore <span class=\"sig-up\">International</span> che guadagna il 3.89% nell'ultima settimana. La larghezza del mercato è rappresentata dal rapporto <span class=\"sig-up\">6/13</span>, indicando una certa debolezza. La forza relativa tra SPY e QQQ mostra che il <span class=\"sig-up\">QQQ</span> è leggermente debole, con un guadagno del 0.55% nell'ultima settimana.</p>\n\n<h3>Rotazione Settoriale & Geografica</h3>\n<p>I settori che stanno guadagnando momentum sono <span class=\"sig-up\">International</span> e <span class=\"sig-up\">Tech & Semiconductors</span>, con score di momentum rispettivamente del 95 e del 74. Le regioni che stanno guadagnando terreno sono <span class=\"sig-up\">Cina</span> e <span class=\"sig-up\">Europa</span>, con guadagni settimanali del 4.4% e del 2.66%. I flussi di capitale mostrano un <span class=\"sig-dn\">outflow</span> dai settori <span class=\"sig-dn\">Crypto</span>, <span class=\"sig-dn\">Energy</span> e <span class=\"sig-dn\">Bonds</span>.</p>\n\n<h3>Movimenti Anticipatori & Correlazioni</h3>\n<p>I movimenti anticipatori mostrano una certa <span class=\"sig-up\">divergenza</span> tra i settori <span class=\"sig-up\">Tech & Semiconductors</span> e <span class=\"sig-dn\">Energy</span>, con il primo che guadagna terreno e il secondo che perde. Le correlazioni mostrano una forte <span class=\"sig-up\">correlazione</span> tra i settori <span class=\"sig-up\">International</span> e <span class=\"sig-up\">Tech & Semiconductors</span>.</p>\n\n<h3>Impatto News & Catalizzatori</h3>\n<p>Le notizie recenti hanno avuto un impatto <span class=\"sig-up\">positivo</span> sui settori <span class=\"sig-up\">Tech & Semiconductors</span> e <span class=\"sig-up\">Financials</span>, con titoli come \"VC Money Floods Into U.S. Nuclear Startups as AI Power Demand Explodes\" e \"Digital euro app to incorporate highest accessibility standards\". I catalizzatori per la rotazione settoriale sono rappresentati dalle notizie come \"Danube's record low levels force shutdown of Hungary's only nuclear plant\" e \"Missile that left crater deep inside Poland was probably Russian - Polish PM\" che hanno avuto un impatto <span class=\"sig-dn\">negativo</span> sui settori <span class=\"sig-dn\">Utilities</span> e <span class=\"sig-dn\">Energy</span>.</p>\n\n<h3>Idee di Investimento</h3>\n<p>Le idee di investimento sono le seguenti:\n<ul>\n<li>Sovrappesare l'ETF <span class=\"sig-up\">CLOU</span> (Cloud Software) con un timeframe di <span class=\"sig-up\">breve termine</span> e un livello di convinzione <span class=\"sig-up\">alta</span>. Il rischio specifico è rappresentato dalla <span class=\"sig-dn\">volatilità</span> del settore tecnologico.</li>\n<li>Sottopesare l'ETF <span class=\"sig-dn\">USO</span> (Crude Oil) con un timeframe di <span class=\"sig-up\">medio termine</span> e un livello di convinzione <span class=\"sig-up\">media</span>. Il rischio specifico è rappresentato dalla <span class=\"sig-dn\">fluttuazione</span> del prezzo del petrolio.</li>\n<li>Sovrappesare l'ETF <span class=\"sig-up\">KWEB</span> (China Internet) con un timeframe di <span class=\"sig-up\">breve termine</span> e un livello di convinzione <span class=\"sig-up\">alta</span>. Il rischio specifico è rappresentato dalla <span class=\"sig-dn\">regolamentazione</span> del governo cinese.</li>\n</ul>\n</p>",
+  "counts": {
+    "etfs": 106,
+    "sectors": 13,
+    "regions": 8
+  },
+  "spy_weekly": [
+    735.65,
+    739.84,
+    746.74,
+    728.99,
+    744.78,
+    754.95,
+    743.29,
+    738.93,
+    747.03
+  ]
+}

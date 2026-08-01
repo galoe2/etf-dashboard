@@ -1,5 +1,36 @@
 {
-  "date": "July 25, 2026",
-  "week": "2026-W30",
-  "ideas": []
+  "date": "August 01, 2026",
+  "week": "2026-W31",
+  "ideas": [
+    {
+      "ticker": "CLOU",
+      "price": 25.16,
+      "direction": "long",
+      "desc": "Cloud Software"
+    },
+    {
+      "ticker": "SPY",
+      "price": 747.03,
+      "direction": "long",
+      "desc": "S&P 500"
+    },
+    {
+      "ticker": "USO",
+      "price": 129.17,
+      "direction": "long",
+      "desc": "Crude Oil"
+    },
+    {
+      "ticker": "QQQ",
+      "price": 687.99,
+      "direction": "long",
+      "desc": "Nasdaq 100"
+    },
+    {
+      "ticker": "KWEB",
+      "price": 28.49,
+      "direction": "long",
+      "desc": "China Internet"
+    }
+  ]
 }
