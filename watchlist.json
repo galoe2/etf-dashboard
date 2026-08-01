@@ -1,0 +1,12 @@
+{
+  "month": "2026-08",
+  "items": [
+    { "ticker": "NOW", "type": "stock", "note": "Software enterprise · workflow e AI agent" },
+    { "ticker": "CRM", "type": "stock", "note": "Software enterprise · CRM e agentic AI" },
+    { "ticker": "NKLR", "type": "stock", "note": "Micro-reattori nucleari (SMR)" },
+    { "ticker": "GFT.DE", "type": "stock", "note": "IT services per banche e assicurazioni" },
+    { "ticker": "JEDI.MI", "type": "etf", "note": "Space economy · UCITS (Borsa Italiana)" },
+    { "ticker": "ARKG", "type": "etf", "note": "Genomica e biotech innovativo" },
+    { "ticker": "KOID", "type": "etf", "note": "Robotica umanoide e physical AI" }
+  ]
+}

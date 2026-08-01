@@ -274,10 +274,12 @@ def main():
     if os.path.exists(aj):
         shutil.copy2(aj, os.path.join(DATA, f"analysis_{WEEK}.json"))
 
-    # ── STEP 2b: Articolo blog ─────────────────────────
+    # ── STEP 2b: Articolo blog + watchlist ─────────────
     if args.post:
         banner("STEP 2b — Articolo blog (Ex Ante)")
         results["Post"] = run("make_post.py")
+        banner("STEP 2c — Watchlist (Ex Ante)")
+        results["Watchlist"] = run("make_watchlist.py")
 
     # ── STEP 3: Email ──────────────────────────────────
     if args.email and report_path:
