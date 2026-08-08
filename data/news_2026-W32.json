@@ -1,0 +1,1384 @@
+{
+  "generated": "2026-08-08T08:26:17.265563",
+  "lookback_days": 7,
+  "total_articles": 50,
+  "sector_news": {
+    "Broad Market": {
+      "count": 30,
+      "top": [
+        {
+          "headline": "Oil Traders Stay Bearish Despite Deepening Middle East Disruptions",
+          "summary": "Despite continued hostilities in the Middle East and an expansion of the war to the Red Sea, oil traders have remained largely bearish on the commodity, betting on a quick peace deal—and they might get a nasty shock. Earlier this week, Brent crude sank below $80 per barrel, and WTI dropped below $75, after President Trump said peace talks between the United States and Iran had resumed, even though Iranian officials denied there were any talks in progress. However, Iran is negotiating a deal about control over the Strait of Hormuz with Oman,…",
+          "impact": "bearish",
+          "source": "OilPrice",
+          "score": 10.0,
+          "link": "https://oilprice.com/Energy/Oil-Prices/Oil-Traders-Stay-Bearish-Despite-Deepening-Middle-East-Disruptions.html",
+          "etf_tickers": []
+        },
+        {
+          "headline": "Citi Lifts Brent Outlook but Still Sees Oil Falling in 2027",
+          "summary": "Citi has raised its third-quarter Brent crude forecast to $80 per barrel from $75 as the U.S.-Iran war drags on and repeated attempts at a deal fail to restore normal oil flows through the Strait of Hormuz. The bank still expects the conflict to be resolved, but the five-month war has lasted longer than Citi anticipated and kept more geopolitical risk in crude prices. Citi left its fourth-quarter Brent forecast unchanged at $70 per barrel and still sees the benchmark averaging $65 in 2027. Brent futures were trading at $83.11 per barrel on Friday…",
+          "impact": "bearish",
+          "source": "OilPrice",
+          "score": 10.0,
+          "link": "https://oilprice.com/Latest-Energy-News/World-News/Citi-Lifts-Brent-Outlook-but-Still-Sees-Oil-Falling-in-2027.html",
+          "etf_tickers": []
+        },
+        {
+          "headline": "ADNOC Reports 15 Vessel Attacks as Hormuz Risks Mount",
+          "summary": "Abu Dhabi National Oil Company said attacks on its vessels and employees are having a significant impact on operations as the company tries to keep crude, gas and refined products moving through the Strait of Hormuz. Fifteen ADNOC vessels have been hit by missiles or drones since the war began, including three this week, the company said Friday. One crew member has been killed and 20 others injured. The Strait of Hormuz carried roughly one-fifth of global oil consumption before the U.S.-Israeli war against Iran expanded into a broader regional…",
+          "impact": "mixed",
+          "source": "OilPrice",
+          "score": 10.0,
+          "link": "https://oilprice.com/Latest-Energy-News/World-News/ADNOC-Reports-15-Vessel-Attacks-as-Hormuz-Risks-Mount.html",
+          "etf_tickers": []
+        }
+      ]
+    },
+    "International": {
+      "count": 37,
+      "top": [
+        {
+          "headline": "The Middle East Tries Its Hand at a NATO-Style Pact",
+          "summary": "Pakistan, Saudi Arabia, and Turkey pledge mutual defense in the face of aggressive Iranian and Israeli operations.",
+          "impact": "neutral",
+          "source": "Foreign Policy",
+          "score": 10.0,
+          "link": "https://foreignpolicy.com/2026/08/07/pakistan-saudi-arabia-turkey-mutual-defense-pact-iran-israel-military/",
+          "etf_tickers": []
+        },
+        {
+          "headline": "Is Iran Winning the Battle Over the Strait of Hormuz?",
+          "summary": "Any level of Iranian control would mark a major geopolitical shift in Tehran’s favor.",
+          "impact": "neutral",
+          "source": "Foreign Policy",
+          "score": 10.0,
+          "link": "https://foreignpolicy.com/2026/08/06/us-iran-reopen-strait-hormuz-deal-tolls-oman-trump-missiles/",
+          "etf_tickers": []
+        },
+        {
+          "headline": "Kevin Warsh Has a Problem",
+          "summary": "The Fed chair “is really rolling the dice” while holding out against interest rate hikes, one expert said.",
+          "impact": "mixed",
+          "source": "Foreign Policy",
+          "score": 10.0,
+          "link": "https://foreignpolicy.com/2026/08/05/kevin-warsh-federal-reserve-interest-rates-inflation-trump/",
+          "etf_tickers": []
+        }
+      ]
+    },
+    "Tech & Semiconductors": {
+      "count": 5,
+      "top": [
+        {
+          "headline": "Copper jumps to its highest level ever. What the metal is telling us",
+          "summary": "Once a reliable gauge if economic health, \"Dr. Copper\" may be giving complicated signals this year.",
+          "impact": "neutral",
+          "source": "CNBC Finance",
+          "score": 9.9,
+          "link": "https://www.cnbc.com/2026/08/06/copper-jumps-to-its-highest-level-ever-what-the-metal-is-telling-us-.html",
+          "etf_tickers": []
+        },
+        {
+          "headline": "The 72-hour crisis that could upend Meta’s business in India as firm risks losing legal protection",
+          "summary": "U.S. social media giant Meta is facing increasing pressure from Indian regulators, including demands to revoke the firm's safe harbor immunity in the country.",
+          "impact": "mixed",
+          "source": "CNBC World",
+          "score": 9.9,
+          "link": "https://www.cnbc.com/2026/08/07/meta-india-zuckerberg-apology-genz-protest.html",
+          "etf_tickers": []
+        },
+        {
+          "headline": "Artificial Intelligence Consortium minutes – June 2026",
+          "summary": "The Artificial Intelligence Consortium (AIC) aims to provide a platform for public-private engagement to further dialogue on the capabilities, development, deployment, use, and potential risks of artificial intelligence (AI) in UK financial services.",
+          "impact": "neutral",
+          "source": "Bank of England",
+          "score": 9.6,
+          "link": "https://www.bankofengland.co.uk/minutes/2026/june/ai-consortium-minutes-3-june-2026",
+          "etf_tickers": []
+        }
+      ]
+    },
+    "Healthcare": {
+      "count": 1,
+      "top": [
+        {
+          "headline": "Spese farmaceutiche aziendali",
+          "summary": "Le aziende come Bank of America affrontano la crescente domanda di farmaci GLP-1, come Ozempic e Wegovy, con costi annuali per paziente di migliaia di dollari. Ciò potrebbe avere un impatto sul settore farmaceutico e su quello finanziario.",
+          "impact": "bearish",
+          "source": "CNBC Finance",
+          "score": 7.4,
+          "link": "https://www.cnbc.com/2026/08/05/bank-of-america-ceo-glp-1-drugs-cost.html",
+          "etf_tickers": [
+            "XLF",
+            "XLV"
+          ]
+        }
+      ]
+    },
+    "Financials": {
+      "count": 14,
+      "top": [
+        {
+          "headline": "ECB publishes consolidated banking data for end-March 2026",
+          "summary": "The European Central Bank (ECB) is the central bank of the European Union countries which have adopted the euro. Our main task is to maintain price stability in the euro area and so preserve the purchasing power of the single currency.",
+          "impact": "neutral",
+          "source": "ECB",
+          "score": 10.0,
+          "link": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr260807~58eb5109ce.en.html",
+          "etf_tickers": []
+        },
+        {
+          "headline": "Israel charges settler over killing of Palestinian involved in Oscar-winning West Bank film",
+          "summary": "Yinon Levy is charged with reckless manslaughter over the July 2025 shooting of Odeh Hathaleen.",
+          "impact": "neutral",
+          "source": "BBC World",
+          "score": 9.9,
+          "link": "https://www.bbc.co.uk/news/articles/cn4n1e8159yo?at_medium=RSS&at_campaign=rss",
+          "etf_tickers": []
+        },
+        {
+          "headline": "(BOJ Review) Impact of the Bank of Japan's Reductions in JGB Purchases on the JGB Markets",
+          "summary": "",
+          "impact": "neutral",
+          "source": "Bank of Japan",
+          "score": 9.6,
+          "link": "http://www.boj.or.jp/en/research/wps_rev/rev_2026/rev26e10.htm",
+          "etf_tickers": []
+        }
+      ]
+    },
+    "Energy": {
+      "count": 35,
+      "top": [
+        {
+          "headline": "Is Iran Preparing to Permanently Block the Strait of Hormuz?",
+          "summary": "Conflicting signals from Washington and Tehran keep oil markets on edge as Iran weighs a permanent Hormuz shipping ban while Trump insists a deal is within reach. Friday, August 07, 2026 The oil market’s very own schizophrenia – trying to read into the contradicting claims of US President Trump and Iranian officials seeking to escalate the blockade of Hormuz even further – continues to puzzle industry analysts and traders. Iran’s Parliament is reviewing a bill to permanently ban US, Israeli and other hostile vessels from…",
+          "impact": "neutral",
+          "source": "OilPrice",
+          "score": 10.0,
+          "link": "https://oilprice.com/Energy/Energy-General/Is-Iran-Preparing-to-Permanently-Block-the-Strait-of-Hormuz.html",
+          "etf_tickers": []
+        },
+        {
+          "headline": "Ukraine Faces a Growing Air Defense Crisis as Patriot Supplies Dwindle",
+          "summary": "Ukraine's failure to intercept a single Russian missile during a large-scale overnight attack this week has raised fresh concerns over Kyiv's dwindling supply of air-defense interceptors as Moscow escalates its ballistic missile strikes on the nearly defenseless capital and other regions. Ukrainian President Volodymyr Zelenskyy has warned that deliveries of anti-ballistic interceptor missiles from partner countries have fallen sharply, leaving Ukraine vulnerable to deadly attacks that are being launched by Russia with increasing frequency. Following…",
+          "impact": "mixed",
+          "source": "OilPrice",
+          "score": 10.0,
+          "link": "https://oilprice.com/Geopolitics/Europe/Ukraine-Faces-a-Growing-Air-Defense-Crisis-as-Patriot-Supplies-Dwindle.html",
+          "etf_tickers": []
+        },
+        {
+          "headline": "Saudi Arabia, Pakistan and Turkey to Sign Defense Deal",
+          "summary": "Saudi Arabia, Pakistan, and Turkey are expected to sign on Friday a joint defense cooperation agreement amid the Middle East’s turmoil triggered by the war in Iran, Reuters reports, citing sources familiar with the plans. On Friday, Turkey’s President Recep Tayyip Erdogan arrived in Jeddah for an official visit, the Saudi Press Agency reported. It wasn’t immediately clear what the commitments of each of the three countries will be in the joint agreement. The three mostly Sunni Muslim powers have been concerned over the turmoil…",
+          "impact": "neutral",
+          "source": "OilPrice",
+          "score": 10.0,
+          "link": "https://oilprice.com/Latest-Energy-News/World-News/Saudi-Arabia-Pakistan-and-Turkey-to-Sign-Defense-Deal.html",
+          "etf_tickers": []
+        }
+      ]
+    },
+    "Commodities": {
+      "count": 36,
+      "top": [
+        {
+          "headline": "Ken Griffin's Citadel posts best month in years after scooping up Situational Awareness stocks",
+          "summary": "The July gains came after Citadel acquired the bulk of the public-stock portfolio formerly held by Situational Awareness late last month.",
+          "impact": "bullish",
+          "source": "CNBC Finance",
+          "score": 9.8,
+          "link": "https://www.cnbc.com/2026/08/05/ken-griffins-citadel-posts-best-month-in-years-after-scooping-up-situational-awareness-stocks.html",
+          "etf_tickers": []
+        },
+        {
+          "headline": "NBA star Brandon Clarke died from heroin, cocaine effects, examiner rules",
+          "summary": "Memphis Grizzlies ⁠forward Brandon Clarke&#039;s ⁠May 11 death ruled accidental, with effects of heroin and cocaine cited.",
+          "impact": "neutral",
+          "source": "Al Jazeera",
+          "score": 9.8,
+          "link": "https://www.aljazeera.com/sports/2026/8/8/nba-star-brandon-clarke-died-from-heroin-cocaine-effects-examiner-rules?traffic_source=rss",
+          "etf_tickers": []
+        },
+        {
+          "headline": "De la Espriella sworn in as Colombia’s leader, vows armed group crackdown",
+          "summary": "The new president, who replaces leftist Gustavo Petro, continues the rightward political shift in Latin America.",
+          "impact": "neutral",
+          "source": "Al Jazeera",
+          "score": 9.8,
+          "link": "https://www.aljazeera.com/news/2026/8/8/de-la-espriella-sworn-in-as-colombia-leader-vows-crackdown-on-armed-groups?traffic_source=rss",
+          "etf_tickers": []
+        }
+      ]
+    },
+    "Real Estate": {
+      "count": 2,
+      "top": [
+        {
+          "headline": "Trump revives effort to fire Fed's Lisa Cook",
+          "summary": "Trump aide Dan Scavino told Cook there is \"sufficient reason to believe that you made false statements on one or more mortgage agreements.\"",
+          "impact": "neutral",
+          "source": "CNBC World",
+          "score": 9.6,
+          "link": "https://www.cnbc.com/2026/08/07/trump-lisa-cook-federal-reserve.html",
+          "etf_tickers": []
+        },
+        {
+          "headline": "Crypto’s infrastructure era arrives, with AI agents poised to reshape demand",
+          "summary": "Crypto companies are trying to build a second growth engine by turning agents into the next wave of users.",
+          "impact": "bullish",
+          "source": "CNBC World",
+          "score": 9.6,
+          "link": "https://www.cnbc.com/2026/08/07/cryptos-infrastructure-era-arrives-with-ai-agents-poised-to-reshape-demand.html",
+          "etf_tickers": []
+        }
+      ]
+    },
+    "Industrials": {
+      "count": 31,
+      "top": [
+        {
+          "headline": "Manufacturing survey shows inflation worries 'worse than pandemic era,' adding to Fed pressure",
+          "summary": "The commentary pointed to a highly volatile environment in which purchasing managers were struggling to stay ahead",
+          "impact": "neutral",
+          "source": "CNBC Economy",
+          "score": 9.6,
+          "link": "https://www.cnbc.com/2026/08/03/manufacturing-survey-shows-inflation-worries-adding-to-pressure-on-fed.html",
+          "etf_tickers": []
+        },
+        {
+          "headline": "Fed: meno riunioni, più volatilità",
+          "summary": "La Fed potrebbe ridurre il numero di riunioni, aumentando la volatilità dei mercati. Le decisioni di Warsh stanno cambiando la cultura della Fed.",
+          "impact": "bearish",
+          "source": "CNBC Finance",
+          "score": 8.7,
+          "link": "https://www.cnbc.com/2026/08/05/as-warsh-and-the-fed-contemplate-fewer-meetings-markets-brace-for-potential-volatility-ahead.html",
+          "etf_tickers": [
+            "SPY",
+            "TLT",
+            "XLF"
+          ]
+        },
+        {
+          "headline": "Allarme fondi hedge",
+          "summary": "Il crollo di un hedge fund è un campanello d'allarme per i mercati leverati, secondo il CEO di Bank of America. Ciò potrebbe avere un impatto significativo sui settori finanziari e del mercato azionario.",
+          "impact": "bearish",
+          "source": "CNBC Finance",
+          "score": 8.7,
+          "link": "https://www.cnbc.com/2026/08/05/bofa-brian-moynihan-situational-awareness-meltdown-was-a-warning-shot.html",
+          "etf_tickers": [
+            "SPY",
+            "XLF"
+          ]
+        }
+      ]
+    },
+    "Bonds": {
+      "count": 6,
+      "top": [
+        {
+          "headline": "Japanese Government Bonds Held by the Bank of Japan",
+          "summary": "",
+          "impact": "neutral",
+          "source": "Bank of Japan",
+          "score": 9.6,
+          "link": "http://www.boj.or.jp/en/statistics/boj/other/mei/release/2026/mei260731.xlsx",
+          "etf_tickers": []
+        },
+        {
+          "headline": "Fed pronta ad agire",
+          "summary": "La governatrice della Fed, Cook, afferma di essere pronta ad agire con un aumento dei tassi per contrastare l'inflazione. Ciò potrebbe avere un impatto significativo sui settori finanziari e sui mercati azionari.",
+          "impact": "bearish",
+          "source": "CNBC Finance",
+          "score": 9.4,
+          "link": "https://www.cnbc.com/2026/08/05/fed-governor-cook-says-shes-prepared-to-act-on-rate-hike-to-address-inflation.html",
+          "etf_tickers": [
+            "SPY",
+            "TLT",
+            "XLF"
+          ]
+        }
+      ]
+    },
+    "Consumers": {
+      "count": 4,
+      "top": [
+        {
+          "headline": "Guerra dei prezzi nel turismo cinese",
+          "summary": "La domanda debole sta mettendo pressione sui prezzi delle camere d'albergo, minacciando il settore del turismo in Cina. Ciò potrebbe avere un impatto negativo sulle spese dei consumatori.",
+          "impact": "bearish",
+          "source": "CNBC Finance",
+          "score": 7.4,
+          "link": "https://www.cnbc.com/2026/08/03/china-price-demand-tourism-hotel.html",
+          "etf_tickers": []
+        }
+      ]
+    }
+  },
+  "rotation_signals": [
+    {
+      "signal": "dai settori rischiosi a quelli più difensivi",
+      "source": "CNBC World",
+      "score": 8.7
+    }
+  ],
+  "articles": [
+    {
+      "title": "ECB publishes consolidated banking data for end-March 2026",
+      "headline_it": "",
+      "summary_it": "",
+      "summary_en": "The European Central Bank (ECB) is the central bank of the European Union countries which have adopted the euro. Our main task is to maintain price stability in the euro area and so preserve the purchasing power of the single currency.",
+      "source": "ECB",
+      "link": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr260807~58eb5109ce.en.html",
+      "date": "2026-08-07 08:00",
+      "score": 10.0,
+      "impact": "neutral",
+      "sectors": [
+        "Financials"
+      ],
+      "primary_sector": "Financials",
+      "etf_tickers": [],
+      "rotation": ""
+    },
+    {
+      "title": "The Middle East Tries Its Hand at a NATO-Style Pact",
+      "headline_it": "",
+      "summary_it": "",
+      "summary_en": "Pakistan, Saudi Arabia, and Turkey pledge mutual defense in the face of aggressive Iranian and Israeli operations.",
+      "source": "Foreign Policy",
+      "link": "https://foreignpolicy.com/2026/08/07/pakistan-saudi-arabia-turkey-mutual-defense-pact-iran-israel-military/",
+      "date": "2026-08-07 19:45",
+      "score": 10.0,
+      "impact": "neutral",
+      "sectors": [
+        "Commodities",
+        "Energy",
+        "Industrials",
+        "International"
+      ],
+      "primary_sector": "Commodities",
+      "etf_tickers": [],
+      "rotation": ""
+    },
+    {
+      "title": "Is Iran Winning the Battle Over the Strait of Hormuz?",
+      "headline_it": "",
+      "summary_it": "",
+      "summary_en": "Any level of Iranian control would mark a major geopolitical shift in Tehran’s favor.",
+      "source": "Foreign Policy",
+      "link": "https://foreignpolicy.com/2026/08/06/us-iran-reopen-strait-hormuz-deal-tolls-oman-trump-missiles/",
+      "date": "2026-08-06 21:22",
+      "score": 10.0,
+      "impact": "neutral",
+      "sectors": [
+        "Commodities",
+        "Energy",
+        "Industrials",
+        "International"
+      ],
+      "primary_sector": "Commodities",
+      "etf_tickers": [],
+      "rotation": ""
+    },
+    {
+      "title": "Kevin Warsh Has a Problem",
+      "headline_it": "",
+      "summary_it": "",
+      "summary_en": "The Fed chair “is really rolling the dice” while holding out against interest rate hikes, one expert said.",
+      "source": "Foreign Policy",
+      "link": "https://foreignpolicy.com/2026/08/05/kevin-warsh-federal-reserve-interest-rates-inflation-trump/",
+      "date": "2026-08-05 14:11",
+      "score": 10.0,
+      "impact": "mixed",
+      "sectors": [
+        "Bonds",
+        "Broad Market",
+        "Commodities",
+        "Energy",
+        "Financials",
+        "Industrials",
+        "International"
+      ],
+      "primary_sector": "Bonds",
+      "etf_tickers": [],
+      "rotation": ""
+    },
+    {
+      "title": "Oil Traders Stay Bearish Despite Deepening Middle East Disruptions",
+      "headline_it": "",
+      "summary_it": "",
+      "summary_en": "Despite continued hostilities in the Middle East and an expansion of the war to the Red Sea, oil traders have remained largely bearish on the commodity, betting on a quick peace deal—and they might get a nasty shock. Earlier this week, Brent crude sank below $80 per barrel, and WTI dropped below $75, after President Trump said peace talks between the United States and Iran had resumed, even though Iranian officials denied there were any talks in progress. However, Iran is negotiating a deal about control over the Strait of Hormuz with Oman,…",
+      "source": "OilPrice",
+      "link": "https://oilprice.com/Energy/Oil-Prices/Oil-Traders-Stay-Bearish-Despite-Deepening-Middle-East-Disruptions.html",
+      "date": "2026-08-07 23:00",
+      "score": 10.0,
+      "impact": "bearish",
+      "sectors": [
+        "Broad Market",
+        "Commodities",
+        "Energy",
+        "Industrials",
+        "International"
+      ],
+      "primary_sector": "Broad Market",
+      "etf_tickers": [],
+      "rotation": ""
+    },
+    {
+      "title": "Citi Lifts Brent Outlook but Still Sees Oil Falling in 2027",
+      "headline_it": "",
+      "summary_it": "",
+      "summary_en": "Citi has raised its third-quarter Brent crude forecast to $80 per barrel from $75 as the U.S.-Iran war drags on and repeated attempts at a deal fail to restore normal oil flows through the Strait of Hormuz. The bank still expects the conflict to be resolved, but the five-month war has lasted longer than Citi anticipated and kept more geopolitical risk in crude prices. Citi left its fourth-quarter Brent forecast unchanged at $70 per barrel and still sees the benchmark averaging $65 in 2027. Brent futures were trading at $83.11 per barrel on Friday…",
+      "source": "OilPrice",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/Citi-Lifts-Brent-Outlook-but-Still-Sees-Oil-Falling-in-2027.html",
+      "date": "2026-08-07 18:05",
+      "score": 10.0,
+      "impact": "bearish",
+      "sectors": [
+        "Broad Market",
+        "Commodities",
+        "Energy",
+        "Financials",
+        "Industrials",
+        "International"
+      ],
+      "primary_sector": "Broad Market",
+      "etf_tickers": [],
+      "rotation": ""
+    },
+    {
+      "title": "Is Iran Preparing to Permanently Block the Strait of Hormuz?",
+      "headline_it": "",
+      "summary_it": "",
+      "summary_en": "Conflicting signals from Washington and Tehran keep oil markets on edge as Iran weighs a permanent Hormuz shipping ban while Trump insists a deal is within reach. Friday, August 07, 2026 The oil market’s very own schizophrenia – trying to read into the contradicting claims of US President Trump and Iranian officials seeking to escalate the blockade of Hormuz even further – continues to puzzle industry analysts and traders. Iran’s Parliament is reviewing a bill to permanently ban US, Israeli and other hostile vessels from…",
+      "source": "OilPrice",
+      "link": "https://oilprice.com/Energy/Energy-General/Is-Iran-Preparing-to-Permanently-Block-the-Strait-of-Hormuz.html",
+      "date": "2026-08-07 16:04",
+      "score": 10.0,
+      "impact": "neutral",
+      "sectors": [
+        "Commodities",
+        "Energy",
+        "Industrials",
+        "International"
+      ],
+      "primary_sector": "Commodities",
+      "etf_tickers": [],
+      "rotation": ""
+    },
+    {
+      "title": "ADNOC Reports 15 Vessel Attacks as Hormuz Risks Mount",
+      "headline_it": "",
+      "summary_it": "",
+      "summary_en": "Abu Dhabi National Oil Company said attacks on its vessels and employees are having a significant impact on operations as the company tries to keep crude, gas and refined products moving through the Strait of Hormuz. Fifteen ADNOC vessels have been hit by missiles or drones since the war began, including three this week, the company said Friday. One crew member has been killed and 20 others injured. The Strait of Hormuz carried roughly one-fifth of global oil consumption before the U.S.-Israeli war against Iran expanded into a broader regional…",
+      "source": "OilPrice",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/ADNOC-Reports-15-Vessel-Attacks-as-Hormuz-Risks-Mount.html",
+      "date": "2026-08-07 15:45",
+      "score": 10.0,
+      "impact": "mixed",
+      "sectors": [
+        "Broad Market",
+        "Commodities",
+        "Energy",
+        "Industrials",
+        "International"
+      ],
+      "primary_sector": "Broad Market",
+      "etf_tickers": [],
+      "rotation": ""
+    },
+    {
+      "title": "Ukraine Faces a Growing Air Defense Crisis as Patriot Supplies Dwindle",
+      "headline_it": "",
+      "summary_it": "",
+      "summary_en": "Ukraine's failure to intercept a single Russian missile during a large-scale overnight attack this week has raised fresh concerns over Kyiv's dwindling supply of air-defense interceptors as Moscow escalates its ballistic missile strikes on the nearly defenseless capital and other regions. Ukrainian President Volodymyr Zelenskyy has warned that deliveries of anti-ballistic interceptor missiles from partner countries have fallen sharply, leaving Ukraine vulnerable to deadly attacks that are being launched by Russia with increasing frequency. Following…",
+      "source": "OilPrice",
+      "link": "https://oilprice.com/Geopolitics/Europe/Ukraine-Faces-a-Growing-Air-Defense-Crisis-as-Patriot-Supplies-Dwindle.html",
+      "date": "2026-08-07 14:00",
+      "score": 10.0,
+      "impact": "mixed",
+      "sectors": [
+        "Broad Market",
+        "Commodities",
+        "Energy",
+        "Industrials",
+        "International"
+      ],
+      "primary_sector": "Broad Market",
+      "etf_tickers": [],
+      "rotation": ""
+    },
+    {
+      "title": "Saudi Arabia, Pakistan and Turkey to Sign Defense Deal",
+      "headline_it": "",
+      "summary_it": "",
+      "summary_en": "Saudi Arabia, Pakistan, and Turkey are expected to sign on Friday a joint defense cooperation agreement amid the Middle East’s turmoil triggered by the war in Iran, Reuters reports, citing sources familiar with the plans. On Friday, Turkey’s President Recep Tayyip Erdogan arrived in Jeddah for an official visit, the Saudi Press Agency reported. It wasn’t immediately clear what the commitments of each of the three countries will be in the joint agreement. The three mostly Sunni Muslim powers have been concerned over the turmoil…",
+      "source": "OilPrice",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/Saudi-Arabia-Pakistan-and-Turkey-to-Sign-Defense-Deal.html",
+      "date": "2026-08-07 13:00",
+      "score": 10.0,
+      "impact": "neutral",
+      "sectors": [
+        "Broad Market",
+        "Commodities",
+        "Energy",
+        "Industrials",
+        "International"
+      ],
+      "primary_sector": "Broad Market",
+      "etf_tickers": [],
+      "rotation": ""
+    },
+    {
+      "title": "Copper jumps to its highest level ever. What the metal is telling us",
+      "headline_it": "",
+      "summary_it": "",
+      "summary_en": "Once a reliable gauge if economic health, \"Dr. Copper\" may be giving complicated signals this year.",
+      "source": "CNBC Finance",
+      "link": "https://www.cnbc.com/2026/08/06/copper-jumps-to-its-highest-level-ever-what-the-metal-is-telling-us-.html",
+      "date": "2026-08-06 20:07",
+      "score": 9.9,
+      "impact": "neutral",
+      "sectors": [
+        "Commodities",
+        "Consumers",
+        "Industrials",
+        "Tech & Semiconductors"
+      ],
+      "primary_sector": "Commodities",
+      "etf_tickers": [],
+      "rotation": ""
+    },
+    {
+      "title": "The 72-hour crisis that could upend Meta’s business in India as firm risks losing legal protection",
+      "headline_it": "",
+      "summary_it": "",
+      "summary_en": "U.S. social media giant Meta is facing increasing pressure from Indian regulators, including demands to revoke the firm's safe harbor immunity in the country.",
+      "source": "CNBC World",
+      "link": "https://www.cnbc.com/2026/08/07/meta-india-zuckerberg-apology-genz-protest.html",
+      "date": "2026-08-07 04:11",
+      "score": 9.9,
+      "impact": "mixed",
+      "sectors": [
+        "Consumers",
+        "Industrials",
+        "International",
+        "Tech & Semiconductors"
+      ],
+      "primary_sector": "Consumers",
+      "etf_tickers": [],
+      "rotation": ""
+    },
+    {
+      "title": "Israel charges settler over killing of Palestinian involved in Oscar-winning West Bank film",
+      "headline_it": "",
+      "summary_it": "",
+      "summary_en": "Yinon Levy is charged with reckless manslaughter over the July 2025 shooting of Odeh Hathaleen.",
+      "source": "BBC World",
+      "link": "https://www.bbc.co.uk/news/articles/cn4n1e8159yo?at_medium=RSS&at_campaign=rss",
+      "date": "2026-08-06 18:37",
+      "score": 9.9,
+      "impact": "neutral",
+      "sectors": [
+        "Energy",
+        "Financials",
+        "Industrials",
+        "International"
+      ],
+      "primary_sector": "Energy",
+      "etf_tickers": [],
+      "rotation": ""
+    },
+    {
+      "title": "Ken Griffin's Citadel posts best month in years after scooping up Situational Awareness stocks",
+      "headline_it": "",
+      "summary_it": "",
+      "summary_en": "The July gains came after Citadel acquired the bulk of the public-stock portfolio formerly held by Situational Awareness late last month.",
+      "source": "CNBC Finance",
+      "link": "https://www.cnbc.com/2026/08/05/ken-griffins-citadel-posts-best-month-in-years-after-scooping-up-situational-awareness-stocks.html",
+      "date": "2026-08-05 16:17",
+      "score": 9.8,
+      "impact": "bullish",
+      "sectors": [
+        "Broad Market",
+        "Commodities",
+        "Energy",
+        "International"
+      ],
+      "primary_sector": "Broad Market",
+      "etf_tickers": [],
+      "rotation": ""
+    },
+    {
+      "title": "NBA star Brandon Clarke died from heroin, cocaine effects, examiner rules",
+      "headline_it": "",
+      "summary_it": "",
+      "summary_en": "Memphis Grizzlies ⁠forward Brandon Clarke&#039;s ⁠May 11 death ruled accidental, with effects of heroin and cocaine cited.",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/sports/2026/8/8/nba-star-brandon-clarke-died-from-heroin-cocaine-effects-examiner-rules?traffic_source=rss",
+      "date": "2026-08-08 06:03",
+      "score": 9.8,
+      "impact": "neutral",
+      "sectors": [
+        "Broad Market",
+        "Commodities",
+        "Energy",
+        "International"
+      ],
+      "primary_sector": "Broad Market",
+      "etf_tickers": [],
+      "rotation": ""
+    },
+    {
+      "title": "De la Espriella sworn in as Colombia’s leader, vows armed group crackdown",
+      "headline_it": "",
+      "summary_it": "",
+      "summary_en": "The new president, who replaces leftist Gustavo Petro, continues the rightward political shift in Latin America.",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/news/2026/8/8/de-la-espriella-sworn-in-as-colombia-leader-vows-crackdown-on-armed-groups?traffic_source=rss",
+      "date": "2026-08-08 00:31",
+      "score": 9.8,
+      "impact": "neutral",
+      "sectors": [
+        "Broad Market",
+        "Commodities",
+        "Energy",
+        "International"
+      ],
+      "primary_sector": "Broad Market",
+      "etf_tickers": [],
+      "rotation": ""
+    },
+    {
+      "title": "Sudan’s war threatens an ‘entire generation’s’ future, UN warns",
+      "headline_it": "",
+      "summary_it": "",
+      "summary_en": "War in Sudan has left over 8 million children out of school, and nearly three-quarters of schools have been affected.",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/news/2026/8/8/sudans-war-threatens-an-entire-generations-future-un-warns?traffic_source=rss",
+      "date": "2026-08-08 00:24",
+      "score": 9.8,
+      "impact": "neutral",
+      "sectors": [
+        "Broad Market",
+        "Commodities",
+        "Energy",
+        "International"
+      ],
+      "primary_sector": "Broad Market",
+      "etf_tickers": [],
+      "rotation": ""
+    },
+    {
+      "title": "Sudan's invisible children - born in war with no legal identity",
+      "headline_it": "",
+      "summary_it": "",
+      "summary_en": "Babies born as a result of rape are often unable to get a birth certificate, meaning a life-time of problems.",
+      "source": "BBC World",
+      "link": "https://www.bbc.co.uk/news/articles/cr7kldz4djno?at_medium=RSS&at_campaign=rss",
+      "date": "2026-08-07 00:26",
+      "score": 9.8,
+      "impact": "neutral",
+      "sectors": [
+        "Broad Market",
+        "Commodities",
+        "Energy",
+        "International"
+      ],
+      "primary_sector": "Broad Market",
+      "etf_tickers": [],
+      "rotation": ""
+    },
+    {
+      "title": "Manufacturing survey shows inflation worries 'worse than pandemic era,' adding to Fed pressure",
+      "headline_it": "",
+      "summary_it": "",
+      "summary_en": "The commentary pointed to a highly volatile environment in which purchasing managers were struggling to stay ahead",
+      "source": "CNBC Economy",
+      "link": "https://www.cnbc.com/2026/08/03/manufacturing-survey-shows-inflation-worries-adding-to-pressure-on-fed.html",
+      "date": "2026-08-04 14:42",
+      "score": 9.6,
+      "impact": "neutral",
+      "sectors": [
+        "Bonds",
+        "Broad Market",
+        "Commodities",
+        "Industrials"
+      ],
+      "primary_sector": "Bonds",
+      "etf_tickers": [],
+      "rotation": ""
+    },
+    {
+      "title": "Japanese Government Bonds Held by the Bank of Japan",
+      "headline_it": "",
+      "summary_it": "",
+      "summary_en": "",
+      "source": "Bank of Japan",
+      "link": "http://www.boj.or.jp/en/statistics/boj/other/mei/release/2026/mei260731.xlsx",
+      "date": "2026-08-04 08:00",
+      "score": 9.6,
+      "impact": "neutral",
+      "sectors": [
+        "Bonds",
+        "Financials"
+      ],
+      "primary_sector": "Bonds",
+      "etf_tickers": [],
+      "rotation": ""
+    },
+    {
+      "title": "(BOJ Review) Impact of the Bank of Japan's Reductions in JGB Purchases on the JGB Markets",
+      "headline_it": "",
+      "summary_it": "",
+      "summary_en": "",
+      "source": "Bank of Japan",
+      "link": "http://www.boj.or.jp/en/research/wps_rev/rev_2026/rev26e10.htm",
+      "date": "2026-08-04 06:30",
+      "score": 9.6,
+      "impact": "neutral",
+      "sectors": [
+        "Financials",
+        "Industrials"
+      ],
+      "primary_sector": "Financials",
+      "etf_tickers": [],
+      "rotation": ""
+    },
+    {
+      "title": "Trump revives effort to fire Fed's Lisa Cook",
+      "headline_it": "",
+      "summary_it": "",
+      "summary_en": "Trump aide Dan Scavino told Cook there is \"sufficient reason to believe that you made false statements on one or more mortgage agreements.\"",
+      "source": "CNBC World",
+      "link": "https://www.cnbc.com/2026/08/07/trump-lisa-cook-federal-reserve.html",
+      "date": "2026-08-07 18:38",
+      "score": 9.6,
+      "impact": "neutral",
+      "sectors": [
+        "Bonds",
+        "Industrials",
+        "Real Estate"
+      ],
+      "primary_sector": "Bonds",
+      "etf_tickers": [],
+      "rotation": ""
+    },
+    {
+      "title": "Top Democrat proposes killing tax breaks for overseas oil production",
+      "headline_it": "",
+      "summary_it": "",
+      "summary_en": "Gas prices in the U.S. averaged $4.06 per gallon on Thursday — a major source of voter discontent heading into November's midterm elections.",
+      "source": "CNBC World",
+      "link": "https://www.cnbc.com/2026/08/07/martin-heinrich-tax-breaks-overseas-oil-production.html",
+      "date": "2026-08-07 16:00",
+      "score": 9.6,
+      "impact": "neutral",
+      "sectors": [
+        "Broad Market",
+        "Commodities",
+        "Energy",
+        "International"
+      ],
+      "primary_sector": "Broad Market",
+      "etf_tickers": [],
+      "rotation": ""
+    },
+    {
+      "title": "Crypto’s infrastructure era arrives, with AI agents poised to reshape demand",
+      "headline_it": "",
+      "summary_it": "",
+      "summary_en": "Crypto companies are trying to build a second growth engine by turning agents into the next wave of users.",
+      "source": "CNBC World",
+      "link": "https://www.cnbc.com/2026/08/07/cryptos-infrastructure-era-arrives-with-ai-agents-poised-to-reshape-demand.html",
+      "date": "2026-08-07 16:47",
+      "score": 9.6,
+      "impact": "bullish",
+      "sectors": [
+        "Crypto",
+        "Industrials",
+        "Real Estate"
+      ],
+      "primary_sector": "Crypto",
+      "etf_tickers": [],
+      "rotation": ""
+    },
+    {
+      "title": "Artificial Intelligence Consortium minutes – June 2026",
+      "headline_it": "",
+      "summary_it": "",
+      "summary_en": "The Artificial Intelligence Consortium (AIC) aims to provide a platform for public-private engagement to further dialogue on the capabilities, development, deployment, use, and potential risks of artificial intelligence (AI) in UK financial services.",
+      "source": "Bank of England",
+      "link": "https://www.bankofengland.co.uk/minutes/2026/june/ai-consortium-minutes-3-june-2026",
+      "date": "2026-08-05 10:51",
+      "score": 9.6,
+      "impact": "neutral",
+      "sectors": [
+        "Industrials",
+        "Tech & Semiconductors"
+      ],
+      "primary_sector": "Industrials",
+      "etf_tickers": [],
+      "rotation": ""
+    },
+    {
+      "title": "Fed Governor Cook says she's 'prepared to act' on rate hike to address inflation",
+      "headline_it": "Fed pronta ad agire",
+      "summary_it": "La governatrice della Fed, Cook, afferma di essere pronta ad agire con un aumento dei tassi per contrastare l'inflazione. Ciò potrebbe avere un impatto significativo sui settori finanziari e sui mercati azionari.",
+      "summary_en": "Cook was part of a 9-3 majority that voted last week to keep the central bank's benchmark borrowing rate in a range between 3.5%-3.75%.",
+      "source": "CNBC Finance",
+      "link": "https://www.cnbc.com/2026/08/05/fed-governor-cook-says-shes-prepared-to-act-on-rate-hike-to-address-inflation.html",
+      "date": "2026-08-05 20:36",
+      "score": 9.4,
+      "impact": "bearish",
+      "sectors": [
+        "Bonds",
+        "Broad Market",
+        "Commodities",
+        "Financials"
+      ],
+      "primary_sector": "Bonds",
+      "etf_tickers": [
+        "SPY",
+        "TLT",
+        "XLF"
+      ],
+      "rotation": ""
+    },
+    {
+      "title": "US Senate passes sweeping Russian energy sanctions bill amid Ukraine war",
+      "headline_it": "Sanzioni USA contro energia russa",
+      "summary_it": "Il Senato USA approva sanzioni economiche aggressive contro la Russia, inclusa una tariffa del 100% sulle importazioni di petrolio e gas russo. Ciò potrebbe avere un impatto significativo sul settore energetico.",
+      "summary_en": "Legislation implements aggressive economic sanctions, including 100 percent tariff on Russian oil and gas importers.",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/economy/2026/8/8/us-senate-passes-sweeping-russian-energy-sanctions-bill-amid-ukraine-war?traffic_source=rss",
+      "date": "2026-08-08 00:06",
+      "score": 9.4,
+      "impact": "bearish",
+      "sectors": [
+        "Broad Market",
+        "Commodities",
+        "Energy",
+        "International"
+      ],
+      "primary_sector": "Broad Market",
+      "etf_tickers": [
+        "XLE"
+      ],
+      "rotation": ""
+    },
+    {
+      "title": "As Warsh and the Fed contemplate fewer meetings, markets brace for potential volatility ahead",
+      "headline_it": "Fed: meno riunioni, più volatilità",
+      "summary_it": "La Fed potrebbe ridurre il numero di riunioni, aumentando la volatilità dei mercati. Le decisioni di Warsh stanno cambiando la cultura della Fed.",
+      "summary_en": "Since taking office in May, Warsh has implemented several measures that reverse decades of Fed culture.",
+      "source": "CNBC Finance",
+      "link": "https://www.cnbc.com/2026/08/05/as-warsh-and-the-fed-contemplate-fewer-meetings-markets-brace-for-potential-volatility-ahead.html",
+      "date": "2026-08-05 22:35",
+      "score": 8.7,
+      "impact": "bearish",
+      "sectors": [
+        "Bonds",
+        "Broad Market",
+        "Commodities",
+        "Energy",
+        "Financials",
+        "Industrials",
+        "International"
+      ],
+      "primary_sector": "Bonds",
+      "etf_tickers": [
+        "SPY",
+        "TLT",
+        "XLF"
+      ],
+      "rotation": ""
+    },
+    {
+      "title": "Situational Awareness hedge fund meltdown was a warning shot for leveraged markets, BofA CEO says",
+      "headline_it": "Allarme fondi hedge",
+      "summary_it": "Il crollo di un hedge fund è un campanello d'allarme per i mercati leverati, secondo il CEO di Bank of America. Ciò potrebbe avere un impatto significativo sui settori finanziari e del mercato azionario.",
+      "summary_en": "Bank of America was among the prime brokers for the hedge fund, which is run by Leopold Aschenbrenner.",
+      "source": "CNBC Finance",
+      "link": "https://www.cnbc.com/2026/08/05/bofa-brian-moynihan-situational-awareness-meltdown-was-a-warning-shot.html",
+      "date": "2026-08-05 15:55",
+      "score": 8.7,
+      "impact": "bearish",
+      "sectors": [
+        "Broad Market",
+        "Commodities",
+        "Energy",
+        "Financials",
+        "Industrials",
+        "International"
+      ],
+      "primary_sector": "Broad Market",
+      "etf_tickers": [
+        "SPY",
+        "XLF"
+      ],
+      "rotation": ""
+    },
+    {
+      "title": "California's diesel prices have jumped since the Iran war started, with ripple effects across the country",
+      "headline_it": "Prezzi diesel in aumento",
+      "summary_it": "L'aumento dei prezzi del diesel in California potrebbe avere effetti a catena sull'intero paese. I consumatori potrebbero risentire dell'impatto dei prezzi più alti.",
+      "summary_en": "California has the highest gas prices in the country as well as the busiest containership port, meaning consumers across the country could feel the impact of higher diesel.",
+      "source": "CNBC Finance",
+      "link": "https://www.cnbc.com/2026/08/03/californias-diesel-prices-have-jumped-since-the-iran-war-started-with-ripple-effects-across-the-country.html",
+      "date": "2026-08-03 19:20",
+      "score": 8.7,
+      "impact": "bearish",
+      "sectors": [
+        "Broad Market",
+        "Commodities",
+        "Energy",
+        "Industrials",
+        "International"
+      ],
+      "primary_sector": "Broad Market",
+      "etf_tickers": [
+        "XLE"
+      ],
+      "rotation": ""
+    },
+    {
+      "title": "‘SaaSpocalypse’ debate intensifies as software stocks swing wildly",
+      "headline_it": "Debate su SaaSpocalypse",
+      "summary_it": "Le azioni software hanno oscillato notevolmente mentre gli investitori cercano di capire quali nomi sono meglio protetti dall'intelligenza artificiale. Ciò potrebbe avere un impatto significativo sugli ETF tecnologici.",
+      "summary_en": "This week saw massive moves in both directions for software stocks, as investors try to figure out which names are best insulated from artificial intelligence.",
+      "source": "CNBC World",
+      "link": "https://www.cnbc.com/2026/08/07/saaspocalypse-debate-intensifies-as-software-stocks-swing-wildly.html",
+      "date": "2026-08-07 20:22",
+      "score": 8.7,
+      "impact": "mixed",
+      "sectors": [
+        "Broad Market",
+        "Commodities",
+        "Energy",
+        "International",
+        "Tech & Semiconductors"
+      ],
+      "primary_sector": "Broad Market",
+      "etf_tickers": [
+        "QQQ",
+        "SMH"
+      ],
+      "rotation": ""
+    },
+    {
+      "title": "Trump administration to invest $3 billion in minerals projects to boost U.S. defense supply chains",
+      "headline_it": "USA investe in minerali strategici",
+      "summary_it": "Gli Stati Uniti investiranno 3 miliardi di dollari per ridurre la dipendenza dalle catene di approvvigionamento cinesi e rafforzare la propria difesa. Ciò potrebbe avere un impatto positivo sui settori delle commodity e dell'energia.",
+      "summary_en": "The White House needs critical minerals to replenish weapons stockpiles depleted during the Iran conflict and reduce U.S. dependence on Chinese supply chains.",
+      "source": "CNBC World",
+      "link": "https://www.cnbc.com/2026/08/08/trump-admin-to-invest-3-billion-in-defense-linked-minerals-projects.html",
+      "date": "2026-08-08 06:28",
+      "score": 8.7,
+      "impact": "bullish",
+      "sectors": [
+        "Commodities",
+        "Energy",
+        "Industrials",
+        "International"
+      ],
+      "primary_sector": "Commodities",
+      "etf_tickers": [],
+      "rotation": ""
+    },
+    {
+      "title": "Bank of America says bullishness highest since 2021. So it's time to bail on 'risk assets'",
+      "headline_it": "Eccessiva ottimismo degli investitori",
+      "summary_it": "Il livello di ottimismo degli investitori è ai massimi dal 2021, segnale di ritirata dagli asset a rischio. La Bank of America consiglia di rotare verso investimenti meno vulnerabili.",
+      "summary_en": "The high level of investor bullishness is a signal to retreat from risk assets and rotate towards less vulnerable investments, the bank said.",
+      "source": "CNBC World",
+      "link": "https://www.cnbc.com/2026/08/07/bank-of-america-says-bullishness-highest-since-2021-so-its-time-to-bail-on-risk-assets.html",
+      "date": "2026-08-07 16:12",
+      "score": 8.7,
+      "impact": "bearish",
+      "sectors": [
+        "Broad Market",
+        "Commodities",
+        "Energy",
+        "Financials",
+        "Industrials",
+        "International"
+      ],
+      "primary_sector": "Broad Market",
+      "etf_tickers": [
+        "SPY",
+        "XLF"
+      ],
+      "rotation": "dai settori rischiosi a quelli più difensivi"
+    },
+    {
+      "title": "Oil prices rise as as market waits on deal to open Strait of Hormuz",
+      "headline_it": "Prezzi petrolio in aumento",
+      "summary_it": "I prezzi del petrolio sono saliti a causa delle preoccupazioni per le interruzioni dell'approvvigionamento dopo la notizia del piano restrittivo dell'Iran per lo Stretto di Hormuz.",
+      "summary_en": "News of Iran's restrictive draft plan for the Strait of Hormuz sent oil prices higher, renewing concerns over supply disruptions.",
+      "source": "CNBC World",
+      "link": "https://www.cnbc.com/2026/08/07/oil-rises-supply-fears-iran-draft-plan-strait-hormuz.html",
+      "date": "2026-08-07 19:06",
+      "score": 8.7,
+      "impact": "bullish",
+      "sectors": [
+        "Commodities",
+        "Energy",
+        "Industrials",
+        "International"
+      ],
+      "primary_sector": "Commodities",
+      "etf_tickers": [
+        "XLE"
+      ],
+      "rotation": ""
+    },
+    {
+      "title": "US Senate passes Russia sanctions that could hurt India and China",
+      "headline_it": "Sanzioni USA alla Russia",
+      "summary_it": "Le sanzioni potrebbero avere un impatto negativo sull'India e la Cina, influenzando i mercati energetici globali. Ciò potrebbe avere ripercussioni sui settori energetico e di mercato più ampio.",
+      "summary_en": "The US Senate approved its strongest move against Russia under Trump.",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/8/07-08-sv-us-sanctions-russia-us?traffic_source=rss",
+      "date": "2026-08-08 03:20",
+      "score": 8.7,
+      "impact": "bearish",
+      "sectors": [
+        "Broad Market",
+        "Commodities",
+        "Energy",
+        "International"
+      ],
+      "primary_sector": "Broad Market",
+      "etf_tickers": [
+        "SPY",
+        "XLE"
+      ],
+      "rotation": ""
+    },
+    {
+      "title": "Iran war live: Trilateral Mecca defence pact signed, as Hormuz deal looms",
+      "headline_it": "Accordo difensivo firmato a Mecca",
+      "summary_it": "L'accordo tra Arabia Saudita, Turchia e Pakistan potrebbe avere un impatto significativo sul settore energetico e sui mercati globali. Ciò potrebbe influenzare i prezzi del petrolio e avere ripercussioni sui mercati finanziari.",
+      "summary_en": "Saudi crown prince, Turkish president and Pakistani prime minister sign a joint defence agreement in Mecca.",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/news/liveblog/2026/8/8/iran-war-live-trilateral-mecca-defence-pact-signed-as-hormuz-deal-looms?traffic_source=rss",
+      "date": "2026-08-08 00:00",
+      "score": 8.7,
+      "impact": "bearish",
+      "sectors": [
+        "Broad Market",
+        "Commodities",
+        "Energy",
+        "Industrials",
+        "International"
+      ],
+      "primary_sector": "Broad Market",
+      "etf_tickers": [
+        "SPY"
+      ],
+      "rotation": ""
+    },
+    {
+      "title": "Saudi Arabia, Turkey and Pakistan sign defence pact",
+      "headline_it": "Patto difensivo tra Arabia Saudita, Turchia e Pakistan",
+      "summary_it": "L'accordo di difesa reciproca potrebbe avere ripercussioni sulla stabilità del Medio Oriente e sui mercati energetici. Ciò potrebbe influenzare gli ETF legati all'energia e ai mercati internazionali.",
+      "summary_en": "Pakistan says an attack on any of the three will amount to an attack against all, amid conflict in the Middle East.",
+      "source": "BBC World",
+      "link": "https://www.bbc.co.uk/news/articles/c30418m4mj4o?at_medium=RSS&at_campaign=rss",
+      "date": "2026-08-07 17:42",
+      "score": 8.7,
+      "impact": "bearish",
+      "sectors": [
+        "Broad Market",
+        "Energy",
+        "International"
+      ],
+      "primary_sector": "Broad Market",
+      "etf_tickers": [
+        "EEM"
+      ],
+      "rotation": ""
+    },
+    {
+      "title": "Bank of America spends $250 million a year on GLP-1 drugs for its employees, CEO says",
+      "headline_it": "Spese farmaceutiche aziendali",
+      "summary_it": "Le aziende come Bank of America affrontano la crescente domanda di farmaci GLP-1, come Ozempic e Wegovy, con costi annuali per paziente di migliaia di dollari. Ciò potrebbe avere un impatto sul settore farmaceutico e su quello finanziario.",
+      "summary_en": "Employers have grappled with soaring demand for GLP-1 drugs such as Ozempic and Wegovy, which can cost thousands of dollars per patient annually.",
+      "source": "CNBC Finance",
+      "link": "https://www.cnbc.com/2026/08/05/bank-of-america-ceo-glp-1-drugs-cost.html",
+      "date": "2026-08-06 13:25",
+      "score": 7.4,
+      "impact": "bearish",
+      "sectors": [
+        "Consumers",
+        "Financials",
+        "Healthcare",
+        "Tech & Semiconductors"
+      ],
+      "primary_sector": "Consumers",
+      "etf_tickers": [
+        "XLF",
+        "XLV"
+      ],
+      "rotation": ""
+    },
+    {
+      "title": "Tourism price wars threaten to dim a rare bright spot in China's consumer spending",
+      "headline_it": "Guerra dei prezzi nel turismo cinese",
+      "summary_it": "La domanda debole sta mettendo pressione sui prezzi delle camere d'albergo, minacciando il settore del turismo in Cina. Ciò potrebbe avere un impatto negativo sulle spese dei consumatori.",
+      "summary_en": "China’s domestic tourism is underperforming, with hotel revenues falling as soft demand pressures room rates.",
+      "source": "CNBC Finance",
+      "link": "https://www.cnbc.com/2026/08/03/china-price-demand-tourism-hotel.html",
+      "date": "2026-08-03 10:32",
+      "score": 7.4,
+      "impact": "bearish",
+      "sectors": [
+        "Broad Market",
+        "Commodities",
+        "Consumers",
+        "Energy",
+        "Industrials",
+        "International"
+      ],
+      "primary_sector": "Broad Market",
+      "etf_tickers": [],
+      "rotation": ""
+    },
+    {
+      "title": "Trump teased an Iran deal that didn't come, but markets soared. Here’s why it keeps happening",
+      "headline_it": "Mercati salgono su voci di accordo Iran",
+      "summary_it": "I mercati continuano a salire nonostante l'assenza di un accordo con l'Iran. Gli analisti si chiedono per quanto tempo ancora i mercati reagiranno positivamente alle voci di un possibile accordo.",
+      "summary_en": "As oil reserves and munitions stockpiles reportedly dwindle, analysts wonder how much longer markets will pounce when the Trump admin. dangles an Iran deal.",
+      "source": "CNBC World",
+      "link": "https://www.cnbc.com/2026/08/07/trump-iran-hormuz-deal-stocks-oil.html",
+      "date": "2026-08-07 17:50",
+      "score": 7.4,
+      "impact": "bullish",
+      "sectors": [
+        "Broad Market",
+        "Commodities",
+        "Energy",
+        "Industrials",
+        "International"
+      ],
+      "primary_sector": "Broad Market",
+      "etf_tickers": [
+        "SPY",
+        "XLE"
+      ],
+      "rotation": ""
+    },
+    {
+      "title": "Inside the startup drone maker powering Ukraine's deep-strike campaign",
+      "headline_it": "Ucraina potenzia campagna di attacchi",
+      "summary_it": "L'Ucraina sta utilizzando droni per la sua campagna di attacchi, con l'obiettivo di portare la diplomazia a una soluzione. Ciò potrebbe avere un impatto sul settore industriale e sugli ETF internazionali.",
+      "summary_en": "Fire Point CEO Iryna Terekh says Ukraine has \"learned the hard way\" that military leverage is integral to to bringing diplomacy within reach.",
+      "source": "CNBC World",
+      "link": "https://www.cnbc.com/2026/08/08/ukraine-russia-war-fire-point-drones.html",
+      "date": "2026-08-08 05:21",
+      "score": 7.4,
+      "impact": "neutral",
+      "sectors": [
+        "Commodities",
+        "Energy",
+        "Industrials",
+        "International"
+      ],
+      "primary_sector": "Commodities",
+      "etf_tickers": [
+        "ITA"
+      ],
+      "rotation": ""
+    },
+    {
+      "title": "Gulf uncertainty is creating ‘win, win’ strategy with Chevron and other oil majors",
+      "headline_it": "Incertezza nel Golfo",
+      "summary_it": "L'incertezza nel Golfo crea un'opportunità di strategia 'vinci-vinci' con Chevron e altre major del petrolio. La vendita di put su un'azienda energetica con flussi di cassa record offre un'opportunità rara.",
+      "summary_en": "With options premiums still elevated due to the military conflict in the Gulf, selling puts on an energy major posting record free cash flow offers a rare opportunity.",
+      "source": "CNBC World",
+      "link": "https://www.cnbc.com/2026/08/07/gulf-uncertainty-is-creating-win-win-strategy-with-chevron-and-other-oil-majors.html",
+      "date": "2026-08-07 16:26",
+      "score": 7.4,
+      "impact": "bullish",
+      "sectors": [
+        "Commodities",
+        "Energy",
+        "Industrials",
+        "International"
+      ],
+      "primary_sector": "Commodities",
+      "etf_tickers": [
+        "XLE"
+      ],
+      "rotation": ""
+    },
+    {
+      "title": "Russian strikes near Ukrainian capital kill three, including child",
+      "headline_it": "Attacchi russi vicino Kiev",
+      "summary_it": "L'attacco è avvenuto mentre il Senato USA approva nuove sanzioni alla Russia e Kiev chiede intercettori di difesa aerea. Ciò potrebbe avere un impatto sul settore energetico e sui mercati globali.",
+      "summary_en": "Attack comes as US Senate passes new Russia sanctions and Kyiv appeals for air defence interceptors.",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/news/2026/8/8/russian-strikes-near-ukrainian-capital-kill-three-including-child?traffic_source=rss",
+      "date": "2026-08-08 04:18",
+      "score": 7.4,
+      "impact": "bearish",
+      "sectors": [
+        "Broad Market",
+        "Commodities",
+        "Energy",
+        "International"
+      ],
+      "primary_sector": "Broad Market",
+      "etf_tickers": [
+        "SPY"
+      ],
+      "rotation": ""
+    },
+    {
+      "title": "Child among three killed in Russian missile attacks near Kyiv",
+      "headline_it": "Attacchi russi vicino Kyiv",
+      "summary_it": "La Russia continua gli attacchi notturni, mentre le scorte di intercettori di missili dell'Ucraina si riducono. Ciò potrebbe avere un impatto sul settore energetico e sui mercati globali.",
+      "summary_en": "Russia continued its overnight attacks after President Volodymyr Zelensky warned of Ukraine's dwindling supplies of missile interceptors.",
+      "source": "BBC World",
+      "link": "https://www.bbc.co.uk/news/articles/cz7dy8gq99eo?at_medium=RSS&at_campaign=rss",
+      "date": "2026-08-08 06:12",
+      "score": 7.4,
+      "impact": "bearish",
+      "sectors": [
+        "Broad Market",
+        "Commodities",
+        "Energy",
+        "Industrials",
+        "International"
+      ],
+      "primary_sector": "Broad Market",
+      "etf_tickers": [
+        "SPY"
+      ],
+      "rotation": ""
+    },
+    {
+      "title": "'I ran because I knew I would die': Russian drones target medics in Ukraine",
+      "headline_it": "Droni russi prendono di mira medici",
+      "summary_it": "I lavoratori di emergenza ucraini avvertono di un aumento degli attacchi russi contro ospedali e ambulanze, con possibili ripercussioni sulla stabilità globale.",
+      "summary_en": "Ukrainian emergency workers warn of growing Russian attacks on hospitals and ambulances.",
+      "source": "BBC World",
+      "link": "https://www.bbc.co.uk/news/articles/c3r073eqvrjo?at_medium=RSS&at_campaign=rss",
+      "date": "2026-08-08 00:02",
+      "score": 7.4,
+      "impact": "bearish",
+      "sectors": [
+        "Broad Market",
+        "Commodities",
+        "Energy",
+        "International"
+      ],
+      "primary_sector": "Broad Market",
+      "etf_tickers": [
+        "EEM"
+      ],
+      "rotation": ""
+    },
+    {
+      "title": "Federal Reserve Board announces approval of the application by Banco Santander, S.A. and Santander Holdings USA, Inc.",
+      "headline_it": "Fed approva acquisizione Santander",
+      "summary_it": "La Federal Reserve approva l'acquisizione di Banco Santander. L'impatto è neutro per il settore finanziario.",
+      "summary_en": "Federal Reserve Board announces approval of the application by Banco Santander, S.A. and Santander Holdings USA, Inc.",
+      "source": "Federal Reserve",
+      "link": "https://www.federalreserve.gov/newsevents/pressreleases/orders20260804a.htm",
+      "date": "2026-08-04 20:30",
+      "score": 7.4,
+      "impact": "neutral",
+      "sectors": [
+        "Financials"
+      ],
+      "primary_sector": "Financials",
+      "etf_tickers": [
+        "XLF"
+      ],
+      "rotation": ""
+    },
+    {
+      "title": "Federal Reserve Board announces approval of the application by FS Bancorp, Inc.",
+      "headline_it": "Fed approva acquisizione FS Bancorp",
+      "summary_it": "La Federal Reserve approva l'acquisizione di FS Bancorp, Inc. senza impatti significativi sul mercato.",
+      "summary_en": "Federal Reserve Board announces approval of the application by FS Bancorp, Inc.",
+      "source": "Federal Reserve",
+      "link": "https://www.federalreserve.gov/newsevents/pressreleases/orders20260804b.htm",
+      "date": "2026-08-04 20:30",
+      "score": 6.1,
+      "impact": "neutral",
+      "sectors": [
+        "Financials"
+      ],
+      "primary_sector": "Financials",
+      "etf_tickers": [
+        "XLF"
+      ],
+      "rotation": ""
+    },
+    {
+      "title": "ICC body urges Chad and Venezuela to reverse course on withdrawal",
+      "headline_it": "Ue e giustizia globale",
+      "summary_it": "La corte penale internazionale rischia di essere indebolita dalle defezioni di Chad e Venezuela. L'impatto sugli ETF di mercato internazionale potrebbe essere limitato.",
+      "summary_en": "International court&#039;s oversight body warns exits threaten global justice, as US intensifies campaign against tribunal.",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/news/2026/8/7/icc-body-urges-chad-and-venezuela-to-reverse-course-on-withdrawal?traffic_source=rss",
+      "date": "2026-08-07 23:34",
+      "score": 5.5,
+      "impact": "bullish",
+      "sectors": [
+        "Broad Market",
+        "Commodities",
+        "Energy",
+        "Industrials",
+        "International"
+      ],
+      "primary_sector": "Broad Market",
+      "etf_tickers": [
+        "EEM"
+      ],
+      "rotation": ""
+    },
+    {
+      "title": "Federal Reserve Board announces approval of the application by Coastal Bend Bancshares, Inc.",
+      "headline_it": "Fed approva acquisizione",
+      "summary_it": "La Federal Reserve approva l'acquisizione di Coastal Bend Bancshares. L'impatto è limitato.",
+      "summary_en": "Federal Reserve Board announces approval of the application by Coastal Bend Bancshares, Inc.",
+      "source": "Federal Reserve",
+      "link": "https://www.federalreserve.gov/newsevents/pressreleases/orders20260804c.htm",
+      "date": "2026-08-04 20:30",
+      "score": 4.8,
+      "impact": "neutral",
+      "sectors": [
+        "Financials"
+      ],
+      "primary_sector": "Financials",
+      "etf_tickers": [
+        "XLF"
+      ],
+      "rotation": ""
+    },
+    {
+      "title": "I was standing in front of my teacher when she was shot, Thai pupil says",
+      "headline_it": "Attacco in Thailandia",
+      "summary_it": "Un allievo racconta il terrore durante l'attacco che ha ucciso 5 insegnanti. L'evento non ha impatto diretto sui mercati finanziari.",
+      "summary_en": "The student says she feared never seeing her mother again after the attack killed five teachers.",
+      "source": "BBC World",
+      "link": "https://www.bbc.co.uk/news/articles/c07rxz03034o?at_medium=RSS&at_campaign=rss",
+      "date": "2026-08-07 14:20",
+      "score": 4.2,
+      "impact": "mixed",
+      "sectors": [
+        "Broad Market",
+        "Industrials",
+        "International"
+      ],
+      "primary_sector": "Broad Market",
+      "etf_tickers": [],
+      "rotation": ""
+    }
+  ]
+}

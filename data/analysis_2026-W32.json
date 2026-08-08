@@ -1,0 +1,668 @@
+{
+  "report_date": "August 08, 2026",
+  "week": "2026-W32",
+  "analysis": {
+    "report_date": "August 08, 2026",
+    "market_overview": {
+      "spy_1w": 3.51,
+      "qqq_1w": 5.09,
+      "breadth": "12/13",
+      "best_sector": {
+        "name": "Commodities",
+        "w1": 11.93
+      },
+      "worst_sector": {
+        "name": "Utilities",
+        "w1": -1.67
+      },
+      "best_etf": {
+        "ticker": "GDX",
+        "desc": "Gold Miners",
+        "w1": 21.31
+      },
+      "worst_etf": {
+        "ticker": "USO",
+        "desc": "Crude Oil",
+        "w1": -8.66
+      }
+    },
+    "sector_performance": {
+      "Broad Market": {
+        "w1": 3.75,
+        "m1": 2.01,
+        "m3": 6.54,
+        "m6": 16.14,
+        "y1": 27.55,
+        "y3": 74.5
+      },
+      "International": {
+        "w1": 1.94,
+        "m1": 3.66,
+        "m3": 1.12,
+        "m6": 2.84,
+        "y1": 15.69,
+        "y3": 49.21
+      },
+      "Tech & Semiconductors": {
+        "w1": 8.1,
+        "m1": 3.42,
+        "m3": 15.52,
+        "m6": 39.17,
+        "y1": 36.09,
+        "y3": 112.13
+      },
+      "Healthcare": {
+        "w1": 6.66,
+        "m1": -0.44,
+        "m3": 22.69,
+        "m6": 27.83,
+        "y1": 62.46,
+        "y3": 50.56
+      },
+      "Financials": {
+        "w1": 1.47,
+        "m1": 2.64,
+        "m3": 6.47,
+        "m6": 9.6,
+        "y1": -4.39,
+        "y3": 41.85
+      },
+      "Energy": {
+        "w1": 3.55,
+        "m1": 0.54,
+        "m3": -10.37,
+        "m6": 10.69,
+        "y1": 41.76,
+        "y3": 40.78
+      },
+      "Commodities": {
+        "w1": 11.93,
+        "m1": 8.06,
+        "m3": -7.82,
+        "m6": -2.98,
+        "y1": 55.7,
+        "y3": 112.52
+      },
+      "Real Estate": {
+        "w1": 3.34,
+        "m1": 2.61,
+        "m3": 5.58,
+        "m6": 2.91,
+        "y1": 7.54,
+        "y3": 28.63
+      },
+      "Industrials": {
+        "w1": 6.12,
+        "m1": 2.26,
+        "m3": 2.14,
+        "m6": 10.74,
+        "y1": 33.85,
+        "y3": 82.2
+      },
+      "Bonds": {
+        "w1": 0.8,
+        "m1": -0.66,
+        "m3": -0.65,
+        "m6": -0.91,
+        "y1": 1.71,
+        "y3": 13.19
+      },
+      "Crypto": {
+        "w1": 2.2,
+        "m1": -1.42,
+        "m3": -12.74,
+        "m6": 10.05,
+        "y1": -20.1,
+        "y3": 121.6
+      },
+      "Consumers": {
+        "w1": 2.89,
+        "m1": 3.14,
+        "m3": 1.88,
+        "m6": 1.08,
+        "y1": 2.6,
+        "y3": 55.05
+      },
+      "Utilities": {
+        "w1": -1.67,
+        "m1": -3.37,
+        "m3": -2.73,
+        "m6": 2.54,
+        "y1": 4.71,
+        "y3": 44.08
+      }
+    },
+    "country_performance": {
+      "United States": {
+        "w1": 3.75,
+        "m1": 2.01,
+        "m3": 6.54,
+        "m6": 16.14,
+        "y1": 27.55,
+        "y3": 74.5
+      },
+      "Europe": {
+        "w1": 2.41,
+        "m1": 4.8,
+        "m3": 8.18,
+        "m6": 9.62,
+        "y1": 25.98,
+        "y3": 76.03
+      },
+      "China": {
+        "w1": 1.22,
+        "m1": 3.73,
+        "m3": -3.02,
+        "m6": -4.89,
+        "y1": 0.98,
+        "y3": 23.35
+      },
+      "India": {
+        "w1": 1.66,
+        "m1": 2.69,
+        "m3": 1.89,
+        "m6": -2.44,
+        "y1": -2.36,
+        "y3": 19.34
+      },
+      "EM Asia": {
+        "w1": 3.17,
+        "m1": 1.23,
+        "m3": 0.42,
+        "m6": 12.32,
+        "y1": 34.01,
+        "y3": 62.44
+      },
+      "EM Latin America": {
+        "w1": 0.04,
+        "m1": 2.27,
+        "m3": -0.06,
+        "m6": 1.56,
+        "y1": 35.0,
+        "y3": 76.6
+      },
+      "EM Africa & Middle East": {
+        "w1": 3.95,
+        "m1": 2.74,
+        "m3": -1.71,
+        "m6": -3.67,
+        "y1": 9.21,
+        "y3": 34.92
+      },
+      "Other": {
+        "w1": 3.3,
+        "m1": 4.51,
+        "m3": 3.03,
+        "m6": 8.78,
+        "y1": 25.52,
+        "y3": 68.5
+      }
+    },
+    "top_gainers": [
+      {
+        "t": "GDX",
+        "d": "Gold Miners",
+        "w1": 21.31
+      },
+      {
+        "t": "REMX",
+        "d": "Rare Earth",
+        "w1": 16.78
+      },
+      {
+        "t": "URA",
+        "d": "Uranium",
+        "w1": 14.95
+      },
+      {
+        "t": "ARKX",
+        "d": "Space Exploration",
+        "w1": 11.99
+      },
+      {
+        "t": "COPX",
+        "d": "Copper Miners",
+        "w1": 11.63
+      }
+    ],
+    "top_losers": [
+      {
+        "t": "USO",
+        "d": "Crude Oil",
+        "w1": -8.66
+      },
+      {
+        "t": "XLE",
+        "d": "Oil & Gas",
+        "w1": -3.44
+      },
+      {
+        "t": "XLU",
+        "d": "Utilities",
+        "w1": -1.67
+      },
+      {
+        "t": "VNQ",
+        "d": "REITs",
+        "w1": -0.53
+      },
+      {
+        "t": "XLRE",
+        "d": "Real Estate",
+        "w1": -0.2
+      }
+    ],
+    "momentum": {
+      "Tech & Semiconductors": {
+        "score": 95
+      },
+      "Commodities": {
+        "score": 90
+      },
+      "Healthcare": {
+        "score": 79
+      },
+      "Industrials": {
+        "score": 70
+      },
+      "Broad Market": {
+        "score": 70
+      },
+      "International": {
+        "score": 57
+      },
+      "Consumers": {
+        "score": 57
+      },
+      "Real Estate": {
+        "score": 54
+      },
+      "Financials": {
+        "score": 46
+      },
+      "Energy": {
+        "score": 44
+      },
+      "Crypto": {
+        "score": 24
+      },
+      "Bonds": {
+        "score": 18
+      },
+      "Utilities": {
+        "score": 10
+      }
+    },
+    "country_momentum": {
+      "Europe": {
+        "score": 95
+      },
+      "Other": {
+        "score": 84
+      },
+      "United States": {
+        "score": 75
+      },
+      "EM Africa & Middle East": {
+        "score": 55
+      },
+      "EM Asia": {
+        "score": 37
+      },
+      "EM Latin America": {
+        "score": 27
+      },
+      "India": {
+        "score": 19
+      },
+      "China": {
+        "score": 10
+      }
+    },
+    "capital_flows": {
+      "inflow": [
+        {
+          "group": "Commodities",
+          "flow_score": 60
+        },
+        {
+          "group": "Bonds",
+          "flow_score": 38
+        },
+        {
+          "group": "Crypto",
+          "flow_score": 38
+        }
+      ],
+      "outflow": [
+        {
+          "group": "Utilities",
+          "flow_score": -46
+        }
+      ]
+    },
+    "country_flows": {
+      "inflow": [
+        {
+          "group": "Europe",
+          "flow_score": 43
+        },
+        {
+          "group": "Other",
+          "flow_score": 41
+        },
+        {
+          "group": "India",
+          "flow_score": 40
+        }
+      ],
+      "outflow": []
+    },
+    "rsi_extremes": {
+      "overbought": [
+        {
+          "t": "SKYY",
+          "d": "Cloud Computing",
+          "rsi": 72.9
+        },
+        {
+          "t": "CLOU",
+          "d": "Cloud Software",
+          "rsi": 71.9
+        },
+        {
+          "t": "GDX",
+          "d": "Gold Miners",
+          "rsi": 70.4
+        },
+        {
+          "t": "ESPO",
+          "d": "Gaming",
+          "rsi": 68.2
+        },
+        {
+          "t": "EFA",
+          "d": "Developed ex-US",
+          "rsi": 67.6
+        }
+      ],
+      "oversold": [
+        {
+          "t": "XLU",
+          "d": "Utilities",
+          "rsi": 36.2
+        },
+        {
+          "t": "TLT",
+          "d": "20Y+ Treasury",
+          "rsi": 43.3
+        },
+        {
+          "t": "USO",
+          "d": "Crude Oil",
+          "rsi": 46.2
+        },
+        {
+          "t": "BLOK",
+          "d": "Blockchain",
+          "rsi": 46.7
+        },
+        {
+          "t": "ICLN",
+          "d": "Clean Energy",
+          "rsi": 46.9
+        }
+      ]
+    },
+    "news_by_sector": {
+      "Broad Market": {
+        "count": 30,
+        "top": [
+          {
+            "hl": "Oil Traders Stay Bearish Despite Deepening Middle East Disruptions",
+            "impact": "bearish",
+            "src": "OilPrice"
+          },
+          {
+            "hl": "Citi Lifts Brent Outlook but Still Sees Oil Falling in 2027",
+            "impact": "bearish",
+            "src": "OilPrice"
+          }
+        ]
+      },
+      "International": {
+        "count": 37,
+        "top": [
+          {
+            "hl": "The Middle East Tries Its Hand at a NATO-Style Pact",
+            "impact": "neutral",
+            "src": "Foreign Policy"
+          },
+          {
+            "hl": "Is Iran Winning the Battle Over the Strait of Hormuz?",
+            "impact": "neutral",
+            "src": "Foreign Policy"
+          }
+        ]
+      },
+      "Tech & Semiconductors": {
+        "count": 5,
+        "top": [
+          {
+            "hl": "Copper jumps to its highest level ever. What the metal is telling us",
+            "impact": "neutral",
+            "src": "CNBC Finance"
+          },
+          {
+            "hl": "The 72-hour crisis that could upend Meta’s business in India as firm risks losing legal protection",
+            "impact": "mixed",
+            "src": "CNBC World"
+          }
+        ]
+      },
+      "Healthcare": {
+        "count": 1,
+        "top": [
+          {
+            "hl": "Spese farmaceutiche aziendali",
+            "impact": "bearish",
+            "src": "CNBC Finance"
+          }
+        ]
+      },
+      "Financials": {
+        "count": 14,
+        "top": [
+          {
+            "hl": "ECB publishes consolidated banking data for end-March 2026",
+            "impact": "neutral",
+            "src": "ECB"
+          },
+          {
+            "hl": "Israel charges settler over killing of Palestinian involved in Oscar-winning West Bank film",
+            "impact": "neutral",
+            "src": "BBC World"
+          }
+        ]
+      },
+      "Energy": {
+        "count": 35,
+        "top": [
+          {
+            "hl": "Is Iran Preparing to Permanently Block the Strait of Hormuz?",
+            "impact": "neutral",
+            "src": "OilPrice"
+          },
+          {
+            "hl": "Ukraine Faces a Growing Air Defense Crisis as Patriot Supplies Dwindle",
+            "impact": "mixed",
+            "src": "OilPrice"
+          }
+        ]
+      },
+      "Commodities": {
+        "count": 36,
+        "top": [
+          {
+            "hl": "Ken Griffin's Citadel posts best month in years after scooping up Situational Awareness stocks",
+            "impact": "bullish",
+            "src": "CNBC Finance"
+          },
+          {
+            "hl": "NBA star Brandon Clarke died from heroin, cocaine effects, examiner rules",
+            "impact": "neutral",
+            "src": "Al Jazeera"
+          }
+        ]
+      },
+      "Real Estate": {
+        "count": 2,
+        "top": [
+          {
+            "hl": "Trump revives effort to fire Fed's Lisa Cook",
+            "impact": "neutral",
+            "src": "CNBC World"
+          },
+          {
+            "hl": "Crypto’s infrastructure era arrives, with AI agents poised to reshape demand",
+            "impact": "bullish",
+            "src": "CNBC World"
+          }
+        ]
+      },
+      "Industrials": {
+        "count": 31,
+        "top": [
+          {
+            "hl": "Manufacturing survey shows inflation worries 'worse than pandemic era,' adding to Fed pressure",
+            "impact": "neutral",
+            "src": "CNBC Economy"
+          },
+          {
+            "hl": "Fed: meno riunioni, più volatilità",
+            "impact": "bearish",
+            "src": "CNBC Finance"
+          }
+        ]
+      },
+      "Bonds": {
+        "count": 6,
+        "top": [
+          {
+            "hl": "Japanese Government Bonds Held by the Bank of Japan",
+            "impact": "neutral",
+            "src": "Bank of Japan"
+          },
+          {
+            "hl": "Fed pronta ad agire",
+            "impact": "bearish",
+            "src": "CNBC Finance"
+          }
+        ]
+      },
+      "Consumers": {
+        "count": 4,
+        "top": [
+          {
+            "hl": "Guerra dei prezzi nel turismo cinese",
+            "impact": "bearish",
+            "src": "CNBC Finance"
+          }
+        ]
+      }
+    },
+    "rotation_signals": [
+      {
+        "signal": "dai settori rischiosi a quelli più difensivi",
+        "source": "CNBC World"
+      }
+    ],
+    "best_region": {
+      "name": "EM Africa & Middle East",
+      "w1": 3.95
+    },
+    "worst_region": {
+      "name": "EM Latin America",
+      "w1": 0.04
+    },
+    "top_country_etfs": [
+      {
+        "t": "EZA",
+        "d": "South Africa",
+        "w1": 9.48
+      },
+      {
+        "t": "EWT",
+        "d": "Taiwan",
+        "w1": 6.77
+      },
+      {
+        "t": "EWY",
+        "d": "South Korea",
+        "w1": 5.72
+      }
+    ],
+    "bot_country_etfs": [
+      {
+        "t": "EWZ",
+        "d": "Brazil",
+        "w1": -3.57
+      },
+      {
+        "t": "ARGT",
+        "d": "Argentina",
+        "w1": -2.3
+      },
+      {
+        "t": "CHIQ",
+        "d": "Consumer",
+        "w1": -2.08
+      }
+    ],
+    "risk": {
+      "realized_vol": 14.1,
+      "pct_overbought": 6,
+      "pct_oversold": 0,
+      "risk_score": 94,
+      "worst_drawdowns_3m": [
+        {
+          "t": "REMX",
+          "dd": -41.0
+        },
+        {
+          "t": "UFO",
+          "dd": -36.7
+        },
+        {
+          "t": "SLV",
+          "dd": -36.5
+        },
+        {
+          "t": "TAN",
+          "dd": -35.5
+        },
+        {
+          "t": "URA",
+          "dd": -34.4
+        }
+      ]
+    }
+  },
+  "ai_commentary_html": "<h3>Regime di Mercato & Breadth</h3>\n<p>Il mercato attuale sembra essere in una fase di <span class=\"sig-up\">risk-on</span>, con il settore delle <span class=\"sig-up\">Commodities</span> che guida la crescita con un rendimento settimanale dell'<span class=\"sig-up\">11.93%</span>. La larghezza del mercato è <span class=\"sig-up\">positiva</span>, con <span class=\"sig-up\">12</span> settori su <span class=\"sig-up\">13</span> che mostrano rendimenti positivi. Il rapporto di forza relativa tra SPY e QQQ è <span class=\"sig-up\">favorevole</span> ai tecnologici, con il QQQ che ha guadagnato <span class=\"sig-up\">5.09%</span> nella settimana contro il <span class=\"sig-up\">3.51%</span> dello SPY.</p>\n\n<h3>Rotazione Settoriale & Geografica</h3>\n<p>I settori che stanno guadagnando momentum sono <span class=\"sig-up\">Tech & Semiconductors</span>, <span class=\"sig-up\">Commodities</span>, e <span class=\"sig-up\">Healthcare</span>, con score di momentum rispettivamente di <span class=\"sig-up\">95</span>, <span class=\"sig-up\">90</span>, e <span class=\"sig-up\">79</span>. Le regioni che mostrano segnali di forza sono <span class=\"sig-up\">Europa</span> e <span class=\"sig-up\">EM Africa & Middle East</span>, con score di momentum rispettivamente di <span class=\"sig-up\">95</span> e <span class=\"sig-up\">55</span>. I flussi di capitale mostrano un <span class=\"sig-up\">inflow</span> verso le <span class=\"sig-up\">Commodities</span> e un <span class=\"sig-dn\">outflow</span> dalle <span class=\"sig-dn\">Utilities</span>.</p>\n\n<h3>Movimenti Anticipatori & Correlazioni</h3>\n<p>Esistono lead/lag significativi tra i settori, con le <span class=\"sig-up\">Commodities</span> che sembrano guidare la crescita. Le divergenze anomale sono osservate tra i settori correlati come <span class=\"sig-dn\">Energy</span> e <span class=\"sig-up\">Commodities</span>, che mostrano rendimenti diversi nonostante la loro correlazione storica. I dati di flusso di capitale e di momentum settoriale suggeriscono una rotazione verso settori più <span class=\"sig-up\">ciclici</span> e <span class=\"sig-up\">difensivi</span>.</p>\n\n<h3>Impatto News & Catalizzatori</h3>\n<p>Le notizie recenti hanno impattato i settori in modo diverso. Le notizie <span class=\"sig-up\">bullish</span> per le <span class=\"sig-up\">Commodities</span> e <span class=\"sig-up\">Real Estate</span> hanno contribuito alla loro crescita, mentre le notizie <span class=\"sig-dn\">bearish</span> per l'<span class=\"sig-dn\">Energy</span> e le <span class=\"sig-dn\">Utilities</span> hanno influenzato negativamente questi settori. I segnali di rotazione dalle news suggeriscono una possibile riduzione del rischio e una maggiore attenzione ai settori <span class=\"sig-up\">difensivi</span>.</p>\n\n<h3>Idee di Investimento</h3>\n<p>Le idee di investimento concrete basate sui dati sono:\n<ul>\n<li>Sovrappesare l'ETF <span class=\"sig-up\">GDX</span> (Gold Miners) a breve termine, con un livello di convinzione <span class=\"sig-up\">alta</span> e rischi specifici legati alla volatilità del prezzo dell'oro.</li>\n<li>Sottopesare l'ETF <span class=\"sig-dn\">USO</span> (Crude Oil) a medio termine, con un livello di convinzione <span class=\"sig-up\">media</span> e rischi specifici legati alla domanda e all'offerta di petrolio.</li>\n<li>Investire nell'ETF <span class=\"sig-up\">EZA</span> (South Africa) a medio termine, con un livello di convinzione <span class=\"sig-up\">alta</span> e rischi specifici legati alla situazione economica e politica del paese.</li>\n</ul>\n</p>",
+  "counts": {
+    "etfs": 106,
+    "sectors": 13,
+    "regions": 8
+  },
+  "spy_weekly": [
+    739.84,
+    746.74,
+    728.99,
+    744.78,
+    754.95,
+    743.29,
+    738.93,
+    747.03,
+    773.26
+  ]
+}
