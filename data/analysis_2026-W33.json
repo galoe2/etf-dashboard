@@ -1,0 +1,662 @@
+{
+  "report_date": "August 15, 2026",
+  "week": "2026-W33",
+  "analysis": {
+    "report_date": "August 15, 2026",
+    "market_overview": {
+      "spy_1w": 0.4,
+      "qqq_1w": 1.11,
+      "breadth": "9/13",
+      "best_sector": {
+        "name": "Energy",
+        "w1": 2.36
+      },
+      "worst_sector": {
+        "name": "International",
+        "w1": -1.4
+      },
+      "best_etf": {
+        "ticker": "XLE",
+        "desc": "Oil & Gas",
+        "w1": 7.67
+      },
+      "worst_etf": {
+        "ticker": "KWEB",
+        "desc": "China Internet",
+        "w1": -5.76
+      }
+    },
+    "sector_performance": {
+      "Broad Market": {
+        "w1": 0.54,
+        "m1": 3.21,
+        "m3": 5.11,
+        "m6": 15.77,
+        "y1": 25.02,
+        "y3": 77.66
+      },
+      "International": {
+        "w1": -1.4,
+        "m1": 1.51,
+        "m3": -0.4,
+        "m6": -0.97,
+        "y1": 11.62,
+        "y3": 48.42
+      },
+      "Tech & Semiconductors": {
+        "w1": 2.17,
+        "m1": 7.95,
+        "m3": 15.63,
+        "m6": 35.88,
+        "y1": 38.21,
+        "y3": 122.23
+      },
+      "Healthcare": {
+        "w1": 0.57,
+        "m1": 4.37,
+        "m3": 23.36,
+        "m6": 25.39,
+        "y1": 58.8,
+        "y3": 54.6
+      },
+      "Financials": {
+        "w1": 1.9,
+        "m1": 3.8,
+        "m3": 8.6,
+        "m6": 10.27,
+        "y1": -2.86,
+        "y3": 46.3
+      },
+      "Energy": {
+        "w1": 2.36,
+        "m1": 4.52,
+        "m3": -11.88,
+        "m6": 11.37,
+        "y1": 43.55,
+        "y3": 42.35
+      },
+      "Commodities": {
+        "w1": 0.21,
+        "m1": 12.18,
+        "m3": -10.47,
+        "m6": -7.62,
+        "y1": 50.46,
+        "y3": 115.98
+      },
+      "Real Estate": {
+        "w1": -0.72,
+        "m1": 1.79,
+        "m3": 5.51,
+        "m6": 0.06,
+        "y1": 6.72,
+        "y3": 28.77
+      },
+      "Industrials": {
+        "w1": 0.3,
+        "m1": 6.11,
+        "m3": -0.29,
+        "m6": 7.49,
+        "y1": 31.91,
+        "y3": 84.51
+      },
+      "Bonds": {
+        "w1": -0.38,
+        "m1": -0.84,
+        "m3": -0.7,
+        "m6": -2.25,
+        "y1": 1.3,
+        "y3": 12.44
+      },
+      "Crypto": {
+        "w1": -0.95,
+        "m1": -1.24,
+        "m3": -14.99,
+        "m6": 1.38,
+        "y1": -22.3,
+        "y3": 123.64
+      },
+      "Consumers": {
+        "w1": 0.44,
+        "m1": 3.1,
+        "m3": 2.6,
+        "m6": -0.52,
+        "y1": 2.12,
+        "y3": 54.68
+      },
+      "Utilities": {
+        "w1": 1.61,
+        "m1": -2.55,
+        "m3": -0.68,
+        "m6": -0.76,
+        "y1": 5.34,
+        "y3": 50.55
+      }
+    },
+    "country_performance": {
+      "United States": {
+        "w1": 0.54,
+        "m1": 3.21,
+        "m3": 5.11,
+        "m6": 15.77,
+        "y1": 25.02,
+        "y3": 77.66
+      },
+      "Europe": {
+        "w1": -0.06,
+        "m1": 5.04,
+        "m3": 7.51,
+        "m6": 6.43,
+        "y1": 23.72,
+        "y3": 76.05
+      },
+      "China": {
+        "w1": -3.5,
+        "m1": -0.55,
+        "m3": -6.73,
+        "m6": -9.06,
+        "y1": -5.12,
+        "y3": 19.82
+      },
+      "India": {
+        "w1": -1.2,
+        "m1": 1.77,
+        "m3": 3.72,
+        "m6": -4.95,
+        "y1": -3.35,
+        "y3": 16.82
+      },
+      "EM Asia": {
+        "w1": 0.79,
+        "m1": 3.66,
+        "m3": 0.68,
+        "m6": 9.26,
+        "y1": 34.3,
+        "y3": 66.64
+      },
+      "EM Latin America": {
+        "w1": -2.27,
+        "m1": -0.61,
+        "m3": -0.13,
+        "m6": -3.15,
+        "y1": 29.22,
+        "y3": 73.05
+      },
+      "EM Africa & Middle East": {
+        "w1": -0.36,
+        "m1": 2.33,
+        "m3": -1.53,
+        "m6": -6.08,
+        "y1": 7.89,
+        "y3": 33.65
+      },
+      "Other": {
+        "w1": 0.24,
+        "m1": 4.77,
+        "m3": 2.73,
+        "m6": 4.55,
+        "y1": 24.72,
+        "y3": 69.15
+      }
+    },
+    "top_gainers": [
+      {
+        "t": "XLE",
+        "d": "Oil & Gas",
+        "w1": 7.67
+      },
+      {
+        "t": "USO",
+        "d": "Crude Oil",
+        "w1": 7.31
+      },
+      {
+        "t": "SKYY",
+        "d": "Cloud Computing",
+        "w1": 5.87
+      },
+      {
+        "t": "CLOU",
+        "d": "Cloud Software",
+        "w1": 4.18
+      },
+      {
+        "t": "FINX",
+        "d": "Fintech",
+        "w1": 2.83
+      }
+    ],
+    "top_losers": [
+      {
+        "t": "KWEB",
+        "d": "China Internet",
+        "w1": -5.76
+      },
+      {
+        "t": "BITO",
+        "d": "Bitcoin Futures",
+        "w1": -3.3
+      },
+      {
+        "t": "JETS",
+        "d": "Airlines",
+        "w1": -3.01
+      },
+      {
+        "t": "COPX",
+        "d": "Copper Miners",
+        "w1": -2.65
+      },
+      {
+        "t": "ITB",
+        "d": "Homebuilders",
+        "w1": -2.33
+      }
+    ],
+    "momentum": {
+      "Tech & Semiconductors": {
+        "score": 95
+      },
+      "Healthcare": {
+        "score": 81
+      },
+      "Energy": {
+        "score": 66
+      },
+      "Financials": {
+        "score": 64
+      },
+      "Commodities": {
+        "score": 63
+      },
+      "Industrials": {
+        "score": 63
+      },
+      "Broad Market": {
+        "score": 63
+      },
+      "Consumers": {
+        "score": 48
+      },
+      "Utilities": {
+        "score": 36
+      },
+      "Real Estate": {
+        "score": 34
+      },
+      "International": {
+        "score": 25
+      },
+      "Bonds": {
+        "score": 15
+      },
+      "Crypto": {
+        "score": 10
+      }
+    },
+    "country_momentum": {
+      "United States": {
+        "score": 95
+      },
+      "Europe": {
+        "score": 95
+      },
+      "EM Asia": {
+        "score": 90
+      },
+      "Other": {
+        "score": 85
+      },
+      "EM Africa & Middle East": {
+        "score": 44
+      },
+      "India": {
+        "score": 42
+      },
+      "EM Latin America": {
+        "score": 37
+      },
+      "China": {
+        "score": 10
+      }
+    },
+    "capital_flows": {
+      "inflow": [
+        {
+          "group": "Industrials",
+          "flow_score": 47
+        },
+        {
+          "group": "Financials",
+          "flow_score": 44
+        },
+        {
+          "group": "Energy",
+          "flow_score": 35
+        }
+      ],
+      "outflow": []
+    },
+    "country_flows": {
+      "inflow": [
+        {
+          "group": "Other",
+          "flow_score": 34
+        },
+        {
+          "group": "United States",
+          "flow_score": 26
+        },
+        {
+          "group": "Europe",
+          "flow_score": 16
+        }
+      ],
+      "outflow": [
+        {
+          "group": "China",
+          "flow_score": -24
+        },
+        {
+          "group": "EM Latin America",
+          "flow_score": -18
+        }
+      ]
+    },
+    "rsi_extremes": {
+      "overbought": [
+        {
+          "t": "SKYY",
+          "d": "Cloud Computing",
+          "rsi": 72.8
+        },
+        {
+          "t": "CLOU",
+          "d": "Cloud Software",
+          "rsi": 69.6
+        },
+        {
+          "t": "XLE",
+          "d": "Oil & Gas",
+          "rsi": 67.6
+        },
+        {
+          "t": "XLF",
+          "d": "Financial Sector",
+          "rsi": 67.2
+        },
+        {
+          "t": "VTI",
+          "d": "Total US Market",
+          "rsi": 66.8
+        }
+      ],
+      "oversold": [
+        {
+          "t": "TLT",
+          "d": "20Y+ Treasury",
+          "rsi": 39.9
+        },
+        {
+          "t": "BITO",
+          "d": "Bitcoin Futures",
+          "rsi": 44.0
+        },
+        {
+          "t": "LQD",
+          "d": "Investment Grade",
+          "rsi": 44.8
+        },
+        {
+          "t": "KWEB",
+          "d": "China Internet",
+          "rsi": 46.0
+        },
+        {
+          "t": "TAN",
+          "d": "Solar",
+          "rsi": 46.1
+        }
+      ]
+    },
+    "news_by_sector": {
+      "Broad Market": {
+        "count": 36,
+        "top": [
+          {
+            "hl": "Fallout Spreads Across the Middle East as the Iran War Grinds On",
+            "impact": "bearish",
+            "src": "OilPrice"
+          },
+          {
+            "hl": "AI Is Changing Military Morality",
+            "impact": "neutral",
+            "src": "Foreign Policy"
+          }
+        ]
+      },
+      "International": {
+        "count": 39,
+        "top": [
+          {
+            "hl": "From Apple to Ford: How Chinese tech is becoming harder for global companies to ignore",
+            "impact": "bullish",
+            "src": "CNBC World"
+          },
+          {
+            "hl": "Activists try to deliver aid to Palestinians in homes besieged by Israeli settlers",
+            "impact": "neutral",
+            "src": "BBC World"
+          }
+        ]
+      },
+      "Tech & Semiconductors": {
+        "count": 11,
+        "top": [
+          {
+            "hl": "Berkshire Hathaway boosts Alphabet to a top three holding, ups Delta and housing bets",
+            "impact": "neutral",
+            "src": "CNBC Finance"
+          },
+          {
+            "hl": "AI’s costly build-out complicates the Fed’s inflation fight",
+            "impact": "neutral",
+            "src": "CNBC Economy"
+          }
+        ]
+      },
+      "Financials": {
+        "count": 9,
+        "top": [
+          {
+            "hl": "Cash remains most widely accepted payment method in euro area",
+            "impact": "neutral",
+            "src": "ECB"
+          },
+          {
+            "hl": "ECB and Frankfurt Radio Symphony invite the public to Europa Open Air concert on 20 August 2026",
+            "impact": "neutral",
+            "src": "ECB"
+          }
+        ]
+      },
+      "Energy": {
+        "count": 35,
+        "top": [
+          {
+            "hl": "Paraguay opens probe into Hong Kong-born crypto exec’s death",
+            "impact": "bearish",
+            "src": "SCMP"
+          },
+          {
+            "hl": "OpenAI talent exodus raises 'huge red flag' ahead of IPO",
+            "impact": "neutral",
+            "src": "CNBC World"
+          }
+        ]
+      },
+      "Commodities": {
+        "count": 37,
+        "top": [
+          {
+            "hl": "Iran says no decision yet on a return to talks with the US",
+            "impact": "neutral",
+            "src": "Al Jazeera"
+          },
+          {
+            "hl": "16 beaten-down AI stocks that are beloved by BofA analysts",
+            "impact": "mixed",
+            "src": "MarketWatch"
+          }
+        ]
+      },
+      "Real Estate": {
+        "count": 4,
+        "top": [
+          {
+            "hl": "AI’s infrastructure boom is getting more leveraged — and harder to track",
+            "impact": "bullish",
+            "src": "CNBC World"
+          },
+          {
+            "hl": "Think interest rates are high now? These charts offers a different perspective.",
+            "impact": "neutral",
+            "src": "MarketWatch"
+          }
+        ]
+      },
+      "Industrials": {
+        "count": 34,
+        "top": [
+          {
+            "hl": "Trump’s Tougher Russia Stance Puts Kazakhstan in a Difficult Position",
+            "impact": "neutral",
+            "src": "OilPrice"
+          },
+          {
+            "hl": "Is betting on elections using prediction markets illegal? Many states are unsure as midterms approac",
+            "impact": "neutral",
+            "src": "CNBC Finance"
+          }
+        ]
+      },
+      "Bonds": {
+        "count": 7,
+        "top": [
+          {
+            "hl": "Here are five key takeaways from the July CPI inflation report",
+            "impact": "neutral",
+            "src": "CNBC Economy"
+          },
+          {
+            "hl": "Debito societario",
+            "impact": "bearish",
+            "src": "CNBC World"
+          }
+        ]
+      },
+      "Consumers": {
+        "count": 6,
+        "top": [
+          {
+            "hl": "Ackman riacquista Netflix",
+            "impact": "bullish",
+            "src": "CNBC Finance"
+          },
+          {
+            "hl": "Rame come indicatore dei dazi",
+            "impact": "neutral",
+            "src": "CNBC World"
+          }
+        ]
+      }
+    },
+    "rotation_signals": [],
+    "best_region": {
+      "name": "EM Asia",
+      "w1": 0.79
+    },
+    "worst_region": {
+      "name": "China",
+      "w1": -3.5
+    },
+    "top_country_etfs": [
+      {
+        "t": "EWY",
+        "d": "South Korea",
+        "w1": 8.22
+      },
+      {
+        "t": "EWT",
+        "d": "Taiwan",
+        "w1": 3.86
+      },
+      {
+        "t": "EWN",
+        "d": "Netherlands",
+        "w1": 3.47
+      }
+    ],
+    "bot_country_etfs": [
+      {
+        "t": "KWEB",
+        "d": "Internet",
+        "w1": -5.76
+      },
+      {
+        "t": "CQQQ",
+        "d": "Tech",
+        "w1": -4.14
+      },
+      {
+        "t": "CHIQ",
+        "d": "Consumer",
+        "w1": -4.04
+      }
+    ],
+    "risk": {
+      "realized_vol": 13.7,
+      "pct_overbought": 2,
+      "pct_oversold": 0,
+      "risk_score": 98,
+      "worst_drawdowns_3m": [
+        {
+          "t": "REMX",
+          "dd": -40.2
+        },
+        {
+          "t": "UFO",
+          "dd": -36.7
+        },
+        {
+          "t": "TAN",
+          "dd": -35.5
+        },
+        {
+          "t": "EWY",
+          "dd": -34.2
+        },
+        {
+          "t": "USO",
+          "dd": -32.5
+        }
+      ]
+    }
+  },
+  "ai_commentary_html": "<h3>Regime di Mercato & Breadth</h3>\n<p>Il mercato attuale sembra essere in una fase di <span class=\"sig-up\">risk-on</span>, con il settore energetico che guida la crescita. L'ampiezza del mercato è rappresentata da un <span class=\"sig-up\">breadth</span> di 9/13, indicando una certa forza nel mercato. La forza relativa tra SPY e QQQ mostra che il QQQ ha guadagnato il 1.11% nell'ultima settimana, contro lo 0.4% dello SPY, suggerendo una preferenza per le azioni tecnologiche.</p>\n\n<h3>Rotazione Settoriale & Geografica</h3>\n<p>I settori che stanno guadagnando <span class=\"sig-up\">momentum</span> sono Tech & Semiconductors, Healthcare e Energy, con score di momentum rispettivamente del 95, 81 e 66. Le regioni che stanno guadagnando momentum sono Stati Uniti, Europa e EM Asia, con score di momentum rispettivamente del 95, 95 e 90. I flussi di capitale mostrano un <span class=\"sig-up\">inflow</span> significativo verso settori come Industrials, Financials e Energy.</p>\n<ul>\n<li>Settore con il maggior momentum: Tech & Semiconductors</li>\n<li>Regione con il maggior momentum: Stati Uniti</li>\n<li>Flusso di capitale più significativo: Industrials</li>\n</ul>\n\n<h3>Movimenti Anticipatori & Correlazioni</h3>\n<p>I movimenti anticipatori mostrano una certa <span class=\"sig-up\">divergenza</span> tra i settori correlati, come ad esempio tra Tech & Semiconductors e Healthcare. Le correlazioni tra settori mostrano una forte <span class=\"sig-up\">correlazione</span> tra Tech & Semiconductors e Financials.</p>\n<ul>\n<li>Divergenza più significativa: Tech & Semiconductors e Healthcare</li>\n<li>Correlazione più forte: Tech & Semiconductors e Financials</li>\n</ul>\n\n<h3>Impatto News & Catalizzatori</h3>\n<p>Le notizie recenti hanno avuto un impatto <span class=\"sig-up\">positivo</span> sui settori come Tech & Semiconductors e Healthcare, mentre hanno avuto un impatto <span class=\"sig-dn\">negativo</span> sui settori come Energy e Commodities. I catalizzatori più significativi sono stati le notizie sulla guerra in Iran e sull'aumento dei dazi.</p>\n<ul>\n<li>Notizia con il maggior impatto positivo: Berkshire Hathaway aumenta la sua partecipazione in Alphabet</li>\n<li>Notizia con il maggior impatto negativo: La guerra in Iran continua a pesare sul settore energetico</li>\n</ul>\n\n<h3>Idee di Investimento</h3>\n<p>Sulla base dei dati, si possono considerare le seguenti idee di investimento:</p>\n<ul>\n<li><strong>Sovrappesare</strong> l'ETF XLE (Oil & Gas) a breve termine, con un livello di convinzione <span class=\"sig-up\">alto</span> e un rischio specifico legato alla volatilità del prezzo del petrolio.</li>\n<li><strong>Sovrappesare</strong> l'ETF SKYY (Cloud Computing) a medio termine, con un livello di convinzione <span class=\"sig-up\">medio</span> e un rischio specifico legato alla concorrenza nel settore tecnologico.</li>\n<li><strong>Sottopesare</strong> l'ETF KWEB (China Internet) a breve termine, con un livello di convinzione <span class=\"sig-dn\">basso</span> e un rischio specifico legato alla regolamentazione cinese.</li>\n</ul>",
+  "counts": {
+    "etfs": 106,
+    "sectors": 13,
+    "regions": 8
+  },
+  "spy_weekly": [
+    746.74,
+    728.99,
+    744.78,
+    754.95,
+    743.29,
+    738.93,
+    747.03,
+    773.26,
+    776.34
+  ]
+}

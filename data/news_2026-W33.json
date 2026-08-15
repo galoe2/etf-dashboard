@@ -1,0 +1,1389 @@
+{
+  "generated": "2026-08-15T08:13:52.428458",
+  "lookback_days": 7,
+  "total_articles": 50,
+  "sector_news": {
+    "Broad Market": {
+      "count": 36,
+      "top": [
+        {
+          "headline": "Fallout Spreads Across the Middle East as the Iran War Grinds On",
+          "summary": "Politics, Geopolitics & Conflict Yemen’s Houthis said they targeted Saudi Aramco’s Jazan refinery with two drones on Thursday, the second claimed attack on the Red Sea facility in less than a week and the third since July 25. Neither Saudi Arabia nor Aramco has confirmed the attack as of the time of writing. Bloomberg cited a person familiar with the incident as saying a storage tank sustained negligible damage. Last month, the Houthis threatened to blockade Saudi oil flows and have also attacked Saudi targets and shipping in the…",
+          "impact": "bearish",
+          "source": "OilPrice",
+          "score": 10.0,
+          "link": "https://oilprice.com/Energy/Energy-General/Fallout-Spreads-Across-the-Middle-East-as-the-Iran-War-Grinds-On.html",
+          "etf_tickers": []
+        },
+        {
+          "headline": "AI Is Changing Military Morality",
+          "summary": "Just war theory was developed over centuries—and now must adapt to a new era of technology.",
+          "impact": "neutral",
+          "source": "Foreign Policy",
+          "score": 9.9,
+          "link": "https://foreignpolicy.com/2026/08/14/ai-military-just-war/",
+          "etf_tickers": []
+        },
+        {
+          "headline": "Mojtaba Khamenei Is Planning for a Long War",
+          "summary": "The supreme leader’s new government appointments reveal the outlines of his military strategy.",
+          "impact": "neutral",
+          "source": "Foreign Policy",
+          "score": 9.9,
+          "link": "https://foreignpolicy.com/2026/08/13/iran-mojtaba-khamenei-rezaei-war/",
+          "etf_tickers": []
+        }
+      ]
+    },
+    "International": {
+      "count": 39,
+      "top": [
+        {
+          "headline": "From Apple to Ford: How Chinese tech is becoming harder for global companies to ignore",
+          "summary": "Global companies are increasingly tapping Chinese technology for its growing capabilities and scale, even as geopolitical risks remain.",
+          "impact": "bullish",
+          "source": "CNBC World",
+          "score": 9.9,
+          "link": "https://www.cnbc.com/2026/08/14/china-tech-global-appeal-apple-ford-catl-deepseek.html",
+          "etf_tickers": []
+        },
+        {
+          "headline": "Activists try to deliver aid to Palestinians in homes besieged by Israeli settlers",
+          "summary": "Two families have been trapped in their homes in the occupied West Bank for several days.",
+          "impact": "neutral",
+          "source": "BBC World",
+          "score": 9.9,
+          "link": "https://www.bbc.co.uk/news/articles/c1w1ylw0p3no?at_medium=RSS&at_campaign=rss",
+          "etf_tickers": []
+        },
+        {
+          "headline": "Why Hackers Keep Going After U.S. Water Supplies",
+          "summary": "A spate of new attacks believed to be linked to Iran has highlighted the water sector’s vulnerability.",
+          "impact": "neutral",
+          "source": "Foreign Policy",
+          "score": 9.9,
+          "link": "https://foreignpolicy.com/2026/08/13/cyberattack-water-iran-united-states/",
+          "etf_tickers": []
+        }
+      ]
+    },
+    "Tech & Semiconductors": {
+      "count": 11,
+      "top": [
+        {
+          "headline": "Berkshire Hathaway boosts Alphabet to a top three holding, ups Delta and housing bets",
+          "summary": "Berkshire owned about 106 million shares in the parent of Google, worth $37.9 billion at the end of June, according to a regulatory filing released Friday.",
+          "impact": "neutral",
+          "source": "CNBC Finance",
+          "score": 9.6,
+          "link": "https://www.cnbc.com/2026/08/14/berkshire-hathaway-boosts-alphabet-to-a-top-three-holding-ups-delta-and-housing-bets.html",
+          "etf_tickers": []
+        },
+        {
+          "headline": "AI’s costly build-out complicates the Fed’s inflation fight",
+          "summary": "Tech leaders say AI will drive down costs. But slow corporate adoption and the data center build-out create inflation pressures that complicate the Fed’s job.",
+          "impact": "neutral",
+          "source": "CNBC Economy",
+          "score": 9.6,
+          "link": "https://www.cnbc.com/2026/08/12/ais-costly-buildout-complicates-the-feds-inflation-fight.html",
+          "etf_tickers": []
+        },
+        {
+          "headline": "Boom infrastruttura AI",
+          "summary": "Nvidia e Intel hanno chiesto aiuto a Goldman Sachs per far fronte alla crescente domanda di potenza di calcolo. Ciò potrebbe avere un impatto positivo sul settore Tech & Semiconductors.",
+          "impact": "bullish",
+          "source": "CNBC Finance",
+          "score": 8.7,
+          "link": "https://www.cnbc.com/2026/08/14/goldmans-latest-cash-cow-is-all-about-funding-the-ai-infrastructure-boom.html",
+          "etf_tickers": [
+            "SMH"
+          ]
+        }
+      ]
+    },
+    "Financials": {
+      "count": 9,
+      "top": [
+        {
+          "headline": "Cash remains most widely accepted payment method in euro area",
+          "summary": "The European Central Bank (ECB) is the central bank of the European Union countries which have adopted the euro. Our main task is to maintain price stability in the euro area and so preserve the purchasing power of the single currency.",
+          "impact": "neutral",
+          "source": "ECB",
+          "score": 10.0,
+          "link": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr260813~389729d6a9.en.html",
+          "etf_tickers": []
+        },
+        {
+          "headline": "ECB and Frankfurt Radio Symphony invite the public to Europa Open Air concert on 20 August 2026",
+          "summary": "The European Central Bank (ECB) is the central bank of the European Union countries which have adopted the euro. Our main task is to maintain price stability in the euro area and so preserve the purchasing power of the single currency.",
+          "impact": "neutral",
+          "source": "ECB",
+          "score": 10.0,
+          "link": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr260811~47cd3ee040.en.html",
+          "etf_tickers": []
+        },
+        {
+          "headline": "Japanese Government Bonds Held by the Bank of Japan",
+          "summary": "",
+          "impact": "neutral",
+          "source": "Bank of Japan",
+          "score": 9.6,
+          "link": "http://www.boj.or.jp/en/statistics/boj/other/mei/release/2026/mei260810.xlsx",
+          "etf_tickers": []
+        }
+      ]
+    },
+    "Energy": {
+      "count": 35,
+      "top": [
+        {
+          "headline": "Paraguay opens probe into Hong Kong-born crypto exec’s death",
+          "summary": "Police in Paraguay have launched an investigation into the death of a Hong Kong-born cryptocurrency fund executive as speculation swirled over the case.\nExperts on Wednesday also warned of a global rise in violent extortion attempts targeting digital asset holders, a phenomenon known as “wrench attacks”.\nParaguayan police are investigating the death of Harry Yeh Chun-tak, who was found dead outside his residential building in Asuncion after a suspected fall from his 30th-floor flat earlier this...",
+          "impact": "bearish",
+          "source": "SCMP",
+          "score": 9.9,
+          "link": "https://www.scmp.com/news/hong-kong/law-and-crime/article/3363813/paraguay-probe-hong-kong-born-crypto-execs-death-triggers-wrench-attack-warning?utm_source=rss_feed",
+          "etf_tickers": []
+        },
+        {
+          "headline": "OpenAI talent exodus raises 'huge red flag' ahead of IPO",
+          "summary": "OpenAI's C-suite turnover gives investors another reason for concern as the company pushes toward a mammoth IPO.",
+          "impact": "neutral",
+          "source": "CNBC World",
+          "score": 9.8,
+          "link": "https://www.cnbc.com/2026/08/14/open-ai-ipo-red-flag.html",
+          "etf_tickers": []
+        },
+        {
+          "headline": "CNBC Daily Open: Washington tightens squeeze on the Iranian economy",
+          "summary": "The U.S. seeks to escalate pressure from blockade to financial isolation, while Iran races to build a way around it.",
+          "impact": "neutral",
+          "source": "CNBC World",
+          "score": 9.8,
+          "link": "https://www.cnbc.com/2026/08/14/us-trump-iran-hormuz-hegseth-bessent-tariffs-trade.html",
+          "etf_tickers": []
+        }
+      ]
+    },
+    "Commodities": {
+      "count": 37,
+      "top": [
+        {
+          "headline": "Iran says no decision yet on a return to talks with the US",
+          "summary": "FM Abbas Araghchi says Iran is working with Oman on routes, but Hormuz shipping depends on US meeting conditions.",
+          "impact": "neutral",
+          "source": "Al Jazeera",
+          "score": 9.8,
+          "link": "https://www.aljazeera.com/news/2026/8/15/iran-says-no-decision-yet-on-a-return-to-talks-with-the-us?traffic_source=rss",
+          "etf_tickers": []
+        },
+        {
+          "headline": "16 beaten-down AI stocks that are beloved by BofA analysts",
+          "summary": "A recent selloff in AI-linked stocks offers opportunities for investors across the hardware, internet and energy sectors, according to analysts.",
+          "impact": "mixed",
+          "source": "MarketWatch",
+          "score": 9.8,
+          "link": "https://www.marketwatch.com/story/16-beaten-down-ai-stocks-that-are-beloved-by-bofa-analysts-3423dab2?mod=mw_rss_topstories",
+          "etf_tickers": []
+        },
+        {
+          "headline": "How a Sudanese refugee became a head teacher in a Chadian camp",
+          "summary": "Displaced by Sudan’s war, Sahra now leads a refugee school where education offers children safety and hope.",
+          "impact": "neutral",
+          "source": "Al Jazeera",
+          "score": 9.8,
+          "link": "https://www.aljazeera.com/news/2026/8/15/how-a-sudanese-refugee-became-a-head-teacher-in-a-chadian-camp?traffic_source=rss",
+          "etf_tickers": []
+        }
+      ]
+    },
+    "Real Estate": {
+      "count": 4,
+      "top": [
+        {
+          "headline": "AI’s infrastructure boom is getting more leveraged — and harder to track",
+          "summary": "AI’s infrastructure boom is increasingly being funded through bonds, leases and private capital, while leveraged investors add another layer of market risk.",
+          "impact": "bullish",
+          "source": "CNBC World",
+          "score": 9.9,
+          "link": "https://www.cnbc.com/2026/08/14/ai-infrastructure-debt-leverage-risks.html",
+          "etf_tickers": []
+        },
+        {
+          "headline": "Think interest rates are high now? These charts offers a different perspective.",
+          "summary": "Also in Weekend Reads: 10 remarkable housing markets, stock picks, and health-insurance battles.",
+          "impact": "neutral",
+          "source": "MarketWatch",
+          "score": 9.6,
+          "link": "https://www.marketwatch.com/story/think-interest-rates-are-high-now-these-charts-offers-a-different-perspective-ae5f28c6?mod=mw_rss_topstories",
+          "etf_tickers": []
+        }
+      ]
+    },
+    "Industrials": {
+      "count": 34,
+      "top": [
+        {
+          "headline": "Trump’s Tougher Russia Stance Puts Kazakhstan in a Difficult Position",
+          "summary": "Since returning to the White House in early 2025, President Donald Trump has consistently argued that the war in Ukraine should end through negotiations. He initially believed that direct engagement with Russian President Vladimir Putin could create conditions for a political settlement and that Moscow would ultimately be willing to compromise. Recent developments, however, indicate that Washington’s assessment of Putin has become noticeably less optimistic, and the US approach toward Ukraine may be evolving. According to The Wall Street…",
+          "impact": "neutral",
+          "source": "OilPrice",
+          "score": 9.7,
+          "link": "https://oilprice.com/Geopolitics/Asia/Trumps-Tougher-Russia-Stance-Puts-Kazakhstan-in-a-Difficult-Position.html",
+          "etf_tickers": []
+        },
+        {
+          "headline": "Is betting on elections using prediction markets illegal? Many states are unsure as midterms approach",
+          "summary": "Twenty-three states have laws banning betting on elections, according to Pew Research. Not every state is sure these rules apply to prediction market trades.",
+          "impact": "neutral",
+          "source": "CNBC Finance",
+          "score": 9.6,
+          "link": "https://www.cnbc.com/2026/08/11/do-state-election-betting-bans-apply-to-prediction-markets.html",
+          "etf_tickers": []
+        },
+        {
+          "headline": "Moment Israeli forces storm wedding hall in occupied West Bank",
+          "summary": "Israeli forces stormed a wedding hall in al-Eizariya town in the occupied West Bank and assaulted Palestinian attendees.",
+          "impact": "neutral",
+          "source": "Al Jazeera",
+          "score": 9.6,
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/8/15/moment-israeli-forces-storm-wedding-hall-in-occupied-west-bank?traffic_source=rss",
+          "etf_tickers": []
+        }
+      ]
+    },
+    "Bonds": {
+      "count": 7,
+      "top": [
+        {
+          "headline": "Here are five key takeaways from the July CPI inflation report",
+          "summary": "Readings for July on the prices consumers pay for goods and services came in pretty much on target.",
+          "impact": "neutral",
+          "source": "CNBC Economy",
+          "score": 9.6,
+          "link": "https://www.cnbc.com/2026/08/12/here-are-five-key-takeaways-from-the-july-cpi-inflation-report.html",
+          "etf_tickers": []
+        },
+        {
+          "headline": "Debito societario",
+          "summary": "Gli investitori stanno rivedendo le loro posizioni nel credito societario a causa dei tassi reali più alti e dell'aumento dell'offerta legata all'AI. Ciò potrebbe influenzare gli ETF del settore finanziario e dei bond.",
+          "impact": "bearish",
+          "source": "CNBC World",
+          "score": 7.4,
+          "link": "https://www.cnbc.com/2026/08/14/why-higher-rated-corporate-debt-might-not-be-the-best-trade.html",
+          "etf_tickers": [
+            "HYG",
+            "LQD"
+          ]
+        },
+        {
+          "headline": "Crisi economica in Iran",
+          "summary": "L'economia iraniana sta subendo le conseguenze della guerra, con un'inflazione in aumento e una riduzione del potere d'acquisto. Ciò potrebbe avere un impatto sul settore energetico e sui mercati globali.",
+          "impact": "bearish",
+          "source": "OilPrice",
+          "score": 7.4,
+          "link": "https://oilprice.com/Geopolitics/Middle-East/Irans-Economy-Is-Buckling-Under-the-Weight-of-War.html",
+          "etf_tickers": [
+            "SPY"
+          ]
+        }
+      ]
+    },
+    "Consumers": {
+      "count": 6,
+      "top": [
+        {
+          "headline": "Ackman riacquista Netflix",
+          "summary": "Bill Ackman riacquista Netflix dopo 4 anni, affermando che ha vinto le guerre dello streaming. Ciò potrebbe avere un impatto positivo sul settore tecnologico e dei consumatori.",
+          "impact": "bullish",
+          "source": "CNBC Finance",
+          "score": 8.7,
+          "link": "https://www.cnbc.com/2026/08/13/ackman-buys-netflix-again-four-years-later-says-it-won-streaming-wars.html",
+          "etf_tickers": [
+            "QQQ"
+          ]
+        },
+        {
+          "headline": "Rame come indicatore dei dazi",
+          "summary": "Il prezzo del rame è diventato un indicatore dei prossimi movimenti dei dazi negli Stati Uniti. La differenza di prezzo del rame tra due borse dei metalli offre agli investitori un gauge del rischio dei dazi statunitensi.",
+          "impact": "neutral",
+          "source": "CNBC World",
+          "score": 7.4,
+          "link": "https://www.cnbc.com/2026/08/14/copper-trump-tariffs-metal-commodities-trade-war.html",
+          "etf_tickers": []
+        },
+        {
+          "headline": "Tim Cook apre stabilimento a Houston",
+          "summary": "Tim Cook, CEO di Apple, partecipa all'apertura di uno stabilimento di produzione a Houston, mentre si appresta a lasciare il suo incarico. Ciò potrebbe avere un impatto sul settore tecnologico.",
+          "impact": "neutral",
+          "source": "CNBC World",
+          "score": 7.4,
+          "link": "https://www.cnbc.com/2026/08/13/apples-tim-cook-and-howard-lutnick-open-houston-manufacturing-plant.html",
+          "etf_tickers": [
+            "QQQ"
+          ]
+        }
+      ]
+    }
+  },
+  "rotation_signals": [],
+  "articles": [
+    {
+      "title": "Fallout Spreads Across the Middle East as the Iran War Grinds On",
+      "headline_it": "",
+      "summary_it": "",
+      "summary_en": "Politics, Geopolitics & Conflict Yemen’s Houthis said they targeted Saudi Aramco’s Jazan refinery with two drones on Thursday, the second claimed attack on the Red Sea facility in less than a week and the third since July 25. Neither Saudi Arabia nor Aramco has confirmed the attack as of the time of writing. Bloomberg cited a person familiar with the incident as saying a storage tank sustained negligible damage. Last month, the Houthis threatened to blockade Saudi oil flows and have also attacked Saudi targets and shipping in the…",
+      "source": "OilPrice",
+      "link": "https://oilprice.com/Energy/Energy-General/Fallout-Spreads-Across-the-Middle-East-as-the-Iran-War-Grinds-On.html",
+      "date": "2026-08-14 12:00",
+      "score": 10.0,
+      "impact": "bearish",
+      "sectors": [
+        "Broad Market",
+        "Commodities",
+        "Energy",
+        "Industrials",
+        "International"
+      ],
+      "primary_sector": "Broad Market",
+      "etf_tickers": [],
+      "rotation": ""
+    },
+    {
+      "title": "Cash remains most widely accepted payment method in euro area",
+      "headline_it": "",
+      "summary_it": "",
+      "summary_en": "The European Central Bank (ECB) is the central bank of the European Union countries which have adopted the euro. Our main task is to maintain price stability in the euro area and so preserve the purchasing power of the single currency.",
+      "source": "ECB",
+      "link": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr260813~389729d6a9.en.html",
+      "date": "2026-08-13 09:00",
+      "score": 10.0,
+      "impact": "neutral",
+      "sectors": [
+        "Financials"
+      ],
+      "primary_sector": "Financials",
+      "etf_tickers": [],
+      "rotation": ""
+    },
+    {
+      "title": "ECB and Frankfurt Radio Symphony invite the public to Europa Open Air concert on 20 August 2026",
+      "headline_it": "",
+      "summary_it": "",
+      "summary_en": "The European Central Bank (ECB) is the central bank of the European Union countries which have adopted the euro. Our main task is to maintain price stability in the euro area and so preserve the purchasing power of the single currency.",
+      "source": "ECB",
+      "link": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr260811~47cd3ee040.en.html",
+      "date": "2026-08-11 08:30",
+      "score": 10.0,
+      "impact": "neutral",
+      "sectors": [
+        "Financials"
+      ],
+      "primary_sector": "Financials",
+      "etf_tickers": [],
+      "rotation": ""
+    },
+    {
+      "title": "AI’s infrastructure boom is getting more leveraged — and harder to track",
+      "headline_it": "",
+      "summary_it": "",
+      "summary_en": "AI’s infrastructure boom is increasingly being funded through bonds, leases and private capital, while leveraged investors add another layer of market risk.",
+      "source": "CNBC World",
+      "link": "https://www.cnbc.com/2026/08/14/ai-infrastructure-debt-leverage-risks.html",
+      "date": "2026-08-14 12:03",
+      "score": 9.9,
+      "impact": "bullish",
+      "sectors": [
+        "Bonds",
+        "Industrials",
+        "Real Estate"
+      ],
+      "primary_sector": "Bonds",
+      "etf_tickers": [],
+      "rotation": ""
+    },
+    {
+      "title": "From Apple to Ford: How Chinese tech is becoming harder for global companies to ignore",
+      "headline_it": "",
+      "summary_it": "",
+      "summary_en": "Global companies are increasingly tapping Chinese technology for its growing capabilities and scale, even as geopolitical risks remain.",
+      "source": "CNBC World",
+      "link": "https://www.cnbc.com/2026/08/14/china-tech-global-appeal-apple-ford-catl-deepseek.html",
+      "date": "2026-08-14 00:09",
+      "score": 9.9,
+      "impact": "bullish",
+      "sectors": [
+        "Consumers",
+        "Industrials",
+        "International",
+        "Tech & Semiconductors"
+      ],
+      "primary_sector": "Consumers",
+      "etf_tickers": [],
+      "rotation": ""
+    },
+    {
+      "title": "Activists try to deliver aid to Palestinians in homes besieged by Israeli settlers",
+      "headline_it": "",
+      "summary_it": "",
+      "summary_en": "Two families have been trapped in their homes in the occupied West Bank for several days.",
+      "source": "BBC World",
+      "link": "https://www.bbc.co.uk/news/articles/c1w1ylw0p3no?at_medium=RSS&at_campaign=rss",
+      "date": "2026-08-14 17:03",
+      "score": 9.9,
+      "impact": "neutral",
+      "sectors": [
+        "Energy",
+        "Financials",
+        "Industrials",
+        "International"
+      ],
+      "primary_sector": "Energy",
+      "etf_tickers": [],
+      "rotation": ""
+    },
+    {
+      "title": "AI Is Changing Military Morality",
+      "headline_it": "",
+      "summary_it": "",
+      "summary_en": "Just war theory was developed over centuries—and now must adapt to a new era of technology.",
+      "source": "Foreign Policy",
+      "link": "https://foreignpolicy.com/2026/08/14/ai-military-just-war/",
+      "date": "2026-08-14 18:30",
+      "score": 9.9,
+      "impact": "neutral",
+      "sectors": [
+        "Broad Market",
+        "Commodities",
+        "Energy",
+        "Industrials",
+        "International"
+      ],
+      "primary_sector": "Broad Market",
+      "etf_tickers": [],
+      "rotation": ""
+    },
+    {
+      "title": "Mojtaba Khamenei Is Planning for a Long War",
+      "headline_it": "",
+      "summary_it": "",
+      "summary_en": "The supreme leader’s new government appointments reveal the outlines of his military strategy.",
+      "source": "Foreign Policy",
+      "link": "https://foreignpolicy.com/2026/08/13/iran-mojtaba-khamenei-rezaei-war/",
+      "date": "2026-08-13 16:50",
+      "score": 9.9,
+      "impact": "neutral",
+      "sectors": [
+        "Broad Market",
+        "Commodities",
+        "Energy",
+        "Industrials",
+        "International"
+      ],
+      "primary_sector": "Broad Market",
+      "etf_tickers": [],
+      "rotation": ""
+    },
+    {
+      "title": "Why Hackers Keep Going After U.S. Water Supplies",
+      "headline_it": "",
+      "summary_it": "",
+      "summary_en": "A spate of new attacks believed to be linked to Iran has highlighted the water sector’s vulnerability.",
+      "source": "Foreign Policy",
+      "link": "https://foreignpolicy.com/2026/08/13/cyberattack-water-iran-united-states/",
+      "date": "2026-08-13 16:25",
+      "score": 9.9,
+      "impact": "neutral",
+      "sectors": [
+        "Broad Market",
+        "Commodities",
+        "Energy",
+        "Industrials",
+        "International"
+      ],
+      "primary_sector": "Broad Market",
+      "etf_tickers": [],
+      "rotation": ""
+    },
+    {
+      "title": "Paraguay opens probe into Hong Kong-born crypto exec’s death",
+      "headline_it": "",
+      "summary_it": "",
+      "summary_en": "Police in Paraguay have launched an investigation into the death of a Hong Kong-born cryptocurrency fund executive as speculation swirled over the case.\nExperts on Wednesday also warned of a global rise in violent extortion attempts targeting digital asset holders, a phenomenon known as “wrench attacks”.\nParaguayan police are investigating the death of Harry Yeh Chun-tak, who was found dead outside his residential building in Asuncion after a suspected fall from his 30th-floor flat earlier this...",
+      "source": "SCMP",
+      "link": "https://www.scmp.com/news/hong-kong/law-and-crime/article/3363813/paraguay-probe-hong-kong-born-crypto-execs-death-triggers-wrench-attack-warning?utm_source=rss_feed",
+      "date": "2026-08-12 12:28",
+      "score": 9.9,
+      "impact": "bearish",
+      "sectors": [
+        "Broad Market",
+        "Commodities",
+        "Crypto",
+        "Energy",
+        "International"
+      ],
+      "primary_sector": "Broad Market",
+      "etf_tickers": [],
+      "rotation": ""
+    },
+    {
+      "title": "OpenAI talent exodus raises 'huge red flag' ahead of IPO",
+      "headline_it": "",
+      "summary_it": "",
+      "summary_en": "OpenAI's C-suite turnover gives investors another reason for concern as the company pushes toward a mammoth IPO.",
+      "source": "CNBC World",
+      "link": "https://www.cnbc.com/2026/08/14/open-ai-ipo-red-flag.html",
+      "date": "2026-08-14 19:07",
+      "score": 9.8,
+      "impact": "neutral",
+      "sectors": [
+        "Broad Market",
+        "Commodities",
+        "Energy",
+        "International"
+      ],
+      "primary_sector": "Broad Market",
+      "etf_tickers": [],
+      "rotation": ""
+    },
+    {
+      "title": "CNBC Daily Open: Washington tightens squeeze on the Iranian economy",
+      "headline_it": "",
+      "summary_it": "",
+      "summary_en": "The U.S. seeks to escalate pressure from blockade to financial isolation, while Iran races to build a way around it.",
+      "source": "CNBC World",
+      "link": "https://www.cnbc.com/2026/08/14/us-trump-iran-hormuz-hegseth-bessent-tariffs-trade.html",
+      "date": "2026-08-14 07:19",
+      "score": 9.8,
+      "impact": "neutral",
+      "sectors": [
+        "Commodities",
+        "Energy",
+        "Industrials",
+        "International"
+      ],
+      "primary_sector": "Commodities",
+      "etf_tickers": [],
+      "rotation": ""
+    },
+    {
+      "title": "16 beaten-down AI stocks that are beloved by BofA analysts",
+      "headline_it": "",
+      "summary_it": "",
+      "summary_en": "A recent selloff in AI-linked stocks offers opportunities for investors across the hardware, internet and energy sectors, according to analysts.",
+      "source": "MarketWatch",
+      "link": "https://www.marketwatch.com/story/16-beaten-down-ai-stocks-that-are-beloved-by-bofa-analysts-3423dab2?mod=mw_rss_topstories",
+      "date": "2026-08-14 19:09",
+      "score": 9.8,
+      "impact": "mixed",
+      "sectors": [
+        "Broad Market",
+        "Commodities",
+        "Energy",
+        "International"
+      ],
+      "primary_sector": "Broad Market",
+      "etf_tickers": [],
+      "rotation": ""
+    },
+    {
+      "title": "How a Sudanese refugee became a head teacher in a Chadian camp",
+      "headline_it": "",
+      "summary_it": "",
+      "summary_en": "Displaced by Sudan’s war, Sahra now leads a refugee school where education offers children safety and hope.",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/news/2026/8/15/how-a-sudanese-refugee-became-a-head-teacher-in-a-chadian-camp?traffic_source=rss",
+      "date": "2026-08-15 05:14",
+      "score": 9.8,
+      "impact": "neutral",
+      "sectors": [
+        "Broad Market",
+        "Commodities",
+        "Energy",
+        "International"
+      ],
+      "primary_sector": "Broad Market",
+      "etf_tickers": [],
+      "rotation": ""
+    },
+    {
+      "title": "Iran says no decision yet on a return to talks with the US",
+      "headline_it": "",
+      "summary_it": "",
+      "summary_en": "FM Abbas Araghchi says Iran is working with Oman on routes, but Hormuz shipping depends on US meeting conditions.",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/news/2026/8/15/iran-says-no-decision-yet-on-a-return-to-talks-with-the-us?traffic_source=rss",
+      "date": "2026-08-15 04:24",
+      "score": 9.8,
+      "impact": "neutral",
+      "sectors": [
+        "Commodities",
+        "Energy",
+        "Industrials",
+        "International"
+      ],
+      "primary_sector": "Commodities",
+      "etf_tickers": [],
+      "rotation": ""
+    },
+    {
+      "title": "Trump’s Tougher Russia Stance Puts Kazakhstan in a Difficult Position",
+      "headline_it": "",
+      "summary_it": "",
+      "summary_en": "Since returning to the White House in early 2025, President Donald Trump has consistently argued that the war in Ukraine should end through negotiations. He initially believed that direct engagement with Russian President Vladimir Putin could create conditions for a political settlement and that Moscow would ultimately be willing to compromise. Recent developments, however, indicate that Washington’s assessment of Putin has become noticeably less optimistic, and the US approach toward Ukraine may be evolving. According to The Wall Street…",
+      "source": "OilPrice",
+      "link": "https://oilprice.com/Geopolitics/Asia/Trumps-Tougher-Russia-Stance-Puts-Kazakhstan-in-a-Difficult-Position.html",
+      "date": "2026-08-14 18:00",
+      "score": 9.7,
+      "impact": "neutral",
+      "sectors": [
+        "Broad Market",
+        "Commodities",
+        "Energy",
+        "Industrials",
+        "International"
+      ],
+      "primary_sector": "Broad Market",
+      "etf_tickers": [],
+      "rotation": ""
+    },
+    {
+      "title": "Berkshire Hathaway boosts Alphabet to a top three holding, ups Delta and housing bets",
+      "headline_it": "",
+      "summary_it": "",
+      "summary_en": "Berkshire owned about 106 million shares in the parent of Google, worth $37.9 billion at the end of June, according to a regulatory filing released Friday.",
+      "source": "CNBC Finance",
+      "link": "https://www.cnbc.com/2026/08/14/berkshire-hathaway-boosts-alphabet-to-a-top-three-holding-ups-delta-and-housing-bets.html",
+      "date": "2026-08-14 21:06",
+      "score": 9.6,
+      "impact": "neutral",
+      "sectors": [
+        "Consumers",
+        "Real Estate",
+        "Tech & Semiconductors"
+      ],
+      "primary_sector": "Consumers",
+      "etf_tickers": [],
+      "rotation": ""
+    },
+    {
+      "title": "Is betting on elections using prediction markets illegal? Many states are unsure as midterms approach",
+      "headline_it": "",
+      "summary_it": "",
+      "summary_en": "Twenty-three states have laws banning betting on elections, according to Pew Research. Not every state is sure these rules apply to prediction market trades.",
+      "source": "CNBC Finance",
+      "link": "https://www.cnbc.com/2026/08/11/do-state-election-betting-bans-apply-to-prediction-markets.html",
+      "date": "2026-08-11 18:44",
+      "score": 9.6,
+      "impact": "neutral",
+      "sectors": [
+        "Broad Market",
+        "Industrials",
+        "International"
+      ],
+      "primary_sector": "Broad Market",
+      "etf_tickers": [],
+      "rotation": ""
+    },
+    {
+      "title": "Here are five key takeaways from the July CPI inflation report",
+      "headline_it": "",
+      "summary_it": "",
+      "summary_en": "Readings for July on the prices consumers pay for goods and services came in pretty much on target.",
+      "source": "CNBC Economy",
+      "link": "https://www.cnbc.com/2026/08/12/here-are-five-key-takeaways-from-the-july-cpi-inflation-report.html",
+      "date": "2026-08-12 17:14",
+      "score": 9.6,
+      "impact": "neutral",
+      "sectors": [
+        "Bonds",
+        "Broad Market",
+        "Commodities"
+      ],
+      "primary_sector": "Bonds",
+      "etf_tickers": [],
+      "rotation": ""
+    },
+    {
+      "title": "AI’s costly build-out complicates the Fed’s inflation fight",
+      "headline_it": "",
+      "summary_it": "",
+      "summary_en": "Tech leaders say AI will drive down costs. But slow corporate adoption and the data center build-out create inflation pressures that complicate the Fed’s job.",
+      "source": "CNBC Economy",
+      "link": "https://www.cnbc.com/2026/08/12/ais-costly-buildout-complicates-the-feds-inflation-fight.html",
+      "date": "2026-08-13 15:59",
+      "score": 9.6,
+      "impact": "neutral",
+      "sectors": [
+        "Bonds",
+        "Broad Market",
+        "Commodities",
+        "Tech & Semiconductors"
+      ],
+      "primary_sector": "Bonds",
+      "etf_tickers": [],
+      "rotation": ""
+    },
+    {
+      "title": "Think interest rates are high now? These charts offers a different perspective.",
+      "headline_it": "",
+      "summary_it": "",
+      "summary_en": "Also in Weekend Reads: 10 remarkable housing markets, stock picks, and health-insurance battles.",
+      "source": "MarketWatch",
+      "link": "https://www.marketwatch.com/story/think-interest-rates-are-high-now-these-charts-offers-a-different-perspective-ae5f28c6?mod=mw_rss_topstories",
+      "date": "2026-08-14 17:51",
+      "score": 9.6,
+      "impact": "neutral",
+      "sectors": [
+        "Bonds",
+        "Broad Market",
+        "Real Estate"
+      ],
+      "primary_sector": "Bonds",
+      "etf_tickers": [],
+      "rotation": ""
+    },
+    {
+      "title": "Japanese Government Bonds Held by the Bank of Japan",
+      "headline_it": "",
+      "summary_it": "",
+      "summary_en": "",
+      "source": "Bank of Japan",
+      "link": "http://www.boj.or.jp/en/statistics/boj/other/mei/release/2026/mei260810.xlsx",
+      "date": "2026-08-13 08:00",
+      "score": 9.6,
+      "impact": "neutral",
+      "sectors": [
+        "Bonds",
+        "Financials"
+      ],
+      "primary_sector": "Bonds",
+      "etf_tickers": [],
+      "rotation": ""
+    },
+    {
+      "title": "Moment Israeli forces storm wedding hall in occupied West Bank",
+      "headline_it": "",
+      "summary_it": "",
+      "summary_en": "Israeli forces stormed a wedding hall in al-Eizariya town in the occupied West Bank and assaulted Palestinian attendees.",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/15/moment-israeli-forces-storm-wedding-hall-in-occupied-west-bank?traffic_source=rss",
+      "date": "2026-08-15 07:13",
+      "score": 9.6,
+      "impact": "neutral",
+      "sectors": [
+        "Energy",
+        "Financials",
+        "Industrials",
+        "International"
+      ],
+      "primary_sector": "Energy",
+      "etf_tickers": [],
+      "rotation": ""
+    },
+    {
+      "title": "Yes, the Iran War Really Is Similar to Vietnam",
+      "headline_it": "",
+      "summary_it": "",
+      "summary_en": "Trump’s war is “The Best and the Brightest”—but without the best and the brightest.",
+      "source": "Foreign Policy",
+      "link": "https://foreignpolicy.com/2026/08/14/iran-war-vietnam-similarities-david-halberstam-best-brightest/",
+      "date": "2026-08-14 16:25",
+      "score": 9.6,
+      "impact": "neutral",
+      "sectors": [
+        "Broad Market",
+        "Commodities",
+        "Energy",
+        "Industrials",
+        "International"
+      ],
+      "primary_sector": "Broad Market",
+      "etf_tickers": [],
+      "rotation": ""
+    },
+    {
+      "title": "The Iran War Has Left the U.S. Dangerously Exposed",
+      "headline_it": "",
+      "summary_it": "",
+      "summary_en": "The fight has offered Iran and other adversaries a clear picture of U.S. weaknesses.",
+      "source": "Foreign Policy",
+      "link": "https://foreignpolicy.com/2026/08/13/iran-war-us-stockpile-depleted-gulf/",
+      "date": "2026-08-13 20:45",
+      "score": 9.6,
+      "impact": "bearish",
+      "sectors": [
+        "Broad Market",
+        "Commodities",
+        "Energy",
+        "Industrials",
+        "International"
+      ],
+      "primary_sector": "Broad Market",
+      "etf_tickers": [],
+      "rotation": ""
+    },
+    {
+      "title": "Iran war live: Trump vows to make Hormuz US territory ‘pretty soon’",
+      "headline_it": "Trump: Hormuz diventerà territorio USA",
+      "summary_it": "Il presidente Trump ha annunciato che intende dichiarare lo Stretto di Hormuz territorio degli Stati Uniti una volta sconfitta l'Iran, con potenziali impatti significativi sui mercati energetici e globali.",
+      "summary_en": "US President Trump says that &#039;pretty soon&#039; he will declare the Strait of Hormuz a US territory once Iran is defeated.",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/news/liveblog/2026/8/15/iran-war-live-trump-vows-to-make-hormuz-us-territory-pretty-soon?traffic_source=rss",
+      "date": "2026-08-15 00:00",
+      "score": 9.4,
+      "impact": "bearish",
+      "sectors": [
+        "Broad Market",
+        "Commodities",
+        "Energy",
+        "Industrials",
+        "International"
+      ],
+      "primary_sector": "Broad Market",
+      "etf_tickers": [
+        "SPY",
+        "XLE"
+      ],
+      "rotation": ""
+    },
+    {
+      "title": "Goldman’s latest cash cow is all about funding the AI infrastructure boom",
+      "headline_it": "Boom infrastruttura AI",
+      "summary_it": "Nvidia e Intel hanno chiesto aiuto a Goldman Sachs per far fronte alla crescente domanda di potenza di calcolo. Ciò potrebbe avere un impatto positivo sul settore Tech & Semiconductors.",
+      "summary_en": "Nvidia and Intel recently tapped the bank to help them meeting soaring demand for compute.",
+      "source": "CNBC Finance",
+      "link": "https://www.cnbc.com/2026/08/14/goldmans-latest-cash-cow-is-all-about-funding-the-ai-infrastructure-boom.html",
+      "date": "2026-08-14 20:05",
+      "score": 8.7,
+      "impact": "bullish",
+      "sectors": [
+        "Commodities",
+        "Financials",
+        "Industrials",
+        "Real Estate",
+        "Tech & Semiconductors"
+      ],
+      "primary_sector": "Commodities",
+      "etf_tickers": [
+        "SMH"
+      ],
+      "rotation": ""
+    },
+    {
+      "title": "Bill Ackman buys Netflix again four years after exit, says it has won the streaming wars",
+      "headline_it": "Ackman riacquista Netflix",
+      "summary_it": "Bill Ackman riacquista Netflix dopo 4 anni, affermando che ha vinto le guerre dello streaming. Ciò potrebbe avere un impatto positivo sul settore tecnologico e dei consumatori.",
+      "summary_en": "Ackman's Pershing Square Capital Management disclosed a new position in Netflix in its semiannual report.",
+      "source": "CNBC Finance",
+      "link": "https://www.cnbc.com/2026/08/13/ackman-buys-netflix-again-four-years-later-says-it-won-streaming-wars.html",
+      "date": "2026-08-13 18:04",
+      "score": 8.7,
+      "impact": "bullish",
+      "sectors": [
+        "Broad Market",
+        "Commodities",
+        "Consumers",
+        "Energy",
+        "International",
+        "Tech & Semiconductors"
+      ],
+      "primary_sector": "Broad Market",
+      "etf_tickers": [
+        "QQQ"
+      ],
+      "rotation": ""
+    },
+    {
+      "title": "Nvidia lines up $500 billion in financing as CEO Jensen Huang tells CNBC his chips are ‘investable asset’",
+      "headline_it": "Nvidia ottiene 500 mld",
+      "summary_it": "Il CEO di Nvidia, Jensen Huang, afferma che i chip della società sono un 'asset investibile' a causa della loro ampia adozione e flessibilità. Ciò potrebbe avere un impatto positivo sul settore tecnologico.",
+      "summary_en": "Nvidia CEO Jensen Huang argued that because its hardware is broadly adopted, flexible and transferable, lenders can underwrite compute as revenue-generating.",
+      "source": "CNBC Finance",
+      "link": "https://www.cnbc.com/2026/08/10/nvidia-wall-street-asset-managers-500-billion-ai-push.html",
+      "date": "2026-08-10 22:09",
+      "score": 8.7,
+      "impact": "bullish",
+      "sectors": [
+        "Broad Market",
+        "Commodities",
+        "Energy",
+        "Industrials",
+        "International",
+        "Tech & Semiconductors"
+      ],
+      "primary_sector": "Broad Market",
+      "etf_tickers": [
+        "SMH"
+      ],
+      "rotation": ""
+    },
+    {
+      "title": "The Iran war risks bringing the G7's fastest-growing economy to a halt",
+      "headline_it": "Guerra Iran, rischio per economia",
+      "summary_it": "L'economia del Regno Unito mostra segni di ripresa, ma la guerra in Iran e i prezzi energetici alti potrebbero fermarla. Ciò potrebbe avere un impatto significativo sui settori energetici e del mercato globale.",
+      "summary_en": "The U.K. economy is showing further signs of a long-awaited rebound, but the picture is complicated by the fallout from the Iran war and high energy prices.",
+      "source": "CNBC Economy",
+      "link": "https://www.cnbc.com/2026/08/13/iran-war-g7s-fastest-growing-economy.html",
+      "date": "2026-08-13 12:42",
+      "score": 8.7,
+      "impact": "bearish",
+      "sectors": [
+        "Broad Market",
+        "Commodities",
+        "Energy",
+        "Industrials",
+        "International"
+      ],
+      "primary_sector": "Broad Market",
+      "etf_tickers": [],
+      "rotation": ""
+    },
+    {
+      "title": "U.S. to use economic tactics on Iran 'that have never been seen'; Navy works to relieve troubled carrier USS Abraham Lincoln",
+      "headline_it": "Stati Uniti alzano pressione su Iran",
+      "summary_it": "L'amministrazione Trump aumenta la pressione retorica sull'Iran, mentre il conflitto militare sembra essere in una situazione di stallo strategico. Ciò potrebbe avere un impatto significativo sui mercati energetici e più in generale sull'economia globale.",
+      "summary_en": "The Trump administration is ratcheting up rhetorical pressure on Iran as the military conflict in Iran appears mired in a strategic stalemate.",
+      "source": "CNBC World",
+      "link": "https://www.cnbc.com/2026/08/14/us-iran-war-trump-hormuz-carrier-abraham-lincoln-george-washington.html",
+      "date": "2026-08-14 20:47",
+      "score": 8.7,
+      "impact": "bearish",
+      "sectors": [
+        "Broad Market",
+        "Commodities",
+        "Energy",
+        "Industrials",
+        "International"
+      ],
+      "primary_sector": "Broad Market",
+      "etf_tickers": [
+        "SPY",
+        "XLE"
+      ],
+      "rotation": ""
+    },
+    {
+      "title": "Russia-Ukraine War Escalates With Black Sea Strikes, North Korean Missiles",
+      "headline_it": "Guerra Russia-Ucraina si intensifica",
+      "summary_it": "L'escalation del conflitto potrebbe avere impatti significativi sui mercati energetici e globali. Le tensioni geopolitiche aumentano.",
+      "summary_en": "Kyiv and Moscow are trading heavier and heavier blows.",
+      "source": "Foreign Policy",
+      "link": "https://foreignpolicy.com/2026/08/12/ukraine-russia-black-sea-strikes-north-korea-missiles-lebanon-death-penalty/",
+      "date": "2026-08-12 19:26",
+      "score": 8.7,
+      "impact": "bearish",
+      "sectors": [
+        "Broad Market",
+        "Commodities",
+        "Energy",
+        "Industrials",
+        "International"
+      ],
+      "primary_sector": "Broad Market",
+      "etf_tickers": [
+        "SPY"
+      ],
+      "rotation": ""
+    },
+    {
+      "title": "Hormuz Attacks Push Oil Toward $100 Despite US Crude Build",
+      "headline_it": "Petrolio verso 100 dollari",
+      "summary_it": "Gli attacchi allo Stretto di Hormuz e le stalle trattative tra Stati Uniti e Iran spingono il prezzo del petrolio verso i 100 dollari, nonostante l'aumento delle scorte di greggio negli Stati Uniti.",
+      "summary_en": "Brent heads toward a 5% weekly gain as stalled US-Iran talks and Hormuz attacks push oil prices toward $100. Friday, August 14, 2026 Crude oil prices are set to post a 5% weekly gain after this week quashed hopes (for the umpteenth time) of a negotiated US-Iran settlement, with Tehran ratcheting up its strikes on ships attempting to transit the Strait of Hormuz, whilst the White House doubled down on its maritime blockade of Iranian crude. The unusually high, 17-million-barrel build in US crude inventories has offset a little part of the overall…",
+      "source": "OilPrice",
+      "link": "https://oilprice.com/Energy/Crude-Oil/Hormuz-Attacks-Push-Oil-Toward-100-Despite-US-Crude-Build.html",
+      "date": "2026-08-14 16:21",
+      "score": 8.7,
+      "impact": "bullish",
+      "sectors": [
+        "Broad Market",
+        "Commodities",
+        "Energy",
+        "Industrials",
+        "International"
+      ],
+      "primary_sector": "Broad Market",
+      "etf_tickers": [],
+      "rotation": ""
+    },
+    {
+      "title": "Hormuz Crisis Pushes Asian Refiners Toward U.S. Oil",
+      "headline_it": "Crisi Hormuz spinge raffinatori asiatici verso petrolio USA",
+      "summary_it": "I raffinatori asiatici aumentano l'acquisto di petrolio USA come alternativa al petrolio mediorientale a causa della chiusura dello Stretto di Hormuz. Ciò potrebbe influenzare il mercato energetico.",
+      "summary_en": "North Asian refiners have increased buying activity to secure U.S. crude oil supply as an alternative to the Middle Eastern crude that may not make it outbound from the Strait of Hormuz as the U.S.-Iran stalemate continues and the chokepoint remains effectively closed. At least four Asia-based refiners have bought U.S. crude volumes this week alone, traders told Reuters on Friday. This week, tanker traffic – and shipping traffic as a whole – at the Strait of Hormuz has slumped further, according to observable transits with AIS positioning…",
+      "source": "OilPrice",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/Hormuz-Crisis-Pushes-Asian-Refiners-Toward-US-Oil.html",
+      "date": "2026-08-14 12:30",
+      "score": 8.7,
+      "impact": "bullish",
+      "sectors": [
+        "Broad Market",
+        "Commodities",
+        "Energy",
+        "Industrials",
+        "International"
+      ],
+      "primary_sector": "Broad Market",
+      "etf_tickers": [
+        "USO"
+      ],
+      "rotation": ""
+    },
+    {
+      "title": "'Big Short' investor Steve Eisman sees an Achilles' heel in the AI boom",
+      "headline_it": "Boom AI ha un tallone d'Achille",
+      "summary_it": "L'investitore Steve Eisman avverte che il boom dell'intelligenza artificiale dipende sempre più dalle fortune di sole due aziende: OpenAI e Anthropic. Ciò potrebbe rappresentare un rischio per gli ETF tecnologici.",
+      "summary_en": "Steve Eisman is warning that the artificial intelligence boom has become increasingly dependent on the fortunes of just two companies: OpenAI and Anthropic.",
+      "source": "CNBC Finance",
+      "link": "https://www.cnbc.com/2026/08/13/big-short-investor-steve-eisman-sees-an-achilles-heel-in-the-ai-boom.html",
+      "date": "2026-08-13 15:16",
+      "score": 7.4,
+      "impact": "bearish",
+      "sectors": [
+        "Broad Market",
+        "Commodities",
+        "Energy",
+        "Industrials",
+        "International",
+        "Tech & Semiconductors"
+      ],
+      "primary_sector": "Broad Market",
+      "etf_tickers": [
+        "QQQ"
+      ],
+      "rotation": ""
+    },
+    {
+      "title": "Iran looks to ramp up economic alliance with BRICS nations as war with U.S. drags on",
+      "headline_it": "Iran si avvicina ai paesi BRICS",
+      "summary_it": "L'Iran potrebbe rafforzare la sua alleanza economica con i paesi BRICS, con possibili impatti sul settore energetico e sui mercati internazionali.",
+      "summary_en": "Iran’s central bank chief said Thursday that the country is set to join the BRICS New Development Bank.",
+      "source": "CNBC Finance",
+      "link": "https://www.cnbc.com/2026/08/13/iran-war-brics-bank.html",
+      "date": "2026-08-13 16:38",
+      "score": 7.4,
+      "impact": "neutral",
+      "sectors": [
+        "Broad Market",
+        "Commodities",
+        "Energy",
+        "Financials",
+        "Industrials",
+        "International"
+      ],
+      "primary_sector": "Broad Market",
+      "etf_tickers": [
+        "EEM"
+      ],
+      "rotation": ""
+    },
+    {
+      "title": "Russia's economy has defied the skeptics. Cracks are getting harder to hide",
+      "headline_it": "Economia russa sotto pressione",
+      "summary_it": "L'economia di guerra russa è sotto crescente pressione a causa dell'aumento del deficit di bilancio. Gli analisti avvertono che la pressione potrebbe intensificarsi nel prossimo anno.",
+      "summary_en": "Russia's wartime economy is under growing strain as its budget deficit widens and analysts warn pressure could intensify next year.",
+      "source": "CNBC World",
+      "link": "https://www.cnbc.com/2026/08/15/ukraine-war-russia-economy-putin-oil.html",
+      "date": "2026-08-15 05:00",
+      "score": 7.4,
+      "impact": "bearish",
+      "sectors": [
+        "Broad Market",
+        "Commodities",
+        "Energy",
+        "International"
+      ],
+      "primary_sector": "Broad Market",
+      "etf_tickers": [],
+      "rotation": ""
+    },
+    {
+      "title": "Higher-rated corporate debt might not be the best trade. Goldman weighs in on credit quality",
+      "headline_it": "Debito societario",
+      "summary_it": "Gli investitori stanno rivedendo le loro posizioni nel credito societario a causa dei tassi reali più alti e dell'aumento dell'offerta legata all'AI. Ciò potrebbe influenzare gli ETF del settore finanziario e dei bond.",
+      "summary_en": "Amid higher real rates and an elevated AI-related supply, investors are reassessing positioning within corporate credit.",
+      "source": "CNBC World",
+      "link": "https://www.cnbc.com/2026/08/14/why-higher-rated-corporate-debt-might-not-be-the-best-trade.html",
+      "date": "2026-08-14 04:00",
+      "score": 7.4,
+      "impact": "bearish",
+      "sectors": [
+        "Bonds",
+        "Commodities",
+        "Financials",
+        "Industrials"
+      ],
+      "primary_sector": "Bonds",
+      "etf_tickers": [
+        "HYG",
+        "LQD"
+      ],
+      "rotation": ""
+    },
+    {
+      "title": "Arm co-founder Hermann Hauser’s AI warning: The revolution is real, but so is the bubble risk",
+      "headline_it": "Avvertimento su bolla AI",
+      "summary_it": "Il co-fondatore di Arm, Hermann Hauser, avverte sul rischio di bolla nell'industria dell'intelligenza artificiale. Ciò potrebbe avere un impatto sui settori tecnologici e del mercato più ampio.",
+      "summary_en": "An investor who's witnessed every major technology for the last four decades joins CNBC's The Tech Download podcast.",
+      "source": "CNBC World",
+      "link": "https://www.cnbc.com/2026/08/14/arm-ai-bubble-hermann-hauser-the-tech-download.html",
+      "date": "2026-08-14 11:00",
+      "score": 7.4,
+      "impact": "bearish",
+      "sectors": [
+        "Broad Market",
+        "Commodities",
+        "Energy",
+        "Industrials",
+        "International",
+        "Tech & Semiconductors"
+      ],
+      "primary_sector": "Broad Market",
+      "etf_tickers": [
+        "QQQ",
+        "SMH"
+      ],
+      "rotation": ""
+    },
+    {
+      "title": "How a niche copper trade became a real-time gauge of Trump’s next tariff move",
+      "headline_it": "Rame come indicatore dei dazi",
+      "summary_it": "Il prezzo del rame è diventato un indicatore dei prossimi movimenti dei dazi negli Stati Uniti. La differenza di prezzo del rame tra due borse dei metalli offre agli investitori un gauge del rischio dei dazi statunitensi.",
+      "summary_en": "The widening price of copper between two metals exchanges is offering investors a gauge of U.S. tariff risk.",
+      "source": "CNBC World",
+      "link": "https://www.cnbc.com/2026/08/14/copper-trump-tariffs-metal-commodities-trade-war.html",
+      "date": "2026-08-14 13:24",
+      "score": 7.4,
+      "impact": "neutral",
+      "sectors": [
+        "Broad Market",
+        "Commodities",
+        "Consumers",
+        "International",
+        "Tech & Semiconductors"
+      ],
+      "primary_sector": "Broad Market",
+      "etf_tickers": [],
+      "rotation": ""
+    },
+    {
+      "title": "NATO aircraft shoot down drone over Latvia, which blames 'Russian electromagnetic warfare'",
+      "headline_it": "NATO abbatte drone sulla Lettonia",
+      "summary_it": "L'abbattimento di un drone straniero sulla Lettonia da parte di aerei NATO ha aumentato le preoccupazioni per la sicurezza nel Baltico, potenzialmente influenzando i mercati energetici e globali.",
+      "summary_en": "NATO fighters shot down a foreign drone over Latvia as Finland briefly restricted airspace and sea areas amid heightened Baltic security concerns.",
+      "source": "CNBC World",
+      "link": "https://www.cnbc.com/2026/08/14/nato-drone-latvia.html",
+      "date": "2026-08-14 12:21",
+      "score": 7.4,
+      "impact": "bearish",
+      "sectors": [
+        "Broad Market",
+        "Commodities",
+        "Energy",
+        "Industrials",
+        "International"
+      ],
+      "primary_sector": "Broad Market",
+      "etf_tickers": [
+        "EEM"
+      ],
+      "rotation": ""
+    },
+    {
+      "title": "Apple's Tim Cook joined by Howard Lutnick in opening Houston manufacturing plant",
+      "headline_it": "Tim Cook apre stabilimento a Houston",
+      "summary_it": "Tim Cook, CEO di Apple, partecipa all'apertura di uno stabilimento di produzione a Houston, mentre si appresta a lasciare il suo incarico. Ciò potrebbe avere un impatto sul settore tecnologico.",
+      "summary_en": "As Tim Cook gets set to step down as Apple CEO, he's offering a glimpse into what he may be doing as chairman.",
+      "source": "CNBC World",
+      "link": "https://www.cnbc.com/2026/08/13/apples-tim-cook-and-howard-lutnick-open-houston-manufacturing-plant.html",
+      "date": "2026-08-13 21:23",
+      "score": 7.4,
+      "impact": "neutral",
+      "sectors": [
+        "Broad Market",
+        "Commodities",
+        "Consumers",
+        "Energy",
+        "Industrials",
+        "International",
+        "Tech & Semiconductors"
+      ],
+      "primary_sector": "Broad Market",
+      "etf_tickers": [
+        "QQQ"
+      ],
+      "rotation": ""
+    },
+    {
+      "title": "Israeli strike kills seven in south Lebanon as attacks intensify",
+      "headline_it": "Israele colpisce il Libano",
+      "summary_it": "L'attacco israeliano in Libano ha causato sette morti, aumentando le tensioni nella regione e potenzialmente impattando sul settore energetico.",
+      "summary_en": "Deadliest Israeli attack in Lebanon since June agreements significantly reduced hostilities.",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/news/2026/8/15/israeli-strike-kills-seven-in-south-lebanon-as-attacks-intensify?traffic_source=rss",
+      "date": "2026-08-15 07:18",
+      "score": 7.4,
+      "impact": "bearish",
+      "sectors": [
+        "Broad Market",
+        "Energy",
+        "Industrials",
+        "International"
+      ],
+      "primary_sector": "Broad Market",
+      "etf_tickers": [],
+      "rotation": ""
+    },
+    {
+      "title": "South Korea’s president wants talks with North to end Korean War",
+      "headline_it": "Corea del Sud propone colloqui",
+      "summary_it": "Il presidente della Corea del Sud propone colloqui con la Corea del Nord per porre fine formalmente alla guerra di Corea. Ciò potrebbe avere un impatto significativo sulle relazioni internazionali.",
+      "summary_en": "South Korean President Lee Jae Myung has proposed talks with North Korea to formally end the Korean War.",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/15/south-koreas-president-wants-talks-with-north-to-end-korean-war?traffic_source=rss",
+      "date": "2026-08-15 06:53",
+      "score": 7.4,
+      "impact": "bullish",
+      "sectors": [
+        "Broad Market",
+        "Commodities",
+        "Energy",
+        "International",
+        "Tech & Semiconductors"
+      ],
+      "primary_sector": "Broad Market",
+      "etf_tickers": [],
+      "rotation": ""
+    },
+    {
+      "title": "Did the US really destroy Iran’s ballistic missile capability?",
+      "headline_it": "Stati Uniti distruggono capacità missilistica iraniana",
+      "summary_it": "Gli Stati Uniti affermano di aver distrutto la capacità missilistica iraniana, ma un ex consigliere della Casa Bianca definisce ciò un'illusione. Ciò potrebbe avere un impatto sul settore energetico.",
+      "summary_en": "The US claims it destroyed Iran’s missile capability, but a former White House adviser calls that a “pipe dream&quot;.",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/15/08-11-2026-tia-us-iran-munitions-quotable?traffic_source=rss",
+      "date": "2026-08-15 03:52",
+      "score": 7.4,
+      "impact": "bearish",
+      "sectors": [
+        "Commodities",
+        "Energy",
+        "Industrials",
+        "International"
+      ],
+      "primary_sector": "Commodities",
+      "etf_tickers": [],
+      "rotation": ""
+    },
+    {
+      "title": "The Houthis Are Risking Everything for Iran",
+      "headline_it": "Houthis rischiano guerra",
+      "summary_it": "La situazione in Yemen potrebbe sfociare in una guerra su larga scala, influenzando il mercato energetico. Ciò potrebbe avere un impatto sul prezzo del petrolio.",
+      "summary_en": "Tehran’s proxy risks pushing a newly consolidated Saudi Arabia into an all-out ground war.",
+      "source": "Foreign Policy",
+      "link": "https://foreignpolicy.com/2026/08/12/houthis-risking-everything-iran-naval-blockade/",
+      "date": "2026-08-12 05:00",
+      "score": 7.4,
+      "impact": "bearish",
+      "sectors": [
+        "Broad Market",
+        "Commodities",
+        "Energy",
+        "Industrials",
+        "International"
+      ],
+      "primary_sector": "Broad Market",
+      "etf_tickers": [],
+      "rotation": ""
+    },
+    {
+      "title": "Somali Piracy Surges Amid Hormuz Blockade",
+      "headline_it": "Pirateria somala aumenta",
+      "summary_it": "La chiusura dello Stretto di Hormuz ha costretto centinaia di navi commerciali a prendere rotte più lunghe intorno all'Africa, e i pirati somali stanno sfruttando l'aumento del traffico al largo della costa orientale del continente. Ciò potrebbe avere un impatto sulle rotte marittime e sui costi del petrolio.",
+      "summary_en": "The effective closure of the Strait of Hormuz has forced hundreds of commercial ships onto longer routes around Africa, and Somali pirates are moving quickly to exploit the sudden increase in traffic off the continent’s eastern coast. Oil tankers MT Honour 25, MT Eureka and MT Asana were hijacked in the Gulf of Aden and off Puntland between April and July 2026, the largest attacks by Somali pirates in years. The Iran war has now delivered these groups more targets, spread across thousands of miles of ocean, while diverting naval resources…",
+      "source": "OilPrice",
+      "link": "https://oilprice.com/Energy/Energy-General/Somali-Piracy-Surges-Amid-Hormuz-Blockade.html",
+      "date": "2026-08-15 00:00",
+      "score": 7.4,
+      "impact": "bearish",
+      "sectors": [
+        "Broad Market",
+        "Commodities",
+        "Energy",
+        "Industrials",
+        "International"
+      ],
+      "primary_sector": "Broad Market",
+      "etf_tickers": [
+        "VTI"
+      ],
+      "rotation": ""
+    },
+    {
+      "title": "Iran’s Economy Is Buckling Under the Weight of War",
+      "headline_it": "Crisi economica in Iran",
+      "summary_it": "L'economia iraniana sta subendo le conseguenze della guerra, con un'inflazione in aumento e una riduzione del potere d'acquisto. Ciò potrebbe avere un impatto sul settore energetico e sui mercati globali.",
+      "summary_en": "Every week, the shopping lists of Iranians become shorter as inflation soars and purchasing power plunges. “As things disappear from the dining table, fruit goes first, then dairy products, then anything considered non-essential,” a woman in the Iranian capital, Tehran, said in an audio message sent to RFE/RL’s Radio Farda. “Ultimately, everything we buy is only essentials, but even then, nothing is affordable,” added the woman, who spoke on condition of anonymity for security reasons. She is among the millions of…",
+      "source": "OilPrice",
+      "link": "https://oilprice.com/Geopolitics/Middle-East/Irans-Economy-Is-Buckling-Under-the-Weight-of-War.html",
+      "date": "2026-08-14 14:00",
+      "score": 7.4,
+      "impact": "bearish",
+      "sectors": [
+        "Bonds",
+        "Broad Market",
+        "Commodities",
+        "Energy",
+        "Industrials",
+        "International"
+      ],
+      "primary_sector": "Bonds",
+      "etf_tickers": [
+        "SPY"
+      ],
+      "rotation": ""
+    },
+    {
+      "title": "Federal Reserve Board issues enforcement action with former employee of Regions Bank",
+      "headline_it": "Azione di enforcement della Fed",
+      "summary_it": "La Federal Reserve ha emesso un'azione di enforcement contro un ex dipendente di Regions Bank, potrebbe avere un impatto limitato sul settore finanziario.",
+      "summary_en": "Federal Reserve Board issues enforcement action with former employee of Regions Bank",
+      "source": "Federal Reserve",
+      "link": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20260813a.htm",
+      "date": "2026-08-13 15:00",
+      "score": 6.1,
+      "impact": "bearish",
+      "sectors": [
+        "Financials"
+      ],
+      "primary_sector": "Financials",
+      "etf_tickers": [
+        "XLF"
+      ],
+      "rotation": ""
+    },
+    {
+      "title": "Extreme heat spurs earliest-ever Champagne harvest, putting its famous taste to the test",
+      "headline_it": "Caldo estremo colpisce produzione Champagne",
+      "summary_it": "La produzione di Champagne è stata colpita dal caldo estremo, mettendo alla prova il suo famoso gusto. I produttori devono affrontare la sfida di preservare il profilo di gusto mentre combattono anche le complicazioni doganali e la diminuzione dei consumatori.",
+      "summary_en": "Producers of the iconic French fizz face a challenge to preserve its taste profile while they also battle tariff complications and fewer drinkers.",
+      "source": "CNBC World",
+      "link": "https://www.cnbc.com/2026/08/15/heatwave-champagne-harvest-climate.html",
+      "date": "2026-08-15 05:00",
+      "score": 6.1,
+      "impact": "bearish",
+      "sectors": [
+        "Broad Market",
+        "Consumers",
+        "Industrials",
+        "International"
+      ],
+      "primary_sector": "Broad Market",
+      "etf_tickers": [
+        "XLP"
+      ],
+      "rotation": ""
+    }
+  ]
+}

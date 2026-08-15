@@ -1,30 +1,36 @@
 {
-  "date": "August 08, 2026",
-  "week": "2026-W32",
+  "date": "August 15, 2026",
+  "week": "2026-W33",
   "ideas": [
     {
+      "ticker": "XLE",
+      "price": 61.91,
+      "direction": "long",
+      "desc": "Oil & Gas"
+    },
+    {
       "ticker": "QQQ",
-      "price": 723.03,
+      "price": 731.07,
       "direction": "long",
       "desc": "Nasdaq 100"
     },
     {
+      "ticker": "KWEB",
+      "price": 27.01,
+      "direction": "long",
+      "desc": "China Internet"
+    },
+    {
+      "ticker": "SKYY",
+      "price": 165.34,
+      "direction": "long",
+      "desc": "Cloud Computing"
+    },
+    {
       "ticker": "SPY",
-      "price": 773.26,
+      "price": 776.34,
       "direction": "long",
       "desc": "S&P 500"
-    },
-    {
-      "ticker": "USO",
-      "price": 117.98,
-      "direction": "long",
-      "desc": "Crude Oil"
-    },
-    {
-      "ticker": "GDX",
-      "price": 89.89,
-      "direction": "long",
-      "desc": "Gold Miners"
     }
   ]
 }
