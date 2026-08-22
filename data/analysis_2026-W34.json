@@ -1,0 +1,643 @@
+{
+  "report_date": "August 22, 2026",
+  "week": "2026-W34",
+  "analysis": {
+    "report_date": "August 22, 2026",
+    "market_overview": {
+      "spy_1w": -1.37,
+      "qqq_1w": -2.41,
+      "breadth": "4/13",
+      "best_sector": {
+        "name": "Crypto",
+        "w1": 13.06
+      },
+      "worst_sector": {
+        "name": "Industrials",
+        "w1": -4.09
+      },
+      "best_etf": {
+        "ticker": "BITO",
+        "desc": "Bitcoin Futures",
+        "w1": 22.47
+      },
+      "worst_etf": {
+        "ticker": "JETS",
+        "desc": "Airlines",
+        "w1": -6.31
+      }
+    },
+    "sector_performance": {
+      "Broad Market": {
+        "w1": -1.54,
+        "m1": 3.28,
+        "m3": 3.97,
+        "m6": 12.56,
+        "y1": 24.93,
+        "y3": 77.83
+      },
+      "International": {
+        "w1": -0.3,
+        "m1": 3.52,
+        "m3": 1.4,
+        "m6": -1.81,
+        "y1": 11.6,
+        "y3": 54.56
+      },
+      "Tech & Semiconductors": {
+        "w1": -2.65,
+        "m1": 9.9,
+        "m3": 10.37,
+        "m6": 33.26,
+        "y1": 37.04,
+        "y3": 120.84
+      },
+      "Healthcare": {
+        "w1": 7.79,
+        "m1": 14.36,
+        "m3": 32.91,
+        "m6": 34.86,
+        "y1": 69.09,
+        "y3": 70.59
+      },
+      "Financials": {
+        "w1": 0.9,
+        "m1": 6.35,
+        "m3": 11.21,
+        "m6": 13.19,
+        "y1": -2.6,
+        "y3": 52.08
+      },
+      "Energy": {
+        "w1": -0.39,
+        "m1": 0.43,
+        "m3": -11.0,
+        "m6": 7.54,
+        "y1": 41.69,
+        "y3": 49.92
+      },
+      "Commodities": {
+        "w1": 7.01,
+        "m1": 19.13,
+        "m3": 2.93,
+        "m6": -5.31,
+        "y1": 62.21,
+        "y3": 143.6
+      },
+      "Real Estate": {
+        "w1": -1.09,
+        "m1": 0.76,
+        "m3": 4.91,
+        "m6": -2.72,
+        "y1": 2.65,
+        "y3": 30.61
+      },
+      "Industrials": {
+        "w1": -4.09,
+        "m1": 2.15,
+        "m3": -2.83,
+        "m6": 1.18,
+        "y1": 27.62,
+        "y3": 83.18
+      },
+      "Bonds": {
+        "w1": -0.1,
+        "m1": 0.04,
+        "m3": -0.43,
+        "m6": -2.59,
+        "y1": 1.6,
+        "y3": 14.5
+      },
+      "Crypto": {
+        "w1": 13.06,
+        "m1": 10.18,
+        "m3": -1.68,
+        "m6": 15.22,
+        "y1": -12.46,
+        "y3": 161.01
+      },
+      "Consumers": {
+        "w1": -0.77,
+        "m1": 7.15,
+        "m3": 2.12,
+        "m6": 0.43,
+        "y1": 0.43,
+        "y3": 59.42
+      },
+      "Utilities": {
+        "w1": -3.48,
+        "m1": -7.4,
+        "m3": -4.35,
+        "m6": -6.44,
+        "y1": 2.04,
+        "y3": 47.89
+      }
+    },
+    "country_performance": {
+      "United States": {
+        "w1": -1.54,
+        "m1": 3.28,
+        "m3": 3.97,
+        "m6": 12.56,
+        "y1": 24.93,
+        "y3": 77.83
+      },
+      "Europe": {
+        "w1": -0.02,
+        "m1": 5.76,
+        "m3": 6.22,
+        "m6": 5.63,
+        "y1": 21.09,
+        "y3": 80.26
+      },
+      "China": {
+        "w1": 0.42,
+        "m1": 1.85,
+        "m3": -2.44,
+        "m6": -9.08,
+        "y1": -5.28,
+        "y3": 28.94
+      },
+      "India": {
+        "w1": -0.02,
+        "m1": 4.63,
+        "m3": 4.16,
+        "m6": -4.79,
+        "y1": -6.42,
+        "y3": 18.23
+      },
+      "EM Asia": {
+        "w1": 0.73,
+        "m1": 3.94,
+        "m3": 3.26,
+        "m6": 5.61,
+        "y1": 36.45,
+        "y3": 72.57
+      },
+      "EM Latin America": {
+        "w1": 2.31,
+        "m1": 1.55,
+        "m3": 1.81,
+        "m6": -1.05,
+        "y1": 34.17,
+        "y3": 79.34
+      },
+      "EM Africa & Middle East": {
+        "w1": 1.6,
+        "m1": 5.56,
+        "m3": 4.53,
+        "m6": -4.35,
+        "y1": 10.38,
+        "y3": 39.71
+      },
+      "Other": {
+        "w1": 0.03,
+        "m1": 4.91,
+        "m3": 4.17,
+        "m6": 5.01,
+        "y1": 24.43,
+        "y3": 74.15
+      }
+    },
+    "top_gainers": [
+      {
+        "t": "BITO",
+        "d": "Bitcoin Futures",
+        "w1": 22.47
+      },
+      {
+        "t": "GDX",
+        "d": "Gold Miners",
+        "w1": 14.29
+      },
+      {
+        "t": "ARKG",
+        "d": "Genomics",
+        "w1": 13.81
+      },
+      {
+        "t": "COPX",
+        "d": "Copper Miners",
+        "w1": 10.37
+      },
+      {
+        "t": "IBB",
+        "d": "Biotech Large Cap",
+        "w1": 7.72
+      }
+    ],
+    "top_losers": [
+      {
+        "t": "JETS",
+        "d": "Airlines",
+        "w1": -6.31
+      },
+      {
+        "t": "ITA",
+        "d": "Aerospace & Defense",
+        "w1": -6.27
+      },
+      {
+        "t": "HACK",
+        "d": "Cybersecurity",
+        "w1": -5.55
+      },
+      {
+        "t": "QCLN",
+        "d": "Clean Tech",
+        "w1": -5.54
+      },
+      {
+        "t": "UFO",
+        "d": "Space",
+        "w1": -5.28
+      }
+    ],
+    "momentum": {
+      "Healthcare": {
+        "score": 95
+      },
+      "Commodities": {
+        "score": 88
+      },
+      "Crypto": {
+        "score": 71
+      },
+      "Financials": {
+        "score": 63
+      },
+      "Tech & Semiconductors": {
+        "score": 62
+      },
+      "International": {
+        "score": 52
+      },
+      "Consumers": {
+        "score": 50
+      },
+      "Broad Market": {
+        "score": 49
+      },
+      "Real Estate": {
+        "score": 40
+      },
+      "Energy": {
+        "score": 37
+      },
+      "Bonds": {
+        "score": 35
+      },
+      "Industrials": {
+        "score": 31
+      },
+      "Utilities": {
+        "score": 10
+      }
+    },
+    "country_momentum": {
+      "EM Africa & Middle East": {
+        "score": 95
+      },
+      "Europe": {
+        "score": 87
+      },
+      "Other": {
+        "score": 76
+      },
+      "EM Asia": {
+        "score": 70
+      },
+      "EM Latin America": {
+        "score": 65
+      },
+      "India": {
+        "score": 29
+      },
+      "United States": {
+        "score": 27
+      },
+      "China": {
+        "score": 10
+      }
+    },
+    "capital_flows": {
+      "inflow": [
+        {
+          "group": "Healthcare",
+          "flow_score": 37
+        },
+        {
+          "group": "Crypto",
+          "flow_score": 32
+        },
+        {
+          "group": "Commodities",
+          "flow_score": 30
+        }
+      ],
+      "outflow": []
+    },
+    "country_flows": {
+      "inflow": [
+        {
+          "group": "Other",
+          "flow_score": 41
+        },
+        {
+          "group": "India",
+          "flow_score": 36
+        },
+        {
+          "group": "China",
+          "flow_score": 28
+        }
+      ],
+      "outflow": []
+    },
+    "rsi_extremes": {
+      "overbought": [
+        {
+          "t": "BITO",
+          "d": "Bitcoin Futures",
+          "rsi": 79.3
+        },
+        {
+          "t": "GDX",
+          "d": "Gold Miners",
+          "rsi": 75.3
+        },
+        {
+          "t": "ARKG",
+          "d": "Genomics",
+          "rsi": 74.8
+        },
+        {
+          "t": "XLE",
+          "d": "Oil & Gas",
+          "rsi": 71.8
+        },
+        {
+          "t": "GLD",
+          "d": "Gold",
+          "rsi": 71.2
+        }
+      ],
+      "oversold": [
+        {
+          "t": "XLU",
+          "d": "Utilities",
+          "rsi": 32.7
+        },
+        {
+          "t": "JETS",
+          "d": "Airlines",
+          "rsi": 38.6
+        },
+        {
+          "t": "TAN",
+          "d": "Solar",
+          "rsi": 39.0
+        },
+        {
+          "t": "ICLN",
+          "d": "Clean Energy",
+          "rsi": 39.4
+        },
+        {
+          "t": "ITA",
+          "d": "Aerospace & Defense",
+          "rsi": 40.4
+        }
+      ]
+    },
+    "news_by_sector": {
+      "Broad Market": {
+        "count": 35,
+        "top": [
+          {
+            "hl": "Goldman Sachs picks China stocks poised to benefit from a new wave of AI-related hardware exports",
+            "impact": "neutral",
+            "src": "CNBC Finance"
+          },
+          {
+            "hl": "Russia says its economy is strong. It just fired a top economist who warned otherwise",
+            "impact": "mixed",
+            "src": "CNBC Economy"
+          }
+        ]
+      },
+      "International": {
+        "count": 37,
+        "top": [
+          {
+            "hl": "Here’s how Bessent’s newly activist Treasury Department is undercutting the Fed’s Warsh",
+            "impact": "neutral",
+            "src": "MarketWatch"
+          },
+          {
+            "hl": "Analysis: Bond market pressure is squeezing Main Street as Wall Street waits on Warsh",
+            "impact": "bearish",
+            "src": "CNBC Finance"
+          }
+        ]
+      },
+      "Tech & Semiconductors": {
+        "count": 4,
+        "top": [
+          {
+            "hl": "Broadcom debt deal expected to reach upwards of $70 billion, sources say",
+            "impact": "neutral",
+            "src": "CNBC World"
+          },
+          {
+            "hl": "As GOP warns data centers put Ohio Senate seat at risk, Husted defends energy policy",
+            "impact": "bearish",
+            "src": "CNBC World"
+          }
+        ]
+      },
+      "Financials": {
+        "count": 13,
+        "top": [
+          {
+            "hl": "Federal Reserve Board announces approval of application by National Westminster Bank Plc",
+            "impact": "neutral",
+            "src": "Federal Reserve"
+          },
+          {
+            "hl": "Federal Reserve Board issues enforcement action with SouthPoint Bancshares, Inc. and announces termi",
+            "impact": "neutral",
+            "src": "Federal Reserve"
+          }
+        ]
+      },
+      "Energy": {
+        "count": 34,
+        "top": [
+          {
+            "hl": "Nukes all around? A fraying U.S. nuclear umbrella is pushing allies to weigh defense options, raisin",
+            "impact": "neutral",
+            "src": "CNBC World"
+          },
+          {
+            "hl": "'A delicate dance': JD Vance says economic pressure is the best way to achieve Washington's objectiv",
+            "impact": "neutral",
+            "src": "CNBC World"
+          }
+        ]
+      },
+      "Commodities": {
+        "count": 36,
+        "top": [
+          {
+            "hl": "Trump: ‘We’re seeing what happens’ on sanctions for Iran",
+            "impact": "bearish",
+            "src": "Al Jazeera"
+          },
+          {
+            "hl": "How much could Trump's 'economic D-Day' hurt Iran?",
+            "impact": "neutral",
+            "src": "BBC World"
+          }
+        ]
+      },
+      "Real Estate": {
+        "count": 1,
+        "top": [
+          {
+            "hl": "U.S. bond intervention is like 'paying your mortgage with your credit card,' JPMorgan's Sullivan say",
+            "impact": "neutral",
+            "src": "CNBC World"
+          }
+        ]
+      },
+      "Industrials": {
+        "count": 24,
+        "top": [
+          {
+            "hl": "Gold rebounds as bond jitters, debt fears and weaker dollar revive bullion demand",
+            "impact": "mixed",
+            "src": "CNBC World"
+          },
+          {
+            "hl": "World Bank projects war-hit Lebanon’s economy to contract by 6.4 percent",
+            "impact": "bullish",
+            "src": "Al Jazeera"
+          }
+        ]
+      },
+      "Bonds": {
+        "count": 9,
+        "top": [
+          {
+            "hl": "Fed officials saw need for rate hike if inflation doesn't cool, minutes show",
+            "impact": "bearish",
+            "src": "CNBC Finance"
+          },
+          {
+            "hl": "Bessent's bond gambit aimed at calming markets is instead stirring inflation worries",
+            "impact": "neutral",
+            "src": "CNBC Economy"
+          }
+        ]
+      },
+      "Consumers": {
+        "count": 1,
+        "top": [
+          {
+            "hl": "India Builds Clean Power Faster Than It Can Use It",
+            "impact": "bullish",
+            "src": "OilPrice"
+          }
+        ]
+      }
+    },
+    "rotation_signals": [],
+    "best_region": {
+      "name": "EM Latin America",
+      "w1": 2.31
+    },
+    "worst_region": {
+      "name": "United States",
+      "w1": -1.54
+    },
+    "top_country_etfs": [
+      {
+        "t": "EZA",
+        "d": "South Africa",
+        "w1": 7.37
+      },
+      {
+        "t": "VNM",
+        "d": "Vietnam",
+        "w1": 4.14
+      },
+      {
+        "t": "EWZ",
+        "d": "Brazil",
+        "w1": 3.33
+      }
+    ],
+    "bot_country_etfs": [
+      {
+        "t": "EWJ",
+        "d": "Japan",
+        "w1": -3.09
+      },
+      {
+        "t": "EWN",
+        "d": "Netherlands",
+        "w1": -3.0
+      },
+      {
+        "t": "CQQQ",
+        "d": "Tech",
+        "w1": -2.97
+      }
+    ],
+    "risk": {
+      "realized_vol": 12.9,
+      "pct_overbought": 7,
+      "pct_oversold": 0,
+      "risk_score": 93,
+      "worst_drawdowns_3m": [
+        {
+          "t": "REMX",
+          "dd": -36.8
+        },
+        {
+          "t": "UFO",
+          "dd": -36.7
+        },
+        {
+          "t": "TAN",
+          "dd": -35.5
+        },
+        {
+          "t": "EWY",
+          "dd": -34.2
+        },
+        {
+          "t": "QCLN",
+          "dd": -32.1
+        }
+      ]
+    }
+  },
+  "ai_commentary_html": "",
+  "counts": {
+    "etfs": 106,
+    "sectors": 13,
+    "regions": 8
+  },
+  "spy_weekly": [
+    728.99,
+    744.78,
+    754.95,
+    743.29,
+    738.93,
+    747.03,
+    773.26,
+    776.34,
+    765.72
+  ]
+}

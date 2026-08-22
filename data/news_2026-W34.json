@@ -1,0 +1,1277 @@
+{
+  "generated": "2026-08-22T08:17:05.271950",
+  "lookback_days": 7,
+  "total_articles": 50,
+  "sector_news": {
+    "Broad Market": {
+      "count": 35,
+      "top": [
+        {
+          "headline": "Goldman Sachs picks China stocks poised to benefit from a new wave of AI-related hardware exports",
+          "summary": "The Wall Street powerhouse notes areas where execution of corporate strategy matters more than macroeconomic trends.",
+          "impact": "neutral",
+          "source": "CNBC Finance",
+          "score": 10.0,
+          "link": "https://www.cnbc.com/2026/08/16/goldman-picks-china-stocks-poised-to-benefit-from-wave-of-ai-related-exports.html",
+          "etf_tickers": []
+        },
+        {
+          "headline": "Russia says its economy is strong. It just fired a top economist who warned otherwise",
+          "summary": "Andrei Klepach was reportedly fired from his role after presenting a report warning that Russia could not win a prolonged war of attrition with Ukraine.",
+          "impact": "mixed",
+          "source": "CNBC Economy",
+          "score": 10.0,
+          "link": "https://www.cnbc.com/2026/08/18/ukraine-war-russia-economy-klepach.html",
+          "etf_tickers": []
+        },
+        {
+          "headline": "U.S., Canada fail to reach a tariff deal, deepen trade war",
+          "summary": "The United States and Canada failed to reach a trade deal late on Friday, and the U.S. said it would impose 50% tariffs on some imports from Canada.",
+          "impact": "neutral",
+          "source": "CNBC World",
+          "score": 10.0,
+          "link": "https://www.cnbc.com/2026/08/21/us-canada-fail-to-reach-a-tariff-deal-deepen-trade-war.html",
+          "etf_tickers": []
+        }
+      ]
+    },
+    "International": {
+      "count": 37,
+      "top": [
+        {
+          "headline": "Here’s how Bessent’s newly activist Treasury Department is undercutting the Fed’s Warsh",
+          "summary": "The surprising move this week by Treasury Secretary Scott Bessent to intervene in Treasury markets to lower the cost of government debt undercuts the credibility of Federal Reserve Chairman Kevin Warsh to make interest-rate policy, experts said.",
+          "impact": "neutral",
+          "source": "MarketWatch",
+          "score": 10.0,
+          "link": "https://www.marketwatch.com/story/heres-how-bessents-newly-activist-treasury-department-is-undercutting-the-feds-warsh-480455c2?mod=mw_rss_topstories",
+          "etf_tickers": []
+        },
+        {
+          "headline": "Analysis: Bond market pressure is squeezing Main Street as Wall Street waits on Warsh",
+          "summary": "A sell-off in long-term Treasurys is raising borrowing costs, exposing how debt, AI spending and energy are turning the bond market into a political problem.",
+          "impact": "bearish",
+          "source": "CNBC Finance",
+          "score": 10.0,
+          "link": "https://www.cnbc.com/2026/08/18/bond-market-treasury-yields-warsh-main-street.html",
+          "etf_tickers": []
+        },
+        {
+          "headline": "Credit card issuer Synchrony announces partnership with OpenAI",
+          "summary": "The collaboration, which is in its early stages, is a step toward enabling Synchrony customers to have smoother online shopping experiences.",
+          "impact": "neutral",
+          "source": "CNBC Finance",
+          "score": 10.0,
+          "link": "https://www.cnbc.com/2026/08/17/synchrony-openai.html",
+          "etf_tickers": []
+        }
+      ]
+    },
+    "Tech & Semiconductors": {
+      "count": 4,
+      "top": [
+        {
+          "headline": "Broadcom debt deal expected to reach upwards of $70 billion, sources say",
+          "summary": "Broadcom is in talks to raise upwards of $70 to $80 billion in debt for a chip financing deal, CNBC's David Faber reported on Friday.",
+          "impact": "neutral",
+          "source": "CNBC World",
+          "score": 10.0,
+          "link": "https://www.cnbc.com/2026/08/21/broadcom-debt-deal-expected-to-reach-upwards-of-70-billion-sources.html",
+          "etf_tickers": []
+        },
+        {
+          "headline": "As GOP warns data centers put Ohio Senate seat at risk, Husted defends energy policy",
+          "summary": "Vice President JD Vance joined Sen. Jon Husted and other GOP leaders at a Middletown, Ohio, steel plant, as data center fears loom.",
+          "impact": "bearish",
+          "source": "CNBC World",
+          "score": 10.0,
+          "link": "https://www.cnbc.com/2026/08/21/jon-husted-data-centers-ohio-senate.html",
+          "etf_tickers": []
+        },
+        {
+          "headline": "Taiwan's AI-fueled forecast of 11% GDP growth likely not sustainable, economists say",
+          "summary": "Taiwan's economic growth could moderate due to its vulnerability to risks of capex slowdown, macroeconomic downturns, and concentration in semiconductors.",
+          "impact": "mixed",
+          "source": "CNBC World",
+          "score": 10.0,
+          "link": "https://www.cnbc.com/2026/08/21/taiwan-gdp-growth-outlook-tech-forecast.html",
+          "etf_tickers": []
+        }
+      ]
+    },
+    "Financials": {
+      "count": 13,
+      "top": [
+        {
+          "headline": "Federal Reserve Board announces approval of application by National Westminster Bank Plc",
+          "summary": "Federal Reserve Board announces approval of application by National Westminster Bank Plc",
+          "impact": "neutral",
+          "source": "Federal Reserve",
+          "score": 10.0,
+          "link": "https://www.federalreserve.gov/newsevents/pressreleases/orders20260820a.htm",
+          "etf_tickers": []
+        },
+        {
+          "headline": "Federal Reserve Board issues enforcement action with SouthPoint Bancshares, Inc. and announces termination of enforcement action with Deutsche Bank AG, DB USA Corporation, and Deutsche Bank AG New York Branch",
+          "summary": "Federal Reserve Board issues enforcement action with SouthPoint Bancshares, Inc. and announces termination of enforcement action with Deutsche Bank AG, DB USA Corporation, and Deutsche Bank AG New York Branch",
+          "impact": "neutral",
+          "source": "Federal Reserve",
+          "score": 10.0,
+          "link": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20260820b.htm",
+          "etf_tickers": []
+        },
+        {
+          "headline": "Federal Reserve Board issues enforcement actions with former employee of Regions Bank and former employee of United Community Bank",
+          "summary": "Federal Reserve Board issues enforcement actions with former employee of Regions Bank and former employee of United Community Bank",
+          "impact": "neutral",
+          "source": "Federal Reserve",
+          "score": 10.0,
+          "link": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20260820a.htm",
+          "etf_tickers": []
+        }
+      ]
+    },
+    "Energy": {
+      "count": 34,
+      "top": [
+        {
+          "headline": "Nukes all around? A fraying U.S. nuclear umbrella is pushing allies to weigh defense options, raising risk of a proliferation cascade",
+          "summary": "As countries take more responsibility for their own defense and nuclear states step back from arms-control commitments, the question of proliferation arises.",
+          "impact": "neutral",
+          "source": "CNBC World",
+          "score": 10.0,
+          "link": "https://www.cnbc.com/2026/08/19/nuclear-proliferation-defense-risk-trump-umbrella-.html",
+          "etf_tickers": []
+        },
+        {
+          "headline": "'A delicate dance': JD Vance says economic pressure is the best way to achieve Washington's objectives in Iran",
+          "summary": "Vance said \"what has been true over the last couple of weeks is they felt a lot more pressure than we have.\"",
+          "impact": "neutral",
+          "source": "CNBC World",
+          "score": 10.0,
+          "link": "https://www.cnbc.com/2026/08/21/us-iran-war-trump-hormuz-vance-economic-pressure.html",
+          "etf_tickers": []
+        },
+        {
+          "headline": "Oil prices are little changed after Iran's president indicates Tehran wants war to end soon",
+          "summary": "U.S. Treasury Secretary Scott Bessent told CNBC on Thursday that Washington will impose the \"toughest sanctions in history\" against Iran.",
+          "impact": "bullish",
+          "source": "CNBC World",
+          "score": 10.0,
+          "link": "https://www.cnbc.com/2026/08/21/oil-prices-us-iran.html",
+          "etf_tickers": []
+        }
+      ]
+    },
+    "Commodities": {
+      "count": 36,
+      "top": [
+        {
+          "headline": "Trump: ‘We’re seeing what happens’ on sanctions for Iran",
+          "summary": "Donald Trump repeated claims that Iran is weakened economically and militarily and ‘would love’ to make a deal.",
+          "impact": "bearish",
+          "source": "Al Jazeera",
+          "score": 10.0,
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/8/21/pakistans-imran-khan-back-to-prison-after-evaluation-at-hospital?traffic_source=rss",
+          "etf_tickers": []
+        },
+        {
+          "headline": "How much could Trump's 'economic D-Day' hurt Iran?",
+          "summary": "Iran has so far proved adept at finding ways around years of already punishing sanctions on its economy.",
+          "impact": "neutral",
+          "source": "BBC World",
+          "score": 10.0,
+          "link": "https://www.bbc.co.uk/news/articles/cre4gdvlj9ro?at_medium=RSS&at_campaign=rss",
+          "etf_tickers": []
+        },
+        {
+          "headline": "China’s Teapots Look Beyond Iranian Oil amid U.S. Blockade",
+          "summary": "China’s refiners have imported lower volumes of Iranian crude in August compared to July as the U.S. blockade reinstated in mid-July is squeezing crude supply to Iran’s top oil customer.    So far this month, China is estimated to have imported about 534,000 barrels per day (bpd) of Iranian crude oil, down from an estimated 823,000 bpd in July, according to preliminary data by Kpler cited by Reuters. The reinstated U.S. blockade on Iranian oil exports is preventing new supply from Iran to leave the Persian Gulf, while the…",
+          "impact": "neutral",
+          "source": "OilPrice",
+          "score": 10.0,
+          "link": "https://oilprice.com/Latest-Energy-News/World-News/Chinas-Teapots-Look-Beyond-Iranian-Oil-amid-US-Blockade.html",
+          "etf_tickers": []
+        }
+      ]
+    },
+    "Real Estate": {
+      "count": 1,
+      "top": [
+        {
+          "headline": "U.S. bond intervention is like 'paying your mortgage with your credit card,' JPMorgan's Sullivan says",
+          "summary": "The U.S. government's efforts to manage pressure in the Treasury market risk merely shifting the problem down the road, according to JPMorgan's James Sullivan.",
+          "impact": "neutral",
+          "source": "CNBC World",
+          "score": 10.0,
+          "link": "https://www.cnbc.com/2026/08/21/us-bond-intervention-shifting-problem-future-jpmorgan.html",
+          "etf_tickers": []
+        }
+      ]
+    },
+    "Industrials": {
+      "count": 24,
+      "top": [
+        {
+          "headline": "Gold rebounds as bond jitters, debt fears and weaker dollar revive bullion demand",
+          "summary": "Gold is rebounding as investors weigh U.S. debt concerns, a weaker dollar and stubbornly high Treasury yields.",
+          "impact": "mixed",
+          "source": "CNBC World",
+          "score": 10.0,
+          "link": "https://www.cnbc.com/2026/08/21/gold-prices-us-debt-dollar.html",
+          "etf_tickers": []
+        },
+        {
+          "headline": "World Bank projects war-hit Lebanon’s economy to contract by 6.4 percent",
+          "summary": "Conflict with Israel derails Lebanon&#039;s economic recovery as inflation and consumer prices rise, the global lender says.",
+          "impact": "bullish",
+          "source": "Al Jazeera",
+          "score": 10.0,
+          "link": "https://www.aljazeera.com/news/2026/8/22/world-bank-projects-war-hit-lebanons-economy-to-contract-by-6-4-percent?traffic_source=rss",
+          "etf_tickers": []
+        },
+        {
+          "headline": "Iranian president says time to end war with US from ‘position of strength’",
+          "summary": "Omani and Iranian foreign ministers hold a call as Washington prepares economic sanctions.",
+          "impact": "neutral",
+          "source": "Al Jazeera",
+          "score": 10.0,
+          "link": "https://www.aljazeera.com/news/2026/8/22/iranian-president-says-time-to-end-war-with-us-from-position-of?traffic_source=rss",
+          "etf_tickers": []
+        }
+      ]
+    },
+    "Bonds": {
+      "count": 9,
+      "top": [
+        {
+          "headline": "Fed officials saw need for rate hike if inflation doesn't cool, minutes show",
+          "summary": "The Federal Reserve on Wednesday released minutes from its July 28-29 policy meeting.",
+          "impact": "bearish",
+          "source": "CNBC Finance",
+          "score": 10.0,
+          "link": "https://www.cnbc.com/2026/08/19/fed-minutes-july-2026-officials-saw-need-for-rate-hike-if-inflation-doesnt-cool.html",
+          "etf_tickers": []
+        },
+        {
+          "headline": "Bessent's bond gambit aimed at calming markets is instead stirring inflation worries",
+          "summary": "The so-called breakeven rate hit its highest levels in more than two months.",
+          "impact": "neutral",
+          "source": "CNBC Economy",
+          "score": 9.9,
+          "link": "https://www.cnbc.com/2026/08/21/bessents-bond-gambit-aimed-at-calming-markets-is-instead-stirring-inflation-worries-.html",
+          "etf_tickers": []
+        }
+      ]
+    },
+    "Consumers": {
+      "count": 1,
+      "top": [
+        {
+          "headline": "India Builds Clean Power Faster Than It Can Use It",
+          "summary": "Numbers Report – August 21, 2026 In the latest edition of the Numbers Report, we will take a look at some of the most interesting figures put out this week in the energy and metals sectors. Each week we’ll dig into some data and provide a bit of explanation on what drives the numbers. Let’s take a look. 1. US Oil Majors Turn Homeward as War Hits Output - US oil majors are increasingly prioritizing upstream investment in the US and the wider Americas region as Donald Trump’s war against Iran has slashed their 2026 production…",
+          "impact": "bullish",
+          "source": "OilPrice",
+          "score": 10.0,
+          "link": "https://oilprice.com/Alternative-Energy/Renewable-Energy/India-Builds-Clean-Power-Faster-Than-It-Can-Use-It.html",
+          "etf_tickers": []
+        }
+      ]
+    }
+  },
+  "rotation_signals": [],
+  "articles": [
+    {
+      "title": "Federal Reserve Board announces approval of application by National Westminster Bank Plc",
+      "headline_it": "",
+      "summary_it": "",
+      "summary_en": "Federal Reserve Board announces approval of application by National Westminster Bank Plc",
+      "source": "Federal Reserve",
+      "link": "https://www.federalreserve.gov/newsevents/pressreleases/orders20260820a.htm",
+      "date": "2026-08-20 20:00",
+      "score": 10.0,
+      "impact": "neutral",
+      "sectors": [
+        "Financials"
+      ],
+      "primary_sector": "Financials",
+      "etf_tickers": [],
+      "rotation": ""
+    },
+    {
+      "title": "Federal Reserve Board issues enforcement action with SouthPoint Bancshares, Inc. and announces termination of enforcement action with Deutsche Bank AG, DB USA Corporation, and Deutsche Bank AG New York Branch",
+      "headline_it": "",
+      "summary_it": "",
+      "summary_en": "Federal Reserve Board issues enforcement action with SouthPoint Bancshares, Inc. and announces termination of enforcement action with Deutsche Bank AG, DB USA Corporation, and Deutsche Bank AG New York Branch",
+      "source": "Federal Reserve",
+      "link": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20260820b.htm",
+      "date": "2026-08-20 15:00",
+      "score": 10.0,
+      "impact": "neutral",
+      "sectors": [
+        "Financials"
+      ],
+      "primary_sector": "Financials",
+      "etf_tickers": [],
+      "rotation": ""
+    },
+    {
+      "title": "Federal Reserve Board issues enforcement actions with former employee of Regions Bank and former employee of United Community Bank",
+      "headline_it": "",
+      "summary_it": "",
+      "summary_en": "Federal Reserve Board issues enforcement actions with former employee of Regions Bank and former employee of United Community Bank",
+      "source": "Federal Reserve",
+      "link": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20260820a.htm",
+      "date": "2026-08-20 15:00",
+      "score": 10.0,
+      "impact": "neutral",
+      "sectors": [
+        "Financials"
+      ],
+      "primary_sector": "Financials",
+      "etf_tickers": [],
+      "rotation": ""
+    },
+    {
+      "title": "Minutes of the Federal Open Market Committee, July 28–29, 2026",
+      "headline_it": "",
+      "summary_it": "",
+      "summary_en": "Minutes of the Federal Open Market Committee, July 28–29, 2026",
+      "source": "Federal Reserve",
+      "link": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20260819a.htm",
+      "date": "2026-08-19 18:00",
+      "score": 10.0,
+      "impact": "neutral",
+      "sectors": [],
+      "primary_sector": null,
+      "etf_tickers": [],
+      "rotation": ""
+    },
+    {
+      "title": "Here’s how Bessent’s newly activist Treasury Department is undercutting the Fed’s Warsh",
+      "headline_it": "",
+      "summary_it": "",
+      "summary_en": "The surprising move this week by Treasury Secretary Scott Bessent to intervene in Treasury markets to lower the cost of government debt undercuts the credibility of Federal Reserve Chairman Kevin Warsh to make interest-rate policy, experts said.",
+      "source": "MarketWatch",
+      "link": "https://www.marketwatch.com/story/heres-how-bessents-newly-activist-treasury-department-is-undercutting-the-feds-warsh-480455c2?mod=mw_rss_topstories",
+      "date": "2026-08-21 20:11",
+      "score": 10.0,
+      "impact": "neutral",
+      "sectors": [
+        "Bonds",
+        "Broad Market",
+        "Commodities",
+        "Energy",
+        "Industrials",
+        "International"
+      ],
+      "primary_sector": "Bonds",
+      "etf_tickers": [],
+      "rotation": ""
+    },
+    {
+      "title": "Fed officials saw need for rate hike if inflation doesn't cool, minutes show",
+      "headline_it": "",
+      "summary_it": "",
+      "summary_en": "The Federal Reserve on Wednesday released minutes from its July 28-29 policy meeting.",
+      "source": "CNBC Finance",
+      "link": "https://www.cnbc.com/2026/08/19/fed-minutes-july-2026-officials-saw-need-for-rate-hike-if-inflation-doesnt-cool.html",
+      "date": "2026-08-19 18:54",
+      "score": 10.0,
+      "impact": "bearish",
+      "sectors": [
+        "Bonds",
+        "Broad Market",
+        "Commodities",
+        "Financials"
+      ],
+      "primary_sector": "Bonds",
+      "etf_tickers": [],
+      "rotation": ""
+    },
+    {
+      "title": "Analysis: Bond market pressure is squeezing Main Street as Wall Street waits on Warsh",
+      "headline_it": "",
+      "summary_it": "",
+      "summary_en": "A sell-off in long-term Treasurys is raising borrowing costs, exposing how debt, AI spending and energy are turning the bond market into a political problem.",
+      "source": "CNBC Finance",
+      "link": "https://www.cnbc.com/2026/08/18/bond-market-treasury-yields-warsh-main-street.html",
+      "date": "2026-08-18 16:48",
+      "score": 10.0,
+      "impact": "bearish",
+      "sectors": [
+        "Bonds",
+        "Broad Market",
+        "Commodities",
+        "Energy",
+        "International"
+      ],
+      "primary_sector": "Bonds",
+      "etf_tickers": [],
+      "rotation": ""
+    },
+    {
+      "title": "Credit card issuer Synchrony announces partnership with OpenAI",
+      "headline_it": "",
+      "summary_it": "",
+      "summary_en": "The collaboration, which is in its early stages, is a step toward enabling Synchrony customers to have smoother online shopping experiences.",
+      "source": "CNBC Finance",
+      "link": "https://www.cnbc.com/2026/08/17/synchrony-openai.html",
+      "date": "2026-08-18 02:48",
+      "score": 10.0,
+      "impact": "neutral",
+      "sectors": [
+        "Bonds",
+        "Broad Market",
+        "Commodities",
+        "Energy",
+        "Financials",
+        "International"
+      ],
+      "primary_sector": "Bonds",
+      "etf_tickers": [],
+      "rotation": ""
+    },
+    {
+      "title": "Goldman Sachs picks China stocks poised to benefit from a new wave of AI-related hardware exports",
+      "headline_it": "",
+      "summary_it": "",
+      "summary_en": "The Wall Street powerhouse notes areas where execution of corporate strategy matters more than macroeconomic trends.",
+      "source": "CNBC Finance",
+      "link": "https://www.cnbc.com/2026/08/16/goldman-picks-china-stocks-poised-to-benefit-from-wave-of-ai-related-exports.html",
+      "date": "2026-08-16 11:55",
+      "score": 10.0,
+      "impact": "neutral",
+      "sectors": [
+        "Broad Market",
+        "Commodities",
+        "Energy",
+        "Financials",
+        "International"
+      ],
+      "primary_sector": "Broad Market",
+      "etf_tickers": [],
+      "rotation": ""
+    },
+    {
+      "title": "Russia says its economy is strong. It just fired a top economist who warned otherwise",
+      "headline_it": "",
+      "summary_it": "",
+      "summary_en": "Andrei Klepach was reportedly fired from his role after presenting a report warning that Russia could not win a prolonged war of attrition with Ukraine.",
+      "source": "CNBC Economy",
+      "link": "https://www.cnbc.com/2026/08/18/ukraine-war-russia-economy-klepach.html",
+      "date": "2026-08-18 11:51",
+      "score": 10.0,
+      "impact": "mixed",
+      "sectors": [
+        "Broad Market",
+        "Commodities",
+        "Energy",
+        "International"
+      ],
+      "primary_sector": "Broad Market",
+      "etf_tickers": [],
+      "rotation": ""
+    },
+    {
+      "title": "U.S., Canada fail to reach a tariff deal, deepen trade war",
+      "headline_it": "",
+      "summary_it": "",
+      "summary_en": "The United States and Canada failed to reach a trade deal late on Friday, and the U.S. said it would impose 50% tariffs on some imports from Canada.",
+      "source": "CNBC World",
+      "link": "https://www.cnbc.com/2026/08/21/us-canada-fail-to-reach-a-tariff-deal-deepen-trade-war.html",
+      "date": "2026-08-22 06:20",
+      "score": 10.0,
+      "impact": "neutral",
+      "sectors": [
+        "Broad Market",
+        "Commodities",
+        "Energy",
+        "International"
+      ],
+      "primary_sector": "Broad Market",
+      "etf_tickers": [],
+      "rotation": ""
+    },
+    {
+      "title": "Broadcom debt deal expected to reach upwards of $70 billion, sources say",
+      "headline_it": "",
+      "summary_it": "",
+      "summary_en": "Broadcom is in talks to raise upwards of $70 to $80 billion in debt for a chip financing deal, CNBC's David Faber reported on Friday.",
+      "source": "CNBC World",
+      "link": "https://www.cnbc.com/2026/08/21/broadcom-debt-deal-expected-to-reach-upwards-of-70-billion-sources.html",
+      "date": "2026-08-21 15:59",
+      "score": 10.0,
+      "impact": "neutral",
+      "sectors": [
+        "Broad Market",
+        "Commodities",
+        "Energy",
+        "International",
+        "Tech & Semiconductors"
+      ],
+      "primary_sector": "Broad Market",
+      "etf_tickers": [],
+      "rotation": ""
+    },
+    {
+      "title": "As GOP warns data centers put Ohio Senate seat at risk, Husted defends energy policy",
+      "headline_it": "",
+      "summary_it": "",
+      "summary_en": "Vice President JD Vance joined Sen. Jon Husted and other GOP leaders at a Middletown, Ohio, steel plant, as data center fears loom.",
+      "source": "CNBC World",
+      "link": "https://www.cnbc.com/2026/08/21/jon-husted-data-centers-ohio-senate.html",
+      "date": "2026-08-21 23:12",
+      "score": 10.0,
+      "impact": "bearish",
+      "sectors": [
+        "Broad Market",
+        "Commodities",
+        "Energy",
+        "International",
+        "Tech & Semiconductors"
+      ],
+      "primary_sector": "Broad Market",
+      "etf_tickers": [],
+      "rotation": ""
+    },
+    {
+      "title": "'A delicate dance': JD Vance says economic pressure is the best way to achieve Washington's objectives in Iran",
+      "headline_it": "",
+      "summary_it": "",
+      "summary_en": "Vance said \"what has been true over the last couple of weeks is they felt a lot more pressure than we have.\"",
+      "source": "CNBC World",
+      "link": "https://www.cnbc.com/2026/08/21/us-iran-war-trump-hormuz-vance-economic-pressure.html",
+      "date": "2026-08-21 08:10",
+      "score": 10.0,
+      "impact": "neutral",
+      "sectors": [
+        "Commodities",
+        "Energy",
+        "Industrials",
+        "International"
+      ],
+      "primary_sector": "Commodities",
+      "etf_tickers": [],
+      "rotation": ""
+    },
+    {
+      "title": "Gold rebounds as bond jitters, debt fears and weaker dollar revive bullion demand",
+      "headline_it": "",
+      "summary_it": "",
+      "summary_en": "Gold is rebounding as investors weigh U.S. debt concerns, a weaker dollar and stubbornly high Treasury yields.",
+      "source": "CNBC World",
+      "link": "https://www.cnbc.com/2026/08/21/gold-prices-us-debt-dollar.html",
+      "date": "2026-08-21 13:21",
+      "score": 10.0,
+      "impact": "mixed",
+      "sectors": [
+        "Bonds",
+        "Commodities",
+        "Industrials"
+      ],
+      "primary_sector": "Bonds",
+      "etf_tickers": [],
+      "rotation": ""
+    },
+    {
+      "title": "U.S. bond intervention is like 'paying your mortgage with your credit card,' JPMorgan's Sullivan says",
+      "headline_it": "",
+      "summary_it": "",
+      "summary_en": "The U.S. government's efforts to manage pressure in the Treasury market risk merely shifting the problem down the road, according to JPMorgan's James Sullivan.",
+      "source": "CNBC World",
+      "link": "https://www.cnbc.com/2026/08/21/us-bond-intervention-shifting-problem-future-jpmorgan.html",
+      "date": "2026-08-21 02:48",
+      "score": 10.0,
+      "impact": "neutral",
+      "sectors": [
+        "Bonds",
+        "Financials",
+        "Real Estate"
+      ],
+      "primary_sector": "Bonds",
+      "etf_tickers": [],
+      "rotation": ""
+    },
+    {
+      "title": "Oil prices are little changed after Iran's president indicates Tehran wants war to end soon",
+      "headline_it": "",
+      "summary_it": "",
+      "summary_en": "U.S. Treasury Secretary Scott Bessent told CNBC on Thursday that Washington will impose the \"toughest sanctions in history\" against Iran.",
+      "source": "CNBC World",
+      "link": "https://www.cnbc.com/2026/08/21/oil-prices-us-iran.html",
+      "date": "2026-08-21 19:45",
+      "score": 10.0,
+      "impact": "bullish",
+      "sectors": [
+        "Bonds",
+        "Broad Market",
+        "Commodities",
+        "Energy",
+        "Industrials",
+        "International"
+      ],
+      "primary_sector": "Bonds",
+      "etf_tickers": [],
+      "rotation": ""
+    },
+    {
+      "title": "Taiwan's AI-fueled forecast of 11% GDP growth likely not sustainable, economists say",
+      "headline_it": "",
+      "summary_it": "",
+      "summary_en": "Taiwan's economic growth could moderate due to its vulnerability to risks of capex slowdown, macroeconomic downturns, and concentration in semiconductors.",
+      "source": "CNBC World",
+      "link": "https://www.cnbc.com/2026/08/21/taiwan-gdp-growth-outlook-tech-forecast.html",
+      "date": "2026-08-21 13:22",
+      "score": 10.0,
+      "impact": "mixed",
+      "sectors": [
+        "Broad Market",
+        "International",
+        "Tech & Semiconductors"
+      ],
+      "primary_sector": "Broad Market",
+      "etf_tickers": [],
+      "rotation": ""
+    },
+    {
+      "title": "Nukes all around? A fraying U.S. nuclear umbrella is pushing allies to weigh defense options, raising risk of a proliferation cascade",
+      "headline_it": "",
+      "summary_it": "",
+      "summary_en": "As countries take more responsibility for their own defense and nuclear states step back from arms-control commitments, the question of proliferation arises.",
+      "source": "CNBC World",
+      "link": "https://www.cnbc.com/2026/08/19/nuclear-proliferation-defense-risk-trump-umbrella-.html",
+      "date": "2026-08-20 00:45",
+      "score": 10.0,
+      "impact": "neutral",
+      "sectors": [
+        "Energy",
+        "Industrials",
+        "International"
+      ],
+      "primary_sector": "Energy",
+      "etf_tickers": [],
+      "rotation": ""
+    },
+    {
+      "title": "World Bank projects war-hit Lebanon’s economy to contract by 6.4 percent",
+      "headline_it": "",
+      "summary_it": "",
+      "summary_en": "Conflict with Israel derails Lebanon&#039;s economic recovery as inflation and consumer prices rise, the global lender says.",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/news/2026/8/22/world-bank-projects-war-hit-lebanons-economy-to-contract-by-6-4-percent?traffic_source=rss",
+      "date": "2026-08-22 07:35",
+      "score": 10.0,
+      "impact": "bullish",
+      "sectors": [
+        "Bonds",
+        "Broad Market",
+        "Commodities",
+        "Energy",
+        "Financials",
+        "Industrials",
+        "International"
+      ],
+      "primary_sector": "Bonds",
+      "etf_tickers": [],
+      "rotation": ""
+    },
+    {
+      "title": "Palestinian teen shot and killed in West Bank attack, UN responds",
+      "headline_it": "",
+      "summary_it": "",
+      "summary_en": "A 17-year-old Palestinian was killed and another person critically injured in a settler attack in the occupied West Bank",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/22/palestinian-teen-shot-and-killed-in-west-bank-attack-un-responds?traffic_source=rss",
+      "date": "2026-08-22 04:30",
+      "score": 10.0,
+      "impact": "neutral",
+      "sectors": [
+        "Broad Market",
+        "Financials",
+        "International"
+      ],
+      "primary_sector": "Broad Market",
+      "etf_tickers": [],
+      "rotation": ""
+    },
+    {
+      "title": "Iranian president says time to end war with US from ‘position of strength’",
+      "headline_it": "",
+      "summary_it": "",
+      "summary_en": "Omani and Iranian foreign ministers hold a call as Washington prepares economic sanctions.",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/news/2026/8/22/iranian-president-says-time-to-end-war-with-us-from-position-of?traffic_source=rss",
+      "date": "2026-08-22 00:59",
+      "score": 10.0,
+      "impact": "neutral",
+      "sectors": [
+        "Broad Market",
+        "Commodities",
+        "Energy",
+        "Industrials",
+        "International"
+      ],
+      "primary_sector": "Broad Market",
+      "etf_tickers": [],
+      "rotation": ""
+    },
+    {
+      "title": "Several killed in Russia’s ‘double-tap’ drone strike on Ukraine mall",
+      "headline_it": "",
+      "summary_it": "",
+      "summary_en": "Ukraine’s president accuses Russia of a ‘cowardly and deliberate’ attack on a mall in his hometown of Kryvyi Rih.",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/22/several-killed-in-russias-double-tap-drone-strike-on-ukraine-mall?traffic_source=rss",
+      "date": "2026-08-22 00:06",
+      "score": 10.0,
+      "impact": "neutral",
+      "sectors": [
+        "Broad Market",
+        "Commodities",
+        "Energy",
+        "Industrials",
+        "International"
+      ],
+      "primary_sector": "Broad Market",
+      "etf_tickers": [],
+      "rotation": ""
+    },
+    {
+      "title": "Iran war live: Trump says he views Strait of Hormuz as ‘American territory’",
+      "headline_it": "",
+      "summary_it": "",
+      "summary_en": "US president says Iran &#039;would love to make a deal, but they’re not ready to make the right deal in my opinion&#039;.",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/news/liveblog/2026/8/22/iran-war-live-trump-says-tehran-not-ready-to-make-right-deal-to-end-war?traffic_source=rss",
+      "date": "2026-08-22 00:00",
+      "score": 10.0,
+      "impact": "neutral",
+      "sectors": [
+        "Broad Market",
+        "Commodities",
+        "Energy",
+        "Industrials",
+        "International"
+      ],
+      "primary_sector": "Broad Market",
+      "etf_tickers": [],
+      "rotation": ""
+    },
+    {
+      "title": "Trump: ‘We’re seeing what happens’ on sanctions for Iran",
+      "headline_it": "",
+      "summary_it": "",
+      "summary_en": "Donald Trump repeated claims that Iran is weakened economically and militarily and ‘would love’ to make a deal.",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/21/pakistans-imran-khan-back-to-prison-after-evaluation-at-hospital?traffic_source=rss",
+      "date": "2026-08-21 23:19",
+      "score": 10.0,
+      "impact": "bearish",
+      "sectors": [
+        "Commodities",
+        "Energy",
+        "Industrials",
+        "International"
+      ],
+      "primary_sector": "Commodities",
+      "etf_tickers": [],
+      "rotation": ""
+    },
+    {
+      "title": "Canada says it will match US tariffs 'dollar for dollar' as trade talks break down",
+      "headline_it": "",
+      "summary_it": "",
+      "summary_en": "A new 50% levy on $20bn of Canadian imports comes into force after a last-minute breakdown in trade talks.",
+      "source": "BBC World",
+      "link": "https://www.bbc.co.uk/news/articles/cvgvyy4x2mvo?at_medium=RSS&at_campaign=rss",
+      "date": "2026-08-22 04:46",
+      "score": 10.0,
+      "impact": "neutral",
+      "sectors": [
+        "Broad Market",
+        "Industrials",
+        "International"
+      ],
+      "primary_sector": "Broad Market",
+      "etf_tickers": [],
+      "rotation": ""
+    },
+    {
+      "title": "Search for survivors after 16 killed by Russian double-tap strike on Ukraine mall",
+      "headline_it": "",
+      "summary_it": "",
+      "summary_en": "Nine people are still missing after the attack which left 130 injured, including a number of children.",
+      "source": "BBC World",
+      "link": "https://www.bbc.co.uk/news/articles/c39egw7nmk2o?at_medium=RSS&at_campaign=rss",
+      "date": "2026-08-22 06:40",
+      "score": 10.0,
+      "impact": "bearish",
+      "sectors": [
+        "Broad Market",
+        "Commodities",
+        "Energy",
+        "International"
+      ],
+      "primary_sector": "Broad Market",
+      "etf_tickers": [],
+      "rotation": ""
+    },
+    {
+      "title": "Rosenberg: Shortage of petrol but not patriotism as Russians feel growing impact of war",
+      "headline_it": "",
+      "summary_it": "",
+      "summary_en": "Drivers are waiting hours in fuel queues, as Moscow prepares to celebrate Russian Flag Day.",
+      "source": "BBC World",
+      "link": "https://www.bbc.co.uk/news/articles/c4gknzgje7go?at_medium=RSS&at_campaign=rss",
+      "date": "2026-08-21 13:07",
+      "score": 10.0,
+      "impact": "neutral",
+      "sectors": [
+        "Broad Market",
+        "Commodities",
+        "Energy",
+        "International"
+      ],
+      "primary_sector": "Broad Market",
+      "etf_tickers": [],
+      "rotation": ""
+    },
+    {
+      "title": "How much could Trump's 'economic D-Day' hurt Iran?",
+      "headline_it": "",
+      "summary_it": "",
+      "summary_en": "Iran has so far proved adept at finding ways around years of already punishing sanctions on its economy.",
+      "source": "BBC World",
+      "link": "https://www.bbc.co.uk/news/articles/cre4gdvlj9ro?at_medium=RSS&at_campaign=rss",
+      "date": "2026-08-20 23:16",
+      "score": 10.0,
+      "impact": "neutral",
+      "sectors": [
+        "Commodities",
+        "Energy",
+        "Industrials",
+        "International"
+      ],
+      "primary_sector": "Commodities",
+      "etf_tickers": [],
+      "rotation": ""
+    },
+    {
+      "title": "Tornadoes touch down in New York and Delaware",
+      "headline_it": "",
+      "summary_it": "",
+      "summary_en": "Tornadoes swept through New York and Delaware as severe storms brought torrential rain to the Mid-Atlantic.",
+      "source": "BBC World",
+      "link": "https://www.bbc.co.uk/news/videos/cy07x9ne871o?at_medium=RSS&at_campaign=rss",
+      "date": "2026-08-21 14:35",
+      "score": 10.0,
+      "impact": "neutral",
+      "sectors": [
+        "Broad Market",
+        "Commodities",
+        "Energy",
+        "Industrials",
+        "International"
+      ],
+      "primary_sector": "Broad Market",
+      "etf_tickers": [],
+      "rotation": ""
+    },
+    {
+      "title": "ECB Consumer Expectations Survey results – July 2026",
+      "headline_it": "",
+      "summary_it": "",
+      "summary_en": "The European Central Bank (ECB) is the central bank of the European Union countries which have adopted the euro. Our main task is to maintain price stability in the euro area and so preserve the purchasing power of the single currency.",
+      "source": "ECB",
+      "link": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr260821~a044fdddd9.en.html",
+      "date": "2026-08-21 08:00",
+      "score": 10.0,
+      "impact": "neutral",
+      "sectors": [
+        "Financials"
+      ],
+      "primary_sector": "Financials",
+      "etf_tickers": [],
+      "rotation": ""
+    },
+    {
+      "title": "Christine Lagarde: Panel remarks about the European economy during a discussion on the global economic outlook at the World Economic Forum",
+      "headline_it": "",
+      "summary_it": "",
+      "summary_en": "The European Central Bank (ECB) is the central bank of the European Union countries which have adopted the euro. Our main task is to maintain price stability in the euro area and so preserve the purchasing power of the single currency.",
+      "source": "ECB",
+      "link": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp260819~98ddf24b7b.en.html",
+      "date": "2026-08-19 07:10",
+      "score": 10.0,
+      "impact": "neutral",
+      "sectors": [
+        "Financials"
+      ],
+      "primary_sector": "Financials",
+      "etf_tickers": [],
+      "rotation": ""
+    },
+    {
+      "title": "Philip R. Lane: The rise in defence spending and the euro area economy",
+      "headline_it": "",
+      "summary_it": "",
+      "summary_en": "",
+      "source": "ECB",
+      "link": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp260817~1f9f7149c9.en.pdf",
+      "date": "2026-08-17 09:30",
+      "score": 10.0,
+      "impact": "neutral",
+      "sectors": [],
+      "primary_sector": null,
+      "etf_tickers": [],
+      "rotation": ""
+    },
+    {
+      "title": "China's New Five-Year Plan Preps the Nation for Peak Oil",
+      "headline_it": "",
+      "summary_it": "",
+      "summary_en": "China's energy strategy has largely shielded it from the fallout of the war in Iran and the resultant closure of the Strait of Hormuz, a vital artery for global oil and gas trade. However, the country's newest five-year plan for its oil and gas sector reveals ongoing anxieties about geopolitical tensions, future conflicts, reliance on energy imports, and the country's dwindling crude supplies. Released to the public on Monday by the National Development and Reform Commission and the National Energy Administration, the newest five-year plan focuses…",
+      "source": "OilPrice",
+      "link": "https://oilprice.com/Energy/Crude-Oil/Chinas-New-Five-Year-Plan-Preps-the-Nation-for-Peak-Oil.html",
+      "date": "2026-08-21 22:00",
+      "score": 10.0,
+      "impact": "bearish",
+      "sectors": [
+        "Broad Market",
+        "Commodities",
+        "Energy",
+        "Industrials",
+        "International"
+      ],
+      "primary_sector": "Broad Market",
+      "etf_tickers": [],
+      "rotation": ""
+    },
+    {
+      "title": "Iraq Wants to Double Oil Output—and Needs OPEC to Get Out of the Way",
+      "headline_it": "",
+      "summary_it": "",
+      "summary_en": "Iraq wants to more than double its oil production within six years. First, it needs OPEC to let it. Baghdad is targeting output of between 8 million and 10 million barrels per day, up from roughly 4 million bpd before the Iran war, Prime Minister Ali al-Zaidi said Friday. Iraq dispatched its oil and finance ministers to Saudi Arabia the same day to make the case for a higher OPEC production quota. OPEC+ has hired DeGolyer and MacNaughton to independently assess the maximum sustainable production capacity of most members, including Iraq. The consultancy…",
+      "source": "OilPrice",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/Iraq-Wants-to-Double-Oil-Outputand-Needs-OPEC-to-Get-Out-of-the-Way.html",
+      "date": "2026-08-21 18:30",
+      "score": 10.0,
+      "impact": "neutral",
+      "sectors": [
+        "Broad Market",
+        "Commodities",
+        "Energy",
+        "Industrials",
+        "International"
+      ],
+      "primary_sector": "Broad Market",
+      "etf_tickers": [],
+      "rotation": ""
+    },
+    {
+      "title": "China Challenges Russia’s Arms Dominance in Central Asia",
+      "headline_it": "",
+      "summary_it": "",
+      "summary_en": "China is challenging Russia’s stranglehold on Central Asia’s arms market. Uzbekistan appears to have taken delivery of four PRC-made ChengduJ-10CE multi-role combat aircraft, according to multiple reports, one of which includes a photo of one of the fighters supposedly acquired by the Uzbek Air Force.  Tashkent reportedly has an agreement with Beijing to receive a total of 24 fighters. Uzbek and Chinese officials have yet to confirm the initial delivery. If accurate, the deal signals a significant expansion of China’s military…",
+      "source": "OilPrice",
+      "link": "https://oilprice.com/Energy/Energy-General/China-Challenges-Russias-Arms-Dominance-in-Central-Asia.html",
+      "date": "2026-08-21 18:00",
+      "score": 10.0,
+      "impact": "neutral",
+      "sectors": [
+        "Broad Market",
+        "Commodities",
+        "Energy",
+        "Industrials",
+        "International"
+      ],
+      "primary_sector": "Broad Market",
+      "etf_tickers": [],
+      "rotation": ""
+    },
+    {
+      "title": "China’s Teapots Look Beyond Iranian Oil amid U.S. Blockade",
+      "headline_it": "",
+      "summary_it": "",
+      "summary_en": "China’s refiners have imported lower volumes of Iranian crude in August compared to July as the U.S. blockade reinstated in mid-July is squeezing crude supply to Iran’s top oil customer.    So far this month, China is estimated to have imported about 534,000 barrels per day (bpd) of Iranian crude oil, down from an estimated 823,000 bpd in July, according to preliminary data by Kpler cited by Reuters. The reinstated U.S. blockade on Iranian oil exports is preventing new supply from Iran to leave the Persian Gulf, while the…",
+      "source": "OilPrice",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/Chinas-Teapots-Look-Beyond-Iranian-Oil-amid-US-Blockade.html",
+      "date": "2026-08-21 15:30",
+      "score": 10.0,
+      "impact": "neutral",
+      "sectors": [
+        "Commodities",
+        "Energy",
+        "Industrials",
+        "International"
+      ],
+      "primary_sector": "Commodities",
+      "etf_tickers": [],
+      "rotation": ""
+    },
+    {
+      "title": "Oil Nears $100 as Trump’s ‘Economic D-Day’ Raises the Stakes",
+      "headline_it": "",
+      "summary_it": "",
+      "summary_en": "Hormuz traffic remains near a standstill as Trump’s ‘Economic D-Day’ campaign pushes Brent closer to $100. Friday, August 21, 2026 Transits through the Strait of Hormuz have been in single digits the entire week, with Trump’s announcement of an ‘Economic D-Day’ campaign against Iran increasing geopolitical risk premia in the markets. With ICE Brent at $94 per barrel, Asian LNG prices at $24 per MMBtu and VLCC freight rates at exorbitant levels, this week’s gradual upward creeping momentum towards $100-per-barrel…",
+      "source": "OilPrice",
+      "link": "https://oilprice.com/Energy/Crude-Oil/Oil-Nears-100-as-Trumps-Economic-D-Day-Raises-the-Stakes.html",
+      "date": "2026-08-21 15:01",
+      "score": 10.0,
+      "impact": "bullish",
+      "sectors": [
+        "Broad Market",
+        "Commodities",
+        "Energy",
+        "Industrials",
+        "International"
+      ],
+      "primary_sector": "Broad Market",
+      "etf_tickers": [],
+      "rotation": ""
+    },
+    {
+      "title": "Ukrainian Drone Attack Hits Lukoil Refinery Deep in Russia",
+      "headline_it": "",
+      "summary_it": "",
+      "summary_en": "Ukraine overnight hit with drones an oil refinery in the Perm region, deep into Russian territory, as the Ukrainian military has been targeting Russia’s oil processing and exporting facilities on a nearly daily basis in the past few weeks. Ukrainian forces launched a drone attack on Perm, which is over 1,600 kilometers, or 1,000 miles, from the Ukraine-Russia border, hitting an oil refinery, Ukrainian President Volodymyr Zelenskyy said on Friday.  “Last night, our deep strikes hit an oil refinery in Perm, more than 1,600 kilometers…",
+      "source": "OilPrice",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/Ukrainian-Drone-Attack-Hits-Lukoil-Refinery-Deep-in-Russia.html",
+      "date": "2026-08-21 15:00",
+      "score": 10.0,
+      "impact": "neutral",
+      "sectors": [
+        "Broad Market",
+        "Commodities",
+        "Energy",
+        "Industrials",
+        "International"
+      ],
+      "primary_sector": "Broad Market",
+      "etf_tickers": [],
+      "rotation": ""
+    },
+    {
+      "title": "India Builds Clean Power Faster Than It Can Use It",
+      "headline_it": "",
+      "summary_it": "",
+      "summary_en": "Numbers Report – August 21, 2026 In the latest edition of the Numbers Report, we will take a look at some of the most interesting figures put out this week in the energy and metals sectors. Each week we’ll dig into some data and provide a bit of explanation on what drives the numbers. Let’s take a look. 1. US Oil Majors Turn Homeward as War Hits Output - US oil majors are increasingly prioritizing upstream investment in the US and the wider Americas region as Donald Trump’s war against Iran has slashed their 2026 production…",
+      "source": "OilPrice",
+      "link": "https://oilprice.com/Alternative-Energy/Renewable-Energy/India-Builds-Clean-Power-Faster-Than-It-Can-Use-It.html",
+      "date": "2026-08-21 14:30",
+      "score": 10.0,
+      "impact": "bullish",
+      "sectors": [
+        "Broad Market",
+        "Commodities",
+        "Consumers",
+        "Energy",
+        "Industrials",
+        "International",
+        "Tech & Semiconductors"
+      ],
+      "primary_sector": "Broad Market",
+      "etf_tickers": [],
+      "rotation": ""
+    },
+    {
+      "title": "Saudi Oil Exports from Mediterranean Soar with Shuttles North to Avoid Houthis",
+      "headline_it": "",
+      "summary_it": "",
+      "summary_en": "Saudi Arabia has boosted its crude oil exports from Egypt’s Mediterranean port of Sidi Kerir by about 33% in the month since the Houthis threatened Saudi oil shipments in the southern Red Sea and the Bab el-Mandeb Strait, tanker-tracking data compiled by Bloomberg showed on Friday. Saudi state oil giant Aramco, the world’s single largest crude oil exporter, has started shuttling oil from its Yanbu port on the Red Sea north toward Egypt to avoid the threat from the Iran-aligned Houthi group in Yemen. Western ship operators and owners,…",
+      "source": "OilPrice",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/Saudi-Oil-Exports-from-Mediterranean-Soar-with-Shuttles-North-to-Avoid-Houthis.html",
+      "date": "2026-08-21 14:28",
+      "score": 10.0,
+      "impact": "bullish",
+      "sectors": [
+        "Broad Market",
+        "Commodities",
+        "Energy",
+        "Industrials",
+        "International"
+      ],
+      "primary_sector": "Broad Market",
+      "etf_tickers": [],
+      "rotation": ""
+    },
+    {
+      "title": "Goldman studied where AI is squeezing labor markets. Here's what it found",
+      "headline_it": "",
+      "summary_it": "",
+      "summary_en": "Goldman Sachs found that AI is starting to weigh on employment across developed economies.",
+      "source": "CNBC Finance",
+      "link": "https://www.cnbc.com/2026/08/19/goldman-ai-impact-employment-jobs.html",
+      "date": "2026-08-19 06:55",
+      "score": 9.9,
+      "impact": "neutral",
+      "sectors": [
+        "Commodities",
+        "Financials",
+        "Industrials"
+      ],
+      "primary_sector": "Commodities",
+      "etf_tickers": [],
+      "rotation": ""
+    },
+    {
+      "title": "Bessent's bond gambit aimed at calming markets is instead stirring inflation worries",
+      "headline_it": "",
+      "summary_it": "",
+      "summary_en": "The so-called breakeven rate hit its highest levels in more than two months.",
+      "source": "CNBC Economy",
+      "link": "https://www.cnbc.com/2026/08/21/bessents-bond-gambit-aimed-at-calming-markets-is-instead-stirring-inflation-worries-.html",
+      "date": "2026-08-21 17:51",
+      "score": 9.9,
+      "impact": "neutral",
+      "sectors": [
+        "Bonds",
+        "Broad Market",
+        "Commodities",
+        "Industrials"
+      ],
+      "primary_sector": "Bonds",
+      "etf_tickers": [],
+      "rotation": ""
+    },
+    {
+      "title": "Goldman says hedge funds suffered worst underperformance vs S&P 500 in July in more than 20 years of data",
+      "headline_it": "",
+      "summary_it": "",
+      "summary_en": "Goldman says hedge funds suffered worst underperformance vs S&amp;P 500 in July in more than 20 years of data.",
+      "source": "CNBC World",
+      "link": "https://www.cnbc.com/2026/08/21/goldman-hedge-funds-historic-underperformance-sp500-degrossing.html",
+      "date": "2026-08-21 05:27",
+      "score": 9.9,
+      "impact": "neutral",
+      "sectors": [
+        "Broad Market",
+        "Commodities",
+        "Financials"
+      ],
+      "primary_sector": "Broad Market",
+      "etf_tickers": [],
+      "rotation": ""
+    },
+    {
+      "title": "California lawmaker overcomes pro-Israel spending to win special election",
+      "headline_it": "",
+      "summary_it": "",
+      "summary_en": "Victory for state Senator Aisha Wahab marks the latest example of a progressive overcoming millions in outside spending.",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/news/2026/8/22/california-lawmaker-overcomes-pro-israel-spending-to-win-special-election?traffic_source=rss",
+      "date": "2026-08-22 00:38",
+      "score": 9.9,
+      "impact": "neutral",
+      "sectors": [
+        "Broad Market",
+        "Energy",
+        "Industrials",
+        "International"
+      ],
+      "primary_sector": "Broad Market",
+      "etf_tickers": [],
+      "rotation": ""
+    },
+    {
+      "title": "The Clock Is Ticking Down on Another U.S.-Canada Trade War",
+      "headline_it": "",
+      "summary_it": "",
+      "summary_en": "Senior Canadian officials are looking to make a deal to avoid new 50 percent U.S. tariffs.",
+      "source": "Foreign Policy",
+      "link": "https://foreignpolicy.com/2026/08/20/us-canada-trade-talks-tariffs-steel-aluminum-autos-lumber/",
+      "date": "2026-08-20 20:15",
+      "score": 9.9,
+      "impact": "neutral",
+      "sectors": [
+        "Broad Market",
+        "Commodities",
+        "Energy",
+        "International"
+      ],
+      "primary_sector": "Broad Market",
+      "etf_tickers": [],
+      "rotation": ""
+    },
+    {
+      "title": "Soon you can buy Medicare Advantage plans at Costco. What you need to know.",
+      "headline_it": "",
+      "summary_it": "",
+      "summary_en": "The warehouse club becomes the latest consumer brand to offer health insurance.",
+      "source": "MarketWatch",
+      "link": "https://www.marketwatch.com/story/soon-you-can-buy-medicare-advantage-plans-at-costco-what-you-need-to-know-34e03242?mod=mw_rss_topstories",
+      "date": "2026-08-21 21:17",
+      "score": 9.8,
+      "impact": "neutral",
+      "sectors": [
+        "Broad Market",
+        "Commodities",
+        "Energy",
+        "International"
+      ],
+      "primary_sector": "Broad Market",
+      "etf_tickers": [],
+      "rotation": ""
+    },
+    {
+      "title": "Prediction market traders see roughly 1-in-4 odds Paramount’s bid to buy Warner Bros. Discovery fails",
+      "headline_it": "",
+      "summary_it": "",
+      "summary_en": "The odds are higher than they were before 12 states sued to block the merger, but lower than after Paramount delayed the acquisition in late July.",
+      "source": "CNBC Finance",
+      "link": "https://www.cnbc.com/2026/08/17/pskys-wbd-bid-has-1-in-4-odds-of-falling-through-kalshi-traders-say.html",
+      "date": "2026-08-17 17:43",
+      "score": 9.8,
+      "impact": "neutral",
+      "sectors": [
+        "Broad Market",
+        "Commodities",
+        "Energy",
+        "International"
+      ],
+      "primary_sector": "Broad Market",
+      "etf_tickers": [],
+      "rotation": ""
+    },
+    {
+      "title": "Guyana’s Rodrigues Birkett leads informal poll in race to be next UN leader",
+      "headline_it": "",
+      "summary_it": "",
+      "summary_en": "Guyanese diplomat emerges narrowly ahead as the council works towards consensus before Guterres departs.",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/news/2026/8/22/guyanas-rodrigues-birkett-leads-informal-poll-in-race-to-be-next-un-leader?traffic_source=rss",
+      "date": "2026-08-22 00:32",
+      "score": 9.8,
+      "impact": "neutral",
+      "sectors": [
+        "Broad Market",
+        "Commodities",
+        "Energy",
+        "International"
+      ],
+      "primary_sector": "Broad Market",
+      "etf_tickers": [],
+      "rotation": ""
+    },
+    {
+      "title": "Editor of US newspaper Stars and Stripes reportedly fired under Trump",
+      "headline_it": "",
+      "summary_it": "",
+      "summary_en": "Editor-in-chief Erik Slavin has suggested his firing was retaliation for speaking out about editorial independence.",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/news/2026/8/21/editor-of-us-military-newspaper-stars-and-stripes-says-he-was-fired?traffic_source=rss",
+      "date": "2026-08-21 23:51",
+      "score": 9.8,
+      "impact": "neutral",
+      "sectors": [
+        "Broad Market",
+        "Energy",
+        "International"
+      ],
+      "primary_sector": "Broad Market",
+      "etf_tickers": [],
+      "rotation": ""
+    }
+  ]
+}
