@@ -1,0 +1,1269 @@
+{
+  "generated": "2026-08-29T13:28:40.297970",
+  "lookback_days": 7,
+  "total_articles": 50,
+  "sector_news": {
+    "Broad Market": {
+      "count": 38,
+      "top": [
+        {
+          "headline": "'They asked too much': Canadian dollar slides as Ottawa and Washington head for all-out trade war",
+          "summary": "\"As a smaller, more open economy, Canada has more to lose from this,\" ING strategists said Monday.",
+          "impact": "neutral",
+          "source": "CNBC Economy",
+          "score": 10.0,
+          "link": "https://www.cnbc.com/2026/08/24/canada-us-trade-war-deal.html",
+          "etf_tickers": []
+        },
+        {
+          "headline": "Tech backlash reaches fever pitch as AI angst collides with social media fears",
+          "summary": "With data center concerns becoming a major election issue and Meta reaching a landmark settlement in a social media case, the tech backlash is gaining steam.",
+          "impact": "mixed",
+          "source": "CNBC World",
+          "score": 10.0,
+          "link": "https://www.cnbc.com/2026/08/29/tech-backlash-ai-data-centers-elections.html",
+          "etf_tickers": []
+        },
+        {
+          "headline": "Oil exports from the Gulf rise to more than 60% of level before Iran war, Goldman Sachs estimates",
+          "summary": "It has become difficult to figure out how much oil is flowing from the Gulf because information  from the region is limited due to the war, Goldman said.",
+          "impact": "neutral",
+          "source": "CNBC World",
+          "score": 10.0,
+          "link": "https://www.cnbc.com/2026/08/28/iran-war-gulf-oil-exports-goldman-estimate.html",
+          "etf_tickers": []
+        }
+      ]
+    },
+    "International": {
+      "count": 43,
+      "top": [
+        {
+          "headline": "Fed Chairman Warsh expresses concern about inflation, advocates for 'quieter' central bank",
+          "summary": "He used the speech to outline his philosophy on policymaking while carefully sidestepping any signals",
+          "impact": "neutral",
+          "source": "CNBC Economy",
+          "score": 10.0,
+          "link": "https://www.cnbc.com/2026/08/28/kevin-warsh-jackson-hole-federal-reserve-inflation.html",
+          "etf_tickers": []
+        },
+        {
+          "headline": "China needs U.S. dollars but is building a hedge against Washington’s sanctions",
+          "summary": "The U.S. can pressure Chinese banks over Iran through access to its financial system, while Beijing is building alternatives such as CIPS.",
+          "impact": "bullish",
+          "source": "CNBC Economy",
+          "score": 10.0,
+          "link": "https://www.cnbc.com/2026/08/25/china-iran-us-sanctions-banks-cips.html",
+          "etf_tickers": []
+        },
+        {
+          "headline": "Iran trade falls as Supreme Leader Khamenei urges less reliance on the U.S. dollar",
+          "summary": "Iran's president says sanctions are hitting imports and exports, as its supreme leader urges less reliance on the U.S. dollar.",
+          "impact": "bearish",
+          "source": "CNBC World",
+          "score": 10.0,
+          "link": "https://www.cnbc.com/2026/08/29/iran-trade-sanctions-dollar-oil-exports.html",
+          "etf_tickers": []
+        }
+      ]
+    },
+    "Tech & Semiconductors": {
+      "count": 2,
+      "top": [
+        {
+          "headline": "Chip Industry Week in Review",
+          "summary": "Hot Chips AI HW wave; HBM vs HBC; capacity buildout; Infineon's latest buy; advanced packaging enablers; foundry report; ASIC security threats; IC tariffs; executive changes; Nvidia, Synopsys earnings; dependence on Taiwan; wafer-scale 2D semiconductors.\nThe post Chip Industry Week in Review appeared first on Semiconductor Engineering.",
+          "impact": "neutral",
+          "source": "SemiEngineering",
+          "score": 10.0,
+          "link": "https://semiengineering.com/chip-industry-week-in-review-153/",
+          "etf_tickers": []
+        }
+      ]
+    },
+    "Financials": {
+      "count": 13,
+      "top": [
+        {
+          "headline": "Isabel Schnabel: Central banks on-chain",
+          "summary": "The European Central Bank (ECB) is the central bank of the European Union countries which have adopted the euro. Our main task is to maintain price stability in the euro area and so preserve the purchasing power of the single currency.",
+          "impact": "neutral",
+          "source": "ECB",
+          "score": 10.0,
+          "link": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp260828~fe9afc86e8.en.html",
+          "etf_tickers": []
+        },
+        {
+          "headline": "Meeting of 22-23 July 2026",
+          "summary": "The European Central Bank (ECB) is the central bank of the European Union countries which have adopted the euro. Our main task is to maintain price stability in the euro area and so preserve the purchasing power of the single currency.",
+          "impact": "neutral",
+          "source": "ECB",
+          "score": 10.0,
+          "link": "https://www.ecb.europa.eu//press/accounts/2026/html/ecb.mg260827~f06c21fd54.en.html",
+          "etf_tickers": []
+        },
+        {
+          "headline": "Piero Cipollone: From vision to delivery: building Europe’s tokenised financial market",
+          "summary": "The European Central Bank (ECB) is the central bank of the European Union countries which have adopted the euro. Our main task is to maintain price stability in the euro area and so preserve the purchasing power of the single currency.",
+          "impact": "neutral",
+          "source": "ECB",
+          "score": 10.0,
+          "link": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp260826~3641116314.en.html",
+          "etf_tickers": []
+        }
+      ]
+    },
+    "Energy": {
+      "count": 41,
+      "top": [
+        {
+          "headline": "S&P 500 falls Friday after Fed’s Warsh highlights inflation worries, but index posts positive week",
+          "summary": "The three major indexes posted winning weeks.",
+          "impact": "mixed",
+          "source": "CNBC World",
+          "score": 10.0,
+          "link": "https://www.cnbc.com/2026/08/27/stock-market-today-live-updates.html",
+          "etf_tickers": []
+        },
+        {
+          "headline": "Analysis: Kevin Warsh sharpens inflation warning at Jackson Hole, signaling possible rate hike",
+          "summary": "After confusing markets at his July news conference, Fed Chairman Kevin Warsh used Jackson Hole to give a clearer view of the case for higher interest rates.",
+          "impact": "bearish",
+          "source": "CNBC World",
+          "score": 10.0,
+          "link": "https://www.cnbc.com/2026/08/28/kevin-warsh-jackson-hole-fed-inflation-rate-hike.html",
+          "etf_tickers": []
+        },
+        {
+          "headline": "Russian strike on Kyiv-area warehouse causes detonation, killing 27",
+          "summary": "",
+          "impact": "neutral",
+          "source": "CNBC World",
+          "score": 10.0,
+          "link": "https://www.cnbc.com/2026/08/29/russian-strike-on-kyiv-area-warehouse-causes-detonation-killing-27.html",
+          "etf_tickers": []
+        }
+      ]
+    },
+    "Commodities": {
+      "count": 41,
+      "top": [
+        {
+          "headline": "At least 37 dead and hundreds evacuated after strike on Kyiv weapons depot",
+          "summary": "An investigation has begun into the storage of weapons for Ukraine's military near a residential area.",
+          "impact": "neutral",
+          "source": "BBC World",
+          "score": 10.0,
+          "link": "https://www.bbc.co.uk/news/articles/c86xwqez4npo?at_medium=RSS&at_campaign=rss",
+          "etf_tickers": []
+        },
+        {
+          "headline": "US visa interviews on hold; China slams fresh sanctions over Iran: SCMP’s 7 highlights",
+          "summary": "We have selected seven stories from this week’s news across Hong Kong, mainland China, the wider Asia region and beyond that resonated with our readers and shed light on topical issues. If you would like to see more of our reporting, please consider subscribing.\n1. The path to America is narrowing. Here’s what that means for legal immigrants\nUS green card interviews are on hold worldwide, student and work visas are subject to new restrictions, and citizenship is under fresh scrutiny. The SCMP...",
+          "impact": "neutral",
+          "source": "SCMP",
+          "score": 10.0,
+          "link": "https://www.scmp.com/news/china/article/3365519/us-visa-interviews-hold-china-slams-fresh-sanctions-over-iran-scmps-7-highlights?utm_source=rss_feed",
+          "etf_tickers": []
+        },
+        {
+          "headline": "Treasury moves to sanction UAE branch of Egyptian bank over Iran ties",
+          "summary": "Banque Misr UAE processed about $1.8 billion over two years for some 100 companies that are potentially part of Iran's shadow banking network, Treasury said.",
+          "impact": "neutral",
+          "source": "CNBC World",
+          "score": 10.0,
+          "link": "https://www.cnbc.com/2026/08/28/treasury-uae-banque-misr-sanctions-iran.html",
+          "etf_tickers": []
+        }
+      ]
+    },
+    "Real Estate": {
+      "count": 1,
+      "top": [
+        {
+          "headline": "Russia’s Energy Crisis Puts Kazakhstan in a Tough Spot",
+          "summary": "Kazakhstan is trying to keep the Kremlin at arm’s length amid Russian efforts to lean on Central Asian states for help in bolstering Moscow’s staggering war economy. Ukraine’s ongoing drone campaign has inflicted severe damage on Russia’s energy infrastructure and its military-industrial complex, prompting Russian officials to seek emergency energy supplies and refining arrangements from Central Asian states, while exploring offshoring options for arms production. …",
+          "impact": "bearish",
+          "source": "OilPrice",
+          "score": 10.0,
+          "link": "https://oilprice.com/Energy/Energy-General/Russias-Energy-Crisis-Puts-Kazakhstan-in-a-Tough-Spot.html",
+          "etf_tickers": []
+        }
+      ]
+    },
+    "Industrials": {
+      "count": 31,
+      "top": [
+        {
+          "headline": "2-year Treasury yield jumps as Warsh says Fed may 'have work to do'",
+          "summary": "Investors assessed Federal Reserve Chair Kevin Warsh's hawkish message in his keynote address at Jackson Hole.",
+          "impact": "bearish",
+          "source": "CNBC World",
+          "score": 10.0,
+          "link": "https://www.cnbc.com/2026/08/28/treasury-yields-jackson-hole.html",
+          "etf_tickers": []
+        },
+        {
+          "headline": "Six months into the Iran war: Markets become accustomed to stalemate with no end in sight",
+          "summary": "The war has far exceeded the four to six weeks the Trump administration estimated it would take to meet its objectives in Iran.",
+          "impact": "neutral",
+          "source": "CNBC World",
+          "score": 10.0,
+          "link": "https://www.cnbc.com/2026/08/28/us-iran-war-six-months-trump.html",
+          "etf_tickers": []
+        },
+        {
+          "headline": "Fed Chairman Kevin Warsh delivers his key Jackson Hole speech Friday. Here's what to expect",
+          "summary": "Prior Fed chairs have used the speech as an opportunity to lay out broad policy frameworks and intentions.",
+          "impact": "neutral",
+          "source": "CNBC Finance",
+          "score": 10.0,
+          "link": "https://www.cnbc.com/2026/08/27/fed-chairman-kevin-warsh-delivers-his-key-jackson-hole-speech-friday.html",
+          "etf_tickers": []
+        }
+      ]
+    },
+    "Bonds": {
+      "count": 7,
+      "top": [
+        {
+          "headline": "September Fed decision is now a coin flip as rate hike odds increase post Warsh",
+          "summary": "Odds rose after Warsh's speech in Jackson Hole, Wyo., where he discussed that he still is frustrated with the overall inflation trend.",
+          "impact": "bearish",
+          "source": "CNBC Finance",
+          "score": 10.0,
+          "link": "https://www.cnbc.com/2026/08/28/-september-fed-decision-now-a-coin-flip-as-rate-hike-odds-increase.html",
+          "etf_tickers": []
+        },
+        {
+          "headline": "Kansas City Fed's Schmid says inflation 'stubborn' and 'sticky,' policy rate not restrictive",
+          "summary": "The policymaker stopped just short of calling for an interest rate hike.",
+          "impact": "bearish",
+          "source": "CNBC Finance",
+          "score": 10.0,
+          "link": "https://www.cnbc.com/2026/08/27/kansas-city-feds-schmid-says-inflation-stubborn-and-sticky-policy-rate-not-restrictive.html",
+          "etf_tickers": []
+        }
+      ]
+    }
+  },
+  "rotation_signals": [],
+  "articles": [
+    {
+      "title": "Federal Reserve Board issues enforcement action with former employee of Banco Popular de Puerto Rico",
+      "headline_it": "",
+      "summary_it": "",
+      "summary_en": "Federal Reserve Board issues enforcement action with former employee of Banco Popular de Puerto Rico",
+      "source": "Federal Reserve",
+      "link": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20260827a.htm",
+      "date": "2026-08-27 15:00",
+      "score": 10.0,
+      "impact": "neutral",
+      "sectors": [],
+      "primary_sector": null,
+      "etf_tickers": [],
+      "rotation": ""
+    },
+    {
+      "title": "Minutes of the Board's discount rate meetings on July 20 and July 29, 2026",
+      "headline_it": "",
+      "summary_it": "",
+      "summary_en": "Minutes of the Board's discount rate meetings on July 20 and July 29, 2026",
+      "source": "Federal Reserve",
+      "link": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20260825a.htm",
+      "date": "2026-08-25 18:00",
+      "score": 10.0,
+      "impact": "neutral",
+      "sectors": [],
+      "primary_sector": null,
+      "etf_tickers": [],
+      "rotation": ""
+    },
+    {
+      "title": "Fed Chairman Warsh expresses concern about inflation, advocates for 'quieter' central bank",
+      "headline_it": "",
+      "summary_it": "",
+      "summary_en": "He used the speech to outline his philosophy on policymaking while carefully sidestepping any signals",
+      "source": "CNBC Economy",
+      "link": "https://www.cnbc.com/2026/08/28/kevin-warsh-jackson-hole-federal-reserve-inflation.html",
+      "date": "2026-08-28 16:11",
+      "score": 10.0,
+      "impact": "neutral",
+      "sectors": [
+        "Bonds",
+        "Broad Market",
+        "Commodities",
+        "Energy",
+        "Financials",
+        "International"
+      ],
+      "primary_sector": "Bonds",
+      "etf_tickers": [],
+      "rotation": ""
+    },
+    {
+      "title": "China needs U.S. dollars but is building a hedge against Washington’s sanctions",
+      "headline_it": "",
+      "summary_it": "",
+      "summary_en": "The U.S. can pressure Chinese banks over Iran through access to its financial system, while Beijing is building alternatives such as CIPS.",
+      "source": "CNBC Economy",
+      "link": "https://www.cnbc.com/2026/08/25/china-iran-us-sanctions-banks-cips.html",
+      "date": "2026-08-25 16:00",
+      "score": 10.0,
+      "impact": "bullish",
+      "sectors": [
+        "Commodities",
+        "Energy",
+        "Financials",
+        "Industrials",
+        "International"
+      ],
+      "primary_sector": "Commodities",
+      "etf_tickers": [],
+      "rotation": ""
+    },
+    {
+      "title": "'They asked too much': Canadian dollar slides as Ottawa and Washington head for all-out trade war",
+      "headline_it": "",
+      "summary_it": "",
+      "summary_en": "\"As a smaller, more open economy, Canada has more to lose from this,\" ING strategists said Monday.",
+      "source": "CNBC Economy",
+      "link": "https://www.cnbc.com/2026/08/24/canada-us-trade-war-deal.html",
+      "date": "2026-08-24 13:35",
+      "score": 10.0,
+      "impact": "neutral",
+      "sectors": [
+        "Broad Market",
+        "Commodities",
+        "Energy",
+        "International"
+      ],
+      "primary_sector": "Broad Market",
+      "etf_tickers": [],
+      "rotation": ""
+    },
+    {
+      "title": "Iran trade falls as Supreme Leader Khamenei urges less reliance on the U.S. dollar",
+      "headline_it": "",
+      "summary_it": "",
+      "summary_en": "Iran's president says sanctions are hitting imports and exports, as its supreme leader urges less reliance on the U.S. dollar.",
+      "source": "CNBC World",
+      "link": "https://www.cnbc.com/2026/08/29/iran-trade-sanctions-dollar-oil-exports.html",
+      "date": "2026-08-29 12:08",
+      "score": 10.0,
+      "impact": "bearish",
+      "sectors": [
+        "Commodities",
+        "Energy",
+        "Industrials",
+        "International"
+      ],
+      "primary_sector": "Commodities",
+      "etf_tickers": [],
+      "rotation": ""
+    },
+    {
+      "title": "S&P 500 falls Friday after Fed’s Warsh highlights inflation worries, but index posts positive week",
+      "headline_it": "",
+      "summary_it": "",
+      "summary_en": "The three major indexes posted winning weeks.",
+      "source": "CNBC World",
+      "link": "https://www.cnbc.com/2026/08/27/stock-market-today-live-updates.html",
+      "date": "2026-08-28 20:50",
+      "score": 10.0,
+      "impact": "mixed",
+      "sectors": [
+        "Bonds",
+        "Broad Market",
+        "Commodities",
+        "Energy",
+        "International"
+      ],
+      "primary_sector": "Bonds",
+      "etf_tickers": [],
+      "rotation": ""
+    },
+    {
+      "title": "Tech backlash reaches fever pitch as AI angst collides with social media fears",
+      "headline_it": "",
+      "summary_it": "",
+      "summary_en": "With data center concerns becoming a major election issue and Meta reaching a landmark settlement in a social media case, the tech backlash is gaining steam.",
+      "source": "CNBC World",
+      "link": "https://www.cnbc.com/2026/08/29/tech-backlash-ai-data-centers-elections.html",
+      "date": "2026-08-29 12:16",
+      "score": 10.0,
+      "impact": "mixed",
+      "sectors": [
+        "Broad Market",
+        "Consumers",
+        "Industrials",
+        "International",
+        "Tech & Semiconductors"
+      ],
+      "primary_sector": "Broad Market",
+      "etf_tickers": [],
+      "rotation": ""
+    },
+    {
+      "title": "Oil exports from the Gulf rise to more than 60% of level before Iran war, Goldman Sachs estimates",
+      "headline_it": "",
+      "summary_it": "",
+      "summary_en": "It has become difficult to figure out how much oil is flowing from the Gulf because information  from the region is limited due to the war, Goldman said.",
+      "source": "CNBC World",
+      "link": "https://www.cnbc.com/2026/08/28/iran-war-gulf-oil-exports-goldman-estimate.html",
+      "date": "2026-08-28 18:10",
+      "score": 10.0,
+      "impact": "neutral",
+      "sectors": [
+        "Broad Market",
+        "Commodities",
+        "Energy",
+        "Financials",
+        "Industrials",
+        "International"
+      ],
+      "primary_sector": "Broad Market",
+      "etf_tickers": [],
+      "rotation": ""
+    },
+    {
+      "title": "Analysis: Kevin Warsh sharpens inflation warning at Jackson Hole, signaling possible rate hike",
+      "headline_it": "",
+      "summary_it": "",
+      "summary_en": "After confusing markets at his July news conference, Fed Chairman Kevin Warsh used Jackson Hole to give a clearer view of the case for higher interest rates.",
+      "source": "CNBC World",
+      "link": "https://www.cnbc.com/2026/08/28/kevin-warsh-jackson-hole-fed-inflation-rate-hike.html",
+      "date": "2026-08-28 17:44",
+      "score": 10.0,
+      "impact": "bearish",
+      "sectors": [
+        "Bonds",
+        "Broad Market",
+        "Commodities",
+        "Energy",
+        "Financials",
+        "Industrials",
+        "International"
+      ],
+      "primary_sector": "Bonds",
+      "etf_tickers": [],
+      "rotation": ""
+    },
+    {
+      "title": "Russian strike on Kyiv-area warehouse causes detonation, killing 27",
+      "headline_it": "",
+      "summary_it": "",
+      "summary_en": "",
+      "source": "CNBC World",
+      "link": "https://www.cnbc.com/2026/08/29/russian-strike-on-kyiv-area-warehouse-causes-detonation-killing-27.html",
+      "date": "2026-08-29 11:45",
+      "score": 10.0,
+      "impact": "neutral",
+      "sectors": [
+        "Broad Market",
+        "Commodities",
+        "Energy",
+        "International"
+      ],
+      "primary_sector": "Broad Market",
+      "etf_tickers": [],
+      "rotation": ""
+    },
+    {
+      "title": "Treasury moves to sanction UAE branch of Egyptian bank over Iran ties",
+      "headline_it": "",
+      "summary_it": "",
+      "summary_en": "Banque Misr UAE processed about $1.8 billion over two years for some 100 companies that are potentially part of Iran's shadow banking network, Treasury said.",
+      "source": "CNBC World",
+      "link": "https://www.cnbc.com/2026/08/28/treasury-uae-banque-misr-sanctions-iran.html",
+      "date": "2026-08-28 18:13",
+      "score": 10.0,
+      "impact": "neutral",
+      "sectors": [
+        "Bonds",
+        "Commodities",
+        "Energy",
+        "Financials",
+        "Industrials",
+        "International"
+      ],
+      "primary_sector": "Bonds",
+      "etf_tickers": [],
+      "rotation": ""
+    },
+    {
+      "title": "2-year Treasury yield jumps as Warsh says Fed may 'have work to do'",
+      "headline_it": "",
+      "summary_it": "",
+      "summary_en": "Investors assessed Federal Reserve Chair Kevin Warsh's hawkish message in his keynote address at Jackson Hole.",
+      "source": "CNBC World",
+      "link": "https://www.cnbc.com/2026/08/28/treasury-yields-jackson-hole.html",
+      "date": "2026-08-28 20:08",
+      "score": 10.0,
+      "impact": "bearish",
+      "sectors": [
+        "Bonds",
+        "Broad Market",
+        "Commodities",
+        "Energy",
+        "Industrials",
+        "International"
+      ],
+      "primary_sector": "Bonds",
+      "etf_tickers": [],
+      "rotation": ""
+    },
+    {
+      "title": "Russian forces intensify attacks in Donetsk as Ukraine lauds fresh EU push to unlock frozen assets",
+      "headline_it": "",
+      "summary_it": "",
+      "summary_en": "Russia claims advances toward Sloviansk and Kramatorsk as fighting intensifies in Donetsk.",
+      "source": "CNBC World",
+      "link": "https://www.cnbc.com/2026/08/28/russia-donetsk-ukraine-frozen-assets.html",
+      "date": "2026-08-28 09:33",
+      "score": 10.0,
+      "impact": "neutral",
+      "sectors": [
+        "Broad Market",
+        "Commodities",
+        "Energy",
+        "International"
+      ],
+      "primary_sector": "Broad Market",
+      "etf_tickers": [],
+      "rotation": ""
+    },
+    {
+      "title": "Six months into the Iran war: Markets become accustomed to stalemate with no end in sight",
+      "headline_it": "",
+      "summary_it": "",
+      "summary_en": "The war has far exceeded the four to six weeks the Trump administration estimated it would take to meet its objectives in Iran.",
+      "source": "CNBC World",
+      "link": "https://www.cnbc.com/2026/08/28/us-iran-war-six-months-trump.html",
+      "date": "2026-08-28 05:02",
+      "score": 10.0,
+      "impact": "neutral",
+      "sectors": [
+        "Broad Market",
+        "Commodities",
+        "Energy",
+        "Industrials",
+        "International"
+      ],
+      "primary_sector": "Broad Market",
+      "etf_tickers": [],
+      "rotation": ""
+    },
+    {
+      "title": "September Fed decision is now a coin flip as rate hike odds increase post Warsh",
+      "headline_it": "",
+      "summary_it": "",
+      "summary_en": "Odds rose after Warsh's speech in Jackson Hole, Wyo., where he discussed that he still is frustrated with the overall inflation trend.",
+      "source": "CNBC Finance",
+      "link": "https://www.cnbc.com/2026/08/28/-september-fed-decision-now-a-coin-flip-as-rate-hike-odds-increase.html",
+      "date": "2026-08-28 15:22",
+      "score": 10.0,
+      "impact": "bearish",
+      "sectors": [
+        "Bonds",
+        "Broad Market",
+        "Commodities",
+        "Energy",
+        "Financials",
+        "International"
+      ],
+      "primary_sector": "Bonds",
+      "etf_tickers": [],
+      "rotation": ""
+    },
+    {
+      "title": "Fed Chairman Kevin Warsh delivers his key Jackson Hole speech Friday. Here's what to expect",
+      "headline_it": "",
+      "summary_it": "",
+      "summary_en": "Prior Fed chairs have used the speech as an opportunity to lay out broad policy frameworks and intentions.",
+      "source": "CNBC Finance",
+      "link": "https://www.cnbc.com/2026/08/27/fed-chairman-kevin-warsh-delivers-his-key-jackson-hole-speech-friday.html",
+      "date": "2026-08-28 11:39",
+      "score": 10.0,
+      "impact": "neutral",
+      "sectors": [
+        "Broad Market",
+        "Commodities",
+        "Energy",
+        "Industrials",
+        "International"
+      ],
+      "primary_sector": "Broad Market",
+      "etf_tickers": [],
+      "rotation": ""
+    },
+    {
+      "title": "Kansas City Fed's Schmid says inflation 'stubborn' and 'sticky,' policy rate not restrictive",
+      "headline_it": "",
+      "summary_it": "",
+      "summary_en": "The policymaker stopped just short of calling for an interest rate hike.",
+      "source": "CNBC Finance",
+      "link": "https://www.cnbc.com/2026/08/27/kansas-city-feds-schmid-says-inflation-stubborn-and-sticky-policy-rate-not-restrictive.html",
+      "date": "2026-08-27 14:11",
+      "score": 10.0,
+      "impact": "bearish",
+      "sectors": [
+        "Bonds",
+        "Broad Market",
+        "Commodities",
+        "Financials"
+      ],
+      "primary_sector": "Bonds",
+      "etf_tickers": [],
+      "rotation": ""
+    },
+    {
+      "title": "Goldman Sachs partner warns of 'huge danger' in letting AI replace bankers' reasoning skills",
+      "headline_it": "",
+      "summary_it": "",
+      "summary_en": "Goldman Sachs is embracing AI, but one of its senior tech leaders warns that it comes with an unintended risk: weakening the reasoning skills of future bankers.",
+      "source": "CNBC Finance",
+      "link": "https://www.cnbc.com/2026/08/24/goldman-sachs-ai-partner-danger-skills.html",
+      "date": "2026-08-24 15:50",
+      "score": 10.0,
+      "impact": "bearish",
+      "sectors": [
+        "Broad Market",
+        "Commodities",
+        "Energy",
+        "Financials",
+        "International"
+      ],
+      "primary_sector": "Broad Market",
+      "etf_tickers": [],
+      "rotation": ""
+    },
+    {
+      "title": "Gaza farmer returns to the grapevines he couldn’t bear to abandon",
+      "headline_it": "",
+      "summary_it": "",
+      "summary_en": "After nearly three years of war, a farmer returns to Sheikh Ijlin’s renowned grape fields.",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/features/longform/2026/8/29/gaza-farmer-returns-to-the-grapevines-he-couldnt-bear-to-abandon?traffic_source=rss",
+      "date": "2026-08-29 12:56",
+      "score": 10.0,
+      "impact": "neutral",
+      "sectors": [
+        "Broad Market",
+        "Commodities",
+        "Energy",
+        "Industrials",
+        "International"
+      ],
+      "primary_sector": "Broad Market",
+      "etf_tickers": [],
+      "rotation": ""
+    },
+    {
+      "title": "Russian attack on warehouse near Ukraine’s Kyiv kills at least 37",
+      "headline_it": "",
+      "summary_it": "",
+      "summary_en": "Ukraine&#039;s President Zelenskyy says warehouse was struck, &#039;followed by a detonation&#039;, causing a major fire.",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/news/2026/8/29/russian-attack-on-warehouse-near-ukraines-kyiv-kills-at-least-27?traffic_source=rss",
+      "date": "2026-08-29 10:36",
+      "score": 10.0,
+      "impact": "neutral",
+      "sectors": [
+        "Broad Market",
+        "Commodities",
+        "Energy",
+        "International"
+      ],
+      "primary_sector": "Broad Market",
+      "etf_tickers": [],
+      "rotation": ""
+    },
+    {
+      "title": "Iran’s leaders acknowledge economic toll of war, pledge diplomacy, defence",
+      "headline_it": "",
+      "summary_it": "",
+      "summary_en": "Iran&#039;s president said sanctions and the US naval blockade had caused exports and imports to slump by nearly 35 percent.",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/news/2026/8/29/irans-leaders-acknowledge-economic-toll-of-war-pledge-diplomacy-defence?traffic_source=rss",
+      "date": "2026-08-29 10:09",
+      "score": 10.0,
+      "impact": "bearish",
+      "sectors": [
+        "Broad Market",
+        "Commodities",
+        "Energy",
+        "Industrials",
+        "International"
+      ],
+      "primary_sector": "Broad Market",
+      "etf_tickers": [],
+      "rotation": ""
+    },
+    {
+      "title": "US revokes visa of former Iraqi minister after watchlist listing",
+      "headline_it": "",
+      "summary_it": "",
+      "summary_en": "The US has revoked an award-winning former Iraqi minister’s visa after the FBI placed her on a ‘terrorism watchlist&#039;.",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/8/29/us-revokes-visa-of-former-iraqi-minister-after-watchlist-listing?traffic_source=rss",
+      "date": "2026-08-29 09:05",
+      "score": 10.0,
+      "impact": "neutral",
+      "sectors": [
+        "Broad Market",
+        "Commodities",
+        "Energy",
+        "Industrials",
+        "International"
+      ],
+      "primary_sector": "Broad Market",
+      "etf_tickers": [],
+      "rotation": ""
+    },
+    {
+      "title": "Six months into the Iran war, a new Gulf security architecture is emerging",
+      "headline_it": "",
+      "summary_it": "",
+      "summary_en": "Gulf states are building overlapping partnerships that complement, rather than replace, the US security role.",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/opinions/2026/8/29/six-months-into-the-iran-war-a-new-gulf-security-architecture-is-emerging?traffic_source=rss",
+      "date": "2026-08-29 06:11",
+      "score": 10.0,
+      "impact": "neutral",
+      "sectors": [
+        "Broad Market",
+        "Commodities",
+        "Energy",
+        "Industrials",
+        "International"
+      ],
+      "primary_sector": "Broad Market",
+      "etf_tickers": [],
+      "rotation": ""
+    },
+    {
+      "title": "Trump’s Missile Math Problem",
+      "headline_it": "",
+      "summary_it": "",
+      "summary_en": "An accounting of how the White House has run down key munitions in the Iran war.",
+      "source": "Foreign Policy",
+      "link": "https://foreignpolicy.com/2026/08/27/tom-karako-united-states-munitions-missile-stockpiles-iran-war-military-defense-patriot-weapons/",
+      "date": "2026-08-27 11:40",
+      "score": 10.0,
+      "impact": "bearish",
+      "sectors": [
+        "Broad Market",
+        "Commodities",
+        "Energy",
+        "Industrials",
+        "International"
+      ],
+      "primary_sector": "Broad Market",
+      "etf_tickers": [],
+      "rotation": ""
+    },
+    {
+      "title": "At least 37 dead and hundreds evacuated after strike on Kyiv weapons depot",
+      "headline_it": "",
+      "summary_it": "",
+      "summary_en": "An investigation has begun into the storage of weapons for Ukraine's military near a residential area.",
+      "source": "BBC World",
+      "link": "https://www.bbc.co.uk/news/articles/c86xwqez4npo?at_medium=RSS&at_campaign=rss",
+      "date": "2026-08-29 12:55",
+      "score": 10.0,
+      "impact": "neutral",
+      "sectors": [
+        "Commodities",
+        "Energy",
+        "Industrials",
+        "International"
+      ],
+      "primary_sector": "Commodities",
+      "etf_tickers": [],
+      "rotation": ""
+    },
+    {
+      "title": "Russia ramps up rhetoric but wants to avoid war with Nato, Western officials say",
+      "headline_it": "",
+      "summary_it": "",
+      "summary_en": "But they say Moscow will likely continue its \"hybrid activity\" against Nato members, short of direct military action.",
+      "source": "BBC World",
+      "link": "https://www.bbc.co.uk/news/articles/cz0zm2j7ld1o?at_medium=RSS&at_campaign=rss",
+      "date": "2026-08-28 19:05",
+      "score": 10.0,
+      "impact": "bullish",
+      "sectors": [
+        "Broad Market",
+        "Commodities",
+        "Energy",
+        "Industrials",
+        "International"
+      ],
+      "primary_sector": "Broad Market",
+      "etf_tickers": [],
+      "rotation": ""
+    },
+    {
+      "title": "US plans to cut off military aid to key Middle East ally, BBC told",
+      "headline_it": "",
+      "summary_it": "",
+      "summary_en": "Iraqi Kurdistan fears the Trump administration's plan will make the region more vulnerable to further attacks from Iran.",
+      "source": "BBC World",
+      "link": "https://www.bbc.co.uk/news/articles/cn74m8e5rleo?at_medium=RSS&at_campaign=rss",
+      "date": "2026-08-28 19:45",
+      "score": 10.0,
+      "impact": "bearish",
+      "sectors": [
+        "Broad Market",
+        "Commodities",
+        "Energy",
+        "Industrials",
+        "International"
+      ],
+      "primary_sector": "Broad Market",
+      "etf_tickers": [],
+      "rotation": ""
+    },
+    {
+      "title": "Somali piracy surges as the impact of the US-Iran war ripples outwards",
+      "headline_it": "",
+      "summary_it": "",
+      "summary_en": "Two ships were seized within four days last week raising to at least 13 the number attacked since January.",
+      "source": "BBC World",
+      "link": "https://www.bbc.co.uk/news/articles/cr4vx4pneydo?at_medium=RSS&at_campaign=rss",
+      "date": "2026-08-29 01:14",
+      "score": 10.0,
+      "impact": "bullish",
+      "sectors": [
+        "Broad Market",
+        "Commodities",
+        "Energy",
+        "Industrials",
+        "International"
+      ],
+      "primary_sector": "Broad Market",
+      "etf_tickers": [],
+      "rotation": ""
+    },
+    {
+      "title": "BBC tracks one week of Israeli settler violence in occupied West Bank",
+      "headline_it": "",
+      "summary_it": "",
+      "summary_en": "The BBC's Lucy Williamson reports on settler attacks on Palestinians, which have been observed over the last week alone.",
+      "source": "BBC World",
+      "link": "https://www.bbc.co.uk/news/videos/c3wjq1188g9o?at_medium=RSS&at_campaign=rss",
+      "date": "2026-08-28 14:06",
+      "score": 10.0,
+      "impact": "neutral",
+      "sectors": [
+        "Broad Market",
+        "Energy",
+        "Financials",
+        "Industrials",
+        "International"
+      ],
+      "primary_sector": "Broad Market",
+      "etf_tickers": [],
+      "rotation": ""
+    },
+    {
+      "title": "Isabel Schnabel: Central banks on-chain",
+      "headline_it": "",
+      "summary_it": "",
+      "summary_en": "The European Central Bank (ECB) is the central bank of the European Union countries which have adopted the euro. Our main task is to maintain price stability in the euro area and so preserve the purchasing power of the single currency.",
+      "source": "ECB",
+      "link": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp260828~fe9afc86e8.en.html",
+      "date": "2026-08-28 16:00",
+      "score": 10.0,
+      "impact": "neutral",
+      "sectors": [
+        "Financials"
+      ],
+      "primary_sector": "Financials",
+      "etf_tickers": [],
+      "rotation": ""
+    },
+    {
+      "title": "Meeting of 22-23 July 2026",
+      "headline_it": "",
+      "summary_it": "",
+      "summary_en": "The European Central Bank (ECB) is the central bank of the European Union countries which have adopted the euro. Our main task is to maintain price stability in the euro area and so preserve the purchasing power of the single currency.",
+      "source": "ECB",
+      "link": "https://www.ecb.europa.eu//press/accounts/2026/html/ecb.mg260827~f06c21fd54.en.html",
+      "date": "2026-08-27 11:30",
+      "score": 10.0,
+      "impact": "neutral",
+      "sectors": [
+        "Financials"
+      ],
+      "primary_sector": "Financials",
+      "etf_tickers": [],
+      "rotation": ""
+    },
+    {
+      "title": "Piero Cipollone: From vision to delivery: building Europe’s tokenised financial market",
+      "headline_it": "",
+      "summary_it": "",
+      "summary_en": "The European Central Bank (ECB) is the central bank of the European Union countries which have adopted the euro. Our main task is to maintain price stability in the euro area and so preserve the purchasing power of the single currency.",
+      "source": "ECB",
+      "link": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp260826~3641116314.en.html",
+      "date": "2026-08-26 10:15",
+      "score": 10.0,
+      "impact": "neutral",
+      "sectors": [
+        "Financials"
+      ],
+      "primary_sector": "Financials",
+      "etf_tickers": [],
+      "rotation": ""
+    },
+    {
+      "title": "Piero Cipollone: Interview with ilsussidiario.net",
+      "headline_it": "",
+      "summary_it": "",
+      "summary_en": "The European Central Bank (ECB) is the central bank of the European Union countries which have adopted the euro. Our main task is to maintain price stability in the euro area and so preserve the purchasing power of the single currency.",
+      "source": "ECB",
+      "link": "https://www.ecb.europa.eu//press/inter/date/2026/html/ecb.in260824~fa5acbddea.en.html",
+      "date": "2026-08-24 06:00",
+      "score": 10.0,
+      "impact": "neutral",
+      "sectors": [
+        "Financials"
+      ],
+      "primary_sector": "Financials",
+      "etf_tickers": [],
+      "rotation": ""
+    },
+    {
+      "title": "Russia’s Energy Crisis Puts Kazakhstan in a Tough Spot",
+      "headline_it": "",
+      "summary_it": "",
+      "summary_en": "Kazakhstan is trying to keep the Kremlin at arm’s length amid Russian efforts to lean on Central Asian states for help in bolstering Moscow’s staggering war economy. Ukraine’s ongoing drone campaign has inflicted severe damage on Russia’s energy infrastructure and its military-industrial complex, prompting Russian officials to seek emergency energy supplies and refining arrangements from Central Asian states, while exploring offshoring options for arms production. …",
+      "source": "OilPrice",
+      "link": "https://oilprice.com/Energy/Energy-General/Russias-Energy-Crisis-Puts-Kazakhstan-in-a-Tough-Spot.html",
+      "date": "2026-08-28 18:00",
+      "score": 10.0,
+      "impact": "bearish",
+      "sectors": [
+        "Broad Market",
+        "Commodities",
+        "Energy",
+        "Industrials",
+        "International",
+        "Real Estate"
+      ],
+      "primary_sector": "Broad Market",
+      "etf_tickers": [],
+      "rotation": ""
+    },
+    {
+      "title": "The Iran War Has Turned VLCCs Into $650,000-a-Day Assets",
+      "headline_it": "",
+      "summary_it": "",
+      "summary_en": "More Gulf oil is moving again. Getting it out now costs a fortune. Earnings on the benchmark Saudi Arabia-to-China supertanker route surged to a record $647,000 per day on Thursday, according to Baltic Exchange data cited by Bloomberg. That is more than ten times the rate a year ago—and nearly 27% above the $510,000 reached just ten days earlier. The spike comes as Persian Gulf producers increase crude shipments through the Strait of Hormuz despite the continuing Iran war. That should, in theory, ease the oil supply crunch. Instead, it has…",
+      "source": "OilPrice",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/The-Iran-War-Has-Turned-VLCCs-Into-650000-a-Day-Assets.html",
+      "date": "2026-08-28 17:30",
+      "score": 10.0,
+      "impact": "bullish",
+      "sectors": [
+        "Broad Market",
+        "Commodities",
+        "Energy",
+        "Industrials",
+        "International"
+      ],
+      "primary_sector": "Broad Market",
+      "etf_tickers": [],
+      "rotation": ""
+    },
+    {
+      "title": "Gas Prices in Asia and Europe Jump as Qatar Extends LNG Force Majeure",
+      "headline_it": "",
+      "summary_it": "",
+      "summary_en": "Natural gas prices in Asia and Europe jumped on Friday as the market digested reports that Qatar has extended the force majeure on its LNG deliveries into November amid still blocked transits through the Strait of Hormuz. In Asia, the spot LNG price jumped to $23.388 per million British thermal units (MMBtu) on Friday, traders told Bloomberg. The spot LNG price has been hovering at four-year high levels this week, as supply has tightened with the absence of Qatari term deliveries since the Iran war began. In addition, utilities in Asia have been…",
+      "source": "OilPrice",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/Gas-Prices-in-Asia-and-Europe-Jump-as-Qatar-Extends-LNG-Force-Majeure.html",
+      "date": "2026-08-28 16:30",
+      "score": 10.0,
+      "impact": "neutral",
+      "sectors": [
+        "Broad Market",
+        "Commodities",
+        "Energy",
+        "Industrials",
+        "International"
+      ],
+      "primary_sector": "Broad Market",
+      "etf_tickers": [],
+      "rotation": ""
+    },
+    {
+      "title": "Oil Shrugs Off Trump’s ‘Toughest Sanctions in History’",
+      "headline_it": "",
+      "summary_it": "",
+      "summary_en": "Oil holds near $90 despite sweeping Iran sanctions as uncertainty over Hormuz transits keeps markets on edge. Friday, August 28, 2026 The US announcement of ‘toughest sanctions in history’ against Iran did relatively little to push oil prices away from their comfort zone around $90 per barrel (for ICE Brent), with Qatari and Pakistani mediation so far failing to bring the warring sides closer. After President Trump rejected the extension of the June MoU in any form, the on-and-off nature of Hormuz transits will be the main driver of…",
+      "source": "OilPrice",
+      "link": "https://oilprice.com/Energy/Crude-Oil/Oil-Shrugs-Off-Trumps-Toughest-Sanctions-in-History.html",
+      "date": "2026-08-28 15:55",
+      "score": 10.0,
+      "impact": "bullish",
+      "sectors": [
+        "Broad Market",
+        "Commodities",
+        "Energy",
+        "Industrials",
+        "International"
+      ],
+      "primary_sector": "Broad Market",
+      "etf_tickers": [],
+      "rotation": ""
+    },
+    {
+      "title": "Hormuz Shipping Remains Subdued Despite Apparent Reopening",
+      "headline_it": "",
+      "summary_it": "",
+      "summary_en": "Politics, Geopolitics & Conflict Hormuz is “open”, but nowhere close to functioning normally. The U.S. has cleared mines from the internationally recognized shipping lanes and can technically get vessels through, but Iran’s military capability will still keep most commercial operators away. Only five commodity vessels crossed on Tuesday, compared to some 130 ships a day before the war. Iran is offering a temporary and limited corridor while making full normalization conditional on sanctions relief, an end to the U.S. blockade…",
+      "source": "OilPrice",
+      "link": "https://oilprice.com/Energy/Energy-General/Hormuz-Shipping-Remains-Subdued-Despite-Apparent-Reopening.html",
+      "date": "2026-08-28 12:30",
+      "score": 10.0,
+      "impact": "neutral",
+      "sectors": [
+        "Broad Market",
+        "Commodities",
+        "Energy",
+        "Industrials",
+        "International"
+      ],
+      "primary_sector": "Broad Market",
+      "etf_tickers": [],
+      "rotation": ""
+    },
+    {
+      "title": "The Iran War Has Handed Russia a Strategic Opening in Europe",
+      "headline_it": "",
+      "summary_it": "",
+      "summary_en": "The war with Iran has handed Russia a strategic advantage in Ukraine. Washington is burning through the weapons Europe needs to deter Russia, moving military capacity into the Gulf and simultaneously telling NATO governments to take over more of their own defense.  CIA Director John Ratcliffe flew to Moscow this week precisely because of the connected nature of these two problems. He met Russian foreign intelligence chief Sergei Naryshkin in the first known visit by a CIA director since William Burns traveled there in late 2021, just before…",
+      "source": "OilPrice",
+      "link": "https://oilprice.com/Energy/Energy-General/The-Iran-War-Has-Handed-Russia-a-Strategic-Opening-in-Europe.html",
+      "date": "2026-08-28 12:30",
+      "score": 10.0,
+      "impact": "neutral",
+      "sectors": [
+        "Broad Market",
+        "Commodities",
+        "Energy",
+        "Industrials",
+        "International"
+      ],
+      "primary_sector": "Broad Market",
+      "etf_tickers": [],
+      "rotation": ""
+    },
+    {
+      "title": "Oil Selloff Outruns Reality in Hormuz",
+      "headline_it": "",
+      "summary_it": "",
+      "summary_en": "WTI crude oil futures were trading at $83.51 late Thursday, down $3.13, or 3.61%, for the week. The market opened near the weekly high at $86.57, then broke to $79.62 as traders sold on reports that Iran, Oman and the United States were moving toward a workable shipping arrangement through the Strait of Hormuz. Thursday changed the tone. WTI bounced after Iran fired on a vessel near Oman and President Trump rejected terms tied to reviving the June Iran ceasefire agreement. The market stopped trading a Hormuz reopening and started trading the fact…",
+      "source": "OilPrice",
+      "link": "https://oilprice.com/Energy/Energy-General/Oil-Selloff-Outruns-Reality-in-Hormuz.html",
+      "date": "2026-08-28 12:30",
+      "score": 10.0,
+      "impact": "bearish",
+      "sectors": [
+        "Broad Market",
+        "Commodities",
+        "Energy",
+        "Industrials",
+        "International"
+      ],
+      "primary_sector": "Broad Market",
+      "etf_tickers": [],
+      "rotation": ""
+    },
+    {
+      "title": "US visa interviews on hold; China slams fresh sanctions over Iran: SCMP’s 7 highlights",
+      "headline_it": "",
+      "summary_it": "",
+      "summary_en": "We have selected seven stories from this week’s news across Hong Kong, mainland China, the wider Asia region and beyond that resonated with our readers and shed light on topical issues. If you would like to see more of our reporting, please consider subscribing.\n1. The path to America is narrowing. Here’s what that means for legal immigrants\nUS green card interviews are on hold worldwide, student and work visas are subject to new restrictions, and citizenship is under fresh scrutiny. The SCMP...",
+      "source": "SCMP",
+      "link": "https://www.scmp.com/news/china/article/3365519/us-visa-interviews-hold-china-slams-fresh-sanctions-over-iran-scmps-7-highlights?utm_source=rss_feed",
+      "date": "2026-08-28 04:45",
+      "score": 10.0,
+      "impact": "neutral",
+      "sectors": [
+        "Commodities",
+        "Energy",
+        "Industrials",
+        "International"
+      ],
+      "primary_sector": "Commodities",
+      "etf_tickers": [],
+      "rotation": ""
+    },
+    {
+      "title": "Chip Industry Week in Review",
+      "headline_it": "",
+      "summary_it": "",
+      "summary_en": "Hot Chips AI HW wave; HBM vs HBC; capacity buildout; Infineon's latest buy; advanced packaging enablers; foundry report; ASIC security threats; IC tariffs; executive changes; Nvidia, Synopsys earnings; dependence on Taiwan; wafer-scale 2D semiconductors.\nThe post Chip Industry Week in Review appeared first on Semiconductor Engineering.",
+      "source": "SemiEngineering",
+      "link": "https://semiengineering.com/chip-industry-week-in-review-153/",
+      "date": "2026-08-28 07:01",
+      "score": 10.0,
+      "impact": "neutral",
+      "sectors": [
+        "Broad Market",
+        "Industrials",
+        "International",
+        "Tech & Semiconductors"
+      ],
+      "primary_sector": "Broad Market",
+      "etf_tickers": [],
+      "rotation": ""
+    },
+    {
+      "title": "BlackBerry lost the phone war. Now it's betting on cars and robots",
+      "headline_it": "",
+      "summary_it": "",
+      "summary_en": "BlackBerry CEO John Giamatteo joins CNBC's Arjun Kharpal on The Tech Download podcast.",
+      "source": "CNBC World",
+      "link": "https://www.cnbc.com/2026/08/28/blackberry-cars-robots-tech-download.html",
+      "date": "2026-08-28 14:40",
+      "score": 9.8,
+      "impact": "neutral",
+      "sectors": [
+        "Broad Market",
+        "Commodities",
+        "Energy",
+        "International"
+      ],
+      "primary_sector": "Broad Market",
+      "etf_tickers": [],
+      "rotation": ""
+    },
+    {
+      "title": "Liverpool strike deal to sign PSG’s Barcola for up to $166m: Reports",
+      "headline_it": "",
+      "summary_it": "",
+      "summary_en": "The 23-year-old French forward would bolster new boss Andoni Iraola&#039;s squad after the departure of Mohamed Salah.",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/sports/2026/8/29/liverpool-strike-deal-to-sign-psgs-barcola-for-up-to-166m-reports?traffic_source=rss",
+      "date": "2026-08-29 10:49",
+      "score": 9.8,
+      "impact": "neutral",
+      "sectors": [
+        "Broad Market",
+        "Commodities",
+        "Energy",
+        "International"
+      ],
+      "primary_sector": "Broad Market",
+      "etf_tickers": [],
+      "rotation": ""
+    },
+    {
+      "title": "Close race as Iceland votes on whether to restart talks on joining EU",
+      "headline_it": "",
+      "summary_it": "",
+      "summary_en": "Turbulent international affairs have brought the vote forward, but the campaign has focused more on Iceland's vital fishing industry.",
+      "source": "BBC World",
+      "link": "https://www.bbc.co.uk/news/articles/cn45vdxyvvlo?at_medium=RSS&at_campaign=rss",
+      "date": "2026-08-29 00:56",
+      "score": 9.8,
+      "impact": "neutral",
+      "sectors": [
+        "Broad Market",
+        "Commodities",
+        "Energy",
+        "International"
+      ],
+      "primary_sector": "Broad Market",
+      "etf_tickers": [],
+      "rotation": ""
+    },
+    {
+      "title": "97-year-old woman rescued after Nepali floods looked like 'a warrior'",
+      "headline_it": "",
+      "summary_it": "",
+      "summary_en": "A 97-year-old woman, Guna Maya Bohara, survived the flash floods and was rescued using an excavator.",
+      "source": "BBC World",
+      "link": "https://www.bbc.co.uk/news/videos/cj64kgrpgjdo?at_medium=RSS&at_campaign=rss",
+      "date": "2026-08-28 21:17",
+      "score": 9.8,
+      "impact": "neutral",
+      "sectors": [
+        "Broad Market",
+        "Commodities",
+        "Energy",
+        "International"
+      ],
+      "primary_sector": "Broad Market",
+      "etf_tickers": [],
+      "rotation": ""
+    },
+    {
+      "title": "Oil futures fall as Persian Gulf exports may have recovered to two-thirds of pre-war levels",
+      "headline_it": "",
+      "summary_it": "",
+      "summary_en": "",
+      "source": "Seeking Alpha",
+      "link": "https://seekingalpha.com/news/4638032-oil-futures-fall-as-persian-gulf-exports-may-have-recovered-to-two-thirds-of-pre-war-levels?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+      "date": "2026-08-28 23:15",
+      "score": 9.7,
+      "impact": "bearish",
+      "sectors": [
+        "Broad Market",
+        "Commodities",
+        "Energy",
+        "Industrials",
+        "International"
+      ],
+      "primary_sector": "Broad Market",
+      "etf_tickers": [],
+      "rotation": ""
+    },
+    {
+      "title": "Myanmar Shows War Doesn’t Stop Mining",
+      "headline_it": "",
+      "summary_it": "",
+      "summary_en": "Critical minerals are still flowing out of conflict zones, but accountability is harder than ever.",
+      "source": "Foreign Policy",
+      "link": "https://foreignpolicy.com/2026/08/27/myanmar-china-critical-minerals/",
+      "date": "2026-08-27 17:54",
+      "score": 9.7,
+      "impact": "neutral",
+      "sectors": [
+        "Broad Market",
+        "Commodities",
+        "Energy",
+        "Industrials",
+        "International"
+      ],
+      "primary_sector": "Broad Market",
+      "etf_tickers": [],
+      "rotation": ""
+    },
+    {
+      "title": "Qatar Extends Force Majeure as Hormuz Crisis Still Blocks LNG Traffic",
+      "headline_it": "",
+      "summary_it": "",
+      "summary_en": "Qatar’s state-owned QatarEnergy has extended by several weeks its force majeure on LNG deliveries to customers as the LNG flows at the Strait of Hormuz remained blocked despite increased oil flows. QatarEnergy has notified buyers in Pakistan and Bangladesh this week that LNG cargo cancellations would continue through October, traders with knowledge of the situation told Bloomberg on Friday. Some previously planned deliveries to Europe under long-term deals have also been cancelled beyond September, with Edison of Italy saying the force majeure…",
+      "source": "OilPrice",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/Qatar-Extends-Force-Majeure-as-Hormuz-Crisis-Still-Blocks-LNG-Traffic.html",
+      "date": "2026-08-28 14:30",
+      "score": 9.7,
+      "impact": "bearish",
+      "sectors": [
+        "Commodities",
+        "Energy",
+        "Industrials",
+        "International"
+      ],
+      "primary_sector": "Commodities",
+      "etf_tickers": [],
+      "rotation": ""
+    }
+  ]
+}
