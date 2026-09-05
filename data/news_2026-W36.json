@@ -1,0 +1,1276 @@
+{
+  "generated": "2026-09-05T11:28:27.544151",
+  "lookback_days": 7,
+  "total_articles": 50,
+  "sector_news": {
+    "Broad Market": {
+      "count": 33,
+      "top": [
+        {
+          "headline": "Nepal’s mountain tourism industry faces ‘serious warning’ after Himalayan flood disaster",
+          "summary": "Nepal's devastating floods have raised fresh concerns for the country's vital adventure tourism industry ahead of its peak travel season.",
+          "impact": "bearish",
+          "source": "CNBC Finance",
+          "score": 10.0,
+          "link": "https://www.cnbc.com/2026/09/02/nepal-tibet-floods-adventure-tourism-economy.html",
+          "etf_tickers": []
+        },
+        {
+          "headline": "The big business of personal protection: How private security became a $50 billion industry",
+          "summary": "Private security spending and guard employment have climbed as companies and communities respond to high-profile attacks, even as violent crime falls.",
+          "impact": "bearish",
+          "source": "CNBC Economy",
+          "score": 10.0,
+          "link": "https://www.cnbc.com/2026/09/04/private-security-spending-crime-allied-universal.html",
+          "etf_tickers": []
+        },
+        {
+          "headline": "Bank of England chief warns new AI models threaten global financial stability",
+          "summary": "Bank of England Governor Andrew Bailey has warned that frontier AI could materially increase cyber risks to the global financial system.",
+          "impact": "neutral",
+          "source": "CNBC Economy",
+          "score": 10.0,
+          "link": "https://www.cnbc.com/2026/08/31/bailey-frontier-ai-financial-stability-risk.html",
+          "etf_tickers": []
+        }
+      ]
+    },
+    "International": {
+      "count": 40,
+      "top": [
+        {
+          "headline": "China hits back at G20 statement on its reliance on exports, accusing them of 'promoting protectionism'",
+          "summary": "China rejected G20 pressure over export-driven growth while also challenging U.S. Iran sanctions and European trade measures.",
+          "impact": "bullish",
+          "source": "CNBC Finance",
+          "score": 10.0,
+          "link": "https://www.cnbc.com/2026/09/03/china-g20-exports-trade.html",
+          "etf_tickers": []
+        },
+        {
+          "headline": "Markets see Warsh endorsing a rate hike in September. Not everyone is convinced",
+          "summary": "The path toward the move still looks cluttered.",
+          "impact": "bearish",
+          "source": "CNBC Finance",
+          "score": 10.0,
+          "link": "https://www.cnbc.com/2026/08/31/markets-see-warsh-endorsing-a-rate-hike-in-september-not-everyone-is-convinced.html",
+          "etf_tickers": []
+        },
+        {
+          "headline": "Jackson Hole analyst roundup: Warsh's speech sends hike chances higher, may put Fed 'at odds' with Treasury",
+          "summary": "Fed Chair Kevin Warsh's hawkish stance reinforced expectations of a relatively tighter stance at the Federal Open Market Committee meeting in September.",
+          "impact": "bearish",
+          "source": "CNBC Finance",
+          "score": 10.0,
+          "link": "https://www.cnbc.com/2026/08/31/jackson-hole-fed-chair-kevin-warsh-hawkish-rate-hikes-analysts.html",
+          "etf_tickers": []
+        }
+      ]
+    },
+    "Tech & Semiconductors": {
+      "count": 3,
+      "top": [
+        {
+          "headline": "U.S. 'Economic Outcast’ operation gains momentum as EU joins sanctions; South Korea weighs military backing",
+          "summary": "The EU formally joined the U.S.-led sanctions campaign against Iran, while South Korea said it's weighing a military role to help reopen the Strait of Hormuz.",
+          "impact": "bullish",
+          "source": "CNBC World",
+          "score": 10.0,
+          "link": "https://www.cnbc.com/2026/09/04/us-iran-war-trump-hormuz-operation-economic-outcast-sanctions-campaign.html",
+          "etf_tickers": []
+        },
+        {
+          "headline": "Nvidia's investments grow to $99 billion as chip giant becomes major backer of AI companies",
+          "summary": "Nvidia reported $99 billion in equity holdings as it backs AI labs, cloud providers and infrastructure companies across the sector.",
+          "impact": "neutral",
+          "source": "CNBC World",
+          "score": 9.9,
+          "link": "https://www.cnbc.com/2026/09/04/nvidia-ai-investments-99-billion.html",
+          "etf_tickers": []
+        },
+        {
+          "headline": "Stocks making the biggest moves midday: PG&E, Edison International, Apple, Howmet Aerospace, Eli Lilly & more",
+          "summary": "These are some of the stocks posting the largest moves midday.",
+          "impact": "neutral",
+          "source": "CNBC Finance",
+          "score": 9.6,
+          "link": "https://www.cnbc.com/2026/08/31/stocks-making-the-biggest-moves-midday-pcg-eix-agco-hwm-more-.html",
+          "etf_tickers": []
+        }
+      ]
+    },
+    "Financials": {
+      "count": 12,
+      "top": [
+        {
+          "headline": "Federal Reserve Board announces termination of enforcement actions with United Texas Bank, Quontic Bank Acquisition Corp., and Quontic Bank Holdings Corp.",
+          "summary": "Federal Reserve Board announces termination of enforcement actions with United Texas Bank, Quontic Bank Acquisition Corp., and Quontic Bank Holdings Corp.",
+          "impact": "neutral",
+          "source": "Federal Reserve",
+          "score": 10.0,
+          "link": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20260904a.htm",
+          "etf_tickers": []
+        },
+        {
+          "headline": "Philip R. Lane: Diversity at the European Central Bank",
+          "summary": "",
+          "impact": "neutral",
+          "source": "ECB",
+          "score": 10.0,
+          "link": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp260904~7b9257099b.en.pdf",
+          "etf_tickers": []
+        },
+        {
+          "headline": "New York Fed's Williams says yield surge due to strong economic prospects",
+          "summary": "New York Fed President John Williams said higher Treasury yields reflect a strong economy as he weighs whether another interest rate hike is needed.",
+          "impact": "mixed",
+          "source": "CNBC Finance",
+          "score": 10.0,
+          "link": "https://www.cnbc.com/2026/09/02/new-york-feds-williams-says-yield-surge-due-to-strong-economic-prospects.html",
+          "etf_tickers": []
+        }
+      ]
+    },
+    "Energy": {
+      "count": 38,
+      "top": [
+        {
+          "headline": "Fed Governor Waller indicates he will support holding rates steady at September meeting",
+          "summary": "In remarks that seem to contrast with statements last week from Chairman Kevin Warsh, Waller expressed confidence in the current inflation trends.",
+          "impact": "neutral",
+          "source": "CNBC Economy",
+          "score": 10.0,
+          "link": "https://www.cnbc.com/2026/09/03/fed-governor-waller-indicates-he-will-support-holding-rates-steady-at-september-meeting.html",
+          "etf_tickers": []
+        },
+        {
+          "headline": "Euro zone inflation is back above 3%. Higher interest rates are likely to follow",
+          "summary": "The European Central Bank is seen hiking rates in September as the Iran war raises energy costs in the region.",
+          "impact": "neutral",
+          "source": "CNBC Economy",
+          "score": 10.0,
+          "link": "https://www.cnbc.com/2026/09/01/euro-zone-inflation-rate-hike.html",
+          "etf_tickers": []
+        },
+        {
+          "headline": "Etihad CEO says airline is doubling down on growth despite Iran war",
+          "summary": "Etihad’s Group CEO explains why the airline is still adding planes and routes after the Iran war derailed its record-profit momentum.",
+          "impact": "bullish",
+          "source": "CNBC World",
+          "score": 10.0,
+          "link": "https://www.cnbc.com/video/2026/09/05/etihad-ceo-iran-war-break-even.html",
+          "etf_tickers": []
+        }
+      ]
+    },
+    "Commodities": {
+      "count": 40,
+      "top": [
+        {
+          "headline": "Argentina's Milei escalates Falklands dispute as Trump questions U.S. support for Britain",
+          "summary": "Argentina's President Javier Milei has renewed the country's claim to the Falkland Islands and threatened sanctions on oil companies.",
+          "impact": "neutral",
+          "source": "CNBC World",
+          "score": 10.0,
+          "link": "https://www.cnbc.com/2026/09/04/argentina-milei-falklands-oil-uk-trump.html",
+          "etf_tickers": []
+        },
+        {
+          "headline": "Why is Trump threatening to strike Iran’s Pickaxe Mountain again, now?",
+          "summary": "As oil tanker struck off Kharg island, Trump threatens one of the remaining parts of Iran’s nuclear complex.",
+          "impact": "bullish",
+          "source": "Al Jazeera",
+          "score": 10.0,
+          "link": "https://www.aljazeera.com/news/2026/9/5/why-is-trump-threatening-to-strike-irans-pickaxe-mountain-again-now?traffic_source=rss",
+          "etf_tickers": []
+        },
+        {
+          "headline": "US imposes sanctions on Turkish bank, prompting legal threat",
+          "summary": "US sanctions Turkish bank over alleged IRGC ties, accusing it of facilitating millions in transactions for Iran.",
+          "impact": "neutral",
+          "source": "Al Jazeera",
+          "score": 10.0,
+          "link": "https://www.aljazeera.com/news/2026/9/5/us-imposes-sanctions-on-turkish-bank-prompting-legal-threat?traffic_source=rss",
+          "etf_tickers": []
+        }
+      ]
+    },
+    "Industrials": {
+      "count": 30,
+      "top": [
+        {
+          "headline": "Fed Governor Barr says he'll support rate hike if inflation doesn't ease",
+          "summary": "The policymaker said he's concerned about \"broader price pressures taking hold\" as inflation has prevailed above the Fed's 2% target.",
+          "impact": "bearish",
+          "source": "CNBC Finance",
+          "score": 10.0,
+          "link": "https://www.cnbc.com/2026/09/01/fed-governor-barr-says-hell-support-rate-hike-if-inflation-doesnt-ease.html",
+          "etf_tickers": []
+        },
+        {
+          "headline": "U.S. envoys Witkoff and Kushner are in Moscow in a new push for peace between Russia and Ukraine",
+          "summary": "Trump's push to end the fighting, now in its fifth year, has lost momentum as U.S. attention has been focused for the last six months on its war with Iran.",
+          "impact": "neutral",
+          "source": "CNBC World",
+          "score": 10.0,
+          "link": "https://www.cnbc.com/2026/09/05/witkoff-kushner-moscow-russia-ukraine.html",
+          "etf_tickers": []
+        },
+        {
+          "headline": "Iranian tanker hit by U.S. attack near Iran's Kharg Island, Tasnim says",
+          "summary": "",
+          "impact": "neutral",
+          "source": "CNBC World",
+          "score": 10.0,
+          "link": "https://www.cnbc.com/2026/09/05/iranian-tanker-reportedly-hit-by-us-attack-near-irans-kharg-island.html",
+          "etf_tickers": []
+        }
+      ]
+    },
+    "Bonds": {
+      "count": 12,
+      "top": [
+        {
+          "headline": "Goldman just revised this credit-market forecast thanks to the AI sector",
+          "summary": "AI-related supply has helped USD investment grade gross issuance to keep its active momentum all through summer, prompting Goldman to raise its forecast higher.",
+          "impact": "neutral",
+          "source": "CNBC World",
+          "score": 10.0,
+          "link": "https://www.cnbc.com/2026/09/04/goldman-usd-corporate-debt-bond-yields.html",
+          "etf_tickers": []
+        },
+        {
+          "headline": "Diesel hits record high as Ukraine and Iran wars knock out refineries, fueling inflation worries",
+          "summary": "Higher prices come as Ukraine pounds Russian refineries, forcing Moscow to ban diesel exports.",
+          "impact": "bullish",
+          "source": "CNBC World",
+          "score": 10.0,
+          "link": "https://www.cnbc.com/2026/09/04/diesel-price-record-high-ukraine-iran-inflation.html",
+          "etf_tickers": []
+        },
+        {
+          "headline": "The inflation genie could be out of the bottle — and bond markets are sounding the alarm",
+          "summary": "Global bond yields have surged as investors assess whether rising debt, tariffs, defense spending and energy shocks could keep inflation higher for longer.",
+          "impact": "bullish",
+          "source": "CNBC World",
+          "score": 10.0,
+          "link": "https://www.cnbc.com/2026/09/04/global-bond-selloff-inflation-risk.html",
+          "etf_tickers": []
+        }
+      ]
+    }
+  },
+  "rotation_signals": [],
+  "articles": [
+    {
+      "title": "Federal Reserve Board announces termination of enforcement actions with United Texas Bank, Quontic Bank Acquisition Corp., and Quontic Bank Holdings Corp.",
+      "headline_it": "",
+      "summary_it": "",
+      "summary_en": "Federal Reserve Board announces termination of enforcement actions with United Texas Bank, Quontic Bank Acquisition Corp., and Quontic Bank Holdings Corp.",
+      "source": "Federal Reserve",
+      "link": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20260904a.htm",
+      "date": "2026-09-04 15:00",
+      "score": 10.0,
+      "impact": "neutral",
+      "sectors": [
+        "Financials"
+      ],
+      "primary_sector": "Financials",
+      "etf_tickers": [],
+      "rotation": ""
+    },
+    {
+      "title": "China hits back at G20 statement on its reliance on exports, accusing them of 'promoting protectionism'",
+      "headline_it": "",
+      "summary_it": "",
+      "summary_en": "China rejected G20 pressure over export-driven growth while also challenging U.S. Iran sanctions and European trade measures.",
+      "source": "CNBC Finance",
+      "link": "https://www.cnbc.com/2026/09/03/china-g20-exports-trade.html",
+      "date": "2026-09-03 11:12",
+      "score": 10.0,
+      "impact": "bullish",
+      "sectors": [
+        "Commodities",
+        "Energy",
+        "Industrials",
+        "International"
+      ],
+      "primary_sector": "Commodities",
+      "etf_tickers": [],
+      "rotation": ""
+    },
+    {
+      "title": "New York Fed's Williams says yield surge due to strong economic prospects",
+      "headline_it": "",
+      "summary_it": "",
+      "summary_en": "New York Fed President John Williams said higher Treasury yields reflect a strong economy as he weighs whether another interest rate hike is needed.",
+      "source": "CNBC Finance",
+      "link": "https://www.cnbc.com/2026/09/02/new-york-feds-williams-says-yield-surge-due-to-strong-economic-prospects.html",
+      "date": "2026-09-02 17:21",
+      "score": 10.0,
+      "impact": "mixed",
+      "sectors": [
+        "Bonds",
+        "Broad Market",
+        "Financials"
+      ],
+      "primary_sector": "Bonds",
+      "etf_tickers": [],
+      "rotation": ""
+    },
+    {
+      "title": "Nepal’s mountain tourism industry faces ‘serious warning’ after Himalayan flood disaster",
+      "headline_it": "",
+      "summary_it": "",
+      "summary_en": "Nepal's devastating floods have raised fresh concerns for the country's vital adventure tourism industry ahead of its peak travel season.",
+      "source": "CNBC Finance",
+      "link": "https://www.cnbc.com/2026/09/02/nepal-tibet-floods-adventure-tourism-economy.html",
+      "date": "2026-09-02 09:23",
+      "score": 10.0,
+      "impact": "bearish",
+      "sectors": [
+        "Broad Market",
+        "Commodities",
+        "Energy",
+        "Industrials",
+        "International"
+      ],
+      "primary_sector": "Broad Market",
+      "etf_tickers": [],
+      "rotation": ""
+    },
+    {
+      "title": "Fed Governor Barr says he'll support rate hike if inflation doesn't ease",
+      "headline_it": "",
+      "summary_it": "",
+      "summary_en": "The policymaker said he's concerned about \"broader price pressures taking hold\" as inflation has prevailed above the Fed's 2% target.",
+      "source": "CNBC Finance",
+      "link": "https://www.cnbc.com/2026/09/01/fed-governor-barr-says-hell-support-rate-hike-if-inflation-doesnt-ease.html",
+      "date": "2026-09-01 14:01",
+      "score": 10.0,
+      "impact": "bearish",
+      "sectors": [
+        "Bonds",
+        "Broad Market",
+        "Commodities",
+        "Financials",
+        "Industrials"
+      ],
+      "primary_sector": "Bonds",
+      "etf_tickers": [],
+      "rotation": ""
+    },
+    {
+      "title": "Markets see Warsh endorsing a rate hike in September. Not everyone is convinced",
+      "headline_it": "",
+      "summary_it": "",
+      "summary_en": "The path toward the move still looks cluttered.",
+      "source": "CNBC Finance",
+      "link": "https://www.cnbc.com/2026/08/31/markets-see-warsh-endorsing-a-rate-hike-in-september-not-everyone-is-convinced.html",
+      "date": "2026-08-31 19:38",
+      "score": 10.0,
+      "impact": "bearish",
+      "sectors": [
+        "Bonds",
+        "Broad Market",
+        "Commodities",
+        "Energy",
+        "Financials",
+        "Industrials",
+        "International"
+      ],
+      "primary_sector": "Bonds",
+      "etf_tickers": [],
+      "rotation": ""
+    },
+    {
+      "title": "Jackson Hole analyst roundup: Warsh's speech sends hike chances higher, may put Fed 'at odds' with Treasury",
+      "headline_it": "",
+      "summary_it": "",
+      "summary_en": "Fed Chair Kevin Warsh's hawkish stance reinforced expectations of a relatively tighter stance at the Federal Open Market Committee meeting in September.",
+      "source": "CNBC Finance",
+      "link": "https://www.cnbc.com/2026/08/31/jackson-hole-fed-chair-kevin-warsh-hawkish-rate-hikes-analysts.html",
+      "date": "2026-08-31 11:28",
+      "score": 10.0,
+      "impact": "bearish",
+      "sectors": [
+        "Bonds",
+        "Broad Market",
+        "Commodities",
+        "Energy",
+        "Industrials",
+        "International"
+      ],
+      "primary_sector": "Bonds",
+      "etf_tickers": [],
+      "rotation": ""
+    },
+    {
+      "title": "The big business of personal protection: How private security became a $50 billion industry",
+      "headline_it": "",
+      "summary_it": "",
+      "summary_en": "Private security spending and guard employment have climbed as companies and communities respond to high-profile attacks, even as violent crime falls.",
+      "source": "CNBC Economy",
+      "link": "https://www.cnbc.com/2026/09/04/private-security-spending-crime-allied-universal.html",
+      "date": "2026-09-04 14:15",
+      "score": 10.0,
+      "impact": "bearish",
+      "sectors": [
+        "Broad Market",
+        "Industrials",
+        "International"
+      ],
+      "primary_sector": "Broad Market",
+      "etf_tickers": [],
+      "rotation": ""
+    },
+    {
+      "title": "Fed Governor Waller indicates he will support holding rates steady at September meeting",
+      "headline_it": "",
+      "summary_it": "",
+      "summary_en": "In remarks that seem to contrast with statements last week from Chairman Kevin Warsh, Waller expressed confidence in the current inflation trends.",
+      "source": "CNBC Economy",
+      "link": "https://www.cnbc.com/2026/09/03/fed-governor-waller-indicates-he-will-support-holding-rates-steady-at-september-meeting.html",
+      "date": "2026-09-03 14:06",
+      "score": 10.0,
+      "impact": "neutral",
+      "sectors": [
+        "Bonds",
+        "Broad Market",
+        "Commodities",
+        "Energy",
+        "Industrials",
+        "International"
+      ],
+      "primary_sector": "Bonds",
+      "etf_tickers": [],
+      "rotation": ""
+    },
+    {
+      "title": "Euro zone inflation is back above 3%. Higher interest rates are likely to follow",
+      "headline_it": "",
+      "summary_it": "",
+      "summary_en": "The European Central Bank is seen hiking rates in September as the Iran war raises energy costs in the region.",
+      "source": "CNBC Economy",
+      "link": "https://www.cnbc.com/2026/09/01/euro-zone-inflation-rate-hike.html",
+      "date": "2026-09-01 10:50",
+      "score": 10.0,
+      "impact": "neutral",
+      "sectors": [
+        "Bonds",
+        "Broad Market",
+        "Commodities",
+        "Energy",
+        "Financials",
+        "Industrials",
+        "International"
+      ],
+      "primary_sector": "Bonds",
+      "etf_tickers": [],
+      "rotation": ""
+    },
+    {
+      "title": "Bank of England chief warns new AI models threaten global financial stability",
+      "headline_it": "",
+      "summary_it": "",
+      "summary_en": "Bank of England Governor Andrew Bailey has warned that frontier AI could materially increase cyber risks to the global financial system.",
+      "source": "CNBC Economy",
+      "link": "https://www.cnbc.com/2026/08/31/bailey-frontier-ai-financial-stability-risk.html",
+      "date": "2026-08-31 13:35",
+      "score": 10.0,
+      "impact": "neutral",
+      "sectors": [
+        "Broad Market",
+        "Commodities",
+        "Energy",
+        "Financials",
+        "International"
+      ],
+      "primary_sector": "Broad Market",
+      "etf_tickers": [],
+      "rotation": ""
+    },
+    {
+      "title": "Etihad CEO says airline is doubling down on growth despite Iran war",
+      "headline_it": "",
+      "summary_it": "",
+      "summary_en": "Etihad’s Group CEO explains why the airline is still adding planes and routes after the Iran war derailed its record-profit momentum.",
+      "source": "CNBC World",
+      "link": "https://www.cnbc.com/video/2026/09/05/etihad-ceo-iran-war-break-even.html",
+      "date": "2026-09-05 04:00",
+      "score": 10.0,
+      "impact": "bullish",
+      "sectors": [
+        "Broad Market",
+        "Commodities",
+        "Energy",
+        "Industrials",
+        "International"
+      ],
+      "primary_sector": "Broad Market",
+      "etf_tickers": [],
+      "rotation": ""
+    },
+    {
+      "title": "U.S. envoys Witkoff and Kushner are in Moscow in a new push for peace between Russia and Ukraine",
+      "headline_it": "",
+      "summary_it": "",
+      "summary_en": "Trump's push to end the fighting, now in its fifth year, has lost momentum as U.S. attention has been focused for the last six months on its war with Iran.",
+      "source": "CNBC World",
+      "link": "https://www.cnbc.com/2026/09/05/witkoff-kushner-moscow-russia-ukraine.html",
+      "date": "2026-09-05 10:40",
+      "score": 10.0,
+      "impact": "neutral",
+      "sectors": [
+        "Broad Market",
+        "Commodities",
+        "Energy",
+        "Industrials",
+        "International"
+      ],
+      "primary_sector": "Broad Market",
+      "etf_tickers": [],
+      "rotation": ""
+    },
+    {
+      "title": "Iranian tanker hit by U.S. attack near Iran's Kharg Island, Tasnim says",
+      "headline_it": "",
+      "summary_it": "",
+      "summary_en": "",
+      "source": "CNBC World",
+      "link": "https://www.cnbc.com/2026/09/05/iranian-tanker-reportedly-hit-by-us-attack-near-irans-kharg-island.html",
+      "date": "2026-09-05 10:36",
+      "score": 10.0,
+      "impact": "neutral",
+      "sectors": [
+        "Broad Market",
+        "Commodities",
+        "Energy",
+        "Industrials",
+        "International"
+      ],
+      "primary_sector": "Broad Market",
+      "etf_tickers": [],
+      "rotation": ""
+    },
+    {
+      "title": "Goldman just revised this credit-market forecast thanks to the AI sector",
+      "headline_it": "",
+      "summary_it": "",
+      "summary_en": "AI-related supply has helped USD investment grade gross issuance to keep its active momentum all through summer, prompting Goldman to raise its forecast higher.",
+      "source": "CNBC World",
+      "link": "https://www.cnbc.com/2026/09/04/goldman-usd-corporate-debt-bond-yields.html",
+      "date": "2026-09-04 02:42",
+      "score": 10.0,
+      "impact": "neutral",
+      "sectors": [
+        "Bonds",
+        "Commodities",
+        "Financials",
+        "Industrials"
+      ],
+      "primary_sector": "Bonds",
+      "etf_tickers": [],
+      "rotation": ""
+    },
+    {
+      "title": "U.S. 'Economic Outcast’ operation gains momentum as EU joins sanctions; South Korea weighs military backing",
+      "headline_it": "",
+      "summary_it": "",
+      "summary_en": "The EU formally joined the U.S.-led sanctions campaign against Iran, while South Korea said it's weighing a military role to help reopen the Strait of Hormuz.",
+      "source": "CNBC World",
+      "link": "https://www.cnbc.com/2026/09/04/us-iran-war-trump-hormuz-operation-economic-outcast-sanctions-campaign.html",
+      "date": "2026-09-04 12:20",
+      "score": 10.0,
+      "impact": "bullish",
+      "sectors": [
+        "Commodities",
+        "Energy",
+        "Industrials",
+        "International",
+        "Tech & Semiconductors"
+      ],
+      "primary_sector": "Commodities",
+      "etf_tickers": [],
+      "rotation": ""
+    },
+    {
+      "title": "Diesel hits record high as Ukraine and Iran wars knock out refineries, fueling inflation worries",
+      "headline_it": "",
+      "summary_it": "",
+      "summary_en": "Higher prices come as Ukraine pounds Russian refineries, forcing Moscow to ban diesel exports.",
+      "source": "CNBC World",
+      "link": "https://www.cnbc.com/2026/09/04/diesel-price-record-high-ukraine-iran-inflation.html",
+      "date": "2026-09-04 15:10",
+      "score": 10.0,
+      "impact": "bullish",
+      "sectors": [
+        "Bonds",
+        "Broad Market",
+        "Commodities",
+        "Energy",
+        "Industrials",
+        "International"
+      ],
+      "primary_sector": "Bonds",
+      "etf_tickers": [],
+      "rotation": ""
+    },
+    {
+      "title": "Argentina's Milei escalates Falklands dispute as Trump questions U.S. support for Britain",
+      "headline_it": "",
+      "summary_it": "",
+      "summary_en": "Argentina's President Javier Milei has renewed the country's claim to the Falkland Islands and threatened sanctions on oil companies.",
+      "source": "CNBC World",
+      "link": "https://www.cnbc.com/2026/09/04/argentina-milei-falklands-oil-uk-trump.html",
+      "date": "2026-09-04 07:50",
+      "score": 10.0,
+      "impact": "neutral",
+      "sectors": [
+        "Commodities",
+        "Energy",
+        "International"
+      ],
+      "primary_sector": "Commodities",
+      "etf_tickers": [],
+      "rotation": ""
+    },
+    {
+      "title": "The inflation genie could be out of the bottle — and bond markets are sounding the alarm",
+      "headline_it": "",
+      "summary_it": "",
+      "summary_en": "Global bond yields have surged as investors assess whether rising debt, tariffs, defense spending and energy shocks could keep inflation higher for longer.",
+      "source": "CNBC World",
+      "link": "https://www.cnbc.com/2026/09/04/global-bond-selloff-inflation-risk.html",
+      "date": "2026-09-04 07:05",
+      "score": 10.0,
+      "impact": "bullish",
+      "sectors": [
+        "Bonds",
+        "Broad Market",
+        "Commodities",
+        "Industrials",
+        "International"
+      ],
+      "primary_sector": "Bonds",
+      "etf_tickers": [],
+      "rotation": ""
+    },
+    {
+      "title": "CNBC Daily Open: Vance says he would not call Trump's war with Iran a 'war'",
+      "headline_it": "",
+      "summary_it": "",
+      "summary_en": "U.S. Vice President JD Vance weighs in on Iran and rates, while investors turn their focus towards the August jobs report, due out on Friday.",
+      "source": "CNBC World",
+      "link": "https://www.cnbc.com/2026/09/04/cnbc-daily-open-trump-vance-iran-war.html",
+      "date": "2026-09-04 06:16",
+      "score": 10.0,
+      "impact": "neutral",
+      "sectors": [
+        "Broad Market",
+        "Commodities",
+        "Energy",
+        "Industrials",
+        "International"
+      ],
+      "primary_sector": "Broad Market",
+      "etf_tickers": [],
+      "rotation": ""
+    },
+    {
+      "title": "At least 5 killed in Russian attacks on Ukraine as US envoys visit Moscow",
+      "headline_it": "",
+      "summary_it": "",
+      "summary_en": "Ukrainian armed forces were ordered to follow a three-day ceasefire as US envoys visit Moscow, before trip to Kyiv.",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/news/2026/9/5/at-least-5-killed-in-russian-attacks-on-ukraine-as-us-envoys-visit-moscow?traffic_source=rss",
+      "date": "2026-09-05 10:27",
+      "score": 10.0,
+      "impact": "neutral",
+      "sectors": [
+        "Broad Market",
+        "Commodities",
+        "Energy",
+        "International"
+      ],
+      "primary_sector": "Broad Market",
+      "etf_tickers": [],
+      "rotation": ""
+    },
+    {
+      "title": "Why is Trump threatening to strike Iran’s Pickaxe Mountain again, now?",
+      "headline_it": "",
+      "summary_it": "",
+      "summary_en": "As oil tanker struck off Kharg island, Trump threatens one of the remaining parts of Iran’s nuclear complex.",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/news/2026/9/5/why-is-trump-threatening-to-strike-irans-pickaxe-mountain-again-now?traffic_source=rss",
+      "date": "2026-09-05 09:56",
+      "score": 10.0,
+      "impact": "bullish",
+      "sectors": [
+        "Commodities",
+        "Energy",
+        "Industrials",
+        "International"
+      ],
+      "primary_sector": "Commodities",
+      "etf_tickers": [],
+      "rotation": ""
+    },
+    {
+      "title": "Niger accuses France of orchestrating failed military mutiny",
+      "headline_it": "",
+      "summary_it": "",
+      "summary_en": "Niger has blamed France for inciting an attack on a key military airbase by mutinous soldiers last week.",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/5/niger-accuses-france-of-orchestrating-failed-military-mutiny?traffic_source=rss",
+      "date": "2026-09-05 07:42",
+      "score": 10.0,
+      "impact": "neutral",
+      "sectors": [
+        "Broad Market",
+        "Industrials",
+        "International"
+      ],
+      "primary_sector": "Broad Market",
+      "etf_tickers": [],
+      "rotation": ""
+    },
+    {
+      "title": "US imposes sanctions on Turkish bank, prompting legal threat",
+      "headline_it": "",
+      "summary_it": "",
+      "summary_en": "US sanctions Turkish bank over alleged IRGC ties, accusing it of facilitating millions in transactions for Iran.",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/news/2026/9/5/us-imposes-sanctions-on-turkish-bank-prompting-legal-threat?traffic_source=rss",
+      "date": "2026-09-05 05:19",
+      "score": 10.0,
+      "impact": "neutral",
+      "sectors": [
+        "Commodities",
+        "Energy",
+        "Financials",
+        "Industrials",
+        "International"
+      ],
+      "primary_sector": "Commodities",
+      "etf_tickers": [],
+      "rotation": ""
+    },
+    {
+      "title": "Europe targeted by spiralling campaign of sabotage - and Russia is the chief suspect",
+      "headline_it": "",
+      "summary_it": "",
+      "summary_en": "Germany has blamed Russia for an attack on Leipzig airport but there has been a series of suspicious incidents elsewhere.",
+      "source": "BBC World",
+      "link": "https://www.bbc.co.uk/news/articles/c5y4g6meekro?at_medium=RSS&at_campaign=rss",
+      "date": "2026-09-04 16:49",
+      "score": 10.0,
+      "impact": "neutral",
+      "sectors": [
+        "Broad Market",
+        "Commodities",
+        "Energy",
+        "International"
+      ],
+      "primary_sector": "Broad Market",
+      "etf_tickers": [],
+      "rotation": ""
+    },
+    {
+      "title": "Germany's far-right AfD bids for first taste of power in eastern vote",
+      "headline_it": "",
+      "summary_it": "",
+      "summary_en": "If it wins an outright majority in Saxony-Anhalt, it would be the first time a far-right party has held state-level power in Germany since World War Two.",
+      "source": "BBC World",
+      "link": "https://www.bbc.co.uk/news/articles/cvgypkzgy4wo?at_medium=RSS&at_campaign=rss",
+      "date": "2026-09-04 23:07",
+      "score": 10.0,
+      "impact": "neutral",
+      "sectors": [
+        "Broad Market",
+        "Commodities",
+        "Energy",
+        "Industrials",
+        "International"
+      ],
+      "primary_sector": "Broad Market",
+      "etf_tickers": [],
+      "rotation": ""
+    },
+    {
+      "title": "At least two dead in blast at Bolivia military barracks",
+      "headline_it": "",
+      "summary_it": "",
+      "summary_en": "Authorities fear the death toll in Viacha will rise and warn people to stay away from the barracks due to a risk of further explosions.",
+      "source": "BBC World",
+      "link": "https://www.bbc.co.uk/news/articles/c3v45xy67g5o?at_medium=RSS&at_campaign=rss",
+      "date": "2026-09-05 08:41",
+      "score": 10.0,
+      "impact": "bearish",
+      "sectors": [
+        "Broad Market",
+        "Commodities",
+        "Energy",
+        "Industrials",
+        "International"
+      ],
+      "primary_sector": "Broad Market",
+      "etf_tickers": [],
+      "rotation": ""
+    },
+    {
+      "title": "Russia hits Ukrainian security headquarters in drone attack, Zelensky says",
+      "headline_it": "",
+      "summary_it": "",
+      "summary_en": "The unmanned aerial vehicle struck without warning in the heart of the Ukrainian capital.",
+      "source": "BBC World",
+      "link": "https://www.bbc.co.uk/news/articles/c5yep7y48x2o?at_medium=RSS&at_campaign=rss",
+      "date": "2026-09-04 16:02",
+      "score": 10.0,
+      "impact": "bearish",
+      "sectors": [
+        "Broad Market",
+        "Commodities",
+        "Energy",
+        "International"
+      ],
+      "primary_sector": "Broad Market",
+      "etf_tickers": [],
+      "rotation": ""
+    },
+    {
+      "title": "Is Russia proving better at protecting friends than fighting enemies in West Africa?",
+      "headline_it": "",
+      "summary_it": "",
+      "summary_en": "Russian forces were brought in to help defeat jihadists but they also defend the military leadership in Niger.",
+      "source": "BBC World",
+      "link": "https://www.bbc.co.uk/news/articles/cx2z75keq58o?at_medium=RSS&at_campaign=rss",
+      "date": "2026-09-05 04:03",
+      "score": 10.0,
+      "impact": "neutral",
+      "sectors": [
+        "Commodities",
+        "Energy",
+        "Industrials",
+        "International"
+      ],
+      "primary_sector": "Commodities",
+      "etf_tickers": [],
+      "rotation": ""
+    },
+    {
+      "title": "How could US-Iran conflict end? Three experts give their views",
+      "headline_it": "",
+      "summary_it": "",
+      "summary_en": "After renewed strikes this week, does either side have an exit strategy?",
+      "source": "BBC World",
+      "link": "https://www.bbc.co.uk/news/articles/cgjql614glvo?at_medium=RSS&at_campaign=rss",
+      "date": "2026-09-04 09:14",
+      "score": 10.0,
+      "impact": "neutral",
+      "sectors": [
+        "Commodities",
+        "Energy",
+        "Industrials",
+        "International"
+      ],
+      "primary_sector": "Commodities",
+      "etf_tickers": [],
+      "rotation": ""
+    },
+    {
+      "title": "How much can Canada fight back in its trade war with the US?",
+      "headline_it": "",
+      "summary_it": "",
+      "summary_en": "The US may be the bigger trading partner, but Canada shouldn't be counted out quite yet in the escalating trade fight.",
+      "source": "BBC World",
+      "link": "https://www.bbc.co.uk/news/videos/c74knp7y04eo?at_medium=RSS&at_campaign=rss",
+      "date": "2026-09-05 02:13",
+      "score": 10.0,
+      "impact": "neutral",
+      "sectors": [
+        "Broad Market",
+        "Commodities",
+        "Energy",
+        "International"
+      ],
+      "primary_sector": "Broad Market",
+      "etf_tickers": [],
+      "rotation": ""
+    },
+    {
+      "title": "Philip R. Lane: Diversity at the European Central Bank",
+      "headline_it": "",
+      "summary_it": "",
+      "summary_en": "",
+      "source": "ECB",
+      "link": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp260904~7b9257099b.en.pdf",
+      "date": "2026-09-04 09:10",
+      "score": 10.0,
+      "impact": "neutral",
+      "sectors": [
+        "Financials"
+      ],
+      "primary_sector": "Financials",
+      "etf_tickers": [],
+      "rotation": ""
+    },
+    {
+      "title": "Boris Vujčić: Listening to households: expectations, behaviour and monetary policy",
+      "headline_it": "",
+      "summary_it": "",
+      "summary_en": "The European Central Bank (ECB) is the central bank of the European Union countries which have adopted the euro. Our main task is to maintain price stability in the euro area and so preserve the purchasing power of the single currency.",
+      "source": "ECB",
+      "link": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp260901~bb28f33f54.en.html",
+      "date": "2026-09-01 16:00",
+      "score": 10.0,
+      "impact": "neutral",
+      "sectors": [
+        "Bonds",
+        "Broad Market",
+        "Financials"
+      ],
+      "primary_sector": "Bonds",
+      "etf_tickers": [],
+      "rotation": ""
+    },
+    {
+      "title": "Rosneft CEO: China Calls The Shots in Oil Markets, Not OPEC",
+      "headline_it": "",
+      "summary_it": "",
+      "summary_en": "China and its crude oil buying behavior in the spring and summer have stabilized global oil markets as Beijing, not OPEC, is calling the shots now, according to Igor Sechin, chief executive of Russia’s biggest oil producer Rosneft. China has strengthened its position of the ultimate swing buyer on the global market and has taken the initiative from OPEC, said the executive, who is considered to be a close ally of Vladimir Putin and who has been a long-time critic of OPEC. “China has successfully turned from a major consumer and importer…",
+      "source": "OilPrice",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/Rosneft-CEO-China-Calls-The-Shots-in-Oil-Markets-Not-OPEC.html",
+      "date": "2026-09-04 16:30",
+      "score": 10.0,
+      "impact": "neutral",
+      "sectors": [
+        "Commodities",
+        "Energy",
+        "International"
+      ],
+      "primary_sector": "Commodities",
+      "etf_tickers": [],
+      "rotation": ""
+    },
+    {
+      "title": "The Iran War Has Put Venezuela’s Oil Back in the Spotlight",
+      "headline_it": "",
+      "summary_it": "",
+      "summary_en": "Politics, Geopolitics & Conflict The U.S. restarted major strikes on Iran this week, hitting missile, radar, and other military installations along the southern coast and on Larak Island. Iran retaliated against U.S. positions across the Gulf and Jordan, and also continued attacking commercial shipping, with two supertankers carrying Saudi crude struck near Hormuz and two sailors killed aboard a Saudi-owned vessel. The civilian toll from the renewed U.S. campaign is drawing scrutiny after a strike hit a wedding in southern Iran, killing five…",
+      "source": "OilPrice",
+      "link": "https://oilprice.com/Energy/Energy-General/The-Iran-War-Has-Put-Venezuelas-Oil-Back-in-the-Spotlight.html",
+      "date": "2026-09-04 12:30",
+      "score": 10.0,
+      "impact": "mixed",
+      "sectors": [
+        "Broad Market",
+        "Commodities",
+        "Energy",
+        "Industrials",
+        "International"
+      ],
+      "primary_sector": "Broad Market",
+      "etf_tickers": [],
+      "rotation": ""
+    },
+    {
+      "title": "How Much Oil Is Really Getting Through the Strait of Hormuz?",
+      "headline_it": "",
+      "summary_it": "",
+      "summary_en": "Trump says the U.S. has effectively reopened the Strait of Hormuz, with 18 million barrels of oil reportedly crossing under American protection on Tuesday, close to the roughly 20 million bpd that moved through before the war. The problem is that nobody outside the U.S. government can yet verify Tuesday’s number, and the shipping data we normally rely on has become unusually difficult to read. Kpler recorded 11 visible commodity-vessel crossings Tuesday, while Lloyd’s List Intelligence recorded roughly 12 transits a day from August…",
+      "source": "OilPrice",
+      "link": "https://oilprice.com/Energy/Energy-General/How-Much-Oil-Is-Really-Getting-Through-the-Strait-of-Hormuz.html",
+      "date": "2026-09-04 12:30",
+      "score": 10.0,
+      "impact": "neutral",
+      "sectors": [
+        "Broad Market",
+        "Commodities",
+        "Energy",
+        "International"
+      ],
+      "primary_sector": "Broad Market",
+      "etf_tickers": [],
+      "rotation": ""
+    },
+    {
+      "title": "Middle East war drives 35% rise in Hongkongers’ overseas help requests",
+      "headline_it": "",
+      "summary_it": "",
+      "summary_en": "Hongkongers’ requests for help from overseas jumped 35 per cent in the first eight months of 2026 compared with the same period last year, the city’s immigration chief has revealed, attributing the rise to the war in the Middle East.\nDirector of Immigration Benson Kwok Joon-fung told reporters on Saturday that his department had received around 3,160 requests for assistance from Hong Kong residents overseas between January and August this year.\n“The rise mainly came from the military conflict in...",
+      "source": "SCMP",
+      "link": "https://www.scmp.com/news/hong-kong/transport/article/3366465/middle-east-war-drives-35-rise-hongkongers-overseas-help-requests?utm_source=rss_feed",
+      "date": "2026-09-05 06:45",
+      "score": 10.0,
+      "impact": "neutral",
+      "sectors": [
+        "Broad Market",
+        "Commodities",
+        "Energy",
+        "Industrials",
+        "International"
+      ],
+      "primary_sector": "Broad Market",
+      "etf_tickers": [],
+      "rotation": ""
+    },
+    {
+      "title": "The world appears to be entering a higher-rate era. Here’s who will pay the price",
+      "headline_it": "",
+      "summary_it": "",
+      "summary_en": "The bond sell-off is owed to a mix of high government debt issuance, an oil-price shock that has reignited inflation concerns, and expectations of higher rates.",
+      "source": "CNBC World",
+      "link": "https://www.cnbc.com/2026/09/03/global-bond-yields-rising-treasuries-jgb-bunds.html",
+      "date": "2026-09-03 04:20",
+      "score": 9.9,
+      "impact": "bearish",
+      "sectors": [
+        "Bonds",
+        "Broad Market",
+        "Commodities",
+        "Energy"
+      ],
+      "primary_sector": "Bonds",
+      "etf_tickers": [],
+      "rotation": ""
+    },
+    {
+      "title": "Nvidia's investments grow to $99 billion as chip giant becomes major backer of AI companies",
+      "headline_it": "",
+      "summary_it": "",
+      "summary_en": "Nvidia reported $99 billion in equity holdings as it backs AI labs, cloud providers and infrastructure companies across the sector.",
+      "source": "CNBC World",
+      "link": "https://www.cnbc.com/2026/09/04/nvidia-ai-investments-99-billion.html",
+      "date": "2026-09-04 09:32",
+      "score": 9.9,
+      "impact": "neutral",
+      "sectors": [
+        "Industrials",
+        "Real Estate",
+        "Tech & Semiconductors"
+      ],
+      "primary_sector": "Industrials",
+      "etf_tickers": [],
+      "rotation": ""
+    },
+    {
+      "title": "Trump sends envoys to Russia, Ukraine with new peace plan",
+      "headline_it": "",
+      "summary_it": "",
+      "summary_en": "Al Jazeera’s Kimberly Halkett reports that US President Donald Trump is sending envoys Jared Kushner and Steve Witkoff.",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/5/trump-sends-envoys-to-russia-ukraine-with-new-peace-plan?traffic_source=rss",
+      "date": "2026-09-05 03:25",
+      "score": 9.9,
+      "impact": "neutral",
+      "sectors": [
+        "Commodities",
+        "Energy",
+        "Industrials",
+        "International"
+      ],
+      "primary_sector": "Commodities",
+      "etf_tickers": [],
+      "rotation": ""
+    },
+    {
+      "title": "US envoys arrive in Moscow ahead of Ukraine talks",
+      "headline_it": "",
+      "summary_it": "",
+      "summary_en": "Steve Witkoff and Jared Kushner are due to hold talks with Russia before travelling to Ukraine on Sunday.",
+      "source": "BBC World",
+      "link": "https://www.bbc.co.uk/news/articles/cx2zqp46g8eo?at_medium=RSS&at_campaign=rss",
+      "date": "2026-09-05 11:07",
+      "score": 9.9,
+      "impact": "neutral",
+      "sectors": [
+        "Commodities",
+        "Energy",
+        "Industrials",
+        "International"
+      ],
+      "primary_sector": "Commodities",
+      "etf_tickers": [],
+      "rotation": ""
+    },
+    {
+      "title": "'Danger zone of extreme weather': UN warns of supersized El Niño set to hit global economy and markets",
+      "headline_it": "",
+      "summary_it": "",
+      "summary_en": "Latest modeling shows high risks of floods, drought and extreme heat persisting until February 2027.",
+      "source": "CNBC Economy",
+      "link": "https://www.cnbc.com/2026/09/03/supersized-el-nino-un-economy.html",
+      "date": "2026-09-03 12:25",
+      "score": 9.8,
+      "impact": "neutral",
+      "sectors": [
+        "Broad Market",
+        "Commodities",
+        "Energy",
+        "International"
+      ],
+      "primary_sector": "Broad Market",
+      "etf_tickers": [],
+      "rotation": ""
+    },
+    {
+      "title": "Italy's Meloni just hit a major political milestone. Former leaders say economic reform must follow",
+      "headline_it": "",
+      "summary_it": "",
+      "summary_en": "Italian Prime Minister Giorgia Meloni's government became the country's longest-serving cabinet since World War II on Friday.",
+      "source": "CNBC World",
+      "link": "https://www.cnbc.com/2026/09/05/italy-meloni-bonds-debt.html",
+      "date": "2026-09-05 05:41",
+      "score": 9.8,
+      "impact": "neutral",
+      "sectors": [
+        "Broad Market",
+        "Commodities",
+        "Energy",
+        "International"
+      ],
+      "primary_sector": "Broad Market",
+      "etf_tickers": [],
+      "rotation": ""
+    },
+    {
+      "title": "Anthropic IPO launch shifts toward mid-October: Reuters",
+      "headline_it": "",
+      "summary_it": "",
+      "summary_en": "",
+      "source": "CNBC World",
+      "link": "https://www.cnbc.com/2026/09/05/anthropic-ipo-launch-shifts-toward-mid-october-reuters.html",
+      "date": "2026-09-05 07:48",
+      "score": 9.8,
+      "impact": "neutral",
+      "sectors": [
+        "Broad Market",
+        "Commodities",
+        "Energy",
+        "International"
+      ],
+      "primary_sector": "Broad Market",
+      "etf_tickers": [],
+      "rotation": ""
+    },
+    {
+      "title": "UAE pardons Egyptian dissident-poet al-Qaradawi facing 10 years in prison",
+      "headline_it": "",
+      "summary_it": "",
+      "summary_en": "Egyptian activist Abdul Rahman al-Qaradawi was held due to an arrest warrant by the Arab Interior Ministers Council.",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/news/2026/9/5/uae-pardons-egyptian-dissident-poet-al-qaradawi-facing-10-years-in-prison?traffic_source=rss",
+      "date": "2026-09-05 08:14",
+      "score": 9.8,
+      "impact": "neutral",
+      "sectors": [
+        "Broad Market",
+        "Commodities",
+        "Energy",
+        "International"
+      ],
+      "primary_sector": "Broad Market",
+      "etf_tickers": [],
+      "rotation": ""
+    },
+    {
+      "title": "Ukraine Pushes Congress for Russia Sanctions Before Election Recess",
+      "headline_it": "",
+      "summary_it": "",
+      "summary_en": "Ukraine’s top sanctions official says he remains optimistic about prospects for a sweeping Russia sanctions bill in the US Congress despite growing uncertainty over when the House of Representatives will take it up, as lawmakers face a sharply shortened legislative calendar ahead of the November elections. Vladyslav Vlasiuk, Ukrainian President Volodymyr Zelenskyy’s sanctions commissioner, spent this week in Washington meeting lawmakers and congressional staff as Kyiv presses Congress to advance the Lindsey O. Graham Sanctioning Russia…",
+      "source": "OilPrice",
+      "link": "https://oilprice.com/Geopolitics/Europe/Ukraine-Pushes-Congress-for-Russia-Sanctions-Before-Election-Recess.html",
+      "date": "2026-09-04 18:00",
+      "score": 9.7,
+      "impact": "bearish",
+      "sectors": [
+        "Broad Market",
+        "Commodities",
+        "Energy",
+        "International"
+      ],
+      "primary_sector": "Broad Market",
+      "etf_tickers": [],
+      "rotation": ""
+    },
+    {
+      "title": "Stocks making the biggest moves midday: PG&E, Edison International, Apple, Howmet Aerospace, Eli Lilly & more",
+      "headline_it": "",
+      "summary_it": "",
+      "summary_en": "These are some of the stocks posting the largest moves midday.",
+      "source": "CNBC Finance",
+      "link": "https://www.cnbc.com/2026/08/31/stocks-making-the-biggest-moves-midday-pcg-eix-agco-hwm-more-.html",
+      "date": "2026-08-31 19:49",
+      "score": 9.6,
+      "impact": "neutral",
+      "sectors": [
+        "Consumers",
+        "Industrials",
+        "Tech & Semiconductors"
+      ],
+      "primary_sector": "Consumers",
+      "etf_tickers": [],
+      "rotation": ""
+    },
+    {
+      "title": "Japanese Government Bonds Held by the Bank of Japan",
+      "headline_it": "",
+      "summary_it": "",
+      "summary_en": "",
+      "source": "Bank of Japan",
+      "link": "http://www.boj.or.jp/en/statistics/boj/other/mei/release/2026/mei260831.xlsx",
+      "date": "2026-09-02 08:00",
+      "score": 9.6,
+      "impact": "neutral",
+      "sectors": [
+        "Bonds",
+        "Financials"
+      ],
+      "primary_sector": "Bonds",
+      "etf_tickers": [],
+      "rotation": ""
+    },
+    {
+      "title": "US ambassador to Israel meets Palestinian-Americans in occupied West Bank",
+      "headline_it": "",
+      "summary_it": "",
+      "summary_en": "US Ambassador to Israel Mike Huckabee has visited Turmus Ayya in the occupied West Bank.",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/5/us-ambassador-to-israel-meets-palestinian-americans-in-occupied-west-bank?traffic_source=rss",
+      "date": "2026-09-05 09:52",
+      "score": 9.6,
+      "impact": "neutral",
+      "sectors": [
+        "Energy",
+        "Financials",
+        "Industrials",
+        "International"
+      ],
+      "primary_sector": "Energy",
+      "etf_tickers": [],
+      "rotation": ""
+    },
+    {
+      "title": "Oil and politics: What Trump’s ‘historic’ deal means for Venezuela",
+      "headline_it": "",
+      "summary_it": "",
+      "summary_en": "Venezuelans are hoping for free and fair elections, but the US may prioritise oil production.",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/features/2026/9/5/oil-and-politics-what-trumps-historic-deal-means-for?traffic_source=rss",
+      "date": "2026-09-05 09:11",
+      "score": 9.6,
+      "impact": "neutral",
+      "sectors": [
+        "Broad Market",
+        "Commodities",
+        "Energy",
+        "International"
+      ],
+      "primary_sector": "Broad Market",
+      "etf_tickers": [],
+      "rotation": ""
+    }
+  ]
+}
