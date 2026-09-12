@@ -1,0 +1,618 @@
+{
+  "report_date": "September 12, 2026",
+  "week": "2026-W37",
+  "analysis": {
+    "report_date": "September 12, 2026",
+    "market_overview": {
+      "spy_1w": -1.15,
+      "qqq_1w": -0.39,
+      "breadth": "1/13",
+      "best_sector": {
+        "name": "Energy",
+        "w1": 1.04
+      },
+      "worst_sector": {
+        "name": "Healthcare",
+        "w1": -4.53
+      },
+      "best_etf": {
+        "ticker": "USO",
+        "desc": "Crude Oil",
+        "w1": 9.02
+      },
+      "worst_etf": {
+        "ticker": "REMX",
+        "desc": "Rare Earth",
+        "w1": -7.19
+      }
+    },
+    "sector_performance": {
+      "Broad Market": {
+        "w1": -1.39,
+        "m1": -2.07,
+        "m3": 2.12,
+        "m6": 16.26,
+        "y1": 20.21,
+        "y3": 73.8
+      },
+      "International": {
+        "w1": -1.51,
+        "m1": -3.42,
+        "m3": -0.96,
+        "m6": 4.26,
+        "y1": 6.4,
+        "y3": 49.08
+      },
+      "Tech & Semiconductors": {
+        "w1": -1.33,
+        "m1": -2.91,
+        "m3": 7.53,
+        "m6": 33.5,
+        "y1": 30.16,
+        "y3": 108.56
+      },
+      "Healthcare": {
+        "w1": -4.53,
+        "m1": -0.2,
+        "m3": 20.0,
+        "m6": 33.71,
+        "y1": 54.53,
+        "y3": 58.03
+      },
+      "Financials": {
+        "w1": -4.28,
+        "m1": -0.29,
+        "m3": 9.05,
+        "m6": 13.64,
+        "y1": -5.96,
+        "y3": 49.11
+      },
+      "Energy": {
+        "w1": 1.04,
+        "m1": 0.9,
+        "m3": -3.94,
+        "m6": 3.5,
+        "y1": 39.09,
+        "y3": 44.84
+      },
+      "Commodities": {
+        "w1": -4.08,
+        "m1": -1.27,
+        "m3": 1.05,
+        "m6": -8.47,
+        "y1": 38.71,
+        "y3": 122.26
+      },
+      "Real Estate": {
+        "w1": -2.97,
+        "m1": -5.73,
+        "m3": -5.33,
+        "m6": 1.38,
+        "y1": -4.89,
+        "y3": 23.92
+      },
+      "Industrials": {
+        "w1": -1.5,
+        "m1": -8.38,
+        "m3": -8.97,
+        "m6": 3.87,
+        "y1": 18.05,
+        "y3": 74.6
+      },
+      "Bonds": {
+        "w1": -1.12,
+        "m1": -1.05,
+        "m3": -2.75,
+        "m6": -1.45,
+        "y1": -1.61,
+        "y3": 12.92
+      },
+      "Crypto": {
+        "w1": -3.98,
+        "m1": 13.85,
+        "m3": 10.87,
+        "m6": 15.36,
+        "y1": -15.92,
+        "y3": 185.38
+      },
+      "Consumers": {
+        "w1": -1.38,
+        "m1": -1.21,
+        "m3": 1.67,
+        "m6": 1.51,
+        "y1": -3.11,
+        "y3": 55.8
+      },
+      "Utilities": {
+        "w1": -1.49,
+        "m1": -3.31,
+        "m3": -3.15,
+        "m6": -7.62,
+        "y1": 2.98,
+        "y3": 50.09
+      }
+    },
+    "country_performance": {
+      "United States": {
+        "w1": -1.39,
+        "m1": -2.07,
+        "m3": 2.12,
+        "m6": 16.26,
+        "y1": 20.21,
+        "y3": 73.8
+      },
+      "Europe": {
+        "w1": -1.75,
+        "m1": -2.71,
+        "m3": 2.07,
+        "m6": 10.64,
+        "y1": 18.46,
+        "y3": 77.58
+      },
+      "China": {
+        "w1": -2.85,
+        "m1": -6.4,
+        "m3": -4.92,
+        "m6": -8.76,
+        "y1": -14.0,
+        "y3": 18.22
+      },
+      "India": {
+        "w1": -2.44,
+        "m1": -1.96,
+        "m3": 2.91,
+        "m6": 3.03,
+        "y1": -6.89,
+        "y3": 12.62
+      },
+      "EM Asia": {
+        "w1": -0.52,
+        "m1": 0.37,
+        "m3": 3.4,
+        "m6": 16.94,
+        "y1": 33.81,
+        "y3": 73.57
+      },
+      "EM Latin America": {
+        "w1": -1.39,
+        "m1": 3.29,
+        "m3": 2.67,
+        "m6": 7.87,
+        "y1": 33.62,
+        "y3": 82.02
+      },
+      "EM Africa & Middle East": {
+        "w1": 0.64,
+        "m1": 1.13,
+        "m3": 3.41,
+        "m6": 4.23,
+        "y1": 12.4,
+        "y3": 39.29
+      },
+      "Other": {
+        "w1": -2.42,
+        "m1": -1.02,
+        "m3": 2.46,
+        "m6": 8.07,
+        "y1": 18.54,
+        "y3": 71.19
+      }
+    },
+    "top_gainers": [
+      {
+        "t": "USO",
+        "d": "Crude Oil",
+        "w1": 9.02
+      },
+      {
+        "t": "SMH",
+        "d": "Semiconductors",
+        "w1": 2.88
+      },
+      {
+        "t": "ICLN",
+        "d": "Clean Energy",
+        "w1": 1.64
+      },
+      {
+        "t": "XLK",
+        "d": "US Tech",
+        "w1": 0.91
+      },
+      {
+        "t": "XLE",
+        "d": "Oil & Gas",
+        "w1": 0.8
+      }
+    ],
+    "top_losers": [
+      {
+        "t": "REMX",
+        "d": "Rare Earth",
+        "w1": -7.19
+      },
+      {
+        "t": "FINX",
+        "d": "Fintech",
+        "w1": -6.33
+      },
+      {
+        "t": "BITO",
+        "d": "Bitcoin Futures",
+        "w1": -5.81
+      },
+      {
+        "t": "IBB",
+        "d": "Biotech Large Cap",
+        "w1": -5.09
+      },
+      {
+        "t": "XBI",
+        "d": "Biotech Small Cap",
+        "w1": -4.98
+      }
+    ],
+    "momentum": {
+      "Energy": {
+        "score": 95
+      },
+      "Tech & Semiconductors": {
+        "score": 88
+      },
+      "Crypto": {
+        "score": 81
+      },
+      "Healthcare": {
+        "score": 77
+      },
+      "Broad Market": {
+        "score": 76
+      },
+      "Consumers": {
+        "score": 72
+      },
+      "Bonds": {
+        "score": 64
+      },
+      "Commodities": {
+        "score": 59
+      },
+      "Financials": {
+        "score": 51
+      },
+      "Utilities": {
+        "score": 42
+      },
+      "International": {
+        "score": 39
+      },
+      "Industrials": {
+        "score": 31
+      },
+      "Real Estate": {
+        "score": 10
+      }
+    },
+    "country_momentum": {
+      "EM Latin America": {
+        "score": 95
+      },
+      "EM Asia": {
+        "score": 95
+      },
+      "EM Africa & Middle East": {
+        "score": 93
+      },
+      "United States": {
+        "score": 60
+      },
+      "Other": {
+        "score": 57
+      },
+      "Europe": {
+        "score": 45
+      },
+      "India": {
+        "score": 42
+      },
+      "China": {
+        "score": 10
+      }
+    },
+    "capital_flows": {
+      "inflow": [],
+      "outflow": [
+        {
+          "group": "Real Estate",
+          "flow_score": -32
+        },
+        {
+          "group": "Utilities",
+          "flow_score": -24
+        },
+        {
+          "group": "Bonds",
+          "flow_score": -22
+        }
+      ]
+    },
+    "country_flows": {
+      "inflow": [],
+      "outflow": [
+        {
+          "group": "India",
+          "flow_score": -55
+        },
+        {
+          "group": "China",
+          "flow_score": -25
+        },
+        {
+          "group": "Europe",
+          "flow_score": -22
+        }
+      ]
+    },
+    "rsi_extremes": {
+      "overbought": [
+        {
+          "t": "USO",
+          "d": "Crude Oil",
+          "rsi": 71.9
+        },
+        {
+          "t": "XLE",
+          "d": "Oil & Gas",
+          "rsi": 66.2
+        },
+        {
+          "t": "BITO",
+          "d": "Bitcoin Futures",
+          "rsi": 58.5
+        },
+        {
+          "t": "VGT",
+          "d": "Info Technology",
+          "rsi": 55.4
+        },
+        {
+          "t": "EEM",
+          "d": "Emerging Markets",
+          "rsi": 55.2
+        }
+      ],
+      "oversold": [
+        {
+          "t": "ITA",
+          "d": "Aerospace & Defense",
+          "rsi": 28.5
+        },
+        {
+          "t": "KWEB",
+          "d": "China Internet",
+          "rsi": 32.4
+        },
+        {
+          "t": "LQD",
+          "d": "Investment Grade",
+          "rsi": 32.7
+        },
+        {
+          "t": "HYG",
+          "d": "High Yield",
+          "rsi": 34.6
+        },
+        {
+          "t": "REMX",
+          "d": "Rare Earth",
+          "rsi": 35.0
+        }
+      ]
+    },
+    "news_by_sector": {
+      "Broad Market": {
+        "count": 38,
+        "top": [
+          {
+            "hl": "U.S. reveals import ban on slew of Canadian goods as trade war escalates",
+            "impact": "neutral",
+            "src": "CNBC Economy"
+          },
+          {
+            "hl": "Canada's retaliatory tariffs worth CA$27.6 billion take effect as trade rift with U.S. deepens",
+            "impact": "neutral",
+            "src": "CNBC Economy"
+          }
+        ]
+      },
+      "International": {
+        "count": 35,
+        "top": [
+          {
+            "hl": "Trump turns up the heat on Warsh as Fed rate hike looms",
+            "impact": "bearish",
+            "src": "CNBC Economy"
+          },
+          {
+            "hl": "Why Dell and HPE were the S&P 500’s top-performing stocks today",
+            "impact": "bullish",
+            "src": "MarketWatch"
+          }
+        ]
+      },
+      "Tech & Semiconductors": {
+        "count": 1,
+        "top": [
+          {
+            "hl": "UAE Rethinks 5-Gigawatt AI Campus After Iran Targets US Assets in Gulf",
+            "impact": "neutral",
+            "src": "OilPrice"
+          }
+        ]
+      },
+      "Financials": {
+        "count": 17,
+        "top": [
+          {
+            "hl": "Agencies seek comment on proposed third-party risk management guidance and issue statement on commun",
+            "impact": "neutral",
+            "src": "Federal Reserve"
+          },
+          {
+            "hl": "Agencies reduce regulatory burden for community banks, increase eligibility for 18-month exam cycle",
+            "impact": "neutral",
+            "src": "Federal Reserve"
+          }
+        ]
+      },
+      "Energy": {
+        "count": 34,
+        "top": [
+          {
+            "hl": "Saudi shuts pipeline that was vital Hormuz bypass as new front opens in Middle East war",
+            "impact": "neutral",
+            "src": "Seeking Alpha"
+          },
+          {
+            "hl": "Tehran won’t surrender to the U.S., Iranian President Pezeshkian says, as India's Modi urges dialogu",
+            "impact": "neutral",
+            "src": "CNBC World"
+          }
+        ]
+      },
+      "Commodities": {
+        "count": 36,
+        "top": [
+          {
+            "hl": "Inflation persisted in August, potentially locking in a Fed interest rate hike",
+            "impact": "mixed",
+            "src": "CNBC Economy"
+          },
+          {
+            "hl": "Trump arrives in Ireland to meet leaders before attending golf tournament",
+            "impact": "neutral",
+            "src": "CNBC World"
+          }
+        ]
+      },
+      "Industrials": {
+        "count": 28,
+        "top": [
+          {
+            "hl": "Saudi Arabia shut down East-West crude oil pipeline after multiple attacks by drones from Iraq",
+            "impact": "neutral",
+            "src": "CNBC World"
+          },
+          {
+            "hl": "The oil shock is testing private credit borrowers already burdened by high debt costs",
+            "impact": "bullish",
+            "src": "CNBC World"
+          }
+        ]
+      },
+      "Bonds": {
+        "count": 13,
+        "top": [
+          {
+            "hl": "The likelihood of a Fed interest rate hike next week just got a lot higher",
+            "impact": "bearish",
+            "src": "CNBC Economy"
+          },
+          {
+            "hl": "Further European rate hikes 'very much dependent' on energy costs, Bundesbank chief tells CNBC",
+            "impact": "bearish",
+            "src": "CNBC World"
+          }
+        ]
+      }
+    },
+    "rotation_signals": [],
+    "best_region": {
+      "name": "EM Africa & Middle East",
+      "w1": 0.64
+    },
+    "worst_region": {
+      "name": "China",
+      "w1": -2.85
+    },
+    "top_country_etfs": [
+      {
+        "t": "EWY",
+        "d": "South Korea",
+        "w1": 4.52
+      },
+      {
+        "t": "TUR",
+        "d": "Turkey",
+        "w1": 3.75
+      },
+      {
+        "t": "UAE",
+        "d": "UAE",
+        "w1": 2.0
+      }
+    ],
+    "bot_country_etfs": [
+      {
+        "t": "EWL",
+        "d": "Switzerland",
+        "w1": -5.02
+      },
+      {
+        "t": "ENZL",
+        "d": "New Zealand",
+        "w1": -4.32
+      },
+      {
+        "t": "ECH",
+        "d": "Chile",
+        "w1": -3.82
+      }
+    ],
+    "risk": {
+      "realized_vol": 8.9,
+      "pct_overbought": 1,
+      "pct_oversold": 1,
+      "risk_score": 100,
+      "worst_drawdowns_3m": [
+        {
+          "t": "EWY",
+          "dd": -34.2
+        },
+        {
+          "t": "REMX",
+          "dd": -33.6
+        },
+        {
+          "t": "QCLN",
+          "dd": -28.8
+        },
+        {
+          "t": "TAN",
+          "dd": -25.7
+        },
+        {
+          "t": "SMH",
+          "dd": -24.6
+        }
+      ]
+    }
+  },
+  "ai_commentary_html": "",
+  "counts": {
+    "etfs": 106,
+    "sectors": 13,
+    "regions": 8
+  },
+  "spy_weekly": [
+    743.29,
+    738.93,
+    747.03,
+    773.26,
+    776.34,
+    765.72,
+    769.35,
+    770.19,
+    764.29
+  ]
+}

@@ -1,0 +1,1251 @@
+{
+  "generated": "2026-09-12T11:48:19.774257",
+  "lookback_days": 7,
+  "total_articles": 50,
+  "sector_news": {
+    "Broad Market": {
+      "count": 38,
+      "top": [
+        {
+          "headline": "U.S. reveals import ban on slew of Canadian goods as trade war escalates",
+          "summary": "Import bans on motorbikes, alcohol and dairy products are due to come into effect on Sept. 29 as the rift between the countries deepens.",
+          "impact": "neutral",
+          "source": "CNBC Economy",
+          "score": 10.0,
+          "link": "https://www.cnbc.com/2026/09/09/us-canada-trade-war-import-ban.html",
+          "etf_tickers": []
+        },
+        {
+          "headline": "Canada's retaliatory tariffs worth CA$27.6 billion take effect as trade rift with U.S. deepens",
+          "summary": "Duties on Canadian imports of U.S. steel and aluminum products have doubled to 50% as a trade war between Washington and Ottawa intensifies.",
+          "impact": "neutral",
+          "source": "CNBC Economy",
+          "score": 10.0,
+          "link": "https://www.cnbc.com/2026/09/08/canada-retaliatory-tariffs.html",
+          "etf_tickers": []
+        },
+        {
+          "headline": "Crypto platforms have lost over $3.63 billion to cyberattacks — even though most of them did security checks",
+          "summary": "More than 60% of cryptocurrency platforms that lost money due to cyberattacks had undergone independent security audits, CoinGecko said.",
+          "impact": "neutral",
+          "source": "CNBC Finance",
+          "score": 10.0,
+          "link": "https://www.cnbc.com/2026/09/08/crypto-platforms-lost-billions-to-cyberattacks-many-even-after-audits.html",
+          "etf_tickers": []
+        }
+      ]
+    },
+    "International": {
+      "count": 35,
+      "top": [
+        {
+          "headline": "Trump turns up the heat on Warsh as Fed rate hike looms",
+          "summary": "Ten days ahead of the next Federal Reserve meeting, the Trump administration looks to be in a full-court press to halt a rate hike in its tracks.",
+          "impact": "bearish",
+          "source": "CNBC Economy",
+          "score": 10.0,
+          "link": "https://www.cnbc.com/2026/09/05/trump-warsh-fed-september-rate-hike.html",
+          "etf_tickers": []
+        },
+        {
+          "headline": "Why Dell and HPE were the S&P 500’s top-performing stocks today",
+          "summary": "Oracle’s earnings provided an upbeat read for hardware suppliers — but the Fed’s interest-rate moves could dictate just how much they continue benefitting.",
+          "impact": "bullish",
+          "source": "MarketWatch",
+          "score": 10.0,
+          "link": "https://www.marketwatch.com/story/why-dell-and-hpe-were-the-s-p-500s-top-performing-stocks-today-13d1dd14?mod=mw_rss_topstories",
+          "etf_tickers": []
+        },
+        {
+          "headline": "Warning against Scams Using the Bank of Japan's Name",
+          "summary": "",
+          "impact": "mixed",
+          "source": "Bank of Japan",
+          "score": 10.0,
+          "link": "http://www.boj.or.jp/en/about/organization/notice/index.htm",
+          "etf_tickers": []
+        }
+      ]
+    },
+    "Tech & Semiconductors": {
+      "count": 1,
+      "top": [
+        {
+          "headline": "UAE Rethinks 5-Gigawatt AI Campus After Iran Targets US Assets in Gulf",
+          "summary": "The United Arab Emirates (UAE) is considering significant changes to its plans to build a massive 5-gigawatt AI data center in Abu Dhabi in partnership with U.S. tech giants, after Iran started targeting American air bases and U.S.-linked critical infrastructure in the Persian Gulf, multiple sources have told Reuters. The UAE, which aims to become not only a regional but also a global leader in AI development and computing, last year planned to build the 5-GW UAE-US AI Campus in Abu Dhabi. The sprawling campus was planned to include 5 GW of capacity…",
+          "impact": "neutral",
+          "source": "OilPrice",
+          "score": 10.0,
+          "link": "https://oilprice.com/Latest-Energy-News/World-News/UAE-Rethinks-5-Gigawatt-AI-Campus-After-Iran-Targets-US-Assets-in-Gulf.html",
+          "etf_tickers": []
+        }
+      ]
+    },
+    "Financials": {
+      "count": 17,
+      "top": [
+        {
+          "headline": "Agencies seek comment on proposed third-party risk management guidance and issue statement on community bank engagement with core service providers",
+          "summary": "Agencies seek comment on proposed third-party risk management guidance and issue statement on community bank engagement with core service providers",
+          "impact": "neutral",
+          "source": "Federal Reserve",
+          "score": 10.0,
+          "link": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20260911a.htm",
+          "etf_tickers": []
+        },
+        {
+          "headline": "Agencies reduce regulatory burden for community banks, increase eligibility for 18-month exam cycle",
+          "summary": "Agencies reduce regulatory burden for community banks, increase eligibility for 18-month exam cycle",
+          "impact": "neutral",
+          "source": "Federal Reserve",
+          "score": 10.0,
+          "link": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20260910a.htm",
+          "etf_tickers": []
+        },
+        {
+          "headline": "Christine Lagarde: Europe seen from Normandy",
+          "summary": "The European Central Bank (ECB) is the central bank of the European Union countries which have adopted the euro. Our main task is to maintain price stability in the euro area and so preserve the purchasing power of the single currency.",
+          "impact": "neutral",
+          "source": "ECB",
+          "score": 10.0,
+          "link": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp260912~fafa4b35b0.en.html",
+          "etf_tickers": []
+        }
+      ]
+    },
+    "Energy": {
+      "count": 34,
+      "top": [
+        {
+          "headline": "Saudi shuts pipeline that was vital Hormuz bypass as new front opens in Middle East war",
+          "summary": "Saudi Arabia said it shut the crucial East-West pipeline that had allowed it to continue exporting crude oil after Iran closed the Strait of Hormuz, saying it was attacked by drones.",
+          "impact": "neutral",
+          "source": "Seeking Alpha",
+          "score": 10.0,
+          "link": "https://seekingalpha.com/news/4642255-saudi-shuts-pipeline-that-was-vital-hormuz-bypass-as-new-front-opens-in-middle-east-war?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+          "etf_tickers": []
+        },
+        {
+          "headline": "Tehran won’t surrender to the U.S., Iranian President Pezeshkian says, as India's Modi urges dialogue and peace",
+          "summary": "On his first visit to India, Iranian President Masoud Pezeshkian said he will not surrender to the U.S. and Israel, as New Delhi renewed its appeal for peace.",
+          "impact": "neutral",
+          "source": "CNBC World",
+          "score": 10.0,
+          "link": "https://www.cnbc.com/2026/09/12/iran-us-israel-war-india-brics.html",
+          "etf_tickers": []
+        },
+        {
+          "headline": "Trump's America-first world is pushing other powers to hedge their bets",
+          "summary": "Xi, Putin and Modi meet in New Delhi as U.S. tariffs, sanctions and the Iran war test whether BRICS members can find more common ground.",
+          "impact": "neutral",
+          "source": "CNBC World",
+          "score": 10.0,
+          "link": "https://www.cnbc.com/2026/09/12/brics-summit-xi-putin-modi-trump.html",
+          "etf_tickers": []
+        }
+      ]
+    },
+    "Commodities": {
+      "count": 36,
+      "top": [
+        {
+          "headline": "Inflation persisted in August, potentially locking in a Fed interest rate hike",
+          "summary": "The all-items consumer price index was expected to rise 0.4% in August, with core, excluding food and energy, showing a 0.2% gain, according to the Dow Jones consensus.",
+          "impact": "mixed",
+          "source": "CNBC Economy",
+          "score": 10.0,
+          "link": "https://www.cnbc.com/2026/09/11/cpi-inflation-report-august-2026.html",
+          "etf_tickers": []
+        },
+        {
+          "headline": "Trump arrives in Ireland to meet leaders before attending golf tournament",
+          "summary": "The talks could include politically sensitive topics such as economic issues and Irish leaders' concerns over the Iran war.",
+          "impact": "neutral",
+          "source": "CNBC World",
+          "score": 10.0,
+          "link": "https://www.cnbc.com/2026/09/12/trump-arrives-in-ireland-to-meet-leaders-ahead-of-golf-tournament.html",
+          "etf_tickers": []
+        },
+        {
+          "headline": "Russia, Trump and a battle over welfare loom over Sweden’s election",
+          "summary": "Russia's war, permanently higher defense spending and uncertainty over U.S. commitments are narrowing the choices facing whoever wins Sunday's election.",
+          "impact": "neutral",
+          "source": "CNBC World",
+          "score": 10.0,
+          "link": "https://www.cnbc.com/2026/09/12/sweden-election-russia-trump-welfare-defense.html",
+          "etf_tickers": []
+        }
+      ]
+    },
+    "Industrials": {
+      "count": 28,
+      "top": [
+        {
+          "headline": "Saudi Arabia shut down East-West crude oil pipeline after multiple attacks by drones from Iraq",
+          "summary": "Iran-allied Houthi militants in Yemen have escalated strikes on Saudi Arabia this week.",
+          "impact": "neutral",
+          "source": "CNBC World",
+          "score": 10.0,
+          "link": "https://www.cnbc.com/2026/09/11/saudi-arabia-shut-down-east-west-crude-oil-pipeline.html",
+          "etf_tickers": []
+        },
+        {
+          "headline": "The oil shock is testing private credit borrowers already burdened by high debt costs",
+          "summary": "Oil near $100 could further squeeze leveraged private credit borrowers as investors weigh the risk that inflation could push interest rates higher again.",
+          "impact": "bullish",
+          "source": "CNBC World",
+          "score": 10.0,
+          "link": "https://www.cnbc.com/2026/09/11/oil-private-credit-refinancing.html",
+          "etf_tickers": []
+        },
+        {
+          "headline": "Bessent says 'a large bank' will be sanctioned on Monday as part of Iran strategy",
+          "summary": "U.S. Treasury Secretary Scott Bessent said a large bank would be sanctioned next week.",
+          "impact": "neutral",
+          "source": "CNBC World",
+          "score": 10.0,
+          "link": "https://www.cnbc.com/2026/09/11/bessent-large-bank-sanctioned.html",
+          "etf_tickers": []
+        }
+      ]
+    },
+    "Bonds": {
+      "count": 13,
+      "top": [
+        {
+          "headline": "The likelihood of a Fed interest rate hike next week just got a lot higher",
+          "summary": "Traders pushed chances for a rate increase to 70% in morning action.",
+          "impact": "bearish",
+          "source": "CNBC Economy",
+          "score": 10.0,
+          "link": "https://www.cnbc.com/2026/09/10/the-likelihood-of-a-fed-interest-rate-hike-next-week-just-got-a-lot-higher.html",
+          "etf_tickers": []
+        },
+        {
+          "headline": "Further European rate hikes 'very much dependent' on energy costs, Bundesbank chief tells CNBC",
+          "summary": "Joachim Nagel told CNBC that a potential move in rates into restrictive territory was \"very much dependent on how the energy prices evolve.\"",
+          "impact": "bearish",
+          "source": "CNBC World",
+          "score": 10.0,
+          "link": "https://www.cnbc.com/2026/09/11/ecb-nagel-energy-prices-further-interest-rate-hikes.html",
+          "etf_tickers": []
+        },
+        {
+          "headline": "Fintechs conquered payments in India. Now they're eyeing credit",
+          "summary": "Fintech companies, the driving force behind the adoption of digital payments in India, are now focusing on offering credit to the underserved population.",
+          "impact": "neutral",
+          "source": "CNBC World",
+          "score": 10.0,
+          "link": "https://www.cnbc.com/2026/09/11/fintechs-upi-india-is-credit-economy-gff.html",
+          "etf_tickers": []
+        }
+      ]
+    }
+  },
+  "rotation_signals": [],
+  "articles": [
+    {
+      "title": "Agencies seek comment on proposed third-party risk management guidance and issue statement on community bank engagement with core service providers",
+      "headline_it": "",
+      "summary_it": "",
+      "summary_en": "Agencies seek comment on proposed third-party risk management guidance and issue statement on community bank engagement with core service providers",
+      "source": "Federal Reserve",
+      "link": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20260911a.htm",
+      "date": "2026-09-11 14:00",
+      "score": 10.0,
+      "impact": "neutral",
+      "sectors": [
+        "Financials"
+      ],
+      "primary_sector": "Financials",
+      "etf_tickers": [],
+      "rotation": ""
+    },
+    {
+      "title": "Agencies reduce regulatory burden for community banks, increase eligibility for 18-month exam cycle",
+      "headline_it": "",
+      "summary_it": "",
+      "summary_en": "Agencies reduce regulatory burden for community banks, increase eligibility for 18-month exam cycle",
+      "source": "Federal Reserve",
+      "link": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20260910a.htm",
+      "date": "2026-09-10 20:00",
+      "score": 10.0,
+      "impact": "neutral",
+      "sectors": [
+        "Financials"
+      ],
+      "primary_sector": "Financials",
+      "etf_tickers": [],
+      "rotation": ""
+    },
+    {
+      "title": "Inflation persisted in August, potentially locking in a Fed interest rate hike",
+      "headline_it": "",
+      "summary_it": "",
+      "summary_en": "The all-items consumer price index was expected to rise 0.4% in August, with core, excluding food and energy, showing a 0.2% gain, according to the Dow Jones consensus.",
+      "source": "CNBC Economy",
+      "link": "https://www.cnbc.com/2026/09/11/cpi-inflation-report-august-2026.html",
+      "date": "2026-09-11 13:46",
+      "score": 10.0,
+      "impact": "mixed",
+      "sectors": [
+        "Bonds",
+        "Broad Market",
+        "Commodities",
+        "Financials"
+      ],
+      "primary_sector": "Bonds",
+      "etf_tickers": [],
+      "rotation": ""
+    },
+    {
+      "title": "The likelihood of a Fed interest rate hike next week just got a lot higher",
+      "headline_it": "",
+      "summary_it": "",
+      "summary_en": "Traders pushed chances for a rate increase to 70% in morning action.",
+      "source": "CNBC Economy",
+      "link": "https://www.cnbc.com/2026/09/10/the-likelihood-of-a-fed-interest-rate-hike-next-week-just-got-a-lot-higher.html",
+      "date": "2026-09-10 16:55",
+      "score": 10.0,
+      "impact": "bearish",
+      "sectors": [
+        "Bonds",
+        "Broad Market",
+        "Financials"
+      ],
+      "primary_sector": "Bonds",
+      "etf_tickers": [],
+      "rotation": ""
+    },
+    {
+      "title": "U.S. reveals import ban on slew of Canadian goods as trade war escalates",
+      "headline_it": "",
+      "summary_it": "",
+      "summary_en": "Import bans on motorbikes, alcohol and dairy products are due to come into effect on Sept. 29 as the rift between the countries deepens.",
+      "source": "CNBC Economy",
+      "link": "https://www.cnbc.com/2026/09/09/us-canada-trade-war-import-ban.html",
+      "date": "2026-09-09 16:17",
+      "score": 10.0,
+      "impact": "neutral",
+      "sectors": [
+        "Broad Market",
+        "Commodities",
+        "Energy",
+        "Industrials",
+        "International"
+      ],
+      "primary_sector": "Broad Market",
+      "etf_tickers": [],
+      "rotation": ""
+    },
+    {
+      "title": "Canada's retaliatory tariffs worth CA$27.6 billion take effect as trade rift with U.S. deepens",
+      "headline_it": "",
+      "summary_it": "",
+      "summary_en": "Duties on Canadian imports of U.S. steel and aluminum products have doubled to 50% as a trade war between Washington and Ottawa intensifies.",
+      "source": "CNBC Economy",
+      "link": "https://www.cnbc.com/2026/09/08/canada-retaliatory-tariffs.html",
+      "date": "2026-09-08 17:11",
+      "score": 10.0,
+      "impact": "neutral",
+      "sectors": [
+        "Broad Market",
+        "Commodities",
+        "Energy",
+        "International"
+      ],
+      "primary_sector": "Broad Market",
+      "etf_tickers": [],
+      "rotation": ""
+    },
+    {
+      "title": "Trump turns up the heat on Warsh as Fed rate hike looms",
+      "headline_it": "",
+      "summary_it": "",
+      "summary_en": "Ten days ahead of the next Federal Reserve meeting, the Trump administration looks to be in a full-court press to halt a rate hike in its tracks.",
+      "source": "CNBC Economy",
+      "link": "https://www.cnbc.com/2026/09/05/trump-warsh-fed-september-rate-hike.html",
+      "date": "2026-09-05 19:12",
+      "score": 10.0,
+      "impact": "bearish",
+      "sectors": [
+        "Bonds",
+        "Broad Market",
+        "Commodities",
+        "Energy",
+        "Financials",
+        "International"
+      ],
+      "primary_sector": "Bonds",
+      "etf_tickers": [],
+      "rotation": ""
+    },
+    {
+      "title": "Crypto platforms have lost over $3.63 billion to cyberattacks — even though most of them did security checks",
+      "headline_it": "",
+      "summary_it": "",
+      "summary_en": "More than 60% of cryptocurrency platforms that lost money due to cyberattacks had undergone independent security audits, CoinGecko said.",
+      "source": "CNBC Finance",
+      "link": "https://www.cnbc.com/2026/09/08/crypto-platforms-lost-billions-to-cyberattacks-many-even-after-audits.html",
+      "date": "2026-09-08 08:16",
+      "score": 10.0,
+      "impact": "neutral",
+      "sectors": [
+        "Broad Market",
+        "Crypto",
+        "Industrials",
+        "International"
+      ],
+      "primary_sector": "Broad Market",
+      "etf_tickers": [],
+      "rotation": ""
+    },
+    {
+      "title": "Why Dell and HPE were the S&P 500’s top-performing stocks today",
+      "headline_it": "",
+      "summary_it": "",
+      "summary_en": "Oracle’s earnings provided an upbeat read for hardware suppliers — but the Fed’s interest-rate moves could dictate just how much they continue benefitting.",
+      "source": "MarketWatch",
+      "link": "https://www.marketwatch.com/story/why-dell-and-hpe-were-the-s-p-500s-top-performing-stocks-today-13d1dd14?mod=mw_rss_topstories",
+      "date": "2026-09-11 20:30",
+      "score": 10.0,
+      "impact": "bullish",
+      "sectors": [
+        "Broad Market",
+        "Commodities",
+        "Energy",
+        "International"
+      ],
+      "primary_sector": "Broad Market",
+      "etf_tickers": [],
+      "rotation": ""
+    },
+    {
+      "title": "Warning against Scams Using the Bank of Japan's Name",
+      "headline_it": "",
+      "summary_it": "",
+      "summary_en": "",
+      "source": "Bank of Japan",
+      "link": "http://www.boj.or.jp/en/about/organization/notice/index.htm",
+      "date": "2026-09-09 01:00",
+      "score": 10.0,
+      "impact": "mixed",
+      "sectors": [
+        "Broad Market",
+        "Commodities",
+        "Energy",
+        "Financials",
+        "International"
+      ],
+      "primary_sector": "Broad Market",
+      "etf_tickers": [],
+      "rotation": ""
+    },
+    {
+      "title": "Saudi shuts pipeline that was vital Hormuz bypass as new front opens in Middle East war",
+      "headline_it": "",
+      "summary_it": "",
+      "summary_en": "Saudi Arabia said it shut the crucial East-West pipeline that had allowed it to continue exporting crude oil after Iran closed the Strait of Hormuz, saying it was attacked by drones.",
+      "source": "Seeking Alpha",
+      "link": "https://seekingalpha.com/news/4642255-saudi-shuts-pipeline-that-was-vital-hormuz-bypass-as-new-front-opens-in-middle-east-war?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+      "date": "2026-09-11 23:50",
+      "score": 10.0,
+      "impact": "neutral",
+      "sectors": [
+        "Broad Market",
+        "Commodities",
+        "Energy",
+        "Industrials",
+        "International"
+      ],
+      "primary_sector": "Broad Market",
+      "etf_tickers": [],
+      "rotation": ""
+    },
+    {
+      "title": "Tehran won’t surrender to the U.S., Iranian President Pezeshkian says, as India's Modi urges dialogue and peace",
+      "headline_it": "",
+      "summary_it": "",
+      "summary_en": "On his first visit to India, Iranian President Masoud Pezeshkian said he will not surrender to the U.S. and Israel, as New Delhi renewed its appeal for peace.",
+      "source": "CNBC World",
+      "link": "https://www.cnbc.com/2026/09/12/iran-us-israel-war-india-brics.html",
+      "date": "2026-09-12 11:35",
+      "score": 10.0,
+      "impact": "neutral",
+      "sectors": [
+        "Commodities",
+        "Energy",
+        "Industrials",
+        "International"
+      ],
+      "primary_sector": "Commodities",
+      "etf_tickers": [],
+      "rotation": ""
+    },
+    {
+      "title": "Trump's America-first world is pushing other powers to hedge their bets",
+      "headline_it": "",
+      "summary_it": "",
+      "summary_en": "Xi, Putin and Modi meet in New Delhi as U.S. tariffs, sanctions and the Iran war test whether BRICS members can find more common ground.",
+      "source": "CNBC World",
+      "link": "https://www.cnbc.com/2026/09/12/brics-summit-xi-putin-modi-trump.html",
+      "date": "2026-09-12 06:25",
+      "score": 10.0,
+      "impact": "neutral",
+      "sectors": [
+        "Broad Market",
+        "Commodities",
+        "Energy",
+        "Industrials",
+        "International"
+      ],
+      "primary_sector": "Broad Market",
+      "etf_tickers": [],
+      "rotation": ""
+    },
+    {
+      "title": "Trump arrives in Ireland to meet leaders before attending golf tournament",
+      "headline_it": "",
+      "summary_it": "",
+      "summary_en": "The talks could include politically sensitive topics such as economic issues and Irish leaders' concerns over the Iran war.",
+      "source": "CNBC World",
+      "link": "https://www.cnbc.com/2026/09/12/trump-arrives-in-ireland-to-meet-leaders-ahead-of-golf-tournament.html",
+      "date": "2026-09-12 09:20",
+      "score": 10.0,
+      "impact": "neutral",
+      "sectors": [
+        "Broad Market",
+        "Commodities",
+        "Energy",
+        "Industrials",
+        "International"
+      ],
+      "primary_sector": "Broad Market",
+      "etf_tickers": [],
+      "rotation": ""
+    },
+    {
+      "title": "Russia, Trump and a battle over welfare loom over Sweden’s election",
+      "headline_it": "",
+      "summary_it": "",
+      "summary_en": "Russia's war, permanently higher defense spending and uncertainty over U.S. commitments are narrowing the choices facing whoever wins Sunday's election.",
+      "source": "CNBC World",
+      "link": "https://www.cnbc.com/2026/09/12/sweden-election-russia-trump-welfare-defense.html",
+      "date": "2026-09-12 05:00",
+      "score": 10.0,
+      "impact": "neutral",
+      "sectors": [
+        "Broad Market",
+        "Commodities",
+        "Energy",
+        "Industrials",
+        "International"
+      ],
+      "primary_sector": "Broad Market",
+      "etf_tickers": [],
+      "rotation": ""
+    },
+    {
+      "title": "Saudi Arabia shut down East-West crude oil pipeline after multiple attacks by drones from Iraq",
+      "headline_it": "",
+      "summary_it": "",
+      "summary_en": "Iran-allied Houthi militants in Yemen have escalated strikes on Saudi Arabia this week.",
+      "source": "CNBC World",
+      "link": "https://www.cnbc.com/2026/09/11/saudi-arabia-shut-down-east-west-crude-oil-pipeline.html",
+      "date": "2026-09-11 21:35",
+      "score": 10.0,
+      "impact": "neutral",
+      "sectors": [
+        "Broad Market",
+        "Commodities",
+        "Energy",
+        "Industrials",
+        "International"
+      ],
+      "primary_sector": "Broad Market",
+      "etf_tickers": [],
+      "rotation": ""
+    },
+    {
+      "title": "The oil shock is testing private credit borrowers already burdened by high debt costs",
+      "headline_it": "",
+      "summary_it": "",
+      "summary_en": "Oil near $100 could further squeeze leveraged private credit borrowers as investors weigh the risk that inflation could push interest rates higher again.",
+      "source": "CNBC World",
+      "link": "https://www.cnbc.com/2026/09/11/oil-private-credit-refinancing.html",
+      "date": "2026-09-11 14:33",
+      "score": 10.0,
+      "impact": "bullish",
+      "sectors": [
+        "Bonds",
+        "Broad Market",
+        "Commodities",
+        "Energy",
+        "Financials",
+        "Industrials"
+      ],
+      "primary_sector": "Bonds",
+      "etf_tickers": [],
+      "rotation": ""
+    },
+    {
+      "title": "Bessent says 'a large bank' will be sanctioned on Monday as part of Iran strategy",
+      "headline_it": "",
+      "summary_it": "",
+      "summary_en": "U.S. Treasury Secretary Scott Bessent said a large bank would be sanctioned next week.",
+      "source": "CNBC World",
+      "link": "https://www.cnbc.com/2026/09/11/bessent-large-bank-sanctioned.html",
+      "date": "2026-09-11 16:35",
+      "score": 10.0,
+      "impact": "neutral",
+      "sectors": [
+        "Bonds",
+        "Commodities",
+        "Energy",
+        "Financials",
+        "Industrials",
+        "International"
+      ],
+      "primary_sector": "Bonds",
+      "etf_tickers": [],
+      "rotation": ""
+    },
+    {
+      "title": "Why fears of AI self-improvement are causing ‘existential’ concerns at Anthropic and OpenAI",
+      "headline_it": "",
+      "summary_it": "",
+      "summary_en": "AI researchers are warning that faster AI self-improvement could eventually make advanced systems harder for humans to control.",
+      "source": "CNBC World",
+      "link": "https://www.cnbc.com/2026/09/11/anthropic-openai-ai-existential-concerns.html",
+      "date": "2026-09-11 11:00",
+      "score": 10.0,
+      "impact": "bearish",
+      "sectors": [
+        "Broad Market",
+        "Commodities",
+        "Energy",
+        "Industrials",
+        "International"
+      ],
+      "primary_sector": "Broad Market",
+      "etf_tickers": [],
+      "rotation": ""
+    },
+    {
+      "title": "IEA warns global oil refining system ‘stretched to the limit’ as Iran, Ukraine wars tighten market",
+      "headline_it": "",
+      "summary_it": "",
+      "summary_en": "The energy agency warned shrinking inventories and strained refineries could further tighten markets.",
+      "source": "CNBC World",
+      "link": "https://www.cnbc.com/2026/09/11/iran-war-oil-diesel-iea-hormuz.html",
+      "date": "2026-09-11 10:56",
+      "score": 10.0,
+      "impact": "neutral",
+      "sectors": [
+        "Broad Market",
+        "Commodities",
+        "Energy",
+        "Industrials",
+        "International"
+      ],
+      "primary_sector": "Broad Market",
+      "etf_tickers": [],
+      "rotation": ""
+    },
+    {
+      "title": "Trump says he has no regrets about starting the Iran war as U.S. dials up economic pressure",
+      "headline_it": "",
+      "summary_it": "",
+      "summary_en": "Speaking to Fox News presenter Laura Ingraham, Trump said that he would have attacked Iran despite the impact on the midterm elections.",
+      "source": "CNBC World",
+      "link": "https://www.cnbc.com/2026/09/11/us-iran-war-trump-hormuz-banks-oil-sanctions.html",
+      "date": "2026-09-11 14:28",
+      "score": 10.0,
+      "impact": "neutral",
+      "sectors": [
+        "Broad Market",
+        "Commodities",
+        "Energy",
+        "Industrials",
+        "International"
+      ],
+      "primary_sector": "Broad Market",
+      "etf_tickers": [],
+      "rotation": ""
+    },
+    {
+      "title": "Further European rate hikes 'very much dependent' on energy costs, Bundesbank chief tells CNBC",
+      "headline_it": "",
+      "summary_it": "",
+      "summary_en": "Joachim Nagel told CNBC that a potential move in rates into restrictive territory was \"very much dependent on how the energy prices evolve.\"",
+      "source": "CNBC World",
+      "link": "https://www.cnbc.com/2026/09/11/ecb-nagel-energy-prices-further-interest-rate-hikes.html",
+      "date": "2026-09-11 09:21",
+      "score": 10.0,
+      "impact": "bearish",
+      "sectors": [
+        "Bonds",
+        "Broad Market",
+        "Financials",
+        "Industrials"
+      ],
+      "primary_sector": "Bonds",
+      "etf_tickers": [],
+      "rotation": ""
+    },
+    {
+      "title": "Fintechs conquered payments in India. Now they're eyeing credit",
+      "headline_it": "",
+      "summary_it": "",
+      "summary_en": "Fintech companies, the driving force behind the adoption of digital payments in India, are now focusing on offering credit to the underserved population.",
+      "source": "CNBC World",
+      "link": "https://www.cnbc.com/2026/09/11/fintechs-upi-india-is-credit-economy-gff.html",
+      "date": "2026-09-11 07:04",
+      "score": 10.0,
+      "impact": "neutral",
+      "sectors": [
+        "Bonds",
+        "Financials",
+        "International"
+      ],
+      "primary_sector": "Bonds",
+      "etf_tickers": [],
+      "rotation": ""
+    },
+    {
+      "title": "Saudi Arabia shuts key oil pipeline after drone attack launched from Iraq",
+      "headline_it": "",
+      "summary_it": "",
+      "summary_en": "Iraq removes a military commander and opens investigations into the attack that came from an area bordering Iran.",
+      "source": "BBC World",
+      "link": "https://www.bbc.co.uk/news/articles/c62m933465eo?at_medium=RSS&at_campaign=rss",
+      "date": "2026-09-12 11:00",
+      "score": 10.0,
+      "impact": "neutral",
+      "sectors": [
+        "Broad Market",
+        "Commodities",
+        "Energy",
+        "Industrials",
+        "International"
+      ],
+      "primary_sector": "Broad Market",
+      "etf_tickers": [],
+      "rotation": ""
+    },
+    {
+      "title": "'Never, ever forget' - America marks 25th anniversary of 9/11 attacks",
+      "headline_it": "",
+      "summary_it": "",
+      "summary_en": "In New York, the Pentagon and Pennsylvania, solemn ceremonies commemorate the landmark anniversary.",
+      "source": "BBC World",
+      "link": "https://www.bbc.co.uk/news/articles/clyjqvjzlwno?at_medium=RSS&at_campaign=rss",
+      "date": "2026-09-12 00:43",
+      "score": 10.0,
+      "impact": "neutral",
+      "sectors": [
+        "Broad Market",
+        "Industrials",
+        "International"
+      ],
+      "primary_sector": "Broad Market",
+      "etf_tickers": [],
+      "rotation": ""
+    },
+    {
+      "title": "Ukraine faces 'toughest winter' since Russia's full-scale invasion, UN official tells BBC",
+      "headline_it": "",
+      "summary_it": "",
+      "summary_en": "A senior UN official tells the BBC there is a race against the clock to ensure access to power and water through winter.",
+      "source": "BBC World",
+      "link": "https://www.bbc.co.uk/news/articles/cwyz59yyqk4o?at_medium=RSS&at_campaign=rss",
+      "date": "2026-09-12 05:55",
+      "score": 10.0,
+      "impact": "bullish",
+      "sectors": [
+        "Broad Market",
+        "Commodities",
+        "Energy",
+        "International"
+      ],
+      "primary_sector": "Broad Market",
+      "etf_tickers": [],
+      "rotation": ""
+    },
+    {
+      "title": "Lightning Houthi advance in Yemen may bring dangerous new dimension to Iran war",
+      "headline_it": "",
+      "summary_it": "",
+      "summary_en": "The capture by the rebels of a stretch of Yemen's strategic coastline is the group's most impressive military coup for several years.",
+      "source": "BBC World",
+      "link": "https://www.bbc.co.uk/news/articles/c3v4zgzr1kxo?at_medium=RSS&at_campaign=rss",
+      "date": "2026-09-11 19:44",
+      "score": 10.0,
+      "impact": "neutral",
+      "sectors": [
+        "Broad Market",
+        "Commodities",
+        "Energy",
+        "Industrials",
+        "International"
+      ],
+      "primary_sector": "Broad Market",
+      "etf_tickers": [],
+      "rotation": ""
+    },
+    {
+      "title": "Saudi Arabia shuts critical oil pipeline after drone attack: What it means",
+      "headline_it": "",
+      "summary_it": "",
+      "summary_en": "Baghdad launches investigation, closes border after confirming strike came from Iraqi territory.",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/news/2026/9/12/saudi-arabia-shuts-critical-oil-pipeline-after-drone-attack-what-happened?traffic_source=rss",
+      "date": "2026-09-12 10:36",
+      "score": 10.0,
+      "impact": "neutral",
+      "sectors": [
+        "Broad Market",
+        "Commodities",
+        "Energy",
+        "International"
+      ],
+      "primary_sector": "Broad Market",
+      "etf_tickers": [],
+      "rotation": ""
+    },
+    {
+      "title": "What did US intelligence know before the 9/11 attacks?",
+      "headline_it": "",
+      "summary_it": "",
+      "summary_en": "The CIA have declassified documents showing US presidents were warned about Osama bin Laden and al-Qaeda before 9/11.",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/news/2026/9/12/what-did-us-intelligence-know-before-the-9-11?traffic_source=rss",
+      "date": "2026-09-12 09:30",
+      "score": 10.0,
+      "impact": "neutral",
+      "sectors": [
+        "Broad Market",
+        "Commodities",
+        "Energy",
+        "International"
+      ],
+      "primary_sector": "Broad Market",
+      "etf_tickers": [],
+      "rotation": ""
+    },
+    {
+      "title": "‘War on terror’: How 9/11 changed the language of conflict",
+      "headline_it": "",
+      "summary_it": "",
+      "summary_en": "The events of September 11, 2001 spawned a new lexicon which effectively sanitised the erosion of human rights.",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/news/2026/9/12/war-on-terror-how-9-11-changed-the-language-of?traffic_source=rss",
+      "date": "2026-09-12 05:26",
+      "score": 10.0,
+      "impact": "neutral",
+      "sectors": [
+        "Broad Market",
+        "Commodities",
+        "Energy",
+        "Industrials",
+        "International"
+      ],
+      "primary_sector": "Broad Market",
+      "etf_tickers": [],
+      "rotation": ""
+    },
+    {
+      "title": "BRICS meets in India: What’s on the agenda, why it matters",
+      "headline_it": "",
+      "summary_it": "",
+      "summary_en": "This year&#039;s summit comes amid the US-Israel war on Iran, Russia&#039;s war on Ukraine and global economic challenges.",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/news/2026/9/12/brics-meets-in-india-whats-on-the-agenda-why-it-matters?traffic_source=rss",
+      "date": "2026-09-12 05:22",
+      "score": 10.0,
+      "impact": "neutral",
+      "sectors": [
+        "Broad Market",
+        "Commodities",
+        "Energy",
+        "Industrials",
+        "International"
+      ],
+      "primary_sector": "Broad Market",
+      "etf_tickers": [],
+      "rotation": ""
+    },
+    {
+      "title": "China’s Xi lands in India for BRICS summit overshadowed by wars",
+      "headline_it": "",
+      "summary_it": "",
+      "summary_en": "Wars in the Middle East and Ukraine, along with global energy security, are expected to dominate the summit.",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/news/2026/9/12/chinas-xi-heads-to-india-for-brics-summit-overshadowed-by-wars?traffic_source=rss",
+      "date": "2026-09-12 04:27",
+      "score": 10.0,
+      "impact": "neutral",
+      "sectors": [
+        "Broad Market",
+        "Commodities",
+        "Energy",
+        "International"
+      ],
+      "primary_sector": "Broad Market",
+      "etf_tickers": [],
+      "rotation": ""
+    },
+    {
+      "title": "Don’t Blame Ukraine for High Gas Prices",
+      "headline_it": "",
+      "summary_it": "",
+      "summary_en": "Kyiv’s energy war on Russia may hurt on the margins, but the real culprit is Trump’s war on Iran.",
+      "source": "Foreign Policy",
+      "link": "https://foreignpolicy.com/2026/09/11/gas-prices-trump-iran-war-wright-ukraine-russia/",
+      "date": "2026-09-11 16:24",
+      "score": 10.0,
+      "impact": "neutral",
+      "sectors": [
+        "Broad Market",
+        "Commodities",
+        "Energy",
+        "Industrials",
+        "International"
+      ],
+      "primary_sector": "Broad Market",
+      "etf_tickers": [],
+      "rotation": ""
+    },
+    {
+      "title": "Iran Launches Massive Attack on Global Shipping",
+      "headline_it": "",
+      "summary_it": "",
+      "summary_en": "Such assaults put the Strait of Hormuz under growing pressure as global crude prices skyrocket.",
+      "source": "Foreign Policy",
+      "link": "https://foreignpolicy.com/2026/09/09/iran-strikes-shipping-strait-hormuz-jordan-us-oil-prices/",
+      "date": "2026-09-09 21:19",
+      "score": 10.0,
+      "impact": "neutral",
+      "sectors": [
+        "Broad Market",
+        "Commodities",
+        "Energy",
+        "Industrials",
+        "International"
+      ],
+      "primary_sector": "Broad Market",
+      "etf_tickers": [],
+      "rotation": ""
+    },
+    {
+      "title": "Christine Lagarde: Europe seen from Normandy",
+      "headline_it": "",
+      "summary_it": "",
+      "summary_en": "The European Central Bank (ECB) is the central bank of the European Union countries which have adopted the euro. Our main task is to maintain price stability in the euro area and so preserve the purchasing power of the single currency.",
+      "source": "ECB",
+      "link": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp260912~fafa4b35b0.en.html",
+      "date": "2026-09-12 10:15",
+      "score": 10.0,
+      "impact": "neutral",
+      "sectors": [
+        "Financials"
+      ],
+      "primary_sector": "Financials",
+      "etf_tickers": [],
+      "rotation": ""
+    },
+    {
+      "title": "Philip R. Lane: Outlook for the euro area economy",
+      "headline_it": "",
+      "summary_it": "",
+      "summary_en": "",
+      "source": "ECB",
+      "link": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp260911~a4d6526f00.en.pdf",
+      "date": "2026-09-11 17:00",
+      "score": 10.0,
+      "impact": "neutral",
+      "sectors": [],
+      "primary_sector": null,
+      "etf_tickers": [],
+      "rotation": ""
+    },
+    {
+      "title": "Christine Lagarde, Boris Vujčić: Monetary policy statement (with Q&A)",
+      "headline_it": "",
+      "summary_it": "",
+      "summary_en": "The European Central Bank (ECB) is the central bank of the European Union countries which have adopted the euro. Our main task is to maintain price stability in the euro area and so preserve the purchasing power of the single currency.",
+      "source": "ECB",
+      "link": "https://www.ecb.europa.eu//press/press_conference/monetary-policy-statement/2026/html/ecb.is260910~6a45359cfc.en.html",
+      "date": "2026-09-10 13:00",
+      "score": 10.0,
+      "impact": "neutral",
+      "sectors": [
+        "Bonds",
+        "Broad Market",
+        "Financials"
+      ],
+      "primary_sector": "Bonds",
+      "etf_tickers": [],
+      "rotation": ""
+    },
+    {
+      "title": "Monetary policy decisions",
+      "headline_it": "",
+      "summary_it": "",
+      "summary_en": "The European Central Bank (ECB) is the central bank of the European Union countries which have adopted the euro. Our main task is to maintain price stability in the euro area and so preserve the purchasing power of the single currency.",
+      "source": "ECB",
+      "link": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.mp260910~314e508016.en.html",
+      "date": "2026-09-10 12:15",
+      "score": 10.0,
+      "impact": "neutral",
+      "sectors": [
+        "Bonds",
+        "Broad Market",
+        "Financials"
+      ],
+      "primary_sector": "Bonds",
+      "etf_tickers": [],
+      "rotation": ""
+    },
+    {
+      "title": "Christine Lagarde: The choice facing Europeans",
+      "headline_it": "",
+      "summary_it": "",
+      "summary_en": "The European Central Bank (ECB) is the central bank of the European Union countries which have adopted the euro. Our main task is to maintain price stability in the euro area and so preserve the purchasing power of the single currency.",
+      "source": "ECB",
+      "link": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp260909~59a07e6f05.en.html",
+      "date": "2026-09-09 17:00",
+      "score": 10.0,
+      "impact": "neutral",
+      "sectors": [
+        "Financials"
+      ],
+      "primary_sector": "Financials",
+      "etf_tickers": [],
+      "rotation": ""
+    },
+    {
+      "title": "Frank Elderson: Fireside chat",
+      "headline_it": "",
+      "summary_it": "",
+      "summary_en": "The European Central Bank (ECB) is the central bank of the European Union countries which have adopted the euro. Our main task is to maintain price stability in the euro area and so preserve the purchasing power of the single currency.",
+      "source": "ECB",
+      "link": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp260908~3652aa828f.en.html",
+      "date": "2026-09-08 15:00",
+      "score": 10.0,
+      "impact": "neutral",
+      "sectors": [
+        "Financials"
+      ],
+      "primary_sector": "Financials",
+      "etf_tickers": [],
+      "rotation": ""
+    },
+    {
+      "title": "Europe's \"Less\" Is Doing More Than Anyone Gives It Credit For",
+      "headline_it": "",
+      "summary_it": "",
+      "summary_en": "Brent is sitting a touch above $104 this morning, down slightly from yesterday's surge. The Strait of Hormuz, which used to move something like a fifth of the world's oil and LNG before the war, has been effectively shut since March. Saudi output dropped around 1.9 million barrels a day in August, tanker rates are breaking records, and the EIA doesn't see Middle East production back near pre-conflict levels until the second quarter of 2027. Meanwhile, the European Union imports 57 percent of the energy it consumes and spent €340 billion on…",
+      "source": "OilPrice",
+      "link": "https://oilprice.com/Energy/Energy-General/Europes-Less-Is-Doing-More-Than-Anyone-Gives-It-Credit-For.html",
+      "date": "2026-09-11 22:00",
+      "score": 10.0,
+      "impact": "mixed",
+      "sectors": [
+        "Bonds",
+        "Broad Market",
+        "Commodities",
+        "Energy",
+        "Financials",
+        "Industrials",
+        "International"
+      ],
+      "primary_sector": "Bonds",
+      "etf_tickers": [],
+      "rotation": ""
+    },
+    {
+      "title": "UK Interest Rates Could Rise Four Times Over the Next Year",
+      "headline_it": "",
+      "summary_it": "",
+      "summary_en": "The Bank of England is expected to hike interest rates as many as four times within the next year, City figures have said, after the economy delivered surprise growth in July.  The central bank is expected to be buoyed by this morning’s GDP figures, which saw the UK economy grow by 0.4 per cent in July despite forecasts that growth would grind to a halt. Andrew Bailey is widely tipped to oversee an interest rate hike in November, economists have said, though his Monetary Policy Committee (MPC) is expected to leave rates unchanged when…",
+      "source": "OilPrice",
+      "link": "https://oilprice.com/Energy/Energy-General/UK-Interest-Rates-Could-Rise-Four-Times-Over-the-Next-Year.html",
+      "date": "2026-09-11 18:00",
+      "score": 10.0,
+      "impact": "mixed",
+      "sectors": [
+        "Bonds",
+        "Broad Market",
+        "Financials"
+      ],
+      "primary_sector": "Bonds",
+      "etf_tickers": [],
+      "rotation": ""
+    },
+    {
+      "title": "Supertanker Rates Hit $800,000 a Day as Gulf Tensions Escalate",
+      "headline_it": "",
+      "summary_it": "",
+      "summary_en": "Supertanker rates on the Baltic Exchange's benchmark Middle East-to-China shipping route have surged to a staggering $800,000 a day. With US forces having destroyed five Iranian-linked tankers and Tehran threatening further escalation in recent days, prospects for near-term stabilization remain limited. The freight surge signals that crude oil and refined products continue to flow but are becoming increasingly costly to transport out of the Gulf region to global markets. According to Bloomberg, US Gulf-to-Asia shipments on very large crude carriers…",
+      "source": "OilPrice",
+      "link": "https://oilprice.com/Energy/Energy-General/Supertanker-Rates-Hit-800000-a-Day-as-Gulf-Tensions-Escalate.html",
+      "date": "2026-09-11 16:00",
+      "score": 10.0,
+      "impact": "bullish",
+      "sectors": [
+        "Broad Market",
+        "Commodities",
+        "Energy",
+        "Industrials",
+        "International"
+      ],
+      "primary_sector": "Broad Market",
+      "etf_tickers": [],
+      "rotation": ""
+    },
+    {
+      "title": "UAE Rethinks 5-Gigawatt AI Campus After Iran Targets US Assets in Gulf",
+      "headline_it": "",
+      "summary_it": "",
+      "summary_en": "The United Arab Emirates (UAE) is considering significant changes to its plans to build a massive 5-gigawatt AI data center in Abu Dhabi in partnership with U.S. tech giants, after Iran started targeting American air bases and U.S.-linked critical infrastructure in the Persian Gulf, multiple sources have told Reuters. The UAE, which aims to become not only a regional but also a global leader in AI development and computing, last year planned to build the 5-GW UAE-US AI Campus in Abu Dhabi. The sprawling campus was planned to include 5 GW of capacity…",
+      "source": "OilPrice",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/UAE-Rethinks-5-Gigawatt-AI-Campus-After-Iran-Targets-US-Assets-in-Gulf.html",
+      "date": "2026-09-11 14:30",
+      "score": 10.0,
+      "impact": "neutral",
+      "sectors": [
+        "Commodities",
+        "Energy",
+        "Industrials",
+        "International",
+        "Real Estate",
+        "Tech & Semiconductors"
+      ],
+      "primary_sector": "Commodities",
+      "etf_tickers": [],
+      "rotation": ""
+    },
+    {
+      "title": "Houthis Advance on Bab al-Mandeb as Saudi Oil Route Comes Under Threat",
+      "headline_it": "",
+      "summary_it": "",
+      "summary_en": "Politics, Geopolitics & Conflict Yemen's Houthis captured the Red Sea port of Mocha on Thursday, taking the approach to the Bab al-Mandeb Strait, which connects the Red Sea (and the Suez Canal, beyond it) to the Gulf of Aden and the Indian Ocean. Bab al-Mandeb is 12 miles wide and carries 6.2 million barrels of oil and refined products a day (plus ~80% of the LNG shipped north to Europe). Houthi attacks made these waters unsafe for shipping in 2024, and Suez Canal revenue fell more than 60% that year, costing Egypt $7B. Houthi forces also captured…",
+      "source": "OilPrice",
+      "link": "https://oilprice.com/Energy/Energy-General/Houthis-Advance-on-Bab-al-Mandeb-as-Saudi-Oil-Route-Comes-Under-Threat.html",
+      "date": "2026-09-11 12:30",
+      "score": 10.0,
+      "impact": "neutral",
+      "sectors": [
+        "Broad Market",
+        "Commodities",
+        "Energy",
+        "Industrials",
+        "International"
+      ],
+      "primary_sector": "Broad Market",
+      "etf_tickers": [],
+      "rotation": ""
+    },
+    {
+      "title": "Friday's CPI inflation report is even more important than usual. Here's what to expect",
+      "headline_it": "",
+      "summary_it": "",
+      "summary_en": "The Bureau of Labor Statistics will release the August consumer price index report at 8:30 a.m.",
+      "source": "CNBC Economy",
+      "link": "https://www.cnbc.com/2026/09/10/fridays-cpi-inflation-report-is-even-more-important-than-usual-heres-what-to-expect.html",
+      "date": "2026-09-10 19:18",
+      "score": 9.9,
+      "impact": "neutral",
+      "sectors": [
+        "Bonds",
+        "Broad Market",
+        "Commodities",
+        "Industrials"
+      ],
+      "primary_sector": "Bonds",
+      "etf_tickers": [],
+      "rotation": ""
+    },
+    {
+      "title": "Oil prices fall Friday, but post sharp weekly gains as tensions in the Middle East rise",
+      "headline_it": "",
+      "summary_it": "",
+      "summary_en": "The decline snapped multiday winning streaks for both Brent and WTI crude oil futures.",
+      "source": "CNBC World",
+      "link": "https://www.cnbc.com/2026/09/11/oil-price-today-iran-brent-wti-trump.html",
+      "date": "2026-09-11 19:25",
+      "score": 9.9,
+      "impact": "mixed",
+      "sectors": [
+        "Commodities",
+        "Energy",
+        "International"
+      ],
+      "primary_sector": "Commodities",
+      "etf_tickers": [],
+      "rotation": ""
+    },
+    {
+      "title": "CNBC Daily Open: Two market forces battle for dominance",
+      "headline_it": "",
+      "summary_it": "",
+      "summary_en": "Bond yields and oil prices keep investors' attention ahead of key inflation data that could set the course for the Fed.",
+      "source": "CNBC World",
+      "link": "https://www.cnbc.com/2026/09/11/cnbc-daily-open-two-market-forces-battle-for-dominance.html",
+      "date": "2026-09-11 06:18",
+      "score": 9.9,
+      "impact": "neutral",
+      "sectors": [
+        "Bonds",
+        "Broad Market",
+        "Commodities",
+        "Energy"
+      ],
+      "primary_sector": "Bonds",
+      "etf_tickers": [],
+      "rotation": ""
+    },
+    {
+      "title": "Russia strikes cargo vessels, steel plants across Ukraine",
+      "headline_it": "",
+      "summary_it": "",
+      "summary_en": "Russia&#039;s Defence Ministry says its forces have struck several industrial facilities across Ukraine.",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/news/2026/9/12/russia-strikes-cargo-vessels-steel-plants-across-ukraine?traffic_source=rss",
+      "date": "2026-09-12 08:38",
+      "score": 9.9,
+      "impact": "neutral",
+      "sectors": [
+        "Commodities",
+        "Energy",
+        "Industrials",
+        "International"
+      ],
+      "primary_sector": "Commodities",
+      "etf_tickers": [],
+      "rotation": ""
+    },
+    {
+      "title": "How Could Iran Happen? An Autopsy.",
+      "headline_it": "",
+      "summary_it": "",
+      "summary_en": "The president’s war on the “deep state” led directly to his debacle in the Middle East.",
+      "source": "Foreign Policy",
+      "link": "https://foreignpolicy.com/2026/09/09/trump-iran-deep-state-purges-intelligence-bureaucracy/",
+      "date": "2026-09-09 14:19",
+      "score": 9.9,
+      "impact": "neutral",
+      "sectors": [
+        "Broad Market",
+        "Commodities",
+        "Energy",
+        "Industrials",
+        "International"
+      ],
+      "primary_sector": "Broad Market",
+      "etf_tickers": [],
+      "rotation": ""
+    }
+  ]
+}
