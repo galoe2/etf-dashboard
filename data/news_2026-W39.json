@@ -1,0 +1,1265 @@
+{
+  "generated": "2026-09-26T12:34:24.530549",
+  "lookback_days": 7,
+  "total_articles": 50,
+  "sector_news": {
+    "Broad Market": {
+      "count": 31,
+      "top": [
+        {
+          "headline": "Microsoft’s stock has roared back to life, closing at its highest level of the year",
+          "summary": "Microsoft shares got off to a rough start this year, but investors have warmed to the company’s AI narrative over the last few months.",
+          "impact": "neutral",
+          "source": "MarketWatch",
+          "score": 10.0,
+          "link": "https://www.marketwatch.com/story/microsofts-stock-has-roared-back-to-life-and-is-now-headed-for-its-highest-close-of-the-year-89e4d596?mod=mw_rss_topstories",
+          "etf_tickers": []
+        },
+        {
+          "headline": "Russia targeting 'ordinary life' with attacks on Ukraine's data centres, Zelensky says",
+          "summary": "Such strikes aim to disrupt \"people's ability to stay connected, study, work\", says Ukraine's president.",
+          "impact": "neutral",
+          "source": "BBC World",
+          "score": 10.0,
+          "link": "https://www.bbc.co.uk/news/articles/c84gkwgk7d06o?at_medium=RSS&at_campaign=rss",
+          "etf_tickers": []
+        },
+        {
+          "headline": "How fresh fighting in Tigray could spark wider conflict in Ethiopia",
+          "summary": "Exploring the issues behind the escalation of tensions between the TPLF and the national army.",
+          "impact": "neutral",
+          "source": "BBC World",
+          "score": 10.0,
+          "link": "https://www.bbc.co.uk/news/articles/c6d94wywx0ypo?at_medium=RSS&at_campaign=rss",
+          "etf_tickers": []
+        }
+      ]
+    },
+    "International": {
+      "count": 34,
+      "top": [
+        {
+          "headline": "Surging Treasury yields pose a brand new problem for Kevin Warsh and the Fed",
+          "summary": "Markets expect the central bank will take a firmer hand on inflation. It's not that easy.",
+          "impact": "neutral",
+          "source": "CNBC Economy",
+          "score": 10.0,
+          "link": "https://www.cnbc.com/2026/09/24/surging-treasury-yields-are-posing-a-brand-new-problem-for-kevin-warsh-and-the-fed.html",
+          "etf_tickers": []
+        },
+        {
+          "headline": "France's fresh budget battle threatens to topple another government",
+          "summary": "Time is not on the side of French government bonds, strategists have warned, as the nation's deficit balloons.",
+          "impact": "neutral",
+          "source": "CNBC Economy",
+          "score": 10.0,
+          "link": "https://www.cnbc.com/2026/09/24/france-budget-debt-deficit-government.html",
+          "etf_tickers": []
+        },
+        {
+          "headline": "World heads into food crises 'blind' as U.S. aid cuts squeeze UN food agency, experts warn",
+          "summary": "Climate shocks, conflict and a global fuel crisis, on top of surging interest rates and donor cuts, leave agencies less able to help those facing higher food prices.",
+          "impact": "bearish",
+          "source": "CNBC Economy",
+          "score": 10.0,
+          "link": "https://www.cnbc.com/2026/09/24/hormuz-blacksea-ukraine-iran-food-security-united-nations-.html",
+          "etf_tickers": []
+        }
+      ]
+    },
+    "Tech & Semiconductors": {
+      "count": 5,
+      "top": [
+        {
+          "headline": "Trump, Xi wrap state visit centered on spectacle over substance. Here are the top takeaways",
+          "summary": "President Trump and Chinese leader Xi went heavy on the ceremony and light on deliverables as they danced around Taiwan and Iran during two days in Washington.",
+          "impact": "neutral",
+          "source": "CNBC World",
+          "score": 10.0,
+          "link": "https://www.cnbc.com/2026/09/25/trump-xi-summit-takeaways.html",
+          "etf_tickers": []
+        },
+        {
+          "headline": "Pope Leo warns in France that AI is creating 'paradise of machines'",
+          "summary": "Pope Leo urged the world to reconsider the development of artificial intelligence, warning of a future where \"a paradise of machines\" takes control.",
+          "impact": "bearish",
+          "source": "CNBC World",
+          "score": 10.0,
+          "link": "https://www.cnbc.com/2026/09/25/pope-leo-warns-in-france-that-ai-is-creating-paradise-of-machines.html",
+          "etf_tickers": []
+        },
+        {
+          "headline": "Here's why South Korea wants more control over future regional wars",
+          "summary": "The U.S. would command South Korean units should conflict resume on the Korean peninsula. Now the government wants to end a long-standing diplomatic quirk",
+          "impact": "neutral",
+          "source": "CNBC World",
+          "score": 10.0,
+          "link": "https://www.cnbc.com/2026/09/24/heres-why-south-korea-wants-more-control-over-future-regional-wars.html",
+          "etf_tickers": []
+        }
+      ]
+    },
+    "Financials": {
+      "count": 12,
+      "top": [
+        {
+          "headline": "Federal Reserve Board issues enforcement action with former employee of Sandy Spring Bank",
+          "summary": "Federal Reserve Board issues enforcement action with former employee of Sandy Spring Bank",
+          "impact": "neutral",
+          "source": "Federal Reserve",
+          "score": 10.0,
+          "link": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20260924a.htm",
+          "etf_tickers": []
+        },
+        {
+          "headline": "ECB Executive Board member Isabel Schnabel to resign to take senior role at IMF",
+          "summary": "The European Central Bank (ECB) is the central bank of the European Union countries which have adopted the euro. Our main task is to maintain price stability in the euro area and so preserve the purchasing power of the single currency.",
+          "impact": "neutral",
+          "source": "ECB",
+          "score": 10.0,
+          "link": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr260924~bea1dd9824.en.html",
+          "etf_tickers": []
+        },
+        {
+          "headline": "Almost ten million people took part in ECB survey on new euro banknotes",
+          "summary": "The European Central Bank (ECB) is the central bank of the European Union countries which have adopted the euro. Our main task is to maintain price stability in the euro area and so preserve the purchasing power of the single currency.",
+          "impact": "neutral",
+          "source": "ECB",
+          "score": 10.0,
+          "link": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr260923~6ebddaf01e.en.html",
+          "etf_tickers": []
+        }
+      ]
+    },
+    "Energy": {
+      "count": 30,
+      "top": [
+        {
+          "headline": "Iran offers US deal to reopen Strait of Hormuz in seven days",
+          "summary": "Asked about the Iranian proposal, a US official told the BBC \"constructive discussions\" were taking place through mediators.",
+          "impact": "neutral",
+          "source": "BBC World",
+          "score": 10.0,
+          "link": "https://www.bbc.co.uk/news/articles/cqgmrr9ekr7ko?at_medium=RSS&at_campaign=rss",
+          "etf_tickers": []
+        },
+        {
+          "headline": "Why an international arrest warrant didn't stop Netanyahu's US trip",
+          "summary": "The BBC's Nada Tawfik explains why Israel's Benjamin Netanyahu was not arrested after speaking at the UN, despite an ICC arrest warrant.",
+          "impact": "neutral",
+          "source": "BBC World",
+          "score": 10.0,
+          "link": "https://www.bbc.co.uk/news/videos/ckq633lm11jeo?at_medium=RSS&at_campaign=rss",
+          "etf_tickers": []
+        },
+        {
+          "headline": "Pomp and toasts: Day 2 of Trump and Xi in DC",
+          "summary": "Xi’s first visit to Washington in a decade was a display of pomp and pageantry, with Trump offering his guest a two-month truce on the brewing tariff war.",
+          "impact": "neutral",
+          "source": "BBC World",
+          "score": 10.0,
+          "link": "https://www.bbc.co.uk/news/videos/c9lykxx5zp70o?at_medium=RSS&at_campaign=rss",
+          "etf_tickers": []
+        }
+      ]
+    },
+    "Commodities": {
+      "count": 30,
+      "top": [
+        {
+          "headline": "Pezeshkian says Iran ‘no longer trusts talks with Washington’",
+          "summary": "In an interview with Al Jazeera, the Iranian president says Qatar and Pakistan are relaying Tehran&#039;s messages to the US.",
+          "impact": "neutral",
+          "source": "Al Jazeera",
+          "score": 10.0,
+          "link": "https://www.aljazeera.com/news/2026/9/26/pezeshkian-says-iran-no-longer-trusts-talks-with-washington?traffic_source=rss",
+          "etf_tickers": []
+        },
+        {
+          "headline": "US official claims Trump holds all the cards in Iran talks",
+          "summary": "US State Department Spokesman Tommy Pigott says President Donald Trump ‘holds all of the cards’ in talks with Tehran.",
+          "impact": "neutral",
+          "source": "Al Jazeera",
+          "score": 10.0,
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/9/26/us-official-claims-trump-holds-all-the-cards-in-iran-talks?traffic_source=rss",
+          "etf_tickers": []
+        },
+        {
+          "headline": "WTI Whipsaws as Hormuz Hopes Collide With Diesel Crunch",
+          "summary": "November WTI crude oil futures spent the week trading a possible reopening of the Strait of Hormuz against the risk that shipping conditions have not normalized. The contract fell to $88.67 Tuesday after reports that Iran could reopen the Strait within seven days, then recovered to $96.78 Thursday as the diplomatic story ran into the same problem it had all week: no agreement, no normal tanker traffic, and no proof the physical market is back to normal. At 22:00 GMT Thursday, November, WTI crude oil futures were trading at $94.76, down $0.71 or…",
+          "impact": "bullish",
+          "source": "OilPrice",
+          "score": 10.0,
+          "link": "https://oilprice.com/Energy/Energy-General/WTI-Whipsaws-as-Hormuz-Hopes-Collide-With-Diesel-Crunch.html",
+          "etf_tickers": []
+        }
+      ]
+    },
+    "Real Estate": {
+      "count": 1,
+      "top": [
+        {
+          "headline": "Saudi Arabia crude oil exports hit highest level since Iran war began despite pipeline outage",
+          "summary": "Saudi exports are rising despite escalating attacks on its infrastructure from Iran-backed militants in Yemen and Iraq.",
+          "impact": "neutral",
+          "source": "CNBC World",
+          "score": 10.0,
+          "link": "https://www.cnbc.com/2026/09/25/saudi-arabia-oil-iran-war-pipeline-strait-hormuz-red-sea-houthis.html",
+          "etf_tickers": []
+        }
+      ]
+    },
+    "Industrials": {
+      "count": 25,
+      "top": [
+        {
+          "headline": "Iran offers to reopen Strait of Hormuz within 7 days and restart nuclear talks",
+          "summary": "The remarks came as the Houthis launched a new wave of missile and drone attacks at Saudi targets Friday morning.",
+          "impact": "bearish",
+          "source": "CNBC World",
+          "score": 10.0,
+          "link": "https://www.cnbc.com/2026/09/25/us-iran-trump-hormuz-.html",
+          "etf_tickers": []
+        },
+        {
+          "headline": "Warsh's regime change at the Fed pushes ahead – and meets resistance",
+          "summary": "Fed Chairman Kevin Warsh is driving rapid change in some areas, while his emerging policy framework suggests further rate hikes remain possible.",
+          "impact": "bearish",
+          "source": "CNBC World",
+          "score": 10.0,
+          "link": "https://www.cnbc.com/2026/09/25/kevin-warsh-fed-interest-rates-balance-sheet.html",
+          "etf_tickers": []
+        },
+        {
+          "headline": "Russia could attack a NATO country within months, Danish intelligence warns",
+          "summary": "The new threat assessment joins a growing chorus of Russia warnings from top European security officials and lawmakers in recent days.",
+          "impact": "bearish",
+          "source": "CNBC World",
+          "score": 10.0,
+          "link": "https://www.cnbc.com/2026/09/25/russia-ukraine-war-nato-denmark-putin.html",
+          "etf_tickers": []
+        }
+      ]
+    },
+    "Bonds": {
+      "count": 8,
+      "top": [
+        {
+          "headline": "Why Japan’s markets flipped the usual script after central bank rate hike",
+          "summary": "The yen weakened past 157 against the dollar, the yield on the 10-year Japanese Government Bond slipped, while the Nikkei 225 gained 1.5%.",
+          "impact": "mixed",
+          "source": "CNBC Economy",
+          "score": 10.0,
+          "link": "https://www.cnbc.com/2026/09/18/japan-rate-hike-stocks-rise-bond-yields-yen-fall.html",
+          "etf_tickers": []
+        },
+        {
+          "headline": "‘It's awful’: How tariffs, soaring fuel costs and higher interest rates are squeezing American companies",
+          "summary": "Tariffs, fuel prices and interest rates are squeezing American companies, particularly manufacturers, auto suppliers, retailers and transportation businesses.",
+          "impact": "bullish",
+          "source": "CNBC Finance",
+          "score": 10.0,
+          "link": "https://www.cnbc.com/2026/09/20/tariffs-fuel-prices-and-interest-rates-squeeze-us-companies.html",
+          "etf_tickers": []
+        },
+        {
+          "headline": "(BOJ Review)The Expansion and Diversification of Private Credit Funds",
+          "summary": "",
+          "impact": "neutral",
+          "source": "Bank of Japan",
+          "score": 10.0,
+          "link": "http://www.boj.or.jp/en/research/wps_rev/rev_2026/rev26e13.htm",
+          "etf_tickers": []
+        }
+      ]
+    },
+    "Consumers": {
+      "count": 1,
+      "top": [
+        {
+          "headline": "Meta's 'powerful breakout' sets up a unique trading strategy, says Mike Khouw",
+          "summary": "With a brilliant hardware funnel and an options market pricing in juicy short-term premiums, Meta looks primed for a powerful breakout into 2027.",
+          "impact": "bullish",
+          "source": "CNBC World",
+          "score": 10.0,
+          "link": "https://www.cnbc.com/2026/09/25/-metas-powerful-breakout-sets-up-a-unique-trading-strategy-says-mike-khouw.html",
+          "etf_tickers": []
+        }
+      ]
+    }
+  },
+  "rotation_signals": [],
+  "articles": [
+    {
+      "title": "Federal Reserve Board announces approval of application by Peoples Bancorp Inc.",
+      "headline_it": "",
+      "summary_it": "",
+      "summary_en": "Federal Reserve Board announces approval of application by Peoples Bancorp Inc.",
+      "source": "Federal Reserve",
+      "link": "https://www.federalreserve.gov/newsevents/pressreleases/orders20260925a.htm",
+      "date": "2026-09-25 20:30",
+      "score": 10.0,
+      "impact": "neutral",
+      "sectors": [],
+      "primary_sector": null,
+      "etf_tickers": [],
+      "rotation": ""
+    },
+    {
+      "title": "Federal Reserve Board requests public comment on two proposals related to establishing a regulatory framework for Board-supervised payment stablecoin issuers under the GENIUS Act",
+      "headline_it": "",
+      "summary_it": "",
+      "summary_en": "Federal Reserve Board requests public comment on two proposals related to establishing a regulatory framework for Board-supervised payment stablecoin issuers under the GENIUS Act",
+      "source": "Federal Reserve",
+      "link": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20260924a.htm",
+      "date": "2026-09-24 18:30",
+      "score": 10.0,
+      "impact": "neutral",
+      "sectors": [],
+      "primary_sector": null,
+      "etf_tickers": [],
+      "rotation": ""
+    },
+    {
+      "title": "Federal Reserve Board issues enforcement action with former employee of Sandy Spring Bank",
+      "headline_it": "",
+      "summary_it": "",
+      "summary_en": "Federal Reserve Board issues enforcement action with former employee of Sandy Spring Bank",
+      "source": "Federal Reserve",
+      "link": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20260924a.htm",
+      "date": "2026-09-24 15:00",
+      "score": 10.0,
+      "impact": "neutral",
+      "sectors": [
+        "Financials"
+      ],
+      "primary_sector": "Financials",
+      "etf_tickers": [],
+      "rotation": ""
+    },
+    {
+      "title": "Federal Reserve Board announces approval of application by BancFirst Corporation",
+      "headline_it": "",
+      "summary_it": "",
+      "summary_en": "Federal Reserve Board announces approval of application by BancFirst Corporation",
+      "source": "Federal Reserve",
+      "link": "https://www.federalreserve.gov/newsevents/pressreleases/orders20260922a.htm",
+      "date": "2026-09-22 20:30",
+      "score": 10.0,
+      "impact": "neutral",
+      "sectors": [],
+      "primary_sector": null,
+      "etf_tickers": [],
+      "rotation": ""
+    },
+    {
+      "title": "Surging Treasury yields pose a brand new problem for Kevin Warsh and the Fed",
+      "headline_it": "",
+      "summary_it": "",
+      "summary_en": "Markets expect the central bank will take a firmer hand on inflation. It's not that easy.",
+      "source": "CNBC Economy",
+      "link": "https://www.cnbc.com/2026/09/24/surging-treasury-yields-are-posing-a-brand-new-problem-for-kevin-warsh-and-the-fed.html",
+      "date": "2026-09-25 11:08",
+      "score": 10.0,
+      "impact": "neutral",
+      "sectors": [
+        "Bonds",
+        "Broad Market",
+        "Commodities",
+        "Energy",
+        "Financials",
+        "Industrials",
+        "International"
+      ],
+      "primary_sector": "Bonds",
+      "etf_tickers": [],
+      "rotation": ""
+    },
+    {
+      "title": "France's fresh budget battle threatens to topple another government",
+      "headline_it": "",
+      "summary_it": "",
+      "summary_en": "Time is not on the side of French government bonds, strategists have warned, as the nation's deficit balloons.",
+      "source": "CNBC Economy",
+      "link": "https://www.cnbc.com/2026/09/24/france-budget-debt-deficit-government.html",
+      "date": "2026-09-24 06:21",
+      "score": 10.0,
+      "impact": "neutral",
+      "sectors": [
+        "Bonds",
+        "Broad Market",
+        "Commodities",
+        "Energy",
+        "International"
+      ],
+      "primary_sector": "Bonds",
+      "etf_tickers": [],
+      "rotation": ""
+    },
+    {
+      "title": "World heads into food crises 'blind' as U.S. aid cuts squeeze UN food agency, experts warn",
+      "headline_it": "",
+      "summary_it": "",
+      "summary_en": "Climate shocks, conflict and a global fuel crisis, on top of surging interest rates and donor cuts, leave agencies less able to help those facing higher food prices.",
+      "source": "CNBC Economy",
+      "link": "https://www.cnbc.com/2026/09/24/hormuz-blacksea-ukraine-iran-food-security-united-nations-.html",
+      "date": "2026-09-24 04:02",
+      "score": 10.0,
+      "impact": "bearish",
+      "sectors": [
+        "Bonds",
+        "Broad Market",
+        "Commodities",
+        "Energy",
+        "International"
+      ],
+      "primary_sector": "Bonds",
+      "etf_tickers": [],
+      "rotation": ""
+    },
+    {
+      "title": "Why Japan’s markets flipped the usual script after central bank rate hike",
+      "headline_it": "",
+      "summary_it": "",
+      "summary_en": "The yen weakened past 157 against the dollar, the yield on the 10-year Japanese Government Bond slipped, while the Nikkei 225 gained 1.5%.",
+      "source": "CNBC Economy",
+      "link": "https://www.cnbc.com/2026/09/18/japan-rate-hike-stocks-rise-bond-yields-yen-fall.html",
+      "date": "2026-09-21 01:02",
+      "score": 10.0,
+      "impact": "mixed",
+      "sectors": [
+        "Bonds",
+        "Broad Market",
+        "Financials"
+      ],
+      "primary_sector": "Bonds",
+      "etf_tickers": [],
+      "rotation": ""
+    },
+    {
+      "title": "‘It's awful’: How tariffs, soaring fuel costs and higher interest rates are squeezing American companies",
+      "headline_it": "",
+      "summary_it": "",
+      "summary_en": "Tariffs, fuel prices and interest rates are squeezing American companies, particularly manufacturers, auto suppliers, retailers and transportation businesses.",
+      "source": "CNBC Finance",
+      "link": "https://www.cnbc.com/2026/09/20/tariffs-fuel-prices-and-interest-rates-squeeze-us-companies.html",
+      "date": "2026-09-21 15:04",
+      "score": 10.0,
+      "impact": "bullish",
+      "sectors": [
+        "Bonds",
+        "Broad Market",
+        "International"
+      ],
+      "primary_sector": "Bonds",
+      "etf_tickers": [],
+      "rotation": ""
+    },
+    {
+      "title": "Microsoft’s stock has roared back to life, closing at its highest level of the year",
+      "headline_it": "",
+      "summary_it": "",
+      "summary_en": "Microsoft shares got off to a rough start this year, but investors have warmed to the company’s AI narrative over the last few months.",
+      "source": "MarketWatch",
+      "link": "https://www.marketwatch.com/story/microsofts-stock-has-roared-back-to-life-and-is-now-headed-for-its-highest-close-of-the-year-89e4d596?mod=mw_rss_topstories",
+      "date": "2026-09-25 21:04",
+      "score": 10.0,
+      "impact": "neutral",
+      "sectors": [
+        "Broad Market",
+        "Commodities",
+        "Energy",
+        "Industrials",
+        "International",
+        "Tech & Semiconductors"
+      ],
+      "primary_sector": "Broad Market",
+      "etf_tickers": [],
+      "rotation": ""
+    },
+    {
+      "title": "Iran offers US deal to reopen Strait of Hormuz in seven days",
+      "headline_it": "",
+      "summary_it": "",
+      "summary_en": "Asked about the Iranian proposal, a US official told the BBC \"constructive discussions\" were taking place through mediators.",
+      "source": "BBC World",
+      "link": "https://www.bbc.co.uk/news/articles/cqgmrr9ekr7ko?at_medium=RSS&at_campaign=rss",
+      "date": "2026-09-26 05:03",
+      "score": 10.0,
+      "impact": "neutral",
+      "sectors": [
+        "Commodities",
+        "Energy",
+        "Industrials",
+        "International"
+      ],
+      "primary_sector": "Commodities",
+      "etf_tickers": [],
+      "rotation": ""
+    },
+    {
+      "title": "Russia targeting 'ordinary life' with attacks on Ukraine's data centres, Zelensky says",
+      "headline_it": "",
+      "summary_it": "",
+      "summary_en": "Such strikes aim to disrupt \"people's ability to stay connected, study, work\", says Ukraine's president.",
+      "source": "BBC World",
+      "link": "https://www.bbc.co.uk/news/articles/c84gkwgk7d06o?at_medium=RSS&at_campaign=rss",
+      "date": "2026-09-25 20:47",
+      "score": 10.0,
+      "impact": "neutral",
+      "sectors": [
+        "Broad Market",
+        "Commodities",
+        "Energy",
+        "International"
+      ],
+      "primary_sector": "Broad Market",
+      "etf_tickers": [],
+      "rotation": ""
+    },
+    {
+      "title": "How fresh fighting in Tigray could spark wider conflict in Ethiopia",
+      "headline_it": "",
+      "summary_it": "",
+      "summary_en": "Exploring the issues behind the escalation of tensions between the TPLF and the national army.",
+      "source": "BBC World",
+      "link": "https://www.bbc.co.uk/news/articles/c6d94wywx0ypo?at_medium=RSS&at_campaign=rss",
+      "date": "2026-09-25 23:42",
+      "score": 10.0,
+      "impact": "neutral",
+      "sectors": [
+        "Broad Market",
+        "Energy",
+        "International"
+      ],
+      "primary_sector": "Broad Market",
+      "etf_tickers": [],
+      "rotation": ""
+    },
+    {
+      "title": "Why an international arrest warrant didn't stop Netanyahu's US trip",
+      "headline_it": "",
+      "summary_it": "",
+      "summary_en": "The BBC's Nada Tawfik explains why Israel's Benjamin Netanyahu was not arrested after speaking at the UN, despite an ICC arrest warrant.",
+      "source": "BBC World",
+      "link": "https://www.bbc.co.uk/news/videos/ckq633lm11jeo?at_medium=RSS&at_campaign=rss",
+      "date": "2026-09-25 18:41",
+      "score": 10.0,
+      "impact": "neutral",
+      "sectors": [
+        "Broad Market",
+        "Commodities",
+        "Energy",
+        "Industrials",
+        "International"
+      ],
+      "primary_sector": "Broad Market",
+      "etf_tickers": [],
+      "rotation": ""
+    },
+    {
+      "title": "Pomp and toasts: Day 2 of Trump and Xi in DC",
+      "headline_it": "",
+      "summary_it": "",
+      "summary_en": "Xi’s first visit to Washington in a decade was a display of pomp and pageantry, with Trump offering his guest a two-month truce on the brewing tariff war.",
+      "source": "BBC World",
+      "link": "https://www.bbc.co.uk/news/videos/c9lykxx5zp70o?at_medium=RSS&at_campaign=rss",
+      "date": "2026-09-25 05:54",
+      "score": 10.0,
+      "impact": "neutral",
+      "sectors": [
+        "Broad Market",
+        "Commodities",
+        "Energy",
+        "International"
+      ],
+      "primary_sector": "Broad Market",
+      "etf_tickers": [],
+      "rotation": ""
+    },
+    {
+      "title": "Trump, Xi wrap state visit centered on spectacle over substance. Here are the top takeaways",
+      "headline_it": "",
+      "summary_it": "",
+      "summary_en": "President Trump and Chinese leader Xi went heavy on the ceremony and light on deliverables as they danced around Taiwan and Iran during two days in Washington.",
+      "source": "CNBC World",
+      "link": "https://www.cnbc.com/2026/09/25/trump-xi-summit-takeaways.html",
+      "date": "2026-09-25 21:38",
+      "score": 10.0,
+      "impact": "neutral",
+      "sectors": [
+        "Commodities",
+        "Energy",
+        "Industrials",
+        "International",
+        "Tech & Semiconductors"
+      ],
+      "primary_sector": "Commodities",
+      "etf_tickers": [],
+      "rotation": ""
+    },
+    {
+      "title": "Saudi Arabia crude oil exports hit highest level since Iran war began despite pipeline outage",
+      "headline_it": "",
+      "summary_it": "",
+      "summary_en": "Saudi exports are rising despite escalating attacks on its infrastructure from Iran-backed militants in Yemen and Iraq.",
+      "source": "CNBC World",
+      "link": "https://www.cnbc.com/2026/09/25/saudi-arabia-oil-iran-war-pipeline-strait-hormuz-red-sea-houthis.html",
+      "date": "2026-09-25 18:46",
+      "score": 10.0,
+      "impact": "neutral",
+      "sectors": [
+        "Broad Market",
+        "Commodities",
+        "Energy",
+        "Industrials",
+        "International",
+        "Real Estate"
+      ],
+      "primary_sector": "Broad Market",
+      "etf_tickers": [],
+      "rotation": ""
+    },
+    {
+      "title": "Iran offers to reopen Strait of Hormuz within 7 days and restart nuclear talks",
+      "headline_it": "",
+      "summary_it": "",
+      "summary_en": "The remarks came as the Houthis launched a new wave of missile and drone attacks at Saudi targets Friday morning.",
+      "source": "CNBC World",
+      "link": "https://www.cnbc.com/2026/09/25/us-iran-trump-hormuz-.html",
+      "date": "2026-09-25 13:45",
+      "score": 10.0,
+      "impact": "bearish",
+      "sectors": [
+        "Broad Market",
+        "Commodities",
+        "Energy",
+        "Industrials",
+        "International"
+      ],
+      "primary_sector": "Broad Market",
+      "etf_tickers": [],
+      "rotation": ""
+    },
+    {
+      "title": "Pope Leo warns in France that AI is creating 'paradise of machines'",
+      "headline_it": "",
+      "summary_it": "",
+      "summary_en": "Pope Leo urged the world to reconsider the development of artificial intelligence, warning of a future where \"a paradise of machines\" takes control.",
+      "source": "CNBC World",
+      "link": "https://www.cnbc.com/2026/09/25/pope-leo-warns-in-france-that-ai-is-creating-paradise-of-machines.html",
+      "date": "2026-09-25 15:04",
+      "score": 10.0,
+      "impact": "bearish",
+      "sectors": [
+        "Broad Market",
+        "Commodities",
+        "Energy",
+        "Industrials",
+        "International",
+        "Tech & Semiconductors"
+      ],
+      "primary_sector": "Broad Market",
+      "etf_tickers": [],
+      "rotation": ""
+    },
+    {
+      "title": "Here's why South Korea wants more control over future regional wars",
+      "headline_it": "",
+      "summary_it": "",
+      "summary_en": "The U.S. would command South Korean units should conflict resume on the Korean peninsula. Now the government wants to end a long-standing diplomatic quirk",
+      "source": "CNBC World",
+      "link": "https://www.cnbc.com/2026/09/24/heres-why-south-korea-wants-more-control-over-future-regional-wars.html",
+      "date": "2026-09-24 23:30",
+      "score": 10.0,
+      "impact": "neutral",
+      "sectors": [
+        "Broad Market",
+        "Commodities",
+        "Energy",
+        "International",
+        "Tech & Semiconductors"
+      ],
+      "primary_sector": "Broad Market",
+      "etf_tickers": [],
+      "rotation": ""
+    },
+    {
+      "title": "Meta's 'powerful breakout' sets up a unique trading strategy, says Mike Khouw",
+      "headline_it": "",
+      "summary_it": "",
+      "summary_en": "With a brilliant hardware funnel and an options market pricing in juicy short-term premiums, Meta looks primed for a powerful breakout into 2027.",
+      "source": "CNBC World",
+      "link": "https://www.cnbc.com/2026/09/25/-metas-powerful-breakout-sets-up-a-unique-trading-strategy-says-mike-khouw.html",
+      "date": "2026-09-25 17:57",
+      "score": 10.0,
+      "impact": "bullish",
+      "sectors": [
+        "Broad Market",
+        "Commodities",
+        "Consumers",
+        "Energy",
+        "International",
+        "Tech & Semiconductors"
+      ],
+      "primary_sector": "Broad Market",
+      "etf_tickers": [],
+      "rotation": ""
+    },
+    {
+      "title": "Warsh's regime change at the Fed pushes ahead – and meets resistance",
+      "headline_it": "",
+      "summary_it": "",
+      "summary_en": "Fed Chairman Kevin Warsh is driving rapid change in some areas, while his emerging policy framework suggests further rate hikes remain possible.",
+      "source": "CNBC World",
+      "link": "https://www.cnbc.com/2026/09/25/kevin-warsh-fed-interest-rates-balance-sheet.html",
+      "date": "2026-09-25 10:30",
+      "score": 10.0,
+      "impact": "bearish",
+      "sectors": [
+        "Bonds",
+        "Broad Market",
+        "Commodities",
+        "Energy",
+        "Financials",
+        "Industrials",
+        "International"
+      ],
+      "primary_sector": "Bonds",
+      "etf_tickers": [],
+      "rotation": ""
+    },
+    {
+      "title": "Russia could attack a NATO country within months, Danish intelligence warns",
+      "headline_it": "",
+      "summary_it": "",
+      "summary_en": "The new threat assessment joins a growing chorus of Russia warnings from top European security officials and lawmakers in recent days.",
+      "source": "CNBC World",
+      "link": "https://www.cnbc.com/2026/09/25/russia-ukraine-war-nato-denmark-putin.html",
+      "date": "2026-09-25 13:00",
+      "score": 10.0,
+      "impact": "bearish",
+      "sectors": [
+        "Broad Market",
+        "Commodities",
+        "Energy",
+        "Industrials",
+        "International"
+      ],
+      "primary_sector": "Broad Market",
+      "etf_tickers": [],
+      "rotation": ""
+    },
+    {
+      "title": "(BOJ Review)The Expansion and Diversification of Private Credit Funds",
+      "headline_it": "",
+      "summary_it": "",
+      "summary_en": "",
+      "source": "Bank of Japan",
+      "link": "http://www.boj.or.jp/en/research/wps_rev/rev_2026/rev26e13.htm",
+      "date": "2026-09-25 05:00",
+      "score": 10.0,
+      "impact": "neutral",
+      "sectors": [
+        "Bonds",
+        "Financials",
+        "Industrials"
+      ],
+      "primary_sector": "Bonds",
+      "etf_tickers": [],
+      "rotation": ""
+    },
+    {
+      "title": "Blast in Pakistan’s Dera Ismail Khan kills several people",
+      "headline_it": "",
+      "summary_it": "",
+      "summary_en": "Tehreek-e-Taliban Pakistan (Pakistan Taliban or TTP) claims responsibility for attack in Khyber Pakhtunkhwa province.",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/news/2026/9/26/blast-in-pakistans-dera-ismail-khan-kills-several-people?traffic_source=rss",
+      "date": "2026-09-26 11:33",
+      "score": 10.0,
+      "impact": "neutral",
+      "sectors": [
+        "Broad Market",
+        "Industrials",
+        "International"
+      ],
+      "primary_sector": "Broad Market",
+      "etf_tickers": [],
+      "rotation": ""
+    },
+    {
+      "title": "Pezeshkian says Iran ‘no longer trusts talks with Washington’",
+      "headline_it": "",
+      "summary_it": "",
+      "summary_en": "In an interview with Al Jazeera, the Iranian president says Qatar and Pakistan are relaying Tehran&#039;s messages to the US.",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/news/2026/9/26/pezeshkian-says-iran-no-longer-trusts-talks-with-washington?traffic_source=rss",
+      "date": "2026-09-26 11:06",
+      "score": 10.0,
+      "impact": "neutral",
+      "sectors": [
+        "Commodities",
+        "Energy",
+        "Industrials",
+        "International"
+      ],
+      "primary_sector": "Commodities",
+      "etf_tickers": [],
+      "rotation": ""
+    },
+    {
+      "title": "Israel bans Arab parties from election: Who they are, why it matters",
+      "headline_it": "",
+      "summary_it": "",
+      "summary_en": "Israeli politicians subject to ICC arrest warrants or international sanctions remain eligible to run.",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/news/2026/9/26/israel-bans-arab-parties-from-election-who-they-are-why-it-matters?traffic_source=rss",
+      "date": "2026-09-26 10:27",
+      "score": 10.0,
+      "impact": "neutral",
+      "sectors": [
+        "Broad Market",
+        "Commodities",
+        "Energy",
+        "Industrials",
+        "International"
+      ],
+      "primary_sector": "Broad Market",
+      "etf_tickers": [],
+      "rotation": ""
+    },
+    {
+      "title": "Trump ‘rejects’ Iran’s seven-day ceasefire proposal. What’s next?",
+      "headline_it": "",
+      "summary_it": "",
+      "summary_en": "Analysts say Trump may opt to resume attacks on Iran after November midterm elections.",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/news/2026/9/26/trump-reportedly-rejects-irans-seven-day-ceasefire-proposal-whats-next?traffic_source=rss",
+      "date": "2026-09-26 09:28",
+      "score": 10.0,
+      "impact": "neutral",
+      "sectors": [
+        "Broad Market",
+        "Commodities",
+        "Energy",
+        "Industrials",
+        "International"
+      ],
+      "primary_sector": "Broad Market",
+      "etf_tickers": [],
+      "rotation": ""
+    },
+    {
+      "title": "Iran war squeezes Iraq’s economy as oil revenues fall and prices rise",
+      "headline_it": "",
+      "summary_it": "",
+      "summary_en": "Disrupted oil exports, costlier imports, and a weaker dinar expose Iraq&#039;s economic dependence on oil, foreign goods.",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/news/2026/9/26/iran-war-squeezes-iraqs-economy-as-oil-revenues-fall-and-prices-rise?traffic_source=rss",
+      "date": "2026-09-26 08:13",
+      "score": 10.0,
+      "impact": "bearish",
+      "sectors": [
+        "Broad Market",
+        "Commodities",
+        "Energy",
+        "Industrials",
+        "International"
+      ],
+      "primary_sector": "Broad Market",
+      "etf_tickers": [],
+      "rotation": ""
+    },
+    {
+      "title": "‘Nowhere else to go’: Gaza families shelter in buildings that may collapse",
+      "headline_it": "",
+      "summary_it": "",
+      "summary_en": "Three years of Israel&#039;s war has left families in Gaza living in damaged buildings, with few safe alternatives available.",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/features/2026/9/26/nowhere-else-to-go-gaza-families-shelter-in-buildings-that-may-collapse?traffic_source=rss",
+      "date": "2026-09-26 05:25",
+      "score": 10.0,
+      "impact": "bearish",
+      "sectors": [
+        "Broad Market",
+        "Commodities",
+        "Energy",
+        "Industrials",
+        "International"
+      ],
+      "primary_sector": "Broad Market",
+      "etf_tickers": [],
+      "rotation": ""
+    },
+    {
+      "title": "US official claims Trump holds all the cards in Iran talks",
+      "headline_it": "",
+      "summary_it": "",
+      "summary_en": "US State Department Spokesman Tommy Pigott says President Donald Trump ‘holds all of the cards’ in talks with Tehran.",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/26/us-official-claims-trump-holds-all-the-cards-in-iran-talks?traffic_source=rss",
+      "date": "2026-09-26 04:37",
+      "score": 10.0,
+      "impact": "neutral",
+      "sectors": [
+        "Commodities",
+        "Energy",
+        "Industrials",
+        "International"
+      ],
+      "primary_sector": "Commodities",
+      "etf_tickers": [],
+      "rotation": ""
+    },
+    {
+      "title": "Iran pitches US a seven-day end to the war at UNGA",
+      "headline_it": "",
+      "summary_it": "",
+      "summary_en": "Iran has pitched a proposal to open the Strait of Hormuz in seven days - if the US meets its conditions.",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/9/26/iran-pitches-us-a-seven-day-end-to-the-war-at-unga?traffic_source=rss",
+      "date": "2026-09-26 04:28",
+      "score": 10.0,
+      "impact": "neutral",
+      "sectors": [
+        "Broad Market",
+        "Commodities",
+        "Energy",
+        "Industrials",
+        "International"
+      ],
+      "primary_sector": "Broad Market",
+      "etf_tickers": [],
+      "rotation": ""
+    },
+    {
+      "title": "Minutes of the Market Participants Group meeting – 24 September 2026",
+      "headline_it": "",
+      "summary_it": "",
+      "summary_en": "The Market Participants Group (MPG) is a senior-level forum for financial market participants to share their views on relevant themes and narratives in financial markets with members of the Bank of England’s Monetary Policy Committee.",
+      "source": "Bank of England",
+      "link": "https://www.bankofengland.co.uk/minutes/2026/september/market-participants-group-meeting-25-september-2026",
+      "date": "2026-09-25 06:30",
+      "score": 10.0,
+      "impact": "neutral",
+      "sectors": [
+        "Bonds",
+        "Broad Market",
+        "Financials",
+        "Industrials"
+      ],
+      "primary_sector": "Bonds",
+      "etf_tickers": [],
+      "rotation": ""
+    },
+    {
+      "title": "WTI Whipsaws as Hormuz Hopes Collide With Diesel Crunch",
+      "headline_it": "",
+      "summary_it": "",
+      "summary_en": "November WTI crude oil futures spent the week trading a possible reopening of the Strait of Hormuz against the risk that shipping conditions have not normalized. The contract fell to $88.67 Tuesday after reports that Iran could reopen the Strait within seven days, then recovered to $96.78 Thursday as the diplomatic story ran into the same problem it had all week: no agreement, no normal tanker traffic, and no proof the physical market is back to normal. At 22:00 GMT Thursday, November, WTI crude oil futures were trading at $94.76, down $0.71 or…",
+      "source": "OilPrice",
+      "link": "https://oilprice.com/Energy/Energy-General/WTI-Whipsaws-as-Hormuz-Hopes-Collide-With-Diesel-Crunch.html",
+      "date": "2026-09-25 13:00",
+      "score": 10.0,
+      "impact": "bullish",
+      "sectors": [
+        "Commodities",
+        "Energy",
+        "Industrials",
+        "International"
+      ],
+      "primary_sector": "Commodities",
+      "etf_tickers": [],
+      "rotation": ""
+    },
+    {
+      "title": "U.S.-Iran Talks Revive June Plan for Ending Hormuz Standoff",
+      "headline_it": "",
+      "summary_it": "",
+      "summary_en": "Politics, Geopolitics & Conflict The U.S. and Iran are back to negotiating over the same basic bargain that briefly ended the war in June: reopen Hormuz, ease the U.S. blockade, and use a temporary ceasefire to negotiate everything they can’t settle now. The latest discussions in New York are focused on a phased arrangement under which Tehran would restore commercial shipping through Hormuz while Washington begins lifting restrictions on Iranian trade, with access to frozen Iranian assets also under discussion (at the same time, Washington…",
+      "source": "OilPrice",
+      "link": "https://oilprice.com/Energy/Energy-General/US-Iran-Talks-Revive-June-Plan-for-Ending-Hormuz-Standoff.html",
+      "date": "2026-09-25 13:00",
+      "score": 10.0,
+      "impact": "bullish",
+      "sectors": [
+        "Broad Market",
+        "Commodities",
+        "Energy",
+        "Industrials",
+        "International"
+      ],
+      "primary_sector": "Broad Market",
+      "etf_tickers": [],
+      "rotation": ""
+    },
+    {
+      "title": "Aramco Restores East-West Pipeline as War Risk Closes In on Yanbu",
+      "headline_it": "",
+      "summary_it": "",
+      "summary_en": "Saudi Aramco has restarted its East-West pipeline (Petroline) less than two weeks after attacks knocked out the 7 million bpd system, restoring at least some of the route that has carried the bulk of Saudi crude around the Strait of Hormuz since the war began. Pumping has resumed at reduced rates, with Aramco reportedly targeting around 4 million bpd as flows gradually rebuild. Tanker loadings at Yanbu also appear to have restarted this week, although regular exports have yet to recover. Industrial Info Resources cited satellite imagery showing…",
+      "source": "OilPrice",
+      "link": "https://oilprice.com/Energy/Energy-General/Aramco-Restores-East-West-Pipeline-as-War-Risk-Closes-In-on-Yanbu.html",
+      "date": "2026-09-25 13:00",
+      "score": 10.0,
+      "impact": "neutral",
+      "sectors": [
+        "Broad Market",
+        "Commodities",
+        "Energy",
+        "International"
+      ],
+      "primary_sector": "Broad Market",
+      "etf_tickers": [],
+      "rotation": ""
+    },
+    {
+      "title": "ECB Executive Board member Isabel Schnabel to resign to take senior role at IMF",
+      "headline_it": "",
+      "summary_it": "",
+      "summary_en": "The European Central Bank (ECB) is the central bank of the European Union countries which have adopted the euro. Our main task is to maintain price stability in the euro area and so preserve the purchasing power of the single currency.",
+      "source": "ECB",
+      "link": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr260924~bea1dd9824.en.html",
+      "date": "2026-09-24 12:00",
+      "score": 10.0,
+      "impact": "neutral",
+      "sectors": [
+        "Financials"
+      ],
+      "primary_sector": "Financials",
+      "etf_tickers": [],
+      "rotation": ""
+    },
+    {
+      "title": "Philip R. Lane: The outlook for the euro area economy",
+      "headline_it": "",
+      "summary_it": "",
+      "summary_en": "",
+      "source": "ECB",
+      "link": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp260924~e0eceef02c.en.pdf",
+      "date": "2026-09-24 09:00",
+      "score": 10.0,
+      "impact": "neutral",
+      "sectors": [],
+      "primary_sector": null,
+      "etf_tickers": [],
+      "rotation": ""
+    },
+    {
+      "title": "Philip R. Lane: The Outlook for the Euro Area Economy",
+      "headline_it": "",
+      "summary_it": "",
+      "summary_en": "",
+      "source": "ECB",
+      "link": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp260923_1~ac21bf46e3.en.pdf",
+      "date": "2026-09-23 16:30",
+      "score": 10.0,
+      "impact": "neutral",
+      "sectors": [],
+      "primary_sector": null,
+      "etf_tickers": [],
+      "rotation": ""
+    },
+    {
+      "title": "The digitalisation of money, payments and finance",
+      "headline_it": "",
+      "summary_it": "",
+      "summary_en": "",
+      "source": "ECB",
+      "link": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp260923~87850778f5.en.pdf",
+      "date": "2026-09-23 16:00",
+      "score": 10.0,
+      "impact": "neutral",
+      "sectors": [],
+      "primary_sector": null,
+      "etf_tickers": [],
+      "rotation": ""
+    },
+    {
+      "title": "Almost ten million people took part in ECB survey on new euro banknotes",
+      "headline_it": "",
+      "summary_it": "",
+      "summary_en": "The European Central Bank (ECB) is the central bank of the European Union countries which have adopted the euro. Our main task is to maintain price stability in the euro area and so preserve the purchasing power of the single currency.",
+      "source": "ECB",
+      "link": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr260923~6ebddaf01e.en.html",
+      "date": "2026-09-23 09:00",
+      "score": 10.0,
+      "impact": "neutral",
+      "sectors": [
+        "Financials"
+      ],
+      "primary_sector": "Financials",
+      "etf_tickers": [],
+      "rotation": ""
+    },
+    {
+      "title": "Philip R. Lane: Interview with Le Temps",
+      "headline_it": "",
+      "summary_it": "",
+      "summary_en": "The European Central Bank (ECB) is the central bank of the European Union countries which have adopted the euro. Our main task is to maintain price stability in the euro area and so preserve the purchasing power of the single currency.",
+      "source": "ECB",
+      "link": "https://www.ecb.europa.eu//press/inter/date/2026/html/ecb.in260922~5f89d300ee.en.html",
+      "date": "2026-09-22 05:00",
+      "score": 10.0,
+      "impact": "neutral",
+      "sectors": [
+        "Financials"
+      ],
+      "primary_sector": "Financials",
+      "etf_tickers": [],
+      "rotation": ""
+    },
+    {
+      "title": "ECB to invest part of own funds in tokenised securities, with settlement via Pontes",
+      "headline_it": "",
+      "summary_it": "",
+      "summary_en": "The European Central Bank (ECB) is the central bank of the European Union countries which have adopted the euro. Our main task is to maintain price stability in the euro area and so preserve the purchasing power of the single currency.",
+      "source": "ECB",
+      "link": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr260921_1~5a011ecbea.en.html",
+      "date": "2026-09-21 10:00",
+      "score": 10.0,
+      "impact": "neutral",
+      "sectors": [
+        "Financials"
+      ],
+      "primary_sector": "Financials",
+      "etf_tickers": [],
+      "rotation": ""
+    },
+    {
+      "title": "Eurosystem brings central bank money to tokenised finance",
+      "headline_it": "",
+      "summary_it": "",
+      "summary_en": "The European Central Bank (ECB) is the central bank of the European Union countries which have adopted the euro. Our main task is to maintain price stability in the euro area and so preserve the purchasing power of the single currency.",
+      "source": "ECB",
+      "link": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr260921~e754847a7b.en.html",
+      "date": "2026-09-21 10:00",
+      "score": 10.0,
+      "impact": "neutral",
+      "sectors": [
+        "Financials"
+      ],
+      "primary_sector": "Financials",
+      "etf_tickers": [],
+      "rotation": ""
+    },
+    {
+      "title": "Consumer sentiment is in the dumps despite a solid economy. Goldman Sachs blames 'lower happiness'",
+      "headline_it": "",
+      "summary_it": "",
+      "summary_en": "Goldman economist Joseph Briggs said broader pessimism in society may be contributing to struggling consumer sentiment even as the economy chugs along.",
+      "source": "CNBC Economy",
+      "link": "https://www.cnbc.com/2026/09/19/goldman-sachs-happiness-struggling-consumer-sentiment.html",
+      "date": "2026-09-19 12:50",
+      "score": 9.9,
+      "impact": "neutral",
+      "sectors": [
+        "Commodities",
+        "Financials",
+        "Industrials"
+      ],
+      "primary_sector": "Commodities",
+      "etf_tickers": [],
+      "rotation": ""
+    },
+    {
+      "title": "India's viral Cockroach Party calls election panel head 'biggest threat' to democracy. Here's why it matters",
+      "headline_it": "",
+      "summary_it": "",
+      "summary_en": "India’s Cockroach Janta Party demanded election chief Gyanesh Kumar resign after reported internal objections over voter-roll revisions.",
+      "source": "CNBC World",
+      "link": "https://www.cnbc.com/2026/09/25/india-cockroach-party-election-protest-democracy.html",
+      "date": "2026-09-25 15:24",
+      "score": 9.9,
+      "impact": "neutral",
+      "sectors": [
+        "Broad Market",
+        "Industrials",
+        "International"
+      ],
+      "primary_sector": "Broad Market",
+      "etf_tickers": [],
+      "rotation": ""
+    },
+    {
+      "title": "‘Shaken faith’: Why are India’s elections under unprecedented scrutiny?",
+      "headline_it": "",
+      "summary_it": "",
+      "summary_en": "India has long held up its elections as evidence of its democratic credentials. Now their legitimacy is under question.",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/news/2026/9/26/shaken-faith-why-are-indias-elections-under-unprecedented-scrutiny?traffic_source=rss",
+      "date": "2026-09-26 04:48",
+      "score": 9.9,
+      "impact": "neutral",
+      "sectors": [
+        "Broad Market",
+        "Industrials",
+        "International"
+      ],
+      "primary_sector": "Broad Market",
+      "etf_tickers": [],
+      "rotation": ""
+    },
+    {
+      "title": "Stocks making the biggest moves premarket: Paramount, Warner Bros., Accenture, Novo & more",
+      "headline_it": "",
+      "summary_it": "",
+      "summary_en": "These are the stocks posting the largest moves premarket.",
+      "source": "CNBC Finance",
+      "link": "https://www.cnbc.com/2026/09/21/stocks-making-the-biggest-moves-premarket-psky-wbd-acn-nvo.html",
+      "date": "2026-09-21 11:40",
+      "score": 9.8,
+      "impact": "neutral",
+      "sectors": [
+        "Broad Market",
+        "Commodities",
+        "Energy",
+        "International"
+      ],
+      "primary_sector": "Broad Market",
+      "etf_tickers": [],
+      "rotation": ""
+    },
+    {
+      "title": "Supreme Court allows Trump to use controversial database to check voter citizenship",
+      "headline_it": "",
+      "summary_it": "",
+      "summary_en": "Critics have questioned the reliability of the data, warning it could  result in US citizens being wrongly removed from electoral rolls.",
+      "source": "BBC World",
+      "link": "https://www.bbc.co.uk/news/articles/ck05rrj3jeylo?at_medium=RSS&at_campaign=rss",
+      "date": "2026-09-25 19:13",
+      "score": 9.8,
+      "impact": "bearish",
+      "sectors": [
+        "Broad Market",
+        "Commodities",
+        "Energy",
+        "International"
+      ],
+      "primary_sector": "Broad Market",
+      "etf_tickers": [],
+      "rotation": ""
+    },
+    {
+      "title": "Could AI firms be held responsible for mass shootings?",
+      "headline_it": "",
+      "summary_it": "",
+      "summary_en": "Canadian lawsuits against OpenAI raise questions about liability and duty to warn in the AI industry, say experts.",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/news/2026/9/26/could-ai-firms-be-held-responsible-for-mass-shootings?traffic_source=rss",
+      "date": "2026-09-26 07:46",
+      "score": 9.8,
+      "impact": "bullish",
+      "sectors": [
+        "Broad Market",
+        "Commodities",
+        "Energy",
+        "International"
+      ],
+      "primary_sector": "Broad Market",
+      "etf_tickers": [],
+      "rotation": ""
+    }
+  ]
+}
