@@ -1,0 +1,1269 @@
+{
+  "generated": "2026-10-03T12:50:58.695655",
+  "lookback_days": 7,
+  "total_articles": 50,
+  "sector_news": {
+    "Broad Market": {
+      "count": 32,
+      "top": [
+        {
+          "headline": "Federal Reserve Board finalizes changes to enhance the transparency and public accountability of its stress test and reduce volatility in its stress test-related capital requirements",
+          "summary": "Federal Reserve Board finalizes changes to enhance the transparency and public accountability of its stress test and reduce volatility in its stress test-related capital requirements",
+          "impact": "neutral",
+          "source": "Federal Reserve",
+          "score": 10.0,
+          "link": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20260930a.htm",
+          "etf_tickers": []
+        },
+        {
+          "headline": "Beijing warns of retaliation if Europe imposes curbs on Chinese businesses",
+          "summary": "China must \"respond firmly\" if the EU introduces restrictions on Chinese businesses or products, the Commerce Ministry said, according to a CNBC translation.",
+          "impact": "neutral",
+          "source": "CNBC Finance",
+          "score": 10.0,
+          "link": "https://www.cnbc.com/2026/09/30/china-warns-europe-increases-trade-pressure.html",
+          "etf_tickers": []
+        },
+        {
+          "headline": "G7 nations to release diesel stocks as wars in Europe and Middle East constrain fuel supplies",
+          "summary": "EU countries are set for crisis talks on soaring diesel prices, with officials warning a U.S. export ban could hurt Europe’s economic outlook.",
+          "impact": "mixed",
+          "source": "CNBC World",
+          "score": 10.0,
+          "link": "https://www.cnbc.com/2026/10/02/diesel-oil-trump-europe-export-ban.html",
+          "etf_tickers": []
+        }
+      ]
+    },
+    "International": {
+      "count": 30,
+      "top": [
+        {
+          "headline": "This SpaceX supplier has a front-row seat to major shifts in warfare and rocket use",
+          "summary": "Although this recent IPO is trading below its offer price, its supplier relationships with both SpaceX and Anduril bode well for future revenue growth.",
+          "impact": "bullish",
+          "source": "CNBC World",
+          "score": 10.0,
+          "link": "https://www.cnbc.com/2026/10/02/applied-aerospace-investors-need-to-watch-shares-of-this-spacex-supplier.html",
+          "etf_tickers": []
+        },
+        {
+          "headline": "Oil prices lower as G7 nations to release diesel stocks, Saudis reportedly plan attack on Houthis",
+          "summary": "The G7 will deploy 100 million barrels of reserves over the next four months, the group's leaders said in a joint statement.",
+          "impact": "neutral",
+          "source": "CNBC World",
+          "score": 10.0,
+          "link": "https://www.cnbc.com/2026/10/02/oil-wti-brent-diesel-stock-release-europe.html",
+          "etf_tickers": []
+        },
+        {
+          "headline": "FAA says Boeing 737 Max software glitch not a flight-safety issue",
+          "summary": "The FAA on Monday said it was reviewing the software glitch, which could affect procedures during certain landings.",
+          "impact": "neutral",
+          "source": "CNBC World",
+          "score": 10.0,
+          "link": "https://www.cnbc.com/2026/10/02/faa-says-boeing-737-max-10-software-glitch-not-a-flight-safety-issue.html",
+          "etf_tickers": []
+        }
+      ]
+    },
+    "Tech & Semiconductors": {
+      "count": 4,
+      "top": [
+        {
+          "headline": "Kim wins Asian Games gold to secure military exemption",
+          "summary": "Golfer Tom Kim wins gold at the Asian Games to secure an exemption from mandatory service in South Korea's military.",
+          "impact": "neutral",
+          "source": "BBC World",
+          "score": 10.0,
+          "link": "https://www.bbc.co.uk/sport/golf/articles/cmy0rn425k4xo?at_medium=RSS&at_campaign=rss",
+          "etf_tickers": []
+        },
+        {
+          "headline": "Stocks making the biggest moves premarket: Meta Platforms, United Airlines, Nvidia & more",
+          "summary": "These are the stocks posting the largest moves premarket.",
+          "impact": "neutral",
+          "source": "CNBC Finance",
+          "score": 9.9,
+          "link": "https://www.cnbc.com/2026/09/28/stocks-making-the-biggest-moves-premarket-meta-ual-nvda.html",
+          "etf_tickers": []
+        },
+        {
+          "headline": "America’s data center fight is a preview of what's to come for the rest of the world",
+          "summary": "America’s fight over data centers is going global. Communities across Europe and Asia  are pushing back over the rising costs of the AI infrastructure boom.",
+          "impact": "bullish",
+          "source": "CNBC World",
+          "score": 9.9,
+          "link": "https://www.cnbc.com/2026/10/03/data-center-backlash-europe-asia-africa.html",
+          "etf_tickers": []
+        }
+      ]
+    },
+    "Financials": {
+      "count": 13,
+      "top": [
+        {
+          "headline": "Agencies publish resolution plan feedback letters for 15 banking organizations",
+          "summary": "Agencies publish resolution plan feedback letters for 15 banking organizations",
+          "impact": "neutral",
+          "source": "Federal Reserve",
+          "score": 10.0,
+          "link": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20260929a.htm",
+          "etf_tickers": []
+        },
+        {
+          "headline": "Boris Vujčić: Resilience, integration and competitiveness: building the future of European banking",
+          "summary": "The European Central Bank (ECB) is the central bank of the European Union countries which have adopted the euro. Our main task is to maintain price stability in the euro area and so preserve the purchasing power of the single currency.",
+          "impact": "neutral",
+          "source": "ECB",
+          "score": 10.0,
+          "link": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp261002_1~419efe18e0.en.html",
+          "etf_tickers": []
+        },
+        {
+          "headline": "Isabel Schnabel: Central banks on-chain",
+          "summary": "",
+          "impact": "neutral",
+          "source": "ECB",
+          "score": 10.0,
+          "link": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp261001_1~a0be67193b.en.pdf",
+          "etf_tickers": []
+        }
+      ]
+    },
+    "Energy": {
+      "count": 29,
+      "top": [
+        {
+          "headline": "War, $100 oil and a bond sell-off reshaped markets in the third quarter",
+          "summary": "The third quarter was notably volatile, particularly for stocks and bonds.",
+          "impact": "bearish",
+          "source": "CNBC World",
+          "score": 10.0,
+          "link": "https://www.cnbc.com/2026/10/01/q3-markets-stocks-oil-iran-war.html",
+          "etf_tickers": []
+        },
+        {
+          "headline": "U.S. trade representative Greer says deal with India not 'imminent' after Modi-Trump call",
+          "summary": "Ties between the U.S. and India have been under strain for over a year, and New Delhi faces fresh risk of up to 100% tariffs for continuing to buy Russian oil.",
+          "impact": "neutral",
+          "source": "CNBC World",
+          "score": 10.0,
+          "link": "https://www.cnbc.com/2026/10/02/us-india-trade-modi-trump-russia-oil.html",
+          "etf_tickers": []
+        },
+        {
+          "headline": "Israeli settlers attack farmers in West Bank pogrom, soldiers hit reporters",
+          "summary": "Israeli forces detain and assault journalists in Jabal Qamass area in Beita, south of Nablus.",
+          "impact": "neutral",
+          "source": "Al Jazeera",
+          "score": 10.0,
+          "link": "https://www.aljazeera.com/news/2026/10/3/israeli-settlers-attack-palestinian-olive-pickers-in-the-west-bank?traffic_source=rss",
+          "etf_tickers": []
+        }
+      ]
+    },
+    "Commodities": {
+      "count": 27,
+      "top": [
+        {
+          "headline": "Iranian Oil Starts Flowing to Tajikistan Despite U.S. Sanctions Risk",
+          "summary": "Tajikistan announced that it is now receiving oil and petroleum products from Iran, opening a potential new energy source for a country whose fuel supplies have long been dominated by Russia. The deliveries began in late August, Tajikistan's Energy and Water Resources Ministry told the Asia-Plus news agency, following talks between the two countries on expanding cooperation in the oil and gas sector. The ministry has not disclosed the volume of the shipments, their commercial terms, or how the oil and petroleum products were transported to Tajikistan.…",
+          "impact": "neutral",
+          "source": "OilPrice",
+          "score": 10.0,
+          "link": "https://oilprice.com/Energy/Energy-General/Iranian-Oil-Starts-Flowing-to-Tajikistan-Despite-US-Sanctions-Risk.html",
+          "etf_tickers": []
+        },
+        {
+          "headline": "WTI Whipsaws as Gulf Supply Improves and Middle East Risk Returns",
+          "summary": "November WTI crude oil futures spent the week caught between two opposing trades. Gulf crude flows improved as Saudi Arabia restored export routes and producers found ways around the Strait of Hormuz disruption. That was the supply relief sellers needed. The fuel market would not let them run with it. Diesel, gasoline and jet-fuel flows remain constrained, Russia has restricted diesel exports, and China has pulled refined-product cargoes from the export market. Reports Thursday that the United States is sending a third carrier strike group to the…",
+          "impact": "neutral",
+          "source": "OilPrice",
+          "score": 10.0,
+          "link": "https://oilprice.com/Energy/Energy-General/WTI-Whipsaws-as-Gulf-Supply-Improves-and-Middle-East-Risk-Returns.html",
+          "etf_tickers": []
+        },
+        {
+          "headline": "G7 to release 100 million barrels of oil and diesel, will it curb prices?",
+          "summary": "Global energy prices have soared due to the US and Israel&#039;s war on Iran and Russia&#039;s war on Ukraine.",
+          "impact": "bullish",
+          "source": "Al Jazeera",
+          "score": 10.0,
+          "link": "https://www.aljazeera.com/news/2026/10/3/g7-to-release-100-million-barrels-of-oil-and-diesel-will-it-curb-prices?traffic_source=rss",
+          "etf_tickers": []
+        }
+      ]
+    },
+    "Real Estate": {
+      "count": 3,
+      "top": [
+        {
+          "headline": "U.S. Deploys Patriots to Shield Saudi Oil and Qatari Gas Facilities",
+          "summary": "The U.S. last month sent two additional Patriot missile batteries to protect energy infrastructure in Saudi Arabia and Qatar from Iranian strikes in case the war escalates again, U.S. officials and a Persian Gulf regional source told Axios on Friday. The U.S. military sent one Patriot missile battery to Saudi Arabia to protect a key oil-producing facility and another one to Qatar to help protect a natural gas site, according to Axios’ sources. Escalation in the region could flare up again if U.S. President Donald Trump decides to resume strikes…",
+          "impact": "mixed",
+          "source": "OilPrice",
+          "score": 10.0,
+          "link": "https://oilprice.com/Latest-Energy-News/World-News/US-Deploys-Patriots-to-Shield-Saudi-Oil-and-Qatari-Gas-Facilities.html",
+          "etf_tickers": []
+        },
+        {
+          "headline": "Debt-hungry AI companies face increased risk as bond yields spike",
+          "summary": "The AI infrastructure buildout shows no sign of slowing, but the surge in Treasury yields means it's at least going to cost more.",
+          "impact": "bullish",
+          "source": "CNBC Finance",
+          "score": 9.9,
+          "link": "https://www.cnbc.com/2026/09/27/debt-hungry-data-center-companies-increased-risk-bond-yields-spike.html",
+          "etf_tickers": []
+        }
+      ]
+    },
+    "Industrials": {
+      "count": 22,
+      "top": [
+        {
+          "headline": "Israeli air attack on residential apartment in Gaza kills 5 Palestinians",
+          "summary": "An Israeli air attack on a residential apartment in Gaza City has killed at least five Palestinians.",
+          "impact": "neutral",
+          "source": "Al Jazeera",
+          "score": 10.0,
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/10/3/israeli-air-attack-on-residential-apartment-in-gaza-kills-5-palestinians?traffic_source=rss",
+          "etf_tickers": []
+        },
+        {
+          "headline": "Flydubai co-pilot attacked captain with axe, UAE official says",
+          "summary": "The man accused of trying to take over the Israel-bound jet is named as Hamam al-Hammami by several media outlets.",
+          "impact": "neutral",
+          "source": "BBC World",
+          "score": 10.0,
+          "link": "https://www.bbc.co.uk/news/articles/c61wv7lgex13o?at_medium=RSS&at_campaign=rss",
+          "etf_tickers": []
+        },
+        {
+          "headline": "Netanyahu says Flydubai attacker had 'Islamist radical indoctrination'",
+          "summary": "Israel's prime minister says the pilot who tried to take over the Flydubai plane clearly intended to \"down the plane\".",
+          "impact": "neutral",
+          "source": "BBC World",
+          "score": 10.0,
+          "link": "https://www.bbc.co.uk/news/articles/crje8edqyej9o?at_medium=RSS&at_campaign=rss",
+          "etf_tickers": []
+        }
+      ]
+    },
+    "Bonds": {
+      "count": 7,
+      "top": [
+        {
+          "headline": "Decisions taken by the Governing Council of the ECB (in addition to decisions setting interest rates)",
+          "summary": "The European Central Bank (ECB) is the central bank of the European Union countries which have adopted the euro. Our main task is to maintain price stability in the euro area and so preserve the purchasing power of the single currency.",
+          "impact": "neutral",
+          "source": "ECB",
+          "score": 10.0,
+          "link": "https://www.ecb.europa.eu//press/govcdec/otherdec/2026/html/ecb.gc261002~54c6b5672b.en.html",
+          "etf_tickers": []
+        },
+        {
+          "headline": "Isabel Schnabel: Monetary policy in a world of overlapping shocks",
+          "summary": "The European Central Bank (ECB) is the central bank of the European Union countries which have adopted the euro. Our main task is to maintain price stability in the euro area and so preserve the purchasing power of the single currency.",
+          "impact": "neutral",
+          "source": "ECB",
+          "score": 10.0,
+          "link": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp260930_1~7c6c120482.en.html",
+          "etf_tickers": []
+        },
+        {
+          "headline": "ECB amends monetary policy implementation guidelines as part of regular review",
+          "summary": "The European Central Bank (ECB) is the central bank of the European Union countries which have adopted the euro. Our main task is to maintain price stability in the euro area and so preserve the purchasing power of the single currency.",
+          "impact": "neutral",
+          "source": "ECB",
+          "score": 10.0,
+          "link": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr260929~050089e922.en.html",
+          "etf_tickers": []
+        }
+      ]
+    },
+    "Consumers": {
+      "count": 2,
+      "top": [
+        {
+          "headline": "Mainland tourists pack Hong Kong stores, but retailers report modest spending",
+          "summary": "Mainland Chinese tourists have poured into Hong Kong during the first two days of the National Day “golden week” holiday, but retailers have warned that the surge in visitor numbers is not translating into an equally strong boost in spending.\nThe Hong Kong Retail Management Association said on Friday that visitor spending remained relatively restrained even as shopping districts were busy.\n“The increase in visitor numbers may be bigger than the increase in retail sales,” association chairwoman...",
+          "impact": "bullish",
+          "source": "SCMP",
+          "score": 9.7,
+          "link": "https://www.scmp.com/news/hong-kong/hong-kong-economy/article/3369535/mainland-chinese-visitors-pack-hong-kong-shopping-centres-day-2-national-day-break?utm_source=rss_feed",
+          "etf_tickers": []
+        }
+      ]
+    }
+  },
+  "rotation_signals": [],
+  "articles": [
+    {
+      "title": "Federal Reserve Board announces approval of application by Fleur Capital Corporation",
+      "headline_it": "",
+      "summary_it": "",
+      "summary_en": "Federal Reserve Board announces approval of application by Fleur Capital Corporation",
+      "source": "Federal Reserve",
+      "link": "https://www.federalreserve.gov/newsevents/pressreleases/orders20261002a.htm",
+      "date": "2026-10-02 20:45",
+      "score": 10.0,
+      "impact": "neutral",
+      "sectors": [],
+      "primary_sector": null,
+      "etf_tickers": [],
+      "rotation": ""
+    },
+    {
+      "title": "Federal Reserve Board announces it will extend, until November 4, the comment period on its proposal to modernize Regulation O",
+      "headline_it": "",
+      "summary_it": "",
+      "summary_en": "Federal Reserve Board announces it will extend, until November 4, the comment period on its proposal to modernize Regulation O",
+      "source": "Federal Reserve",
+      "link": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20261002a.htm",
+      "date": "2026-10-02 20:00",
+      "score": 10.0,
+      "impact": "neutral",
+      "sectors": [],
+      "primary_sector": null,
+      "etf_tickers": [],
+      "rotation": ""
+    },
+    {
+      "title": "Federal Reserve Board issues enforcement action with Ontario Bancorporation, Inc.",
+      "headline_it": "",
+      "summary_it": "",
+      "summary_en": "Federal Reserve Board issues enforcement action with Ontario Bancorporation, Inc.",
+      "source": "Federal Reserve",
+      "link": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20261002a.htm",
+      "date": "2026-10-02 15:00",
+      "score": 10.0,
+      "impact": "neutral",
+      "sectors": [],
+      "primary_sector": null,
+      "etf_tickers": [],
+      "rotation": ""
+    },
+    {
+      "title": "Federal Reserve Board finalizes changes to enhance the transparency and public accountability of its stress test and reduce volatility in its stress test-related capital requirements",
+      "headline_it": "",
+      "summary_it": "",
+      "summary_en": "Federal Reserve Board finalizes changes to enhance the transparency and public accountability of its stress test and reduce volatility in its stress test-related capital requirements",
+      "source": "Federal Reserve",
+      "link": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20260930a.htm",
+      "date": "2026-09-30 13:00",
+      "score": 10.0,
+      "impact": "neutral",
+      "sectors": [
+        "Broad Market"
+      ],
+      "primary_sector": "Broad Market",
+      "etf_tickers": [],
+      "rotation": ""
+    },
+    {
+      "title": "Agencies publish resolution plan feedback letters for 15 banking organizations",
+      "headline_it": "",
+      "summary_it": "",
+      "summary_en": "Agencies publish resolution plan feedback letters for 15 banking organizations",
+      "source": "Federal Reserve",
+      "link": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20260929a.htm",
+      "date": "2026-09-29 20:00",
+      "score": 10.0,
+      "impact": "neutral",
+      "sectors": [
+        "Financials"
+      ],
+      "primary_sector": "Financials",
+      "etf_tickers": [],
+      "rotation": ""
+    },
+    {
+      "title": "Beijing warns of retaliation if Europe imposes curbs on Chinese businesses",
+      "headline_it": "",
+      "summary_it": "",
+      "summary_en": "China must \"respond firmly\" if the EU introduces restrictions on Chinese businesses or products, the Commerce Ministry said, according to a CNBC translation.",
+      "source": "CNBC Finance",
+      "link": "https://www.cnbc.com/2026/09/30/china-warns-europe-increases-trade-pressure.html",
+      "date": "2026-09-30 03:39",
+      "score": 10.0,
+      "impact": "neutral",
+      "sectors": [
+        "Broad Market",
+        "Commodities",
+        "Energy",
+        "International"
+      ],
+      "primary_sector": "Broad Market",
+      "etf_tickers": [],
+      "rotation": ""
+    },
+    {
+      "title": "G7 nations to release diesel stocks as wars in Europe and Middle East constrain fuel supplies",
+      "headline_it": "",
+      "summary_it": "",
+      "summary_en": "EU countries are set for crisis talks on soaring diesel prices, with officials warning a U.S. export ban could hurt Europe’s economic outlook.",
+      "source": "CNBC World",
+      "link": "https://www.cnbc.com/2026/10/02/diesel-oil-trump-europe-export-ban.html",
+      "date": "2026-10-02 19:25",
+      "score": 10.0,
+      "impact": "mixed",
+      "sectors": [
+        "Broad Market",
+        "Commodities",
+        "Energy",
+        "International"
+      ],
+      "primary_sector": "Broad Market",
+      "etf_tickers": [],
+      "rotation": ""
+    },
+    {
+      "title": "This SpaceX supplier has a front-row seat to major shifts in warfare and rocket use",
+      "headline_it": "",
+      "summary_it": "",
+      "summary_en": "Although this recent IPO is trading below its offer price, its supplier relationships with both SpaceX and Anduril bode well for future revenue growth.",
+      "source": "CNBC World",
+      "link": "https://www.cnbc.com/2026/10/02/applied-aerospace-investors-need-to-watch-shares-of-this-spacex-supplier.html",
+      "date": "2026-10-02 16:27",
+      "score": 10.0,
+      "impact": "bullish",
+      "sectors": [
+        "Broad Market",
+        "Commodities",
+        "Energy",
+        "Industrials",
+        "International"
+      ],
+      "primary_sector": "Broad Market",
+      "etf_tickers": [],
+      "rotation": ""
+    },
+    {
+      "title": "Oil prices lower as G7 nations to release diesel stocks, Saudis reportedly plan attack on Houthis",
+      "headline_it": "",
+      "summary_it": "",
+      "summary_en": "The G7 will deploy 100 million barrels of reserves over the next four months, the group's leaders said in a joint statement.",
+      "source": "CNBC World",
+      "link": "https://www.cnbc.com/2026/10/02/oil-wti-brent-diesel-stock-release-europe.html",
+      "date": "2026-10-02 20:04",
+      "score": 10.0,
+      "impact": "neutral",
+      "sectors": [
+        "Broad Market",
+        "Commodities",
+        "Energy",
+        "International"
+      ],
+      "primary_sector": "Broad Market",
+      "etf_tickers": [],
+      "rotation": ""
+    },
+    {
+      "title": "FAA says Boeing 737 Max software glitch not a flight-safety issue",
+      "headline_it": "",
+      "summary_it": "",
+      "summary_en": "The FAA on Monday said it was reviewing the software glitch, which could affect procedures during certain landings.",
+      "source": "CNBC World",
+      "link": "https://www.cnbc.com/2026/10/02/faa-says-boeing-737-max-10-software-glitch-not-a-flight-safety-issue.html",
+      "date": "2026-10-02 19:19",
+      "score": 10.0,
+      "impact": "neutral",
+      "sectors": [
+        "Broad Market",
+        "Commodities",
+        "Energy",
+        "Industrials",
+        "International"
+      ],
+      "primary_sector": "Broad Market",
+      "etf_tickers": [],
+      "rotation": ""
+    },
+    {
+      "title": "War, $100 oil and a bond sell-off reshaped markets in the third quarter",
+      "headline_it": "",
+      "summary_it": "",
+      "summary_en": "The third quarter was notably volatile, particularly for stocks and bonds.",
+      "source": "CNBC World",
+      "link": "https://www.cnbc.com/2026/10/01/q3-markets-stocks-oil-iran-war.html",
+      "date": "2026-10-02 05:29",
+      "score": 10.0,
+      "impact": "bearish",
+      "sectors": [
+        "Bonds",
+        "Broad Market",
+        "Commodities",
+        "Energy",
+        "International"
+      ],
+      "primary_sector": "Bonds",
+      "etf_tickers": [],
+      "rotation": ""
+    },
+    {
+      "title": "U.S. trade representative Greer says deal with India not 'imminent' after Modi-Trump call",
+      "headline_it": "",
+      "summary_it": "",
+      "summary_en": "Ties between the U.S. and India have been under strain for over a year, and New Delhi faces fresh risk of up to 100% tariffs for continuing to buy Russian oil.",
+      "source": "CNBC World",
+      "link": "https://www.cnbc.com/2026/10/02/us-india-trade-modi-trump-russia-oil.html",
+      "date": "2026-10-02 04:07",
+      "score": 10.0,
+      "impact": "neutral",
+      "sectors": [
+        "Broad Market",
+        "Commodities",
+        "Energy",
+        "International"
+      ],
+      "primary_sector": "Broad Market",
+      "etf_tickers": [],
+      "rotation": ""
+    },
+    {
+      "title": "Israeli settlers attack farmers in West Bank pogrom, soldiers hit reporters",
+      "headline_it": "",
+      "summary_it": "",
+      "summary_en": "Israeli forces detain and assault journalists in Jabal Qamass area in Beita, south of Nablus.",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/news/2026/10/3/israeli-settlers-attack-palestinian-olive-pickers-in-the-west-bank?traffic_source=rss",
+      "date": "2026-10-03 12:18",
+      "score": 10.0,
+      "impact": "neutral",
+      "sectors": [
+        "Broad Market",
+        "Energy",
+        "Financials",
+        "Industrials",
+        "International"
+      ],
+      "primary_sector": "Broad Market",
+      "etf_tickers": [],
+      "rotation": ""
+    },
+    {
+      "title": "G7 to release 100 million barrels of oil and diesel, will it curb prices?",
+      "headline_it": "",
+      "summary_it": "",
+      "summary_en": "Global energy prices have soared due to the US and Israel&#039;s war on Iran and Russia&#039;s war on Ukraine.",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/news/2026/10/3/g7-to-release-100-million-barrels-of-oil-and-diesel-will-it-curb-prices?traffic_source=rss",
+      "date": "2026-10-03 09:27",
+      "score": 10.0,
+      "impact": "bullish",
+      "sectors": [
+        "Broad Market",
+        "Commodities",
+        "Energy",
+        "Industrials",
+        "International"
+      ],
+      "primary_sector": "Broad Market",
+      "etf_tickers": [],
+      "rotation": ""
+    },
+    {
+      "title": "Israeli air attack on residential apartment in Gaza kills 5 Palestinians",
+      "headline_it": "",
+      "summary_it": "",
+      "summary_en": "An Israeli air attack on a residential apartment in Gaza City has killed at least five Palestinians.",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/10/3/israeli-air-attack-on-residential-apartment-in-gaza-kills-5-palestinians?traffic_source=rss",
+      "date": "2026-10-03 07:57",
+      "score": 10.0,
+      "impact": "neutral",
+      "sectors": [
+        "Broad Market",
+        "Energy",
+        "Industrials",
+        "International"
+      ],
+      "primary_sector": "Broad Market",
+      "etf_tickers": [],
+      "rotation": ""
+    },
+    {
+      "title": "Flydubai co-pilot attacked captain with axe, UAE official says",
+      "headline_it": "",
+      "summary_it": "",
+      "summary_en": "The man accused of trying to take over the Israel-bound jet is named as Hamam al-Hammami by several media outlets.",
+      "source": "BBC World",
+      "link": "https://www.bbc.co.uk/news/articles/c61wv7lgex13o?at_medium=RSS&at_campaign=rss",
+      "date": "2026-10-03 11:20",
+      "score": 10.0,
+      "impact": "neutral",
+      "sectors": [
+        "Broad Market",
+        "Energy",
+        "Industrials",
+        "International"
+      ],
+      "primary_sector": "Broad Market",
+      "etf_tickers": [],
+      "rotation": ""
+    },
+    {
+      "title": "Russia hits second major bridge in Ukraine's capital Kyiv",
+      "headline_it": "",
+      "summary_it": "",
+      "summary_en": "The strike on the Pivnichnyi (Northern) Bridge comes after repeat attacks on another major bridge in Ukraine's capital.",
+      "source": "BBC World",
+      "link": "https://www.bbc.co.uk/news/articles/c83vqxzdg1yko?at_medium=RSS&at_campaign=rss",
+      "date": "2026-10-03 11:48",
+      "score": 10.0,
+      "impact": "neutral",
+      "sectors": [
+        "Broad Market",
+        "Commodities",
+        "Energy",
+        "International"
+      ],
+      "primary_sector": "Broad Market",
+      "etf_tickers": [],
+      "rotation": ""
+    },
+    {
+      "title": "Kim wins Asian Games gold to secure military exemption",
+      "headline_it": "",
+      "summary_it": "",
+      "summary_en": "Golfer Tom Kim wins gold at the Asian Games to secure an exemption from mandatory service in South Korea's military.",
+      "source": "BBC World",
+      "link": "https://www.bbc.co.uk/sport/golf/articles/cmy0rn425k4xo?at_medium=RSS&at_campaign=rss",
+      "date": "2026-10-03 08:51",
+      "score": 10.0,
+      "impact": "neutral",
+      "sectors": [
+        "Commodities",
+        "Industrials",
+        "International",
+        "Tech & Semiconductors"
+      ],
+      "primary_sector": "Commodities",
+      "etf_tickers": [],
+      "rotation": ""
+    },
+    {
+      "title": "Seoul warns 'further action' if Ukraine does not apologise over prisoner-of-war row",
+      "headline_it": "",
+      "summary_it": "",
+      "summary_en": "President Lee Jae Myung also accused Kyiv of \"attempting to provoke a war on the Korean Peninsula\".",
+      "source": "BBC World",
+      "link": "https://www.bbc.co.uk/news/articles/cm1dld14weero?at_medium=RSS&at_campaign=rss",
+      "date": "2026-10-02 03:09",
+      "score": 10.0,
+      "impact": "neutral",
+      "sectors": [
+        "Broad Market",
+        "Commodities",
+        "Energy",
+        "International"
+      ],
+      "primary_sector": "Broad Market",
+      "etf_tickers": [],
+      "rotation": ""
+    },
+    {
+      "title": "Netanyahu says Flydubai attacker had 'Islamist radical indoctrination'",
+      "headline_it": "",
+      "summary_it": "",
+      "summary_en": "Israel's prime minister says the pilot who tried to take over the Flydubai plane clearly intended to \"down the plane\".",
+      "source": "BBC World",
+      "link": "https://www.bbc.co.uk/news/articles/crje8edqyej9o?at_medium=RSS&at_campaign=rss",
+      "date": "2026-10-01 19:59",
+      "score": 10.0,
+      "impact": "neutral",
+      "sectors": [
+        "Broad Market",
+        "Energy",
+        "Industrials",
+        "International"
+      ],
+      "primary_sector": "Broad Market",
+      "etf_tickers": [],
+      "rotation": ""
+    },
+    {
+      "title": "Putin warns West that Russia is ready to use every weapon to protect Kaliningrad",
+      "headline_it": "",
+      "summary_it": "",
+      "summary_en": "The Russian leader insists Moscow is \"not threatening anyone\" and is merely responding to statements by Western leaders.",
+      "source": "BBC World",
+      "link": "https://www.bbc.co.uk/news/articles/cqg7k7v499jjo?at_medium=RSS&at_campaign=rss",
+      "date": "2026-10-01 19:38",
+      "score": 10.0,
+      "impact": "neutral",
+      "sectors": [
+        "Broad Market",
+        "Commodities",
+        "Energy",
+        "Industrials",
+        "International"
+      ],
+      "primary_sector": "Broad Market",
+      "etf_tickers": [],
+      "rotation": ""
+    },
+    {
+      "title": "Russian dissident Garry Kasparov says US warned him of danger to his life",
+      "headline_it": "",
+      "summary_it": "",
+      "summary_en": "\"My family and I will not truly be safe as long as Putin is in power,\" says the former chess world champion.",
+      "source": "BBC World",
+      "link": "https://www.bbc.co.uk/news/articles/c6y8z8kr5mk8o?at_medium=RSS&at_campaign=rss",
+      "date": "2026-10-01 14:05",
+      "score": 10.0,
+      "impact": "neutral",
+      "sectors": [
+        "Broad Market",
+        "Commodities",
+        "Energy",
+        "International"
+      ],
+      "primary_sector": "Broad Market",
+      "etf_tickers": [],
+      "rotation": ""
+    },
+    {
+      "title": "Decisions taken by the Governing Council of the ECB (in addition to decisions setting interest rates)",
+      "headline_it": "",
+      "summary_it": "",
+      "summary_en": "The European Central Bank (ECB) is the central bank of the European Union countries which have adopted the euro. Our main task is to maintain price stability in the euro area and so preserve the purchasing power of the single currency.",
+      "source": "ECB",
+      "link": "https://www.ecb.europa.eu//press/govcdec/otherdec/2026/html/ecb.gc261002~54c6b5672b.en.html",
+      "date": "2026-10-02 13:00",
+      "score": 10.0,
+      "impact": "neutral",
+      "sectors": [
+        "Bonds",
+        "Broad Market",
+        "Financials"
+      ],
+      "primary_sector": "Bonds",
+      "etf_tickers": [],
+      "rotation": ""
+    },
+    {
+      "title": "Boris Vujčić: Resilience, integration and competitiveness: building the future of European banking",
+      "headline_it": "",
+      "summary_it": "",
+      "summary_en": "The European Central Bank (ECB) is the central bank of the European Union countries which have adopted the euro. Our main task is to maintain price stability in the euro area and so preserve the purchasing power of the single currency.",
+      "source": "ECB",
+      "link": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp261002_1~419efe18e0.en.html",
+      "date": "2026-10-02 11:30",
+      "score": 10.0,
+      "impact": "neutral",
+      "sectors": [
+        "Financials"
+      ],
+      "primary_sector": "Financials",
+      "etf_tickers": [],
+      "rotation": ""
+    },
+    {
+      "title": "Isabel Schnabel: Central banks on-chain",
+      "headline_it": "",
+      "summary_it": "",
+      "summary_en": "",
+      "source": "ECB",
+      "link": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp261001_1~a0be67193b.en.pdf",
+      "date": "2026-10-01 15:30",
+      "score": 10.0,
+      "impact": "neutral",
+      "sectors": [
+        "Financials"
+      ],
+      "primary_sector": "Financials",
+      "etf_tickers": [],
+      "rotation": ""
+    },
+    {
+      "title": "Christine Lagarde: Where AI risks meet",
+      "headline_it": "",
+      "summary_it": "",
+      "summary_en": "The European Central Bank (ECB) is the central bank of the European Union countries which have adopted the euro. Our main task is to maintain price stability in the euro area and so preserve the purchasing power of the single currency.",
+      "source": "ECB",
+      "link": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp261001~cf3c630379.en.html",
+      "date": "2026-10-01 13:30",
+      "score": 10.0,
+      "impact": "neutral",
+      "sectors": [
+        "Financials"
+      ],
+      "primary_sector": "Financials",
+      "etf_tickers": [],
+      "rotation": ""
+    },
+    {
+      "title": "Christine Lagarde: Interview with La Croix",
+      "headline_it": "",
+      "summary_it": "",
+      "summary_en": "The European Central Bank (ECB) is the central bank of the European Union countries which have adopted the euro. Our main task is to maintain price stability in the euro area and so preserve the purchasing power of the single currency.",
+      "source": "ECB",
+      "link": "https://www.ecb.europa.eu//press/inter/date/2026/html/ecb.in260930~10084a5f3d.en.html",
+      "date": "2026-09-30 17:00",
+      "score": 10.0,
+      "impact": "neutral",
+      "sectors": [
+        "Financials"
+      ],
+      "primary_sector": "Financials",
+      "etf_tickers": [],
+      "rotation": ""
+    },
+    {
+      "title": "Isabel Schnabel: Monetary policy in a world of overlapping shocks",
+      "headline_it": "",
+      "summary_it": "",
+      "summary_en": "The European Central Bank (ECB) is the central bank of the European Union countries which have adopted the euro. Our main task is to maintain price stability in the euro area and so preserve the purchasing power of the single currency.",
+      "source": "ECB",
+      "link": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp260930_1~7c6c120482.en.html",
+      "date": "2026-09-30 15:45",
+      "score": 10.0,
+      "impact": "neutral",
+      "sectors": [
+        "Bonds",
+        "Broad Market",
+        "Financials"
+      ],
+      "primary_sector": "Bonds",
+      "etf_tickers": [],
+      "rotation": ""
+    },
+    {
+      "title": "Frank Elderson: Supervisory risk appetite, efficiency and effectiveness",
+      "headline_it": "",
+      "summary_it": "",
+      "summary_en": "The European Central Bank (ECB) is the central bank of the European Union countries which have adopted the euro. Our main task is to maintain price stability in the euro area and so preserve the purchasing power of the single currency.",
+      "source": "ECB",
+      "link": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp260930~d495288355.en.html",
+      "date": "2026-09-30 02:20",
+      "score": 10.0,
+      "impact": "neutral",
+      "sectors": [
+        "Financials"
+      ],
+      "primary_sector": "Financials",
+      "etf_tickers": [],
+      "rotation": ""
+    },
+    {
+      "title": "ECB amends monetary policy implementation guidelines as part of regular review",
+      "headline_it": "",
+      "summary_it": "",
+      "summary_en": "The European Central Bank (ECB) is the central bank of the European Union countries which have adopted the euro. Our main task is to maintain price stability in the euro area and so preserve the purchasing power of the single currency.",
+      "source": "ECB",
+      "link": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr260929~050089e922.en.html",
+      "date": "2026-09-29 08:00",
+      "score": 10.0,
+      "impact": "neutral",
+      "sectors": [
+        "Bonds",
+        "Broad Market",
+        "Financials",
+        "Industrials"
+      ],
+      "primary_sector": "Bonds",
+      "etf_tickers": [],
+      "rotation": ""
+    },
+    {
+      "title": "Christine Lagarde: Hearing of the Committee on Economic and Monetary Affairs of the European Parliament",
+      "headline_it": "",
+      "summary_it": "",
+      "summary_en": "The European Central Bank (ECB) is the central bank of the European Union countries which have adopted the euro. Our main task is to maintain price stability in the euro area and so preserve the purchasing power of the single currency.",
+      "source": "ECB",
+      "link": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp260928~a875675544.en.html",
+      "date": "2026-09-28 13:30",
+      "score": 10.0,
+      "impact": "neutral",
+      "sectors": [
+        "Financials"
+      ],
+      "primary_sector": "Financials",
+      "etf_tickers": [],
+      "rotation": ""
+    },
+    {
+      "title": "Iranian Oil Starts Flowing to Tajikistan Despite U.S. Sanctions Risk",
+      "headline_it": "",
+      "summary_it": "",
+      "summary_en": "Tajikistan announced that it is now receiving oil and petroleum products from Iran, opening a potential new energy source for a country whose fuel supplies have long been dominated by Russia. The deliveries began in late August, Tajikistan's Energy and Water Resources Ministry told the Asia-Plus news agency, following talks between the two countries on expanding cooperation in the oil and gas sector. The ministry has not disclosed the volume of the shipments, their commercial terms, or how the oil and petroleum products were transported to Tajikistan.…",
+      "source": "OilPrice",
+      "link": "https://oilprice.com/Energy/Energy-General/Iranian-Oil-Starts-Flowing-to-Tajikistan-Despite-US-Sanctions-Risk.html",
+      "date": "2026-10-02 19:00",
+      "score": 10.0,
+      "impact": "neutral",
+      "sectors": [
+        "Commodities",
+        "Energy",
+        "Industrials",
+        "International"
+      ],
+      "primary_sector": "Commodities",
+      "etf_tickers": [],
+      "rotation": ""
+    },
+    {
+      "title": "Dated Brent Above $120 Signals a Serious Oil Squeeze",
+      "headline_it": "",
+      "summary_it": "",
+      "summary_en": "Physical oil markets tighten sharply as Dated Brent surges above $120 despite ICE Brent slipping toward $101. Friday, October 02, 2026 The European diesel stock release, droned tankers in the Strait of Hormuz, and China reinstating its refined product export ban have all played their part in this week’s extremely volatile trading, with ICE Brent edging lower to $101 per barrel. That said, the physical oil market has been moving in the opposite direction, with Europe’s main physical benchmark Dated Brent (which should technically underpin…",
+      "source": "OilPrice",
+      "link": "https://oilprice.com/Energy/Crude-Oil/Dated-Brent-Above-120-Signals-a-Serious-Oil-Squeeze.html",
+      "date": "2026-10-02 16:50",
+      "score": 10.0,
+      "impact": "bullish",
+      "sectors": [
+        "Broad Market",
+        "Commodities",
+        "Energy",
+        "International"
+      ],
+      "primary_sector": "Broad Market",
+      "etf_tickers": [],
+      "rotation": ""
+    },
+    {
+      "title": "LNG Shipments Through Hormuz Hit Highest Level Since Iran War Began",
+      "headline_it": "",
+      "summary_it": "",
+      "summary_en": "A total of 21 LNG cargoes are estimated to have exited the Strait of Hormuz in September, the highest monthly number since the Iran war began, yet well below pre-war levels, shipping data compiled by Reuters showed on Friday. Shipment analytics firm Kpler has estimated that 21 cargoes managed to squeeze last month through the chokepoint, which handled one fifth of global LNG supply before the war. This week, three Qatari LNG cargoes from Ras Laffan reappeared outside the Strait of Hormuz, according to vessel-tracking data by LSEG and Kpler. In…",
+      "source": "OilPrice",
+      "link": "https://oilprice.com/Energy/Energy-General/LNG-Shipments-Through-Hormuz-Hit-Highest-Level-Since-Iran-War-Began.html",
+      "date": "2026-10-02 15:00",
+      "score": 10.0,
+      "impact": "neutral",
+      "sectors": [
+        "Broad Market",
+        "Commodities",
+        "Energy",
+        "Industrials",
+        "International"
+      ],
+      "primary_sector": "Broad Market",
+      "etf_tickers": [],
+      "rotation": ""
+    },
+    {
+      "title": "WTI Whipsaws as Gulf Supply Improves and Middle East Risk Returns",
+      "headline_it": "",
+      "summary_it": "",
+      "summary_en": "November WTI crude oil futures spent the week caught between two opposing trades. Gulf crude flows improved as Saudi Arabia restored export routes and producers found ways around the Strait of Hormuz disruption. That was the supply relief sellers needed. The fuel market would not let them run with it. Diesel, gasoline and jet-fuel flows remain constrained, Russia has restricted diesel exports, and China has pulled refined-product cargoes from the export market. Reports Thursday that the United States is sending a third carrier strike group to the…",
+      "source": "OilPrice",
+      "link": "https://oilprice.com/Energy/Energy-General/WTI-Whipsaws-as-Gulf-Supply-Improves-and-Middle-East-Risk-Returns.html",
+      "date": "2026-10-02 14:45",
+      "score": 10.0,
+      "impact": "neutral",
+      "sectors": [
+        "Commodities",
+        "Energy",
+        "International"
+      ],
+      "primary_sector": "Commodities",
+      "etf_tickers": [],
+      "rotation": ""
+    },
+    {
+      "title": "U.S. Exit Leaves Iraq With a Militia Problem",
+      "headline_it": "",
+      "summary_it": "",
+      "summary_en": "Politics, Geopolitics & Conflict U.S. troops have withdrawn from Iraq, but this isn’t Biden’s Iraq. The withdrawal was agreed in 2024 when Biden determined that Iraqi forces could handle the remaining ISIS threat and that Washington could replace the coalition mission with bilateral training, intelligence sharing, and military assistance. Trump inherited that agreement and has now carried it out in a very different security environment, with the U.S. at war with Iran and Iran-aligned militias still operating across Iraq. The U.S.…",
+      "source": "OilPrice",
+      "link": "https://oilprice.com/Energy/Energy-General/US-Exit-Leaves-Iraq-With-a-Militia-Problem.html",
+      "date": "2026-10-02 14:45",
+      "score": 10.0,
+      "impact": "bearish",
+      "sectors": [
+        "Broad Market",
+        "Commodities",
+        "Energy",
+        "Industrials",
+        "International"
+      ],
+      "primary_sector": "Broad Market",
+      "etf_tickers": [],
+      "rotation": ""
+    },
+    {
+      "title": "The Kremlin Consolidates Power as Russia’s Economic Pain Mounts",
+      "headline_it": "",
+      "summary_it": "",
+      "summary_en": "Russia came out of its parliamentary election with Putin stronger on paper and the country considerably harder to read. United Russia now controls 349 of the State Duma’s 450 seats, its largest majority ever, and some 50 Ukraine war veterans are entering parliament. There is the anticipated analysis of documented election manipulation, and indeed, the Kremlin was under pressure to think outside the box amid public war fatigue. But Putin is not losing control, and Moscow is not desperate. The election showed how impossible it has become to…",
+      "source": "OilPrice",
+      "link": "https://oilprice.com/Geopolitics/Europe/The-Kremlin-Consolidates-Power-as-Russias-Economic-Pain-Mounts.html",
+      "date": "2026-10-02 14:45",
+      "score": 10.0,
+      "impact": "bullish",
+      "sectors": [
+        "Broad Market",
+        "Commodities",
+        "Energy",
+        "Industrials",
+        "International"
+      ],
+      "primary_sector": "Broad Market",
+      "etf_tickers": [],
+      "rotation": ""
+    },
+    {
+      "title": "U.S. Deploys Patriots to Shield Saudi Oil and Qatari Gas Facilities",
+      "headline_it": "",
+      "summary_it": "",
+      "summary_en": "The U.S. last month sent two additional Patriot missile batteries to protect energy infrastructure in Saudi Arabia and Qatar from Iranian strikes in case the war escalates again, U.S. officials and a Persian Gulf regional source told Axios on Friday. The U.S. military sent one Patriot missile battery to Saudi Arabia to protect a key oil-producing facility and another one to Qatar to help protect a natural gas site, according to Axios’ sources. Escalation in the region could flare up again if U.S. President Donald Trump decides to resume strikes…",
+      "source": "OilPrice",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/US-Deploys-Patriots-to-Shield-Saudi-Oil-and-Qatari-Gas-Facilities.html",
+      "date": "2026-10-02 14:30",
+      "score": 10.0,
+      "impact": "mixed",
+      "sectors": [
+        "Broad Market",
+        "Commodities",
+        "Energy",
+        "Industrials",
+        "International",
+        "Real Estate"
+      ],
+      "primary_sector": "Broad Market",
+      "etf_tickers": [],
+      "rotation": ""
+    },
+    {
+      "title": "Stocks making the biggest moves premarket: Meta Platforms, United Airlines, Nvidia & more",
+      "headline_it": "",
+      "summary_it": "",
+      "summary_en": "These are the stocks posting the largest moves premarket.",
+      "source": "CNBC Finance",
+      "link": "https://www.cnbc.com/2026/09/28/stocks-making-the-biggest-moves-premarket-meta-ual-nvda.html",
+      "date": "2026-09-28 11:29",
+      "score": 9.9,
+      "impact": "neutral",
+      "sectors": [
+        "Consumers",
+        "Industrials",
+        "Tech & Semiconductors"
+      ],
+      "primary_sector": "Consumers",
+      "etf_tickers": [],
+      "rotation": ""
+    },
+    {
+      "title": "Debt-hungry AI companies face increased risk as bond yields spike",
+      "headline_it": "",
+      "summary_it": "",
+      "summary_en": "The AI infrastructure buildout shows no sign of slowing, but the surge in Treasury yields means it's at least going to cost more.",
+      "source": "CNBC Finance",
+      "link": "https://www.cnbc.com/2026/09/27/debt-hungry-data-center-companies-increased-risk-bond-yields-spike.html",
+      "date": "2026-09-27 15:35",
+      "score": 9.9,
+      "impact": "bullish",
+      "sectors": [
+        "Bonds",
+        "Industrials",
+        "Real Estate"
+      ],
+      "primary_sector": "Bonds",
+      "etf_tickers": [],
+      "rotation": ""
+    },
+    {
+      "title": "The 10-year Treasury yield is at its highest in nearly two decades. How we got here",
+      "headline_it": "",
+      "summary_it": "",
+      "summary_en": "The benchmark yield has climbed to a 19-year high, fueled by sticky inflation, heavy bond issuance and an AI-fueled investment boom.",
+      "source": "CNBC Finance",
+      "link": "https://www.cnbc.com/2026/09/26/10-year-treasury-yield-is-at-its-highest-in-19-years-how-we-got-here.html",
+      "date": "2026-09-26 13:30",
+      "score": 9.9,
+      "impact": "bullish",
+      "sectors": [
+        "Bonds",
+        "Broad Market",
+        "Commodities"
+      ],
+      "primary_sector": "Bonds",
+      "etf_tickers": [],
+      "rotation": ""
+    },
+    {
+      "title": "America’s data center fight is a preview of what's to come for the rest of the world",
+      "headline_it": "",
+      "summary_it": "",
+      "summary_en": "America’s fight over data centers is going global. Communities across Europe and Asia  are pushing back over the rising costs of the AI infrastructure boom.",
+      "source": "CNBC World",
+      "link": "https://www.cnbc.com/2026/10/03/data-center-backlash-europe-asia-africa.html",
+      "date": "2026-10-03 12:39",
+      "score": 9.9,
+      "impact": "bullish",
+      "sectors": [
+        "Industrials",
+        "Real Estate",
+        "Tech & Semiconductors"
+      ],
+      "primary_sector": "Industrials",
+      "etf_tickers": [],
+      "rotation": ""
+    },
+    {
+      "title": "Basel Committee meets to advance supervisory and regulatory initiatives and discuss risks and vulnerabilities to the global banking system",
+      "headline_it": "",
+      "summary_it": "",
+      "summary_en": "Exchanges experiences and views on developments in artificial intelligence for the global banking system and supervisors, modernisation efforts and implications for the Committee’s future work programme...",
+      "source": "BIS",
+      "link": "https://www.bis.org/media-releases/20261001-basel-committee-meets-advance-supervisory-and-regulatory-initiatives-and-discuss-risks-and",
+      "date": "2026-10-01 00:00",
+      "score": 9.9,
+      "impact": "neutral",
+      "sectors": [
+        "Financials",
+        "Industrials",
+        "Tech & Semiconductors"
+      ],
+      "primary_sector": "Financials",
+      "etf_tickers": [],
+      "rotation": ""
+    },
+    {
+      "title": "JERA CEO Warns LNG Prices Have Further to Climb",
+      "headline_it": "",
+      "summary_it": "",
+      "summary_en": "The biggest Japanese LNG importer and largest power producer, JERA, does not expect the shipping hurdles for Qatari supply at the Strait of Hormuz to end in time for the winter.  “We don’t expect Qatar LNG coming back to the market soon,” Yukio Kani, chairman and global chief executive officer of JERA, told Bloomberg TV in an interview on Friday.  State-owned QatarEnergy has just extended the force majeure on LNG deliveries to Asia and Europe by another month through the end of November, as LNG cargo traffic through…",
+      "source": "OilPrice",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/JERA-CEO-Warns-LNG-Prices-Have-Further-to-Climb.html",
+      "date": "2026-10-02 10:30",
+      "score": 9.9,
+      "impact": "neutral",
+      "sectors": [
+        "Broad Market",
+        "Commodities",
+        "Energy",
+        "International"
+      ],
+      "primary_sector": "Broad Market",
+      "etf_tickers": [],
+      "rotation": ""
+    },
+    {
+      "title": "Traders now see little chance of a Fed rate hike in October after weak jobs report",
+      "headline_it": "",
+      "summary_it": "",
+      "summary_en": "Odds tumbled after a jobs report showed a soft labor market, leading more traders to lower the the chances of a fed funds rate increase this month.",
+      "source": "CNBC Finance",
+      "link": "https://www.cnbc.com/2026/10/02/fed-rate-hike-odds-decline-after-september-jobs-report.html",
+      "date": "2026-10-02 13:29",
+      "score": 9.8,
+      "impact": "bearish",
+      "sectors": [
+        "Bonds",
+        "Broad Market",
+        "Financials"
+      ],
+      "primary_sector": "Bonds",
+      "etf_tickers": [],
+      "rotation": ""
+    },
+    {
+      "title": "David Ellison says combined Paramount and Warner Bros. Discovery will be named Skydance",
+      "headline_it": "",
+      "summary_it": "",
+      "summary_en": "It's a full-circle moment for a company that has undergone two major acquisitions within the last 18 months.",
+      "source": "CNBC World",
+      "link": "https://www.cnbc.com/2026/10/02/paramount-warner-bros-discovery-skydance.html",
+      "date": "2026-10-02 18:31",
+      "score": 9.8,
+      "impact": "neutral",
+      "sectors": [
+        "Broad Market",
+        "Commodities",
+        "Energy",
+        "International"
+      ],
+      "primary_sector": "Broad Market",
+      "etf_tickers": [],
+      "rotation": ""
+    },
+    {
+      "title": "Anthropic warns government attitudes may hurt customer ties, IPO prospectus shows: Reuters",
+      "headline_it": "",
+      "summary_it": "",
+      "summary_en": "Anthropic CEO Dario Amodei met President Donald Trump last Sunday for dinner as ‌calls for greater regulation of AI have grown.",
+      "source": "CNBC World",
+      "link": "https://www.cnbc.com/2026/10/02/anthropic-warns-govt-attitudes-may-hurt-ties-ipo-shows.html",
+      "date": "2026-10-02 15:09",
+      "score": 9.8,
+      "impact": "neutral",
+      "sectors": [
+        "Broad Market",
+        "Commodities",
+        "Energy",
+        "International"
+      ],
+      "primary_sector": "Broad Market",
+      "etf_tickers": [],
+      "rotation": ""
+    },
+    {
+      "title": "UK-Iranian dual national bailed after RAF Fairford incident arrest",
+      "headline_it": "",
+      "summary_it": "",
+      "summary_en": "The 25-year-old man was arrested in the London borough of Westminster on Thursday.",
+      "source": "BBC World",
+      "link": "https://www.bbc.co.uk/news/articles/c6d095ygggv1o?at_medium=RSS&at_campaign=rss",
+      "date": "2026-10-03 10:58",
+      "score": 9.8,
+      "impact": "neutral",
+      "sectors": [
+        "Commodities",
+        "Energy",
+        "Industrials",
+        "International"
+      ],
+      "primary_sector": "Commodities",
+      "etf_tickers": [],
+      "rotation": ""
+    },
+    {
+      "title": "How Far Can Russia Probe NATO’s Collective Defense?",
+      "headline_it": "",
+      "summary_it": "",
+      "summary_en": "Latvia’s president warns that Putin’s “appetite for risk is increasing.”",
+      "source": "Foreign Policy",
+      "link": "https://foreignpolicy.com/2026/09/30/russia-nato-latvia-drones-baltics-article-five/",
+      "date": "2026-09-30 20:22",
+      "score": 9.7,
+      "impact": "bullish",
+      "sectors": [
+        "Broad Market",
+        "Commodities",
+        "Energy",
+        "Industrials",
+        "International"
+      ],
+      "primary_sector": "Broad Market",
+      "etf_tickers": [],
+      "rotation": ""
+    },
+    {
+      "title": "Mainland tourists pack Hong Kong stores, but retailers report modest spending",
+      "headline_it": "",
+      "summary_it": "",
+      "summary_en": "Mainland Chinese tourists have poured into Hong Kong during the first two days of the National Day “golden week” holiday, but retailers have warned that the surge in visitor numbers is not translating into an equally strong boost in spending.\nThe Hong Kong Retail Management Association said on Friday that visitor spending remained relatively restrained even as shopping districts were busy.\n“The increase in visitor numbers may be bigger than the increase in retail sales,” association chairwoman...",
+      "source": "SCMP",
+      "link": "https://www.scmp.com/news/hong-kong/hong-kong-economy/article/3369535/mainland-chinese-visitors-pack-hong-kong-shopping-centres-day-2-national-day-break?utm_source=rss_feed",
+      "date": "2026-10-02 06:33",
+      "score": 9.7,
+      "impact": "bullish",
+      "sectors": [
+        "Broad Market",
+        "Commodities",
+        "Consumers",
+        "Energy",
+        "Industrials",
+        "International"
+      ],
+      "primary_sector": "Broad Market",
+      "etf_tickers": [],
+      "rotation": ""
+    }
+  ]
+}
