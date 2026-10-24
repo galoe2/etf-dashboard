@@ -1,0 +1,1236 @@
+{
+  "generated": "2026-10-24T12:19:35.708445",
+  "lookback_days": 7,
+  "total_articles": 50,
+  "sector_news": {
+    "Broad Market": {
+      "count": 19,
+      "top": [
+        {
+          "headline": "HSBC CEO warns the AI boom won’t make every data center a good bet",
+          "summary": "Data center campuses house the servers that power AI and cloud computing.",
+          "impact": "bullish",
+          "source": "CNBC Finance",
+          "score": 10.0,
+          "link": "https://www.cnbc.com/2026/10/20/data-center-financing-ai-debt-hsbc.html",
+          "etf_tickers": []
+        },
+        {
+          "headline": "Robot factories and hypersonic missiles: JPMorgan Chase's first $5 billion of defense investments",
+          "summary": "With $5 billion already deployed off its balance sheet, JPMorgan Chase is racing ahead on direct investments in defense tech, hardware and supply chains.",
+          "impact": "bearish",
+          "source": "CNBC Finance",
+          "score": 10.0,
+          "link": "https://www.cnbc.com/2026/10/19/jpmorgan-security-defense-investments.html",
+          "etf_tickers": []
+        },
+        {
+          "headline": "Qatar deal to buy U.S. natural gas shows how Iran war has redrawn global energy markets",
+          "summary": "The Iran war is transforming global energy markets and benefiting U.S. companies, especially liquefied natural gas exporters.",
+          "impact": "neutral",
+          "source": "CNBC World",
+          "score": 10.0,
+          "link": "https://www.cnbc.com/2026/10/23/cheniere-qatar-energy-lng-natural-gas-iran-war-strait-hormuz.html",
+          "etf_tickers": []
+        }
+      ]
+    },
+    "International": {
+      "count": 36,
+      "top": [
+        {
+          "headline": "Housing is flashing warning signs just as the Fed weighs more interest rate hikes",
+          "summary": "Housing data deteriorated further in September, according to separate reports Tuesday.",
+          "impact": "bearish",
+          "source": "CNBC Economy",
+          "score": 10.0,
+          "link": "https://www.cnbc.com/2026/10/20/housing-mortgage-rates-real-estate-federal-reserve.html",
+          "etf_tickers": []
+        },
+        {
+          "headline": "Musk's SpaceX is still restricting Starlink in Ukraine and the toll is rising",
+          "summary": "Since last week, Ukraine has reported restrictions on Starshield, a version of SpaceX's Starlink, hampering its military operations against Russia.",
+          "impact": "bullish",
+          "source": "CNBC World",
+          "score": 10.0,
+          "link": "https://www.cnbc.com/2026/10/23/ukraine-says-starlink-restrictions-remain-despite-trump-assurances.html",
+          "etf_tickers": []
+        },
+        {
+          "headline": "In hunt for Starlink alternative, Ukraine partners with Nokia and satellite maker ICEYE",
+          "summary": "With SpaceX imposing speed limits on Starlink in Ukraine and hampering military operations, Kyiv is looking for alternatives.",
+          "impact": "neutral",
+          "source": "CNBC World",
+          "score": 10.0,
+          "link": "https://www.cnbc.com/2026/10/23/ukraine-partners-with-nokia-and-iceye-for-starlink-alternative.html",
+          "etf_tickers": []
+        }
+      ]
+    },
+    "Tech & Semiconductors": {
+      "count": 5,
+      "top": [
+        {
+          "headline": "Why investors are moving back into Treasurys",
+          "summary": "U.S. Treasurys are returning to favor as a safe haven play that sidesteps investors' worries over a shaky economy and the future of the data center build-out.",
+          "impact": "neutral",
+          "source": "CNBC World",
+          "score": 9.9,
+          "link": "https://www.cnbc.com/2026/10/23/treasurys-haven-ai-credit-risks.html",
+          "etf_tickers": []
+        },
+        {
+          "headline": "Investors piled a record sum into a leveraged semiconductor ETF last week. Things didn’t work out.",
+          "summary": "Traders making bullish bets on chip stocks are getting walloped this month, as renewed fears emerged about investment returns on the buildout of artificial intelligence.",
+          "impact": "mixed",
+          "source": "MarketWatch",
+          "score": 9.7,
+          "link": "https://www.marketwatch.com/story/investors-piled-a-record-sum-into-a-leveraged-semiconductor-etf-last-week-things-didnt-work-out-4680b2f3?mod=mw_rss_topstories",
+          "etf_tickers": []
+        },
+        {
+          "headline": "Stocks making the biggest moves premarket: Cleveland-Cliffs, Intel, Datadog, Amazon & more",
+          "summary": "These are the stocks posting the largest moves premarket.",
+          "impact": "neutral",
+          "source": "CNBC Finance",
+          "score": 9.6,
+          "link": "https://www.cnbc.com/2026/10/19/stocks-making-the-biggest-moves-premarket-clf-intc-ddog-amzn.html",
+          "etf_tickers": []
+        }
+      ]
+    },
+    "Financials": {
+      "count": 18,
+      "top": [
+        {
+          "headline": "Piero Cipollone: Interview with Milano Finanza",
+          "summary": "The European Central Bank (ECB) is the central bank of the European Union countries which have adopted the euro. Our main task is to maintain price stability in the euro area and so preserve the purchasing power of the single currency.",
+          "impact": "neutral",
+          "source": "ECB",
+          "score": 10.0,
+          "link": "https://www.ecb.europa.eu//press/inter/date/2026/html/ecb.in261024~ee2ba73cf3.en.html",
+          "etf_tickers": []
+        },
+        {
+          "headline": "ECB Consumer Expectations Survey results – September 2026",
+          "summary": "The European Central Bank (ECB) is the central bank of the European Union countries which have adopted the euro. Our main task is to maintain price stability in the euro area and so preserve the purchasing power of the single currency.",
+          "impact": "neutral",
+          "source": "ECB",
+          "score": 10.0,
+          "link": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr261023~a3d201c97c.en.html",
+          "etf_tickers": []
+        },
+        {
+          "headline": "Piero Cipollone: Pontes and Appia: unlocking opportunities for banks",
+          "summary": "",
+          "impact": "neutral",
+          "source": "ECB",
+          "score": 10.0,
+          "link": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp261021_1~d190f2c349.en.pdf",
+          "etf_tickers": []
+        }
+      ]
+    },
+    "Energy": {
+      "count": 34,
+      "top": [
+        {
+          "headline": "Why is Israel launching a new military operation in the occupied West Bank?",
+          "summary": "Netanyahu says &#039;we will destroy this place&#039; as Israeli forces begin days-long operation with raids and demolitions.",
+          "impact": "neutral",
+          "source": "Al Jazeera",
+          "score": 10.0,
+          "link": "https://www.aljazeera.com/news/2026/10/24/why-is-israel-launching-a-new-military-operation-in-the-occupied-west-bank?traffic_source=rss",
+          "etf_tickers": []
+        },
+        {
+          "headline": "Displaced West Bank Palestinians face growing hunger after UN cuts food aid",
+          "summary": "Already struggling after losing homes to Israeli military operations, Palestinians face hardship as WFP halves aid.",
+          "impact": "neutral",
+          "source": "Al Jazeera",
+          "score": 10.0,
+          "link": "https://www.aljazeera.com/features/2026/10/24/displaced-west-bank-palestinians-face-growing-hunger-after-un-cuts-food-aid?traffic_source=rss",
+          "etf_tickers": []
+        },
+        {
+          "headline": "Russia, Ukraine agree to Oleshky ceasefire brokered by Melania Trump, White House says",
+          "summary": "The White House said Friday that first lady Melania Trump secured a ceasefire between Russia and Ukraine in the Russian-controlled city of Oleshky.",
+          "impact": "neutral",
+          "source": "CNBC World",
+          "score": 10.0,
+          "link": "https://www.cnbc.com/2026/10/23/russia-ukraine-agree-to-oleshky-ceasefire-melania-trump-white-house.html",
+          "etf_tickers": []
+        }
+      ]
+    },
+    "Commodities": {
+      "count": 33,
+      "top": [
+        {
+          "headline": "Goldman Sachs, JPMorgan and Morgan Stanley are dominating the AI stock boom. Here's their edge",
+          "summary": "Wall Street’s Big Three have generated $52 billion in equity trading revenue this year, capturing about 80% of the market on rising margin lending to hedge funds.",
+          "impact": "bullish",
+          "source": "CNBC Finance",
+          "score": 10.0,
+          "link": "https://www.cnbc.com/2026/10/21/goldman-sachs-jpmorgan-morgan-stanley-ai-trading.html",
+          "etf_tickers": []
+        },
+        {
+          "headline": "Ukraine says Starlink connection 'now stable' after network limits",
+          "summary": "The slowed Starlink connections had affected the Ukraine's military and drone operations for a week.",
+          "impact": "neutral",
+          "source": "BBC World",
+          "score": 10.0,
+          "link": "https://www.bbc.co.uk/news/articles/cwkg5md14j8go?at_medium=RSS&at_campaign=rss",
+          "etf_tickers": []
+        },
+        {
+          "headline": "UK inflation jumps to 3.5% — cementing rate hike expectations",
+          "summary": "U.K. inflation rose by a hotter-than-expected 3.5% in the 12 months to September, driven by the surging cost of motor fuels.",
+          "impact": "bearish",
+          "source": "CNBC Economy",
+          "score": 10.0,
+          "link": "https://www.cnbc.com/2026/10/21/inflation-uk-cpi-interest-rates.html",
+          "etf_tickers": []
+        }
+      ]
+    },
+    "Industrials": {
+      "count": 27,
+      "top": [
+        {
+          "headline": "‘Non-answers’ aren’t working. This is what investors really need from the Fed.",
+          "summary": "What really matters to investors, economists say, is for Fed Chairman Kevin Warsh to prove he can successfully communicate the central bank’s strategy.",
+          "impact": "neutral",
+          "source": "MarketWatch",
+          "score": 10.0,
+          "link": "https://www.marketwatch.com/story/non-answers-arent-working-this-is-what-investors-really-need-from-the-fed-673a9dce?mod=mw_rss_topstories",
+          "etf_tickers": []
+        },
+        {
+          "headline": "Seven shot dead by gunmen at church funeral in Jordan, officials say",
+          "summary": "Thirty-four people are also injured in the attack in southern Karak governorate, and a manhunt is now under way.",
+          "impact": "neutral",
+          "source": "BBC World",
+          "score": 10.0,
+          "link": "https://www.bbc.co.uk/news/articles/ck87zlpzny15o?at_medium=RSS&at_campaign=rss",
+          "etf_tickers": []
+        },
+        {
+          "headline": "Israeli forces begin demolishing Palestinian buildings in Hebron after two Israeli soldiers shot dead",
+          "summary": "The soldiers were killed in an attack by two Palestinian gunmen at a checkpoint outside the West Bank city on Friday morning.",
+          "impact": "neutral",
+          "source": "BBC World",
+          "score": 10.0,
+          "link": "https://www.bbc.co.uk/news/articles/cq4g1p974wxko?at_medium=RSS&at_campaign=rss",
+          "etf_tickers": []
+        }
+      ]
+    },
+    "Bonds": {
+      "count": 5,
+      "top": [
+        {
+          "headline": "Japanese Government Bonds Held by the Bank of Japan",
+          "summary": "",
+          "impact": "neutral",
+          "source": "Bank of Japan",
+          "score": 9.6,
+          "link": "http://www.boj.or.jp/en/statistics/boj/other/mei/release/2026/mei261020.xlsx",
+          "etf_tickers": []
+        },
+        {
+          "headline": "Trump's Reverse Nixon Strategy: Bring Russia In, Shut China Out",
+          "summary": "On October 9, hours after a phone call between President Trump and President Putin, the Treasury Department issued a six-month waiver allowing Russian diesel to be sold on the global market. The stated aim is to bring down fuel prices before the November 3 midterms. But I believe the deal is more consequential than that. It fits a larger strategy: for the United States to control as much of the world’s energy supply as possible, while denying it to its chief rival, China. A pattern, not a one-off The strategy began in Venezuela. Since US…",
+          "impact": "neutral",
+          "source": "OilPrice",
+          "score": 9.2,
+          "link": "https://oilprice.com/Energy/Energy-General/Trumps-Reverse-Nixon-Strategy-Bring-Russia-In-Shut-China-Out.html",
+          "etf_tickers": []
+        }
+      ]
+    }
+  },
+  "rotation_signals": [],
+  "articles": [
+    {
+      "title": "UK inflation jumps to 3.5% — cementing rate hike expectations",
+      "headline_it": "",
+      "summary_it": "",
+      "summary_en": "U.K. inflation rose by a hotter-than-expected 3.5% in the 12 months to September, driven by the surging cost of motor fuels.",
+      "source": "CNBC Economy",
+      "link": "https://www.cnbc.com/2026/10/21/inflation-uk-cpi-interest-rates.html",
+      "date": "2026-10-21 07:50",
+      "score": 10.0,
+      "impact": "bearish",
+      "sectors": [
+        "Bonds",
+        "Broad Market",
+        "Commodities",
+        "Financials"
+      ],
+      "primary_sector": "Bonds",
+      "etf_tickers": [],
+      "rotation": ""
+    },
+    {
+      "title": "Housing is flashing warning signs just as the Fed weighs more interest rate hikes",
+      "headline_it": "",
+      "summary_it": "",
+      "summary_en": "Housing data deteriorated further in September, according to separate reports Tuesday.",
+      "source": "CNBC Economy",
+      "link": "https://www.cnbc.com/2026/10/20/housing-mortgage-rates-real-estate-federal-reserve.html",
+      "date": "2026-10-21 11:20",
+      "score": 10.0,
+      "impact": "bearish",
+      "sectors": [
+        "Bonds",
+        "Broad Market",
+        "Commodities",
+        "Energy",
+        "Financials",
+        "International",
+        "Real Estate"
+      ],
+      "primary_sector": "Bonds",
+      "etf_tickers": [],
+      "rotation": ""
+    },
+    {
+      "title": "Goldman Sachs, JPMorgan and Morgan Stanley are dominating the AI stock boom. Here's their edge",
+      "headline_it": "",
+      "summary_it": "",
+      "summary_en": "Wall Street’s Big Three have generated $52 billion in equity trading revenue this year, capturing about 80% of the market on rising margin lending to hedge funds.",
+      "source": "CNBC Finance",
+      "link": "https://www.cnbc.com/2026/10/21/goldman-sachs-jpmorgan-morgan-stanley-ai-trading.html",
+      "date": "2026-10-21 15:30",
+      "score": 10.0,
+      "impact": "bullish",
+      "sectors": [
+        "Commodities",
+        "Financials",
+        "Industrials"
+      ],
+      "primary_sector": "Commodities",
+      "etf_tickers": [],
+      "rotation": ""
+    },
+    {
+      "title": "HSBC CEO warns the AI boom won’t make every data center a good bet",
+      "headline_it": "",
+      "summary_it": "",
+      "summary_en": "Data center campuses house the servers that power AI and cloud computing.",
+      "source": "CNBC Finance",
+      "link": "https://www.cnbc.com/2026/10/20/data-center-financing-ai-debt-hsbc.html",
+      "date": "2026-10-20 10:39",
+      "score": 10.0,
+      "impact": "bullish",
+      "sectors": [
+        "Broad Market",
+        "Commodities",
+        "Energy",
+        "Industrials",
+        "International",
+        "Tech & Semiconductors"
+      ],
+      "primary_sector": "Broad Market",
+      "etf_tickers": [],
+      "rotation": ""
+    },
+    {
+      "title": "Robot factories and hypersonic missiles: JPMorgan Chase's first $5 billion of defense investments",
+      "headline_it": "",
+      "summary_it": "",
+      "summary_en": "With $5 billion already deployed off its balance sheet, JPMorgan Chase is racing ahead on direct investments in defense tech, hardware and supply chains.",
+      "source": "CNBC Finance",
+      "link": "https://www.cnbc.com/2026/10/19/jpmorgan-security-defense-investments.html",
+      "date": "2026-10-19 12:34",
+      "score": 10.0,
+      "impact": "bearish",
+      "sectors": [
+        "Broad Market",
+        "Commodities",
+        "Energy",
+        "Financials",
+        "Industrials",
+        "International"
+      ],
+      "primary_sector": "Broad Market",
+      "etf_tickers": [],
+      "rotation": ""
+    },
+    {
+      "title": "Musk's SpaceX is still restricting Starlink in Ukraine and the toll is rising",
+      "headline_it": "",
+      "summary_it": "",
+      "summary_en": "Since last week, Ukraine has reported restrictions on Starshield, a version of SpaceX's Starlink, hampering its military operations against Russia.",
+      "source": "CNBC World",
+      "link": "https://www.cnbc.com/2026/10/23/ukraine-says-starlink-restrictions-remain-despite-trump-assurances.html",
+      "date": "2026-10-23 19:50",
+      "score": 10.0,
+      "impact": "bullish",
+      "sectors": [
+        "Commodities",
+        "Energy",
+        "Industrials",
+        "International"
+      ],
+      "primary_sector": "Commodities",
+      "etf_tickers": [],
+      "rotation": ""
+    },
+    {
+      "title": "In hunt for Starlink alternative, Ukraine partners with Nokia and satellite maker ICEYE",
+      "headline_it": "",
+      "summary_it": "",
+      "summary_en": "With SpaceX imposing speed limits on Starlink in Ukraine and hampering military operations, Kyiv is looking for alternatives.",
+      "source": "CNBC World",
+      "link": "https://www.cnbc.com/2026/10/23/ukraine-partners-with-nokia-and-iceye-for-starlink-alternative.html",
+      "date": "2026-10-23 20:52",
+      "score": 10.0,
+      "impact": "neutral",
+      "sectors": [
+        "Commodities",
+        "Energy",
+        "Industrials",
+        "International"
+      ],
+      "primary_sector": "Commodities",
+      "etf_tickers": [],
+      "rotation": ""
+    },
+    {
+      "title": "Qatar deal to buy U.S. natural gas shows how Iran war has redrawn global energy markets",
+      "headline_it": "",
+      "summary_it": "",
+      "summary_en": "The Iran war is transforming global energy markets and benefiting U.S. companies, especially liquefied natural gas exporters.",
+      "source": "CNBC World",
+      "link": "https://www.cnbc.com/2026/10/23/cheniere-qatar-energy-lng-natural-gas-iran-war-strait-hormuz.html",
+      "date": "2026-10-23 19:19",
+      "score": 10.0,
+      "impact": "neutral",
+      "sectors": [
+        "Broad Market",
+        "Commodities",
+        "Energy",
+        "Industrials",
+        "International"
+      ],
+      "primary_sector": "Broad Market",
+      "etf_tickers": [],
+      "rotation": ""
+    },
+    {
+      "title": "Russia, Ukraine agree to Oleshky ceasefire brokered by Melania Trump, White House says",
+      "headline_it": "",
+      "summary_it": "",
+      "summary_en": "The White House said Friday that first lady Melania Trump secured a ceasefire between Russia and Ukraine in the Russian-controlled city of Oleshky.",
+      "source": "CNBC World",
+      "link": "https://www.cnbc.com/2026/10/23/russia-ukraine-agree-to-oleshky-ceasefire-melania-trump-white-house.html",
+      "date": "2026-10-23 14:28",
+      "score": 10.0,
+      "impact": "neutral",
+      "sectors": [
+        "Commodities",
+        "Energy",
+        "International"
+      ],
+      "primary_sector": "Commodities",
+      "etf_tickers": [],
+      "rotation": ""
+    },
+    {
+      "title": "‘Non-answers’ aren’t working. This is what investors really need from the Fed.",
+      "headline_it": "",
+      "summary_it": "",
+      "summary_en": "What really matters to investors, economists say, is for Fed Chairman Kevin Warsh to prove he can successfully communicate the central bank’s strategy.",
+      "source": "MarketWatch",
+      "link": "https://www.marketwatch.com/story/non-answers-arent-working-this-is-what-investors-really-need-from-the-fed-673a9dce?mod=mw_rss_topstories",
+      "date": "2026-10-24 11:30",
+      "score": 10.0,
+      "impact": "neutral",
+      "sectors": [
+        "Broad Market",
+        "Commodities",
+        "Energy",
+        "Financials",
+        "Industrials",
+        "International"
+      ],
+      "primary_sector": "Broad Market",
+      "etf_tickers": [],
+      "rotation": ""
+    },
+    {
+      "title": "Ukraine says Starlink connection 'now stable' after network limits",
+      "headline_it": "",
+      "summary_it": "",
+      "summary_en": "The slowed Starlink connections had affected the Ukraine's military and drone operations for a week.",
+      "source": "BBC World",
+      "link": "https://www.bbc.co.uk/news/articles/cwkg5md14j8go?at_medium=RSS&at_campaign=rss",
+      "date": "2026-10-24 12:12",
+      "score": 10.0,
+      "impact": "neutral",
+      "sectors": [
+        "Commodities",
+        "Energy",
+        "Industrials",
+        "International"
+      ],
+      "primary_sector": "Commodities",
+      "etf_tickers": [],
+      "rotation": ""
+    },
+    {
+      "title": "Seven shot dead by gunmen at church funeral in Jordan, officials say",
+      "headline_it": "",
+      "summary_it": "",
+      "summary_en": "Thirty-four people are also injured in the attack in southern Karak governorate, and a manhunt is now under way.",
+      "source": "BBC World",
+      "link": "https://www.bbc.co.uk/news/articles/ck87zlpzny15o?at_medium=RSS&at_campaign=rss",
+      "date": "2026-10-23 19:46",
+      "score": 10.0,
+      "impact": "neutral",
+      "sectors": [
+        "Broad Market",
+        "Industrials",
+        "International"
+      ],
+      "primary_sector": "Broad Market",
+      "etf_tickers": [],
+      "rotation": ""
+    },
+    {
+      "title": "Israeli forces begin demolishing Palestinian buildings in Hebron after two Israeli soldiers shot dead",
+      "headline_it": "",
+      "summary_it": "",
+      "summary_en": "The soldiers were killed in an attack by two Palestinian gunmen at a checkpoint outside the West Bank city on Friday morning.",
+      "source": "BBC World",
+      "link": "https://www.bbc.co.uk/news/articles/cq4g1p974wxko?at_medium=RSS&at_campaign=rss",
+      "date": "2026-10-23 15:37",
+      "score": 10.0,
+      "impact": "neutral",
+      "sectors": [
+        "Broad Market",
+        "Energy",
+        "Financials",
+        "Industrials",
+        "International"
+      ],
+      "primary_sector": "Broad Market",
+      "etf_tickers": [],
+      "rotation": ""
+    },
+    {
+      "title": "Why is Israel launching a new military operation in the occupied West Bank?",
+      "headline_it": "",
+      "summary_it": "",
+      "summary_en": "Netanyahu says &#039;we will destroy this place&#039; as Israeli forces begin days-long operation with raids and demolitions.",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/news/2026/10/24/why-is-israel-launching-a-new-military-operation-in-the-occupied-west-bank?traffic_source=rss",
+      "date": "2026-10-24 09:14",
+      "score": 10.0,
+      "impact": "neutral",
+      "sectors": [
+        "Energy",
+        "Financials",
+        "Industrials",
+        "International"
+      ],
+      "primary_sector": "Energy",
+      "etf_tickers": [],
+      "rotation": ""
+    },
+    {
+      "title": "Displaced West Bank Palestinians face growing hunger after UN cuts food aid",
+      "headline_it": "",
+      "summary_it": "",
+      "summary_en": "Already struggling after losing homes to Israeli military operations, Palestinians face hardship as WFP halves aid.",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/features/2026/10/24/displaced-west-bank-palestinians-face-growing-hunger-after-un-cuts-food-aid?traffic_source=rss",
+      "date": "2026-10-24 07:09",
+      "score": 10.0,
+      "impact": "neutral",
+      "sectors": [
+        "Energy",
+        "Financials",
+        "Industrials",
+        "International"
+      ],
+      "primary_sector": "Energy",
+      "etf_tickers": [],
+      "rotation": ""
+    },
+    {
+      "title": "Why Trump and Carney Haven’t Touched Energy in Their Tariff War",
+      "headline_it": "",
+      "summary_it": "",
+      "summary_en": "The United States and Canada are locked in an energy trade war – sort of. Although United States President Donald Trump and Canadian Prime Minister Mark Carney have lobbed plenty of blisteringly high tariffs, not to mention threats and insults, at each other over the course of their respective tenures, they have not touched one very important commodity – oil and gas. This is because the nations are simply too dependent on each other to sever the ties between their respective fossil fuel empires, making true independence a purely pyrrhic…",
+      "source": "OilPrice",
+      "link": "https://oilprice.com/Energy/Energy-General/Why-Trump-and-Carney-Havent-Touched-Energy-in-Their-Tariff-War.html",
+      "date": "2026-10-23 22:00",
+      "score": 10.0,
+      "impact": "neutral",
+      "sectors": [
+        "Broad Market",
+        "Commodities",
+        "Energy",
+        "Industrials",
+        "International"
+      ],
+      "primary_sector": "Broad Market",
+      "etf_tickers": [],
+      "rotation": ""
+    },
+    {
+      "title": "6 Million Barrels in Two Minutes Draws CFTC Scrutiny",
+      "headline_it": "",
+      "summary_it": "",
+      "summary_en": "Oil traders sold futures equivalent to at least 6 million barrels of crude in just two minutes on March 23, shortly before President Donald Trump backed away from threats to strike Iranian power plants. Now, the federal regulator overseeing those trades says it has been looking into the activity. Commodity Futures Trading Commission Chairman Michael Selig said Friday that the agency's enforcement division has been examining oil trading during the Iran war, including the unusual surge preceding Trump's announcement. \"Our enforcement division has…",
+      "source": "OilPrice",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/6-Million-Barrels-in-Two-Minutes-Draws-CFTC-Scrutiny.html",
+      "date": "2026-10-23 17:20",
+      "score": 10.0,
+      "impact": "mixed",
+      "sectors": [
+        "Broad Market",
+        "Commodities",
+        "Energy",
+        "Industrials",
+        "International"
+      ],
+      "primary_sector": "Broad Market",
+      "etf_tickers": [],
+      "rotation": ""
+    },
+    {
+      "title": "Space War Fears Rise as Russian Satellite Makes Dangerous Maneuver",
+      "headline_it": "",
+      "summary_it": "",
+      "summary_en": "US officials publicly accused Russia of threatening a Finnish-operated commercial satellite that provides imagery and intelligence to Ukraine and other nations, calling the move \"deliberately reckless.\" In response to the accusations, made during a United Nations debate on October 21, Russia broadly described US claims as \"absurd\" and accused Washington of its own \"aggressive military space ambitions.\" The back-and-forth came days after a Russian military satellite known as Kosmos-2612 moved \"dangerously\" near to ICEYE-X36, a satellite registered…",
+      "source": "OilPrice",
+      "link": "https://oilprice.com/Energy/Energy-General/Space-War-Fears-Rise-as-Russian-Satellite-Makes-Dangerous-Maneuver.html",
+      "date": "2026-10-23 16:00",
+      "score": 10.0,
+      "impact": "bearish",
+      "sectors": [
+        "Broad Market",
+        "Commodities",
+        "Energy",
+        "Industrials",
+        "International"
+      ],
+      "primary_sector": "Broad Market",
+      "etf_tickers": [],
+      "rotation": ""
+    },
+    {
+      "title": "Piero Cipollone: Interview with Milano Finanza",
+      "headline_it": "",
+      "summary_it": "",
+      "summary_en": "The European Central Bank (ECB) is the central bank of the European Union countries which have adopted the euro. Our main task is to maintain price stability in the euro area and so preserve the purchasing power of the single currency.",
+      "source": "ECB",
+      "link": "https://www.ecb.europa.eu//press/inter/date/2026/html/ecb.in261024~ee2ba73cf3.en.html",
+      "date": "2026-10-24 06:00",
+      "score": 10.0,
+      "impact": "neutral",
+      "sectors": [
+        "Financials"
+      ],
+      "primary_sector": "Financials",
+      "etf_tickers": [],
+      "rotation": ""
+    },
+    {
+      "title": "ECB Consumer Expectations Survey results – September 2026",
+      "headline_it": "",
+      "summary_it": "",
+      "summary_en": "The European Central Bank (ECB) is the central bank of the European Union countries which have adopted the euro. Our main task is to maintain price stability in the euro area and so preserve the purchasing power of the single currency.",
+      "source": "ECB",
+      "link": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr261023~a3d201c97c.en.html",
+      "date": "2026-10-23 08:00",
+      "score": 10.0,
+      "impact": "neutral",
+      "sectors": [
+        "Financials"
+      ],
+      "primary_sector": "Financials",
+      "etf_tickers": [],
+      "rotation": ""
+    },
+    {
+      "title": "Piero Cipollone: Pontes and Appia: unlocking opportunities for banks",
+      "headline_it": "",
+      "summary_it": "",
+      "summary_en": "",
+      "source": "ECB",
+      "link": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp261021_1~d190f2c349.en.pdf",
+      "date": "2026-10-21 08:00",
+      "score": 10.0,
+      "impact": "neutral",
+      "sectors": [
+        "Financials"
+      ],
+      "primary_sector": "Financials",
+      "etf_tickers": [],
+      "rotation": ""
+    },
+    {
+      "title": "Philip R. Lane: Euro liquidity lines and the international monetary system",
+      "headline_it": "",
+      "summary_it": "",
+      "summary_en": "The European Central Bank (ECB) is the central bank of the European Union countries which have adopted the euro. Our main task is to maintain price stability in the euro area and so preserve the purchasing power of the single currency.",
+      "source": "ECB",
+      "link": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp261021~401d6c4b70.en.html",
+      "date": "2026-10-21 04:15",
+      "score": 10.0,
+      "impact": "neutral",
+      "sectors": [
+        "Financials"
+      ],
+      "primary_sector": "Financials",
+      "etf_tickers": [],
+      "rotation": ""
+    },
+    {
+      "title": "Frank Elderson: Interview with Die Presse",
+      "headline_it": "",
+      "summary_it": "",
+      "summary_en": "The European Central Bank (ECB) is the central bank of the European Union countries which have adopted the euro. Our main task is to maintain price stability in the euro area and so preserve the purchasing power of the single currency.",
+      "source": "ECB",
+      "link": "https://www.ecb.europa.eu//press/inter/date/2026/html/ecb.in261020~97e2e4bc38.en.html",
+      "date": "2026-10-20 07:00",
+      "score": 10.0,
+      "impact": "neutral",
+      "sectors": [
+        "Financials"
+      ],
+      "primary_sector": "Financials",
+      "etf_tickers": [],
+      "rotation": ""
+    },
+    {
+      "title": "Frank Elderson: From climate and nature risks to economic resilience and competitiveness",
+      "headline_it": "",
+      "summary_it": "",
+      "summary_en": "The European Central Bank (ECB) is the central bank of the European Union countries which have adopted the euro. Our main task is to maintain price stability in the euro area and so preserve the purchasing power of the single currency.",
+      "source": "ECB",
+      "link": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp261019~f0a3e053de.en.html",
+      "date": "2026-10-19 06:00",
+      "score": 10.0,
+      "impact": "neutral",
+      "sectors": [
+        "Financials"
+      ],
+      "primary_sector": "Financials",
+      "etf_tickers": [],
+      "rotation": ""
+    },
+    {
+      "title": "The world’s finance chiefs see new risks — and less China angst",
+      "headline_it": "",
+      "summary_it": "",
+      "summary_en": "Debt, AI and Ukraine dominated the conversation at the IMF-World Bank meetings in Bangkok, while China, the focus in 2018, slipped into the background.",
+      "source": "CNBC Finance",
+      "link": "https://www.cnbc.com/2026/10/20/imf-debt-yields-russia-china-takeaway-.html",
+      "date": "2026-10-20 05:27",
+      "score": 9.9,
+      "impact": "neutral",
+      "sectors": [
+        "Commodities",
+        "Energy",
+        "Financials",
+        "International"
+      ],
+      "primary_sector": "Commodities",
+      "etf_tickers": [],
+      "rotation": ""
+    },
+    {
+      "title": "Why investors are moving back into Treasurys",
+      "headline_it": "",
+      "summary_it": "",
+      "summary_en": "U.S. Treasurys are returning to favor as a safe haven play that sidesteps investors' worries over a shaky economy and the future of the data center build-out.",
+      "source": "CNBC World",
+      "link": "https://www.cnbc.com/2026/10/23/treasurys-haven-ai-credit-risks.html",
+      "date": "2026-10-23 13:08",
+      "score": 9.9,
+      "impact": "neutral",
+      "sectors": [
+        "Bonds",
+        "Commodities",
+        "Tech & Semiconductors"
+      ],
+      "primary_sector": "Bonds",
+      "etf_tickers": [],
+      "rotation": ""
+    },
+    {
+      "title": "Software’s new consolidator gets big vote of confidence from Berkshire",
+      "headline_it": "",
+      "summary_it": "",
+      "summary_en": "Less than four months into life as a public company, Bending Spoons got a big vote of confidence this week from Berkshire Hathaway.",
+      "source": "CNBC Finance",
+      "link": "https://www.cnbc.com/2026/10/17/bending-spoons-wants-to-revive-software-castoffs-berkshire-investing.html",
+      "date": "2026-10-17 15:11",
+      "score": 9.8,
+      "impact": "neutral",
+      "sectors": [
+        "Broad Market",
+        "Commodities",
+        "Energy",
+        "International"
+      ],
+      "primary_sector": "Broad Market",
+      "etf_tickers": [],
+      "rotation": ""
+    },
+    {
+      "title": "My spouse was awarded $90,000 from my 401(k) in our divorce. How is that fair?",
+      "headline_it": "",
+      "summary_it": "",
+      "summary_en": "“I retired in 2020 and subsequently went through a divorce a few years later.”",
+      "source": "MarketWatch",
+      "link": "https://www.marketwatch.com/story/my-spouse-was-awarded-90-000-from-my-401-k-in-our-divorce-how-is-that-fair-dc839aa3?mod=mw_rss_topstories",
+      "date": "2026-10-24 07:00",
+      "score": 9.8,
+      "impact": "neutral",
+      "sectors": [
+        "Broad Market",
+        "Commodities",
+        "Energy",
+        "International"
+      ],
+      "primary_sector": "Broad Market",
+      "etf_tickers": [],
+      "rotation": ""
+    },
+    {
+      "title": "Ronaldinho’s comeback with Ravenna at 46 set for next month at Forli",
+      "headline_it": "",
+      "summary_it": "",
+      "summary_en": "Ex-Barcelona forward to make November return, having last played for Brazilian club Fluminense in 2015.",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/sports/2026/10/24/ronaldinhos-comeback-with-ravenna-at-46-set-for-next-month-at-forli?traffic_source=rss",
+      "date": "2026-10-24 06:51",
+      "score": 9.8,
+      "impact": "neutral",
+      "sectors": [
+        "Broad Market",
+        "Commodities",
+        "Energy",
+        "International"
+      ],
+      "primary_sector": "Broad Market",
+      "etf_tickers": [],
+      "rotation": ""
+    },
+    {
+      "title": "Lionel Messi receives top Spanish award in recognition of social work",
+      "headline_it": "",
+      "summary_it": "",
+      "summary_en": "Messi awarded the Princess of Asturias Award for his work for disadvantaged children&#039;s access to health and education.",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/sports/2026/10/24/lionel-messi-receives-top-spanish-award-in-recognition-of-social-work?traffic_source=rss",
+      "date": "2026-10-24 06:44",
+      "score": 9.8,
+      "impact": "neutral",
+      "sectors": [
+        "Broad Market",
+        "Commodities",
+        "Energy",
+        "International"
+      ],
+      "primary_sector": "Broad Market",
+      "etf_tickers": [],
+      "rotation": ""
+    },
+    {
+      "title": "Investors piled a record sum into a leveraged semiconductor ETF last week. Things didn’t work out.",
+      "headline_it": "",
+      "summary_it": "",
+      "summary_en": "Traders making bullish bets on chip stocks are getting walloped this month, as renewed fears emerged about investment returns on the buildout of artificial intelligence.",
+      "source": "MarketWatch",
+      "link": "https://www.marketwatch.com/story/investors-piled-a-record-sum-into-a-leveraged-semiconductor-etf-last-week-things-didnt-work-out-4680b2f3?mod=mw_rss_topstories",
+      "date": "2026-10-23 21:46",
+      "score": 9.7,
+      "impact": "mixed",
+      "sectors": [
+        "Industrials",
+        "Tech & Semiconductors"
+      ],
+      "primary_sector": "Industrials",
+      "etf_tickers": [],
+      "rotation": ""
+    },
+    {
+      "title": "$120 Oil Is Almost Here, and Trump Has Few Good Options",
+      "headline_it": "",
+      "summary_it": "",
+      "summary_en": "Brent crude nears $120 as escalating Saudi-Houthi tensions fuel another weekly oil price rally, putting fresh pressure on Trump. Friday, October 23, 2026 The slow creep of oil prices towards the $120 per barrel mark is a nightmarish scenario for US President Trump, even though there has been little fundamental change in the crude oil markets. A slight drop in freight rates and a ubiquitous flattening of backwardated curves lowered differentials of most grades globally, offsetting some of the pressures coming from higher crude benchmarks. Be that…",
+      "source": "OilPrice",
+      "link": "https://oilprice.com/Energy/Energy-General/120-Oil-Is-Almost-Here-and-Trump-Has-Few-Good-Options.html",
+      "date": "2026-10-23 16:30",
+      "score": 9.7,
+      "impact": "mixed",
+      "sectors": [
+        "Broad Market",
+        "Commodities",
+        "Energy",
+        "Industrials",
+        "International"
+      ],
+      "primary_sector": "Broad Market",
+      "etf_tickers": [],
+      "rotation": ""
+    },
+    {
+      "title": "Stocks making the biggest moves premarket: Cleveland-Cliffs, Intel, Datadog, Amazon & more",
+      "headline_it": "",
+      "summary_it": "",
+      "summary_en": "These are the stocks posting the largest moves premarket.",
+      "source": "CNBC Finance",
+      "link": "https://www.cnbc.com/2026/10/19/stocks-making-the-biggest-moves-premarket-clf-intc-ddog-amzn.html",
+      "date": "2026-10-19 12:00",
+      "score": 9.6,
+      "impact": "neutral",
+      "sectors": [
+        "Consumers",
+        "Industrials",
+        "Tech & Semiconductors"
+      ],
+      "primary_sector": "Consumers",
+      "etf_tickers": [],
+      "rotation": ""
+    },
+    {
+      "title": "Japanese Government Bonds Held by the Bank of Japan",
+      "headline_it": "",
+      "summary_it": "",
+      "summary_en": "",
+      "source": "Bank of Japan",
+      "link": "http://www.boj.or.jp/en/statistics/boj/other/mei/release/2026/mei261020.xlsx",
+      "date": "2026-10-22 08:00",
+      "score": 9.6,
+      "impact": "neutral",
+      "sectors": [
+        "Bonds",
+        "Financials"
+      ],
+      "primary_sector": "Bonds",
+      "etf_tickers": [],
+      "rotation": ""
+    },
+    {
+      "title": "Dow tumbles more than 600 points as oil prices rise and market sell-off hits most sectors",
+      "headline_it": "",
+      "summary_it": "",
+      "summary_en": "The Dow Industrials fell on Friday as Middle East tensions rose.",
+      "source": "CNBC World",
+      "link": "https://www.cnbc.com/2026/10/22/stock-market-today-live-update.html",
+      "date": "2026-10-23 20:16",
+      "score": 9.6,
+      "impact": "bearish",
+      "sectors": [
+        "Commodities",
+        "Energy",
+        "International"
+      ],
+      "primary_sector": "Commodities",
+      "etf_tickers": [],
+      "rotation": ""
+    },
+    {
+      "title": "White House says Melania Trump brokered truce for Ukraine city 'on brink of disaster'",
+      "headline_it": "",
+      "summary_it": "",
+      "summary_en": "Ukraine and Russia confirm the truce in Russian-occupied Oleshky, where residents have had to eat garden weeds to survive.",
+      "source": "BBC World",
+      "link": "https://www.bbc.co.uk/news/articles/c6vgxkvl4w5eo?at_medium=RSS&at_campaign=rss",
+      "date": "2026-10-24 07:17",
+      "score": 9.6,
+      "impact": "neutral",
+      "sectors": [
+        "Commodities",
+        "Energy",
+        "International"
+      ],
+      "primary_sector": "Commodities",
+      "etf_tickers": [],
+      "rotation": ""
+    },
+    {
+      "title": "Who actually controls Ukraine's access to Starlink?",
+      "headline_it": "",
+      "summary_it": "",
+      "summary_en": "President Zelensky says limits to the technology continue to affect Ukrainian forces, while US officials and Elon Musk offer conflicting accounts of who controls it.",
+      "source": "BBC World",
+      "link": "https://www.bbc.co.uk/news/videos/cqy7lvv0lvzpo?at_medium=RSS&at_campaign=rss",
+      "date": "2026-10-23 22:24",
+      "score": 9.6,
+      "impact": "neutral",
+      "sectors": [
+        "Commodities",
+        "Energy",
+        "International"
+      ],
+      "primary_sector": "Commodities",
+      "etf_tickers": [],
+      "rotation": ""
+    },
+    {
+      "title": "Netanyahu Orders Large-Scale Military Operation in West Bank",
+      "headline_it": "",
+      "summary_it": "",
+      "summary_en": "Israeli forces will go “house to house” after two soldiers were killed in a shooting.",
+      "source": "Foreign Policy",
+      "link": "https://foreignpolicy.com/2026/10/23/netanyahu-israel-military-operation-west-bank-hebron-refugee-camps/",
+      "date": "2026-10-23 20:22",
+      "score": 9.4,
+      "impact": "neutral",
+      "sectors": [
+        "Energy",
+        "Financials",
+        "Industrials",
+        "International"
+      ],
+      "primary_sector": "Energy",
+      "etf_tickers": [],
+      "rotation": ""
+    },
+    {
+      "title": "Netanyahu Vows to Overthrow Iranian Regime",
+      "headline_it": "",
+      "summary_it": "",
+      "summary_en": "The directive comes as Israel prepares for an election and fresh joint strikes on Iran.",
+      "source": "Foreign Policy",
+      "link": "https://foreignpolicy.com/2026/10/22/netanyahu-israel-election-overthrow-iran-regime-us-strikes-war/",
+      "date": "2026-10-22 20:16",
+      "score": 9.4,
+      "impact": "neutral",
+      "sectors": [
+        "Broad Market",
+        "Commodities",
+        "Energy",
+        "Industrials",
+        "International"
+      ],
+      "primary_sector": "Broad Market",
+      "etf_tickers": [],
+      "rotation": ""
+    },
+    {
+      "title": "Brazil’s Sovereignty Is on the Ballot",
+      "headline_it": "",
+      "summary_it": "",
+      "summary_en": "A far-right win in the country’s presidential election would open the door to U.S. military activity on Brazilian soil.",
+      "source": "Foreign Policy",
+      "link": "https://foreignpolicy.com/2026/10/22/brazil-election-lula-bolsonaro-trump-us-military-shield-americas/",
+      "date": "2026-10-22 11:00",
+      "score": 9.4,
+      "impact": "neutral",
+      "sectors": [
+        "Broad Market",
+        "Commodities",
+        "Energy",
+        "Industrials",
+        "International"
+      ],
+      "primary_sector": "Broad Market",
+      "etf_tickers": [],
+      "rotation": ""
+    },
+    {
+      "title": "Hong Kong marks hottest ‘Frost’ solar term on record at 32.3 degrees Celsius",
+      "headline_it": "",
+      "summary_it": "",
+      "summary_en": "Hong Kong recorded its highest-ever temperature for the traditional Chinese calendar’s “Frost” solar term on Friday, with the weather forecaster warning of a very dry weekend ahead.\nThe Hong Kong Observatory said the temperature at its headquarters in Tsim Sha Tsui reached 32.3 degrees Celsius by 3.30pm, the highest of the day.\nFrost, the 18th of the Chinese lunisolar calendar’s 24 solar terms, began on October 23. The terms mark natural phenomena and seasonal changes.\nTemperatures in the city...",
+      "source": "SCMP",
+      "link": "https://www.scmp.com/news/hong-kong/health-environment/article/3371910/hong-kong-marks-hottest-frost-solar-term-record-321-degrees-celsius",
+      "date": "2026-10-23 08:20",
+      "score": 9.4,
+      "impact": "bearish",
+      "sectors": [
+        "Broad Market",
+        "Commodities",
+        "Energy",
+        "Industrials",
+        "International"
+      ],
+      "primary_sector": "Broad Market",
+      "etf_tickers": [],
+      "rotation": ""
+    },
+    {
+      "title": "Developments in Real Exports and Real Imports",
+      "headline_it": "",
+      "summary_it": "",
+      "summary_en": "",
+      "source": "Bank of Japan",
+      "link": "http://www.boj.or.jp/en/research/research_data/reri/index.htm",
+      "date": "2026-10-22 07:00",
+      "score": 9.3,
+      "impact": "neutral",
+      "sectors": [
+        "Industrials"
+      ],
+      "primary_sector": "Industrials",
+      "etf_tickers": [],
+      "rotation": ""
+    },
+    {
+      "title": "Bank of Japan Accounts (October 20)",
+      "headline_it": "",
+      "summary_it": "",
+      "summary_en": "",
+      "source": "Bank of Japan",
+      "link": "http://www.boj.or.jp/en/statistics/boj/other/acmai/release/2026/ac261020.htm",
+      "date": "2026-10-22 01:00",
+      "score": 9.3,
+      "impact": "neutral",
+      "sectors": [
+        "Financials"
+      ],
+      "primary_sector": "Financials",
+      "etf_tickers": [],
+      "rotation": ""
+    },
+    {
+      "title": "Silicon Valley Democrats demand investigation into Starlink restrictions in Ukraine",
+      "headline_it": "",
+      "summary_it": "",
+      "summary_en": "A letter demanding an investigation indicates Democrats will make investigating Starlink's interruption a top priority if they win control of the U.S. House.",
+      "source": "CNBC World",
+      "link": "https://www.cnbc.com/2026/10/23/starlink-ukraine-musk-trump-congress.html",
+      "date": "2026-10-23 15:33",
+      "score": 9.3,
+      "impact": "neutral",
+      "sectors": [
+        "Commodities",
+        "Energy",
+        "International"
+      ],
+      "primary_sector": "Commodities",
+      "etf_tickers": [],
+      "rotation": ""
+    },
+    {
+      "title": "Freed US citizen was tortured in Russian jail, former Ukrainian prisoners say",
+      "headline_it": "",
+      "summary_it": "",
+      "summary_en": "Ukrainians held alongside the American say they witnessed beatings and sexual humiliation by Russian guards during his detention.",
+      "source": "BBC World",
+      "link": "https://www.bbc.co.uk/news/articles/cx7vpmn6qzmlo?at_medium=RSS&at_campaign=rss",
+      "date": "2026-10-23 20:18",
+      "score": 9.3,
+      "impact": "bullish",
+      "sectors": [
+        "Commodities",
+        "Energy",
+        "International"
+      ],
+      "primary_sector": "Commodities",
+      "etf_tickers": [],
+      "rotation": ""
+    },
+    {
+      "title": "Chip Industry Week In Review",
+      "headline_it": "",
+      "summary_it": "",
+      "summary_en": "CHIPS Act $389M to power chips, vertical GaN, materials; Micron's memory roadmap; Nvidia expands supply chain capacity; Tenstorrent raises $1.5B; China NAND fabs; 800V power for AI data centers; Intel advances Arizona fab; China orders +$35B in Nvidia GPUs.\nThe post Chip Industry Week In Review appeared first on Semiconductor Engineering.",
+      "source": "SemiEngineering",
+      "link": "https://semiengineering.com/chip-industry-week-in-review-161/",
+      "date": "2026-10-23 07:01",
+      "score": 9.3,
+      "impact": "neutral",
+      "sectors": [
+        "Industrials",
+        "International",
+        "Tech & Semiconductors"
+      ],
+      "primary_sector": "Industrials",
+      "etf_tickers": [],
+      "rotation": ""
+    },
+    {
+      "title": "Trump's Reverse Nixon Strategy: Bring Russia In, Shut China Out",
+      "headline_it": "",
+      "summary_it": "",
+      "summary_en": "On October 9, hours after a phone call between President Trump and President Putin, the Treasury Department issued a six-month waiver allowing Russian diesel to be sold on the global market. The stated aim is to bring down fuel prices before the November 3 midterms. But I believe the deal is more consequential than that. It fits a larger strategy: for the United States to control as much of the world’s energy supply as possible, while denying it to its chief rival, China. A pattern, not a one-off The strategy began in Venezuela. Since US…",
+      "source": "OilPrice",
+      "link": "https://oilprice.com/Energy/Energy-General/Trumps-Reverse-Nixon-Strategy-Bring-Russia-In-Shut-China-Out.html",
+      "date": "2026-10-23 23:00",
+      "score": 9.2,
+      "impact": "neutral",
+      "sectors": [
+        "Bonds",
+        "Commodities",
+        "Energy",
+        "Industrials",
+        "International"
+      ],
+      "primary_sector": "Bonds",
+      "etf_tickers": [],
+      "rotation": ""
+    },
+    {
+      "title": "Middle East Physical Crude Slides While Brent Hits Five-Month High",
+      "headline_it": "",
+      "summary_it": "",
+      "summary_en": "In contrast with the international benchmark futures prices, the prices of physical crudes from the Middle East have softened this week, as oil continues to flow out of the Persian Gulf in ship-to-ship transfers offshore Oman and producers offer competitive prices to Asian buyers. Some crude grades from Iraq and Oman have sunk into deep discounts to the physical Dubai benchmark. Iraq’s Basrah Medium, for example, was recently sold at a discount of $10 per barrel to the Dubai benchmark, compared to near parity to Dubai crude a month ago, traders…",
+      "source": "OilPrice",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/Middle-East-Physical-Crude-Slides-While-Brent-Hits-Five-Month-High.html",
+      "date": "2026-10-23 15:30",
+      "score": 9.2,
+      "impact": "neutral",
+      "sectors": [
+        "Commodities",
+        "Energy",
+        "International"
+      ],
+      "primary_sector": "Commodities",
+      "etf_tickers": [],
+      "rotation": ""
+    },
+    {
+      "title": "Oil India Strikes Natural Gas in Shallow Offshore Basin",
+      "headline_it": "",
+      "summary_it": "",
+      "summary_en": "State explorer Oil India Limited (OIL) has found natural gas in a previously unexplored formation in the shallow Krishna-Godavari Basin, the Indian company said on Friday. OIL has made the discovery at the Godavari-1 appraisal well in the Matsyapuri formation in the Krishna-Godavari Basin off India’s east coast, recording a peak test flow of 200,000 standard cubic meters per day (SCMD). The company, however, did not reveal an estimate of the potential reserves it had encountered. OIL is now preparing to test the next zone in the basin for…",
+      "source": "OilPrice",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/Oil-India-Strikes-Natural-Gas-in-Shallow-Offshore-Basin.html",
+      "date": "2026-10-23 14:30",
+      "score": 9.2,
+      "impact": "neutral",
+      "sectors": [
+        "Commodities",
+        "Energy",
+        "Industrials",
+        "International"
+      ],
+      "primary_sector": "Commodities",
+      "etf_tickers": [],
+      "rotation": ""
+    },
+    {
+      "title": "Oil Prices Hold Near $100 as Middle East Risks Offset Peace Hopes",
+      "headline_it": "",
+      "summary_it": "",
+      "summary_en": "December WTI crude oil is nearly unchanged for the week, but the flat result hides a rough ride. The contract opened at $99.04, rallied to $101.37, then broke to $95.25 before recovering back to its opening level. At 00:19 GMT, December WTI crude oil is trading at $99.29, up $0.25 or +0.25% for the week. The high matched the June contract high. The low came on peace-talk headlines. Neither side won the week. Buyers could not hold the breakout, but sellers could not keep the market under pressure after the break. The Peace-Talk Trade Did Not Stick…",
+      "source": "OilPrice",
+      "link": "https://oilprice.com/Energy/Energy-General/Oil-Prices-Hold-Near-100-as-Middle-East-Risks-Offset-Peace-Hopes.html",
+      "date": "2026-10-23 11:30",
+      "score": 9.2,
+      "impact": "bullish",
+      "sectors": [
+        "Commodities",
+        "Energy",
+        "Industrials",
+        "International"
+      ],
+      "primary_sector": "Commodities",
+      "etf_tickers": [],
+      "rotation": ""
+    }
+  ]
+}
