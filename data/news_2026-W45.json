@@ -1,0 +1,1281 @@
+{
+  "generated": "2026-11-07T14:29:13.517095",
+  "lookback_days": 7,
+  "total_articles": 50,
+  "sector_news": {
+    "Broad Market": {
+      "count": 35,
+      "top": [
+        {
+          "headline": "Drones are changing warfare. But defense giants are still making billions from old-school weapons",
+          "summary": "The world's biggest defense firms are finding that demand for traditional military equipment remains strong even as drones and AI reshape how wars are fought.",
+          "impact": "bullish",
+          "source": "CNBC World",
+          "score": 10.0,
+          "link": "https://www.cnbc.com/2026/11/06/defense-military-tech-earnings.html",
+          "etf_tickers": []
+        },
+        {
+          "headline": "What Trump losing power over Congress means for Iran, Ukraine and foreign policy",
+          "summary": "Democratic control of Congress could bring greater scrutiny of Trump’s handling of the Iran and Ukraine wars, while leaving him broad foreign-policy powers.",
+          "impact": "neutral",
+          "source": "CNBC World",
+          "score": 10.0,
+          "link": "https://www.cnbc.com/2026/11/04/democrats-congress-trump-foreign-policy.html",
+          "etf_tickers": []
+        },
+        {
+          "headline": "Oil prices tumble for the week as investors weigh Iran conflict risk after midterm elections",
+          "summary": "Oil prices fell Friday as investors weighed the risk of renewed Iran war escalation after the midterms, alongside prospects for a diplomatic breakthrough.",
+          "impact": "neutral",
+          "source": "CNBC World",
+          "score": 10.0,
+          "link": "https://www.cnbc.com/2026/11/06/oil-price-today-brent-wti.html",
+          "etf_tickers": []
+        }
+      ]
+    },
+    "International": {
+      "count": 34,
+      "top": [
+        {
+          "headline": "Bank of England hikes interest rate for the first time since Iran war, warns inflation will near 5%",
+          "summary": "One policymaker voted to raise the bank's key interest rate to 4.25%.",
+          "impact": "neutral",
+          "source": "CNBC Economy",
+          "score": 10.0,
+          "link": "https://www.cnbc.com/2026/11/05/interest-rates-inflation-uk.html",
+          "etf_tickers": []
+        },
+        {
+          "headline": "Trump says U.S. carried out ‘minor strikes’ on Iran as missiles hit Qeshm Island",
+          "summary": "Trump said the U.S. carried out ‘minor strikes’ on Iran after Iranian media reported two missiles hit Qeshm Island near the Strait of Hormuz.",
+          "impact": "bearish",
+          "source": "CNBC World",
+          "score": 10.0,
+          "link": "https://www.cnbc.com/2026/11/07/trump-us-minor-strikes-iran-qeshm-island.html",
+          "etf_tickers": []
+        },
+        {
+          "headline": "Democratic sweep gives markets a reason to rethink path of interest rates",
+          "summary": "Rate hikes could be curbed by an Iran war resolution, slower U.S. growth and fresh fiscal policy — but none are set in stone.",
+          "impact": "mixed",
+          "source": "CNBC World",
+          "score": 10.0,
+          "link": "https://www.cnbc.com/2026/11/06/oil-prices-interest-rates-midterms.html",
+          "etf_tickers": []
+        }
+      ]
+    },
+    "Tech & Semiconductors": {
+      "count": 8,
+      "top": [
+        {
+          "headline": "AI stocks hammered by midterm shock as data center buildout becomes a 'war of attrition'",
+          "summary": "The election rout landed on an AI trade already under pressure from high interest rates, heavy capital spending and questions about returns.",
+          "impact": "neutral",
+          "source": "CNBC World",
+          "score": 10.0,
+          "link": "https://www.cnbc.com/2026/11/06/ai-data-center-midterms-selloff.html",
+          "etf_tickers": []
+        },
+        {
+          "headline": "Nasdaq sell-off batters Asian chip stocks as SK Hynix, Samsung, Softbank, TSMC tumble",
+          "summary": "Asian technology stocks tumbled Friday, tracking a sharp sell-off on Wall Street overnight that sent the tech-heavy Nasdaq Composite into correction territory.",
+          "impact": "bearish",
+          "source": "CNBC World",
+          "score": 10.0,
+          "link": "https://www.cnbc.com/2026/11/06/tech-stocks-sk-hynix-samsung-softbank.html",
+          "etf_tickers": []
+        },
+        {
+          "headline": "Nvidia, AMD and other chip stocks rebound — but is relief from the ‘violent’ selloff only temporary?",
+          "summary": "Analysts warn of further volatility ahead, although there are several new factors that work in the AI trade’s favor.",
+          "impact": "mixed",
+          "source": "MarketWatch",
+          "score": 10.0,
+          "link": "https://www.marketwatch.com/story/nvidia-amd-and-other-chip-stocks-rebound-is-the-violent-ai-selloff-over-8f7df533?mod=mw_rss_topstories",
+          "etf_tickers": []
+        }
+      ]
+    },
+    "Financials": {
+      "count": 18,
+      "top": [
+        {
+          "headline": "Christine Lagarde: Interview with Yomiuri Shimbun",
+          "summary": "The European Central Bank (ECB) is the central bank of the European Union countries which have adopted the euro. Our main task is to maintain price stability in the euro area and so preserve the purchasing power of the single currency.",
+          "impact": "neutral",
+          "source": "ECB",
+          "score": 10.0,
+          "link": "https://www.ecb.europa.eu//press/inter/date/2026/html/ecb.in261107~e7b86fc4ce.en.html",
+          "etf_tickers": []
+        },
+        {
+          "headline": "ECB publishes consolidated banking data for end-June 2026",
+          "summary": "The European Central Bank (ECB) is the central bank of the European Union countries which have adopted the euro. Our main task is to maintain price stability in the euro area and so preserve the purchasing power of the single currency.",
+          "impact": "neutral",
+          "source": "ECB",
+          "score": 10.0,
+          "link": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr261106~356f2fc73a.en.html",
+          "etf_tickers": []
+        },
+        {
+          "headline": "Piero Cipollone: Shaping the future of money",
+          "summary": "The European Central Bank (ECB) is the central bank of the European Union countries which have adopted the euro. Our main task is to maintain price stability in the euro area and so preserve the purchasing power of the single currency.",
+          "impact": "neutral",
+          "source": "ECB",
+          "score": 10.0,
+          "link": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp261105~6495a0df6f.en.html",
+          "etf_tickers": []
+        }
+      ]
+    },
+    "Energy": {
+      "count": 31,
+      "top": [
+        {
+          "headline": "Renewed U.S.-Iran tension could push oil past $100: Rapidan Energy",
+          "summary": "Bob McNally predicts that both Brent and West Texas Intermediate futures will jump above $100.",
+          "impact": "neutral",
+          "source": "CNBC World",
+          "score": 10.0,
+          "link": "https://www.cnbc.com/2026/11/06/us-iran-war-trump-hormuz-oil-midterms.html",
+          "etf_tickers": []
+        },
+        {
+          "headline": "Regulators explore credit union reforms to support growth, innovation and better outcomes for members",
+          "summary": "Credit unions could benefit from several ideas put forward today by the Prudential Regulation Authority and Financial Conduct Authority aimed at helping the sector grow, innovate and meet the changing needs of their members.",
+          "impact": "bullish",
+          "source": "Bank of England",
+          "score": 10.0,
+          "link": "https://www.bankofengland.co.uk/news/2026/november/regulators-explore-credit-union-reforms-to-support-growth-innovation-and-better-outcomes-for-members",
+          "etf_tickers": []
+        },
+        {
+          "headline": "‘They started bombing us with drones’: Russian attacks unnerve Zaporizhzhia",
+          "summary": "A region once offering refuge becomes increasingly dangerous, as 50 people are killed in a single attack.",
+          "impact": "bullish",
+          "source": "Al Jazeera",
+          "score": 10.0,
+          "link": "https://www.aljazeera.com/news/2026/11/7/they-started-bombing-us-with-drones-russian-attacks-unnerve-zaporizhzhia?traffic_source=rss",
+          "etf_tickers": []
+        }
+      ]
+    },
+    "Commodities": {
+      "count": 35,
+      "top": [
+        {
+          "headline": "Euro zone inflation hits 4% for first time in three years as interest rate hike looms",
+          "summary": "It was driven by energy inflation, which surged above 20% in October.",
+          "impact": "mixed",
+          "source": "CNBC Economy",
+          "score": 10.0,
+          "link": "https://www.cnbc.com/2026/11/04/euro-zone-cpi-inflation-october-ecb-rate-hike.html",
+          "etf_tickers": []
+        },
+        {
+          "headline": "Americans are on a 'treadmill of high inflation' and more rate hikes are likely, Fed's Daly says",
+          "summary": "San Francisco Fed President Mary Daly called Friday's jobs report \"good news for American workers,\" but noted the pressure inflation is exerting on household finances",
+          "impact": "bearish",
+          "source": "CNBC Finance",
+          "score": 10.0,
+          "link": "https://www.cnbc.com/2026/11/06/fed-daly-interest-rates-inflation.html",
+          "etf_tickers": []
+        },
+        {
+          "headline": "Barkin sees interest rate hikes ahead, but at a gradual pace",
+          "summary": "In a CNBC interview, the policymaker expressed concern over inflation and said monetary policy will need to adjust.",
+          "impact": "bearish",
+          "source": "CNBC Finance",
+          "score": 10.0,
+          "link": "https://www.cnbc.com/2026/11/05/barkin-sees-interest-rate-hikes-ahead-but-at-a-gradual-pace.html",
+          "etf_tickers": []
+        }
+      ]
+    },
+    "Real Estate": {
+      "count": 1,
+      "top": [
+        {
+          "headline": "Equinix points to smaller facilities as scrutiny of U.S. data center construction grows",
+          "summary": "Equinix says smaller data centers may be less exposed to U.S. restrictions as scrutiny of AI infrastructure grows.",
+          "impact": "neutral",
+          "source": "CNBC World",
+          "score": 9.6,
+          "link": "https://www.cnbc.com/2026/11/06/equinix-us-data-center-growth-asia.html",
+          "etf_tickers": []
+        }
+      ]
+    },
+    "Industrials": {
+      "count": 25,
+      "top": [
+        {
+          "headline": "Buildings damaged in Israeli bombings risk collapse as rain inundates Gaza",
+          "summary": "Floods have swept through Gaza after heavy rain, endangering families and putting war-damaged buildings at risk.",
+          "impact": "bearish",
+          "source": "Al Jazeera",
+          "score": 10.0,
+          "link": "https://www.aljazeera.com/features/2026/11/7/buildings-damaged-in-israel-bombing-at-risk-of-collapse-as-rain-floods-gaza?traffic_source=rss",
+          "etf_tickers": []
+        },
+        {
+          "headline": "Qeshm island and Hormuz hit, as mediators try to prevent US-Iran escalation",
+          "summary": "US strikes have continued on Iran after more ships in the Strait of Hormuz were attacked.",
+          "impact": "neutral",
+          "source": "Al Jazeera",
+          "score": 10.0,
+          "link": "https://www.aljazeera.com/news/2026/11/7/qeshm-island-and-hormuz-hit-as-mediators-try-to-prevent-us-iran-escalation?traffic_source=rss",
+          "etf_tickers": []
+        },
+        {
+          "headline": "Will Trump strike nuclear sites again as Iran engages ‘cognitive warfare’?",
+          "summary": "The US president has been sending mixed messages after his party suffered a defeat at the midterm elections.",
+          "impact": "bullish",
+          "source": "Al Jazeera",
+          "score": 10.0,
+          "link": "https://www.aljazeera.com/news/2026/11/7/will-trump-strike-nuclear-sites-again-as-iran-engages-cognitive?traffic_source=rss",
+          "etf_tickers": []
+        }
+      ]
+    },
+    "Bonds": {
+      "count": 15,
+      "top": [
+        {
+          "headline": "Bank rate increased to 4% - November 2026 Monetary Policy Summary and Minutes",
+          "summary": "The Bank of England’s Monetary Policy Committee is responsible for making decisions about Bank Rate.",
+          "impact": "neutral",
+          "source": "Bank of England",
+          "score": 10.0,
+          "link": "https://www.bankofengland.co.uk/monetary-policy-summary-and-minutes/2026/november-2026",
+          "etf_tickers": []
+        },
+        {
+          "headline": "Isabel Schnabel: Navigating stormy waters: reflections on monetary policy",
+          "summary": "The European Central Bank (ECB) is the central bank of the European Union countries which have adopted the euro. Our main task is to maintain price stability in the euro area and so preserve the purchasing power of the single currency.",
+          "impact": "neutral",
+          "source": "ECB",
+          "score": 10.0,
+          "link": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp261105_1~5e97d9d5a0.en.html",
+          "etf_tickers": []
+        },
+        {
+          "headline": "Cathay Pacific Airways to give eligible Hong Kong staff bonus worth a month’s pay",
+          "summary": "Cathay Pacific Airways will award eligible Hong Kong-based employees a discretionary bonus equivalent to one month’s pay for 2026, marking the fourth consecutive year it has offered the payout.\nThe bonus will be paid on January 7 next year, according to an internal staff announcement seen by the South China Morning Post. The airline credited employees for helping it achieve successive years of solid financial performance.\n“You are at the heart of Cathay’s success, and we remain committed to...",
+          "impact": "neutral",
+          "source": "SCMP",
+          "score": 10.0,
+          "link": "https://www.scmp.com/news/hong-kong/transport/article/3373409/cathay-pacific-airways-give-eligible-hong-kong-staff-bonus-worth-months-pay",
+          "etf_tickers": []
+        }
+      ]
+    }
+  },
+  "rotation_signals": [],
+  "articles": [
+    {
+      "title": "Federal Reserve Board announces termination of enforcement action with Allegiant United Holdings, LLC, Nano Financial Holdings, Inc., and Nano Banc",
+      "headline_it": "",
+      "summary_it": "",
+      "summary_en": "Federal Reserve Board announces termination of enforcement action with Allegiant United Holdings, LLC, Nano Financial Holdings, Inc., and Nano Banc",
+      "source": "Federal Reserve",
+      "link": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20261105a.htm",
+      "date": "2026-11-05 16:00",
+      "score": 10.0,
+      "impact": "neutral",
+      "sectors": [],
+      "primary_sector": null,
+      "etf_tickers": [],
+      "rotation": ""
+    },
+    {
+      "title": "Bank of England hikes interest rate for the first time since Iran war, warns inflation will near 5%",
+      "headline_it": "",
+      "summary_it": "",
+      "summary_en": "One policymaker voted to raise the bank's key interest rate to 4.25%.",
+      "source": "CNBC Economy",
+      "link": "https://www.cnbc.com/2026/11/05/interest-rates-inflation-uk.html",
+      "date": "2026-11-05 16:01",
+      "score": 10.0,
+      "impact": "neutral",
+      "sectors": [
+        "Bonds",
+        "Broad Market",
+        "Commodities",
+        "Energy",
+        "Financials",
+        "Industrials",
+        "International"
+      ],
+      "primary_sector": "Bonds",
+      "etf_tickers": [],
+      "rotation": ""
+    },
+    {
+      "title": "Euro zone inflation hits 4% for first time in three years as interest rate hike looms",
+      "headline_it": "",
+      "summary_it": "",
+      "summary_en": "It was driven by energy inflation, which surged above 20% in October.",
+      "source": "CNBC Economy",
+      "link": "https://www.cnbc.com/2026/11/04/euro-zone-cpi-inflation-october-ecb-rate-hike.html",
+      "date": "2026-11-04 10:47",
+      "score": 10.0,
+      "impact": "mixed",
+      "sectors": [
+        "Bonds",
+        "Broad Market",
+        "Commodities",
+        "Financials"
+      ],
+      "primary_sector": "Bonds",
+      "etf_tickers": [],
+      "rotation": ""
+    },
+    {
+      "title": "Trump says U.S. carried out ‘minor strikes’ on Iran as missiles hit Qeshm Island",
+      "headline_it": "",
+      "summary_it": "",
+      "summary_en": "Trump said the U.S. carried out ‘minor strikes’ on Iran after Iranian media reported two missiles hit Qeshm Island near the Strait of Hormuz.",
+      "source": "CNBC World",
+      "link": "https://www.cnbc.com/2026/11/07/trump-us-minor-strikes-iran-qeshm-island.html",
+      "date": "2026-11-07 07:37",
+      "score": 10.0,
+      "impact": "bearish",
+      "sectors": [
+        "Commodities",
+        "Energy",
+        "Industrials",
+        "International"
+      ],
+      "primary_sector": "Commodities",
+      "etf_tickers": [],
+      "rotation": ""
+    },
+    {
+      "title": "Drones are changing warfare. But defense giants are still making billions from old-school weapons",
+      "headline_it": "",
+      "summary_it": "",
+      "summary_en": "The world's biggest defense firms are finding that demand for traditional military equipment remains strong even as drones and AI reshape how wars are fought.",
+      "source": "CNBC World",
+      "link": "https://www.cnbc.com/2026/11/06/defense-military-tech-earnings.html",
+      "date": "2026-11-06 10:39",
+      "score": 10.0,
+      "impact": "bullish",
+      "sectors": [
+        "Broad Market",
+        "Commodities",
+        "Energy",
+        "Industrials",
+        "International"
+      ],
+      "primary_sector": "Broad Market",
+      "etf_tickers": [],
+      "rotation": ""
+    },
+    {
+      "title": "What Trump losing power over Congress means for Iran, Ukraine and foreign policy",
+      "headline_it": "",
+      "summary_it": "",
+      "summary_en": "Democratic control of Congress could bring greater scrutiny of Trump’s handling of the Iran and Ukraine wars, while leaving him broad foreign-policy powers.",
+      "source": "CNBC World",
+      "link": "https://www.cnbc.com/2026/11/04/democrats-congress-trump-foreign-policy.html",
+      "date": "2026-11-05 12:24",
+      "score": 10.0,
+      "impact": "neutral",
+      "sectors": [
+        "Broad Market",
+        "Commodities",
+        "Energy",
+        "Industrials",
+        "International"
+      ],
+      "primary_sector": "Broad Market",
+      "etf_tickers": [],
+      "rotation": ""
+    },
+    {
+      "title": "Democratic sweep gives markets a reason to rethink path of interest rates",
+      "headline_it": "",
+      "summary_it": "",
+      "summary_en": "Rate hikes could be curbed by an Iran war resolution, slower U.S. growth and fresh fiscal policy — but none are set in stone.",
+      "source": "CNBC World",
+      "link": "https://www.cnbc.com/2026/11/06/oil-prices-interest-rates-midterms.html",
+      "date": "2026-11-06 12:30",
+      "score": 10.0,
+      "impact": "mixed",
+      "sectors": [
+        "Bonds",
+        "Broad Market",
+        "Commodities",
+        "Energy",
+        "Financials",
+        "Industrials",
+        "International"
+      ],
+      "primary_sector": "Bonds",
+      "etf_tickers": [],
+      "rotation": ""
+    },
+    {
+      "title": "AI stocks hammered by midterm shock as data center buildout becomes a 'war of attrition'",
+      "headline_it": "",
+      "summary_it": "",
+      "summary_en": "The election rout landed on an AI trade already under pressure from high interest rates, heavy capital spending and questions about returns.",
+      "source": "CNBC World",
+      "link": "https://www.cnbc.com/2026/11/06/ai-data-center-midterms-selloff.html",
+      "date": "2026-11-06 20:44",
+      "score": 10.0,
+      "impact": "neutral",
+      "sectors": [
+        "Bonds",
+        "Broad Market",
+        "Commodities",
+        "Energy",
+        "International",
+        "Tech & Semiconductors"
+      ],
+      "primary_sector": "Bonds",
+      "etf_tickers": [],
+      "rotation": ""
+    },
+    {
+      "title": "Oil prices tumble for the week as investors weigh Iran conflict risk after midterm elections",
+      "headline_it": "",
+      "summary_it": "",
+      "summary_en": "Oil prices fell Friday as investors weighed the risk of renewed Iran war escalation after the midterms, alongside prospects for a diplomatic breakthrough.",
+      "source": "CNBC World",
+      "link": "https://www.cnbc.com/2026/11/06/oil-price-today-brent-wti.html",
+      "date": "2026-11-06 19:54",
+      "score": 10.0,
+      "impact": "neutral",
+      "sectors": [
+        "Broad Market",
+        "Commodities",
+        "Energy",
+        "Industrials",
+        "International"
+      ],
+      "primary_sector": "Broad Market",
+      "etf_tickers": [],
+      "rotation": ""
+    },
+    {
+      "title": "Nasdaq sell-off batters Asian chip stocks as SK Hynix, Samsung, Softbank, TSMC tumble",
+      "headline_it": "",
+      "summary_it": "",
+      "summary_en": "Asian technology stocks tumbled Friday, tracking a sharp sell-off on Wall Street overnight that sent the tech-heavy Nasdaq Composite into correction territory.",
+      "source": "CNBC World",
+      "link": "https://www.cnbc.com/2026/11/06/tech-stocks-sk-hynix-samsung-softbank.html",
+      "date": "2026-11-06 11:06",
+      "score": 10.0,
+      "impact": "bearish",
+      "sectors": [
+        "Broad Market",
+        "Financials",
+        "Tech & Semiconductors"
+      ],
+      "primary_sector": "Broad Market",
+      "etf_tickers": [],
+      "rotation": ""
+    },
+    {
+      "title": "Renewed U.S.-Iran tension could push oil past $100: Rapidan Energy",
+      "headline_it": "",
+      "summary_it": "",
+      "summary_en": "Bob McNally predicts that both Brent and West Texas Intermediate futures will jump above $100.",
+      "source": "CNBC World",
+      "link": "https://www.cnbc.com/2026/11/06/us-iran-war-trump-hormuz-oil-midterms.html",
+      "date": "2026-11-06 05:27",
+      "score": 10.0,
+      "impact": "neutral",
+      "sectors": [
+        "Commodities",
+        "Energy",
+        "Industrials",
+        "International"
+      ],
+      "primary_sector": "Commodities",
+      "etf_tickers": [],
+      "rotation": ""
+    },
+    {
+      "title": "Nvidia, AMD and other chip stocks rebound — but is relief from the ‘violent’ selloff only temporary?",
+      "headline_it": "",
+      "summary_it": "",
+      "summary_en": "Analysts warn of further volatility ahead, although there are several new factors that work in the AI trade’s favor.",
+      "source": "MarketWatch",
+      "link": "https://www.marketwatch.com/story/nvidia-amd-and-other-chip-stocks-rebound-is-the-violent-ai-selloff-over-8f7df533?mod=mw_rss_topstories",
+      "date": "2026-11-06 21:24",
+      "score": 10.0,
+      "impact": "mixed",
+      "sectors": [
+        "Broad Market",
+        "Commodities",
+        "Energy",
+        "Industrials",
+        "International",
+        "Tech & Semiconductors"
+      ],
+      "primary_sector": "Broad Market",
+      "etf_tickers": [],
+      "rotation": ""
+    },
+    {
+      "title": "Bank rate increased to 4% - November 2026 Monetary Policy Summary and Minutes",
+      "headline_it": "",
+      "summary_it": "",
+      "summary_en": "The Bank of England’s Monetary Policy Committee is responsible for making decisions about Bank Rate.",
+      "source": "Bank of England",
+      "link": "https://www.bankofengland.co.uk/monetary-policy-summary-and-minutes/2026/november-2026",
+      "date": "2026-11-05 12:00",
+      "score": 10.0,
+      "impact": "neutral",
+      "sectors": [
+        "Bonds",
+        "Broad Market",
+        "Financials"
+      ],
+      "primary_sector": "Bonds",
+      "etf_tickers": [],
+      "rotation": ""
+    },
+    {
+      "title": "Regulators explore credit union reforms to support growth, innovation and better outcomes for members",
+      "headline_it": "",
+      "summary_it": "",
+      "summary_en": "Credit unions could benefit from several ideas put forward today by the Prudential Regulation Authority and Financial Conduct Authority aimed at helping the sector grow, innovate and meet the changing needs of their members.",
+      "source": "Bank of England",
+      "link": "https://www.bankofengland.co.uk/news/2026/november/regulators-explore-credit-union-reforms-to-support-growth-innovation-and-better-outcomes-for-members",
+      "date": "2026-11-03 10:00",
+      "score": 10.0,
+      "impact": "bullish",
+      "sectors": [
+        "Bonds",
+        "Broad Market",
+        "Commodities",
+        "Energy",
+        "Financials",
+        "Industrials",
+        "International"
+      ],
+      "primary_sector": "Bonds",
+      "etf_tickers": [],
+      "rotation": ""
+    },
+    {
+      "title": "Americans are on a 'treadmill of high inflation' and more rate hikes are likely, Fed's Daly says",
+      "headline_it": "",
+      "summary_it": "",
+      "summary_en": "San Francisco Fed President Mary Daly called Friday's jobs report \"good news for American workers,\" but noted the pressure inflation is exerting on household finances",
+      "source": "CNBC Finance",
+      "link": "https://www.cnbc.com/2026/11/06/fed-daly-interest-rates-inflation.html",
+      "date": "2026-11-06 19:05",
+      "score": 10.0,
+      "impact": "bearish",
+      "sectors": [
+        "Bonds",
+        "Broad Market",
+        "Commodities",
+        "Financials"
+      ],
+      "primary_sector": "Bonds",
+      "etf_tickers": [],
+      "rotation": ""
+    },
+    {
+      "title": "Barkin sees interest rate hikes ahead, but at a gradual pace",
+      "headline_it": "",
+      "summary_it": "",
+      "summary_en": "In a CNBC interview, the policymaker expressed concern over inflation and said monetary policy will need to adjust.",
+      "source": "CNBC Finance",
+      "link": "https://www.cnbc.com/2026/11/05/barkin-sees-interest-rate-hikes-ahead-but-at-a-gradual-pace.html",
+      "date": "2026-11-05 16:34",
+      "score": 10.0,
+      "impact": "bearish",
+      "sectors": [
+        "Bonds",
+        "Broad Market",
+        "Commodities",
+        "Financials"
+      ],
+      "primary_sector": "Bonds",
+      "etf_tickers": [],
+      "rotation": ""
+    },
+    {
+      "title": "‘They started bombing us with drones’: Russian attacks unnerve Zaporizhzhia",
+      "headline_it": "",
+      "summary_it": "",
+      "summary_en": "A region once offering refuge becomes increasingly dangerous, as 50 people are killed in a single attack.",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/news/2026/11/7/they-started-bombing-us-with-drones-russian-attacks-unnerve-zaporizhzhia?traffic_source=rss",
+      "date": "2026-11-07 13:24",
+      "score": 10.0,
+      "impact": "bullish",
+      "sectors": [
+        "Broad Market",
+        "Commodities",
+        "Energy",
+        "International"
+      ],
+      "primary_sector": "Broad Market",
+      "etf_tickers": [],
+      "rotation": ""
+    },
+    {
+      "title": "Buildings damaged in Israeli bombings risk collapse as rain inundates Gaza",
+      "headline_it": "",
+      "summary_it": "",
+      "summary_en": "Floods have swept through Gaza after heavy rain, endangering families and putting war-damaged buildings at risk.",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/features/2026/11/7/buildings-damaged-in-israel-bombing-at-risk-of-collapse-as-rain-floods-gaza?traffic_source=rss",
+      "date": "2026-11-07 13:07",
+      "score": 10.0,
+      "impact": "bearish",
+      "sectors": [
+        "Broad Market",
+        "Commodities",
+        "Energy",
+        "Industrials",
+        "International"
+      ],
+      "primary_sector": "Broad Market",
+      "etf_tickers": [],
+      "rotation": ""
+    },
+    {
+      "title": "Qeshm island and Hormuz hit, as mediators try to prevent US-Iran escalation",
+      "headline_it": "",
+      "summary_it": "",
+      "summary_en": "US strikes have continued on Iran after more ships in the Strait of Hormuz were attacked.",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/news/2026/11/7/qeshm-island-and-hormuz-hit-as-mediators-try-to-prevent-us-iran-escalation?traffic_source=rss",
+      "date": "2026-11-07 12:22",
+      "score": 10.0,
+      "impact": "neutral",
+      "sectors": [
+        "Broad Market",
+        "Commodities",
+        "Energy",
+        "Industrials",
+        "International"
+      ],
+      "primary_sector": "Broad Market",
+      "etf_tickers": [],
+      "rotation": ""
+    },
+    {
+      "title": "Will Trump strike nuclear sites again as Iran engages ‘cognitive warfare’?",
+      "headline_it": "",
+      "summary_it": "",
+      "summary_en": "The US president has been sending mixed messages after his party suffered a defeat at the midterm elections.",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/news/2026/11/7/will-trump-strike-nuclear-sites-again-as-iran-engages-cognitive?traffic_source=rss",
+      "date": "2026-11-07 08:45",
+      "score": 10.0,
+      "impact": "bullish",
+      "sectors": [
+        "Broad Market",
+        "Commodities",
+        "Energy",
+        "Industrials",
+        "International"
+      ],
+      "primary_sector": "Broad Market",
+      "etf_tickers": [],
+      "rotation": ""
+    },
+    {
+      "title": "Qatari PM says US willing to seek solution to war with Iran",
+      "headline_it": "",
+      "summary_it": "",
+      "summary_en": "Qatari PM says US willing to seek solution to war with Iran",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/7/qatari-pm-says-us-willing-to-seek-solution-to-war-with-iran?traffic_source=rss",
+      "date": "2026-11-07 07:10",
+      "score": 10.0,
+      "impact": "neutral",
+      "sectors": [
+        "Broad Market",
+        "Commodities",
+        "Energy",
+        "Industrials",
+        "International"
+      ],
+      "primary_sector": "Broad Market",
+      "etf_tickers": [],
+      "rotation": ""
+    },
+    {
+      "title": "Russian strikes wound nine and damage Ukraine's power network ahead of talks",
+      "headline_it": "",
+      "summary_it": "",
+      "summary_en": "The attacks come before Ukrainian and Russian delegations are due to take part in trilateral talks in Abu Dhabi next week.",
+      "source": "BBC World",
+      "link": "https://www.bbc.co.uk/news/articles/cm4g1nq8158po?at_medium=RSS&at_campaign=rss",
+      "date": "2026-11-07 12:49",
+      "score": 10.0,
+      "impact": "neutral",
+      "sectors": [
+        "Broad Market",
+        "Commodities",
+        "Energy",
+        "International"
+      ],
+      "primary_sector": "Broad Market",
+      "etf_tickers": [],
+      "rotation": ""
+    },
+    {
+      "title": "The Iran War Isn't Over, but Oil Traders Are Already Pricing In Peace",
+      "headline_it": "",
+      "summary_it": "",
+      "summary_en": "Oil prices plunged 15% this week as hopes of a U.S.-Iran peace deal fueled bearish sentiment, despite continued attacks in the Strait of Hormuz.   Friday, November 06, 2026 Oil prices are set to record one of the steepest weekly losses in recent memory, with ICE Brent sliding a hefty 15% week-on-week to $99 per barrel on expectations of US-Iran diplomatic progress and a weakening window of opportunity for the Trump administration to continue hostilities in the Middle East. Whilst talk of a global supply glut might be a little premature –…",
+      "source": "OilPrice",
+      "link": "https://oilprice.com/Energy/Energy-General/The-Iran-War-Isnt-Over-but-Oil-Traders-Are-Already-Pricing-In-Peace.html",
+      "date": "2026-11-06 15:28",
+      "score": 10.0,
+      "impact": "bearish",
+      "sectors": [
+        "Broad Market",
+        "Commodities",
+        "Energy",
+        "Industrials",
+        "International"
+      ],
+      "primary_sector": "Broad Market",
+      "etf_tickers": [],
+      "rotation": ""
+    },
+    {
+      "title": "Trump’s Iran Strategy Reaches a Critical Crossroads After Midterm Defeat",
+      "headline_it": "",
+      "summary_it": "",
+      "summary_en": "President Donald Trump spent the final weeks of the US midterm campaign predicting that the war with Iran would end \"right after the election.\" With the votes now in, his Republican Party is reeling from losing both chambers of Congress in a rout that his own vice president blamed squarely on the conflict. \"The reason we lost is the war,\" Vice President JD Vance wrote on X on November 4. Trump called the assessment \"largely true\" but said he would make the same decision again because “you can’t let Iran have a nuclear weapon.”…",
+      "source": "OilPrice",
+      "link": "https://oilprice.com/Geopolitics/Middle-East/Trumps-Iran-Strategy-Reaches-a-Critical-Crossroads-After-Midterm-Defeat.html",
+      "date": "2026-11-06 15:00",
+      "score": 10.0,
+      "impact": "bullish",
+      "sectors": [
+        "Broad Market",
+        "Commodities",
+        "Energy",
+        "Industrials",
+        "International"
+      ],
+      "primary_sector": "Broad Market",
+      "etf_tickers": [],
+      "rotation": ""
+    },
+    {
+      "title": "FGE NexantECA Sees Slim Chance of U.S.-Iran Deal",
+      "headline_it": "",
+      "summary_it": "",
+      "summary_en": "The chances of a U.S.-Iran deal are low and the next two months carry the greatest escalation risks that could derail the recovery of oil flows through the Strait of Hormuz, energy consultancy FGE NexantECA says after the U.S. midterm elections.  “Not only are we not close to a resolution, we are even worse than we were before the June MOU,” FGE NexantECA’s chairman Emeritus, Fereidun Fesharaki, told Bloomberg TV in an interview on Friday.  There is actually a high chance that the U.S. and Israel could strike Iran before…",
+      "source": "OilPrice",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/FGE-NexantECA-Sees-Slim-Chance-of-US-Iran-Deal.html",
+      "date": "2026-11-06 13:30",
+      "score": 10.0,
+      "impact": "bullish",
+      "sectors": [
+        "Broad Market",
+        "Commodities",
+        "Energy",
+        "Industrials",
+        "International"
+      ],
+      "primary_sector": "Broad Market",
+      "etf_tickers": [],
+      "rotation": ""
+    },
+    {
+      "title": "Oil Prices Plunge as U.S. Elections Shake Up the Iran War",
+      "headline_it": "",
+      "summary_it": "",
+      "summary_en": "December WTI crude oil is headed for one of its roughest weekly losses in months after the market shed $11.37, or 11.10%, from its opening price of $102.39. Prices posted a weekly high at $102.75 before breaking sharply to $86.65. Early Friday, the contract was trading near $91.58, still down heavily for the week. The decline was not driven by a sudden collapse in demand or a surprise rise in inventories. Traders began stripping out a portion of the war premium that lifted prices toward the October highs as U.S. midterm results raised hopes for…",
+      "source": "OilPrice",
+      "link": "https://oilprice.com/Energy/Energy-General/Oil-Prices-Plunge-as-US-Elections-Shake-Up-the-Iran-War.html",
+      "date": "2026-11-06 12:30",
+      "score": 10.0,
+      "impact": "bearish",
+      "sectors": [
+        "Broad Market",
+        "Commodities",
+        "Energy",
+        "Industrials",
+        "International"
+      ],
+      "primary_sector": "Broad Market",
+      "etf_tickers": [],
+      "rotation": ""
+    },
+    {
+      "title": "Christine Lagarde: Interview with Yomiuri Shimbun",
+      "headline_it": "",
+      "summary_it": "",
+      "summary_en": "The European Central Bank (ECB) is the central bank of the European Union countries which have adopted the euro. Our main task is to maintain price stability in the euro area and so preserve the purchasing power of the single currency.",
+      "source": "ECB",
+      "link": "https://www.ecb.europa.eu//press/inter/date/2026/html/ecb.in261107~e7b86fc4ce.en.html",
+      "date": "2026-11-07 14:00",
+      "score": 10.0,
+      "impact": "neutral",
+      "sectors": [
+        "Financials"
+      ],
+      "primary_sector": "Financials",
+      "etf_tickers": [],
+      "rotation": ""
+    },
+    {
+      "title": "ECB publishes consolidated banking data for end-June 2026",
+      "headline_it": "",
+      "summary_it": "",
+      "summary_en": "The European Central Bank (ECB) is the central bank of the European Union countries which have adopted the euro. Our main task is to maintain price stability in the euro area and so preserve the purchasing power of the single currency.",
+      "source": "ECB",
+      "link": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr261106~356f2fc73a.en.html",
+      "date": "2026-11-06 09:00",
+      "score": 10.0,
+      "impact": "neutral",
+      "sectors": [
+        "Financials"
+      ],
+      "primary_sector": "Financials",
+      "etf_tickers": [],
+      "rotation": ""
+    },
+    {
+      "title": "Isabel Schnabel: Navigating stormy waters: reflections on monetary policy",
+      "headline_it": "",
+      "summary_it": "",
+      "summary_en": "The European Central Bank (ECB) is the central bank of the European Union countries which have adopted the euro. Our main task is to maintain price stability in the euro area and so preserve the purchasing power of the single currency.",
+      "source": "ECB",
+      "link": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp261105_1~5e97d9d5a0.en.html",
+      "date": "2026-11-05 08:00",
+      "score": 10.0,
+      "impact": "neutral",
+      "sectors": [
+        "Bonds",
+        "Broad Market",
+        "Financials"
+      ],
+      "primary_sector": "Bonds",
+      "etf_tickers": [],
+      "rotation": ""
+    },
+    {
+      "title": "Piero Cipollone: Shaping the future of money",
+      "headline_it": "",
+      "summary_it": "",
+      "summary_en": "The European Central Bank (ECB) is the central bank of the European Union countries which have adopted the euro. Our main task is to maintain price stability in the euro area and so preserve the purchasing power of the single currency.",
+      "source": "ECB",
+      "link": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp261105~6495a0df6f.en.html",
+      "date": "2026-11-05 07:30",
+      "score": 10.0,
+      "impact": "neutral",
+      "sectors": [
+        "Financials"
+      ],
+      "primary_sector": "Financials",
+      "etf_tickers": [],
+      "rotation": ""
+    },
+    {
+      "title": "ECB wage tracker suggests slightly higher wage growth in first three quarters of 2027 compared with the full year of 2026",
+      "headline_it": "",
+      "summary_it": "",
+      "summary_en": "The European Central Bank (ECB) is the central bank of the European Union countries which have adopted the euro. Our main task is to maintain price stability in the euro area and so preserve the purchasing power of the single currency.",
+      "source": "ECB",
+      "link": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr261104~caf181d7ac.en.html",
+      "date": "2026-11-04 00:00",
+      "score": 10.0,
+      "impact": "bullish",
+      "sectors": [
+        "Financials"
+      ],
+      "primary_sector": "Financials",
+      "etf_tickers": [],
+      "rotation": ""
+    },
+    {
+      "title": "Boris Vujčić: Integrated, open and resilient: Europe’s strengths in a fragmenting world",
+      "headline_it": "",
+      "summary_it": "",
+      "summary_en": "The European Central Bank (ECB) is the central bank of the European Union countries which have adopted the euro. Our main task is to maintain price stability in the euro area and so preserve the purchasing power of the single currency.",
+      "source": "ECB",
+      "link": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp.261102~70003226e9.en.html",
+      "date": "2026-11-02 09:30",
+      "score": 10.0,
+      "impact": "neutral",
+      "sectors": [
+        "Financials"
+      ],
+      "primary_sector": "Financials",
+      "etf_tickers": [],
+      "rotation": ""
+    },
+    {
+      "title": "Cathay Pacific Airways to give eligible Hong Kong staff bonus worth a month’s pay",
+      "headline_it": "",
+      "summary_it": "",
+      "summary_en": "Cathay Pacific Airways will award eligible Hong Kong-based employees a discretionary bonus equivalent to one month’s pay for 2026, marking the fourth consecutive year it has offered the payout.\nThe bonus will be paid on January 7 next year, according to an internal staff announcement seen by the South China Morning Post. The airline credited employees for helping it achieve successive years of solid financial performance.\n“You are at the heart of Cathay’s success, and we remain committed to...",
+      "source": "SCMP",
+      "link": "https://www.scmp.com/news/hong-kong/transport/article/3373409/cathay-pacific-airways-give-eligible-hong-kong-staff-bonus-worth-months-pay",
+      "date": "2026-11-05 09:52",
+      "score": 10.0,
+      "impact": "neutral",
+      "sectors": [
+        "Bonds",
+        "Broad Market",
+        "Commodities",
+        "Energy",
+        "Financials",
+        "Industrials",
+        "International"
+      ],
+      "primary_sector": "Bonds",
+      "etf_tickers": [],
+      "rotation": ""
+    },
+    {
+      "title": "The AI ‘credit card’ is getting costlier as CoreWeave bond yield tops 16%",
+      "headline_it": "",
+      "summary_it": "",
+      "summary_en": "Coreweave's steep yields reflect stress in the AI debt markets as investors worry about a data center slowdown. What comes next.",
+      "source": "CNBC Finance",
+      "link": "https://www.cnbc.com/2026/11/06/coreweave-bond-yield-tops-16percent-as-ai-credit-stress-rises.html",
+      "date": "2026-11-06 17:09",
+      "score": 9.9,
+      "impact": "neutral",
+      "sectors": [
+        "Bonds",
+        "Financials",
+        "Tech & Semiconductors"
+      ],
+      "primary_sector": "Bonds",
+      "etf_tickers": [],
+      "rotation": ""
+    },
+    {
+      "title": "10-year Treasury yield slides as traders mull over Democrats' midterm victories, oil prices drop",
+      "headline_it": "",
+      "summary_it": "",
+      "summary_en": "Treasury yields were last little changed Wednesday as investors weighed big wins from Democrats in the U.S. midterm elections.",
+      "source": "CNBC Finance",
+      "link": "https://www.cnbc.com/2026/11/03/treasury-yields-fall-as-democrats-win-big-in-us-midterm-elections.html",
+      "date": "2026-11-04 21:18",
+      "score": 9.9,
+      "impact": "bearish",
+      "sectors": [
+        "Bonds",
+        "Broad Market",
+        "Commodities",
+        "Energy",
+        "International"
+      ],
+      "primary_sector": "Bonds",
+      "etf_tickers": [],
+      "rotation": ""
+    },
+    {
+      "title": "How Foreign Policy Shaped These 3 Critical Midterm Races",
+      "headline_it": "",
+      "summary_it": "",
+      "summary_en": "It wasn’t just Iran. Israel, tariffs, and immigration also loomed large in voters’ minds.",
+      "source": "Foreign Policy",
+      "link": "https://foreignpolicy.com/2026/11/05/us-midterms-israel-immigration-deportation-tariffs-democrats/",
+      "date": "2026-11-05 22:53",
+      "score": 9.9,
+      "impact": "neutral",
+      "sectors": [
+        "Broad Market",
+        "Commodities",
+        "Energy",
+        "Industrials",
+        "International"
+      ],
+      "primary_sector": "Broad Market",
+      "etf_tickers": [],
+      "rotation": ""
+    },
+    {
+      "title": "Vance Blames Iran War for GOP Midterms Wipeout",
+      "headline_it": "",
+      "summary_it": "",
+      "summary_en": "In a stunning statement, the U.S. vice president veered sharply from Trump’s defense of the war.",
+      "source": "Foreign Policy",
+      "link": "https://foreignpolicy.com/2026/11/04/vance-midterms-blames-iran-war-trump-republicans/",
+      "date": "2026-11-04 20:01",
+      "score": 9.9,
+      "impact": "neutral",
+      "sectors": [
+        "Broad Market",
+        "Commodities",
+        "Energy",
+        "Industrials",
+        "International"
+      ],
+      "primary_sector": "Broad Market",
+      "etf_tickers": [],
+      "rotation": ""
+    },
+    {
+      "title": "Energy Reliability Is Becoming More Important Than Energy Politics",
+      "headline_it": "",
+      "summary_it": "",
+      "summary_en": "For much of the past decade, energy debates often pitted fossil fuels against clean energy. Governments announced dates for phasing out technologies, investors tried to anticipate which industries would lose favor, and energy policy increasingly became entangled with political identity.  The war with Iran has exposed the limitations of approaching energy policy that way. When supplies are disrupted and prices rise sharply, governments become much less interested in ideological consistency and much more interested in keeping fuel available,…",
+      "source": "OilPrice",
+      "link": "https://oilprice.com/Energy/Energy-General/Energy-Reliability-Is-Becoming-More-Important-Than-Energy-Politics.html",
+      "date": "2026-11-06 19:00",
+      "score": 9.9,
+      "impact": "bullish",
+      "sectors": [
+        "Broad Market",
+        "Commodities",
+        "Energy",
+        "Industrials",
+        "International"
+      ],
+      "primary_sector": "Broad Market",
+      "etf_tickers": [],
+      "rotation": ""
+    },
+    {
+      "title": "Jim Cramer says the AI sell-off isn't over, but it isn't another dot-com crash",
+      "headline_it": "",
+      "summary_it": "",
+      "summary_en": "Cramer warned that the sell-off in AI stocks likely has further to run.",
+      "source": "CNBC World",
+      "link": "https://www.cnbc.com/2026/11/05/jim-cramer-ai-stocks-sell-off.html",
+      "date": "2026-11-05 23:17",
+      "score": 9.8,
+      "impact": "bearish",
+      "sectors": [
+        "Broad Market",
+        "Commodities",
+        "Energy",
+        "International"
+      ],
+      "primary_sector": "Broad Market",
+      "etf_tickers": [],
+      "rotation": ""
+    },
+    {
+      "title": "Stocks making the biggest moves premarket: Shake Shack, Wendy's, Peloton, Unity Software & more",
+      "headline_it": "",
+      "summary_it": "",
+      "summary_en": "These are the stocks posting the largest moves in early trading.",
+      "source": "CNBC Finance",
+      "link": "https://www.cnbc.com/2026/11/05/stocks-making-the-biggest-moves-premarket-shak-wen-pton-u.html",
+      "date": "2026-11-05 13:17",
+      "score": 9.8,
+      "impact": "neutral",
+      "sectors": [
+        "Broad Market",
+        "Commodities",
+        "Energy",
+        "International"
+      ],
+      "primary_sector": "Broad Market",
+      "etf_tickers": [],
+      "rotation": ""
+    },
+    {
+      "title": "Dozens killed as humanitarian crisis mounts in Yemen: What next for war?",
+      "headline_it": "",
+      "summary_it": "",
+      "summary_en": "Government forces reclaim key territories in Taiz and Lahij but face setbacks under Houthi resistance in certain areas.",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/news/2026/11/7/dozens-killed-as-humanitarian-crisis-mounts-in-yemen-what-next-for-war?traffic_source=rss",
+      "date": "2026-11-07 11:59",
+      "score": 9.8,
+      "impact": "bearish",
+      "sectors": [
+        "Broad Market",
+        "Commodities",
+        "Energy",
+        "International"
+      ],
+      "primary_sector": "Broad Market",
+      "etf_tickers": [],
+      "rotation": ""
+    },
+    {
+      "title": "Sudan war and climate change see parents struggle to feed their children",
+      "headline_it": "",
+      "summary_it": "",
+      "summary_en": "War, poverty and climate change are all affecting Sudanese, with increasing cases of child malnutrition.",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/features/2026/11/7/sudan-war-and-climate-change-sees-parents-struggle-to-feed-their-children?traffic_source=rss",
+      "date": "2026-11-07 10:36",
+      "score": 9.8,
+      "impact": "bullish",
+      "sectors": [
+        "Broad Market",
+        "Commodities",
+        "Energy",
+        "International"
+      ],
+      "primary_sector": "Broad Market",
+      "etf_tickers": [],
+      "rotation": ""
+    },
+    {
+      "title": "Chip Industry Week In Review",
+      "headline_it": "",
+      "summary_it": "",
+      "summary_en": "HBM smuggling routes into China; Nvidia H200s held in Hong Kong; Micron pauses Taiwan fab work; Samsung expands HBM base-die capacity; Oracle-Tencent AI chip deal collapses; Bosch builds out semiconductors; S. Korea boosts AI and chip spending; Marvell-Lumentum deal draws scrutiny; more acquisitions, market reports and earnings.\nThe post Chip Industry Week In Review appeared first on Semiconductor Engineering.",
+      "source": "SemiEngineering",
+      "link": "https://semiengineering.com/chip-industry-week-in-review-163/",
+      "date": "2026-11-06 08:01",
+      "score": 9.8,
+      "impact": "bearish",
+      "sectors": [
+        "Industrials",
+        "International",
+        "Tech & Semiconductors"
+      ],
+      "primary_sector": "Industrials",
+      "etf_tickers": [],
+      "rotation": ""
+    },
+    {
+      "title": "Oil Traders Want U.S. to Release Sanctioned Tankers as Freight Costs Soar",
+      "headline_it": "",
+      "summary_it": "",
+      "summary_en": "Some of the world's biggest oil traders are asking Washington for permission to put sanctioned tankers back to work, as a global vessel shortage pushes oil transportation costs to extraordinary levels. Trafigura, Vitol, Mercuria and Abu Dhabi National Oil Co. are negotiating with U.S. officials for licenses to purchase or lease blacklisted oil tankers, Bloomberg reported Friday, citing people familiar with the discussions. The talks involve approximately 50 vessels currently under U.S. sanctions. Treasury officials are considering approvals on…",
+      "source": "OilPrice",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/Oil-Traders-Want-US-to-Release-Sanctioned-Tankers-as-Freight-Costs-Soar.html",
+      "date": "2026-11-06 20:30",
+      "score": 9.7,
+      "impact": "mixed",
+      "sectors": [
+        "Bonds",
+        "Commodities",
+        "Energy",
+        "Industrials",
+        "International"
+      ],
+      "primary_sector": "Bonds",
+      "etf_tickers": [],
+      "rotation": ""
+    },
+    {
+      "title": "Japanese Government Bonds Held by the Bank of Japan",
+      "headline_it": "",
+      "summary_it": "",
+      "summary_en": "",
+      "source": "Bank of Japan",
+      "link": "http://www.boj.or.jp/en/statistics/boj/other/mei/release/2026/mei261030.xlsx",
+      "date": "2026-11-04 08:00",
+      "score": 9.6,
+      "impact": "neutral",
+      "sectors": [
+        "Bonds",
+        "Financials"
+      ],
+      "primary_sector": "Bonds",
+      "etf_tickers": [],
+      "rotation": ""
+    },
+    {
+      "title": "Australia hikes rates to 18-year high to fight inflation",
+      "headline_it": "",
+      "summary_it": "",
+      "summary_en": "The Reserve Bank of Australia's decision was in line with expectations from economists polled by Reuters, and marked its fifth rate increase this year.",
+      "source": "CNBC Economy",
+      "link": "https://www.cnbc.com/2026/11/03/australia-hikes-rates-18-year-high-finflation.html",
+      "date": "2026-11-03 03:46",
+      "score": 9.6,
+      "impact": "neutral",
+      "sectors": [
+        "Bonds",
+        "Broad Market",
+        "Commodities",
+        "Financials"
+      ],
+      "primary_sector": "Bonds",
+      "etf_tickers": [],
+      "rotation": ""
+    },
+    {
+      "title": "Top Democrats call to rein in AI buildout after midterms sweep: 'National data center moratorium now'",
+      "headline_it": "",
+      "summary_it": "",
+      "summary_en": "Democratic winners and progressive lawmakers are calling for tougher limits on AI and data centers after the 2026 midterm elections.",
+      "source": "CNBC World",
+      "link": "https://www.cnbc.com/2026/11/05/democrats-data-center-restrictions-midterms.html",
+      "date": "2026-11-05 20:17",
+      "score": 9.6,
+      "impact": "neutral",
+      "sectors": [
+        "Broad Market",
+        "International",
+        "Tech & Semiconductors"
+      ],
+      "primary_sector": "Broad Market",
+      "etf_tickers": [],
+      "rotation": ""
+    },
+    {
+      "title": "Equinix points to smaller facilities as scrutiny of U.S. data center construction grows",
+      "headline_it": "",
+      "summary_it": "",
+      "summary_en": "Equinix says smaller data centers may be less exposed to U.S. restrictions as scrutiny of AI infrastructure grows.",
+      "source": "CNBC World",
+      "link": "https://www.cnbc.com/2026/11/06/equinix-us-data-center-growth-asia.html",
+      "date": "2026-11-06 07:23",
+      "score": 9.6,
+      "impact": "neutral",
+      "sectors": [
+        "Industrials",
+        "Real Estate",
+        "Tech & Semiconductors"
+      ],
+      "primary_sector": "Industrials",
+      "etf_tickers": [],
+      "rotation": ""
+    },
+    {
+      "title": "From tanks to drones: South Korea’s defense firms face a new battlefield test",
+      "headline_it": "",
+      "summary_it": "",
+      "summary_en": "South Korean defense stocks rode a wave of global rearmament for the past two years, but they have plunged in 2026.",
+      "source": "CNBC World",
+      "link": "https://www.cnbc.com/2026/11/05/south-korea-defense-weapon-war-stocks-fall.html",
+      "date": "2026-11-05 08:07",
+      "score": 9.6,
+      "impact": "bearish",
+      "sectors": [
+        "Industrials",
+        "International",
+        "Tech & Semiconductors"
+      ],
+      "primary_sector": "Industrials",
+      "etf_tickers": [],
+      "rotation": ""
+    },
+    {
+      "title": "Why are oil traders refusing to buy Russian diesel after Trump-Putin deal?",
+      "headline_it": "",
+      "summary_it": "",
+      "summary_en": "Zero Russian diesel has reached the US as tankers divert and buyers fear legal action.",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/news/2026/11/7/why-are-oil-traders-refusing-to-buy-russian-diesel-after-trump-putin-deal?traffic_source=rss",
+      "date": "2026-11-07 12:24",
+      "score": 9.6,
+      "impact": "bearish",
+      "sectors": [
+        "Commodities",
+        "Energy",
+        "International"
+      ],
+      "primary_sector": "Commodities",
+      "etf_tickers": [],
+      "rotation": ""
+    }
+  ]
+}
