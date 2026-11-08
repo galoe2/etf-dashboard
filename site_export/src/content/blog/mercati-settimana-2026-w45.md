@@ -1,29 +1,38 @@
 ---
-title: "Mercati: rotazione verso difensivi e rimbalzo delle commodities"
+title: "Rotazione risk‑off: flussi verso commodities e mercati emergenti"
 rubrica: MERCATI
 date: 2026-11-08
-abstract: "Il mercato globale mostra segnali di risk‑off con outflow da tech e un rally delle commodities; la settimana si dipinge tra rotazioni verso obbligazioni e opportunità di rimbalzo tecnico."
+abstract: "Il regime rotazionale e i flussi settoriali indicano un possibile spostamento verso beni reali e regioni a basso costo energetico."
 stat: "SPY -2,7%"
 sparkline: "2.0,7.2 9.5,7.5 17.0,4.3 24.5,4.9 32.0,2.0 39.5,7.0 47.0,8.0 54.5,9.4 62.0,16.0"
 report: "/reports/ETF_Report_2026-W45.html"
 ---
 
-Il panorama settimanale è dominato da un regime risk‑off: SPY è sceso del 2,7 % e QQQ del 4,98 %, con un breadth di 6/13 che indica più titoli in ribasso. La pressione sui titoli high‑growth tech è evidente, mentre le commodity guidano il rally.
+Il mercato ha chiuso la settimana in un regime rotazionale, con SPY in calo del -2,7% e QQQ del -4,98%. L'ampiezza è debole (6/13), segnale di partecipazione limitata. I settori più performanti sono state le commodities (+3,96%) e i consumatori (+3,47%), mentre il settore tecnologico e i semiconduttori hanno registrato il peggior risultato (-8,19%). A livello geografico, la Cina ha guidato con +6,08%, mentre gli Stati Uniti sono risultati il peggior mercato con -2,65%.
 
 ## Cosa dicono i dati
-Il mercato globale registra un outflow netto dal Broad Market (‑68) e dal settore Tech & Semiconductors (‑61). Il miglior settore settimanale è stato **Commodities** (+3,96 %), con il miglior ETF **Gold Miners** (+13,63 %). Al contrario, **Tech & Semiconductors** è il peggior settore (‑8,19 %) e l’ETF **Crude Oil** ha perso ‑12,1 %. Tra le regioni, la **Cina** è la più forte (+6,08 %) grazie a flussi in ingresso (+40), mentre gli **Stati Uniti** restano la peggiore (‑2,65 %). I momentum settoriali confermano la tendenza: **Consumers** (95), **Real Estate** (89) e **Utilities** (80) sono in crescita, mentre **Tech & Semiconductors** (10) e **Energy** (36) perdono slancio. Gli RSI mostrano sovra‑venduto su **US Tech** (XLK 29,4) e **Semiconductors** (SMH 31,4), suggerendo possibili rimbalzi tecnici.
+- **Regime di mercato**: rotazionale (pipeline). 
+- **Breadth**: 6 titoli in rialzo su 13 (6/13). 
+- **Migliori settori**: commodities (+3,96%), consumatori (+3,47%). 
+- **Peggiori settori**: tech & semiconduttori (-8,19%). 
+- **Migliori regioni**: Cina (+6,08%). 
+- **Peggiori regioni**: Stati Uniti (-2,65%). 
+- **Top performer ETF**: Gold Miners (+13,63%), Solar (+13,38%). 
+- **Peggiori ETF**: Crude Oil (-12,10%), Oil & Gas (-12,00%).
 
 ## Rotazioni e flussi
-Il capitale sta abbandonando il Broad Market e il tech per rifugiarsi in obbligazioni (Bonds +0,03 %) e asset difensivi. I flussi geografici evidenziano ingressi in **Cina**, **India** e **EM Africa & Middle East**, mentre gli **Stati Uniti** registrano un forte outflow (‑68). Gli ETF più venduti sono **USO** (‑12,1 %) e **XLE** (‑12,0 %); i più acquistati includono **GDX**, **TAN** (+13,38 %) e **KWEB** (+9,41 %).
+- **Flussi in uscita**: Broad Market (-68) e Tech & Semiconductors (-61) indicano disimpegno dal rischio azionario tradizionale. 
+- **Flussi in ingresso**: Bonds (+2,44) e mercati emergenti Africa & Medio Oriente (+31) mostrano una rotazione verso asset difensivi e regioni a valutazioni più basse. 
+- **RSI**: gli ETF tecnologici sono oversold (XLK 29,4; VGT 30,6; QQQ 31,4), mentre alcuni asset difensivi mostrano segnali di overbought moderato (Healthcare 63,0; 20Y+ Treasury 61,6).
 
 ## La lettura ex ante
-Se la pressione inflazionistica e i rialzi dei tassi continueranno a spingere gli investitori verso la sicurezza, allora potremmo assistere a una consolidazione dei flussi verso obbligazioni e commodity difensive, con un possibile rimbalzo tecnico nei titoli tech oversold. Se, al contrario, le tensioni geopolitiche sul petrolio si attenueranno, allora l’attuale debolezza di **Crude Oil** potrebbe invertire rapidamente.
-> "Il mercato premia la prudenza quando l’incertezza macro è alta, ma non dimentica le opportunità di rimbalzo tecnico." 
+Se il regime rotazionale persiste e i flussi continuano a favorire obbligazioni e mercati emergenti a basso costo energetico, allora potremmo assistere a un consolidamento dei prezzi dei beni reali (oro, energia rinnovabile) e a ulteriori pressioni ribassiste sui titoli tecnologici. 
+> "Il mercato sta premiando la qualità reale quando il rischio è percepito come elevato."
 
 ## Prima che accada
-1. Un RSI sotto 30 su **US Tech** (XLK) o **Semiconductors** (SMH) accompagnato da un volume crescente confermerà un rimbalzo tecnico.
-2. Un aumento del flusso netto verso obbligazioni (score > 70) indicherà una rotazione strutturata verso asset a reddito fisso.
-3. Un rialzo di almeno 2 % di **Gold Miners** (GDX) su base settimanale suggerirà che il rally delle commodity è sostenuto da domanda reale, non solo da speculazione.
+1. Se gli outflow da Broad Market superano i -60 punti, allora i flussi verso obbligazioni e commodities dovrebbero rafforzarsi. 
+2. Se l'RSI dei titoli tech rimane sotto 35, allora le opportunità short su semiconductor potrebbero rimanere valide. 
+3. Se l'inflow verso l'Africa & Medio Oriente supera i 30 punti, allora i mercati emergenti di quella zona potrebbero guidare la performance globale della prossima settimana.
 
 ## Fonti
 
