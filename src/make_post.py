@@ -113,11 +113,18 @@ def ai_article(analysis, commentary_text):
     try:
         from groq import Groq
         client = Groq(api_key=key, max_retries=4)
+        regime = market_regime(analysis.get("market_overview", {}))
+        regime_it = {"RISK-ON": "risk-on", "RISK-OFF": "risk-off", "ROTATIONAL": "rotazionale"}.get(regime, regime)
         prompt = f"""Sei l'autore del blog finanziario italiano "Ex Ante" (tagline: "Prima che accada. Mercati, modelli, dati.").
 Scrivi l'articolo settimanale della rubrica MERCATI a partire dai dati quantitativi e dal commento tecnico forniti.
 
 Stile: prima persona, sobrio, analitico, zero sensazionalismo. Tesi sempre condizionali ("se... allora"), mai certezze.
-Chiama settori e mercati per nome, in italiano (es. semiconduttori, petrolio, cloud), non con i ticker degli ETF.
+Chiama settori e mercati per nome, in italiano (es. semiconduttori, petrolio, cloud), non con i ticker degli ETF, nemmeno tra parentesi.
+Regole di precisione:
+- Regime di mercato della settimana, calcolato dalla pipeline e mostrato sul sito: {regime_it}. Usa questo, non dedurne un altro.
+- Non confondere performance e flussi: migliori e peggiori ETF della settimana (top_gainers, top_losers) sono performance, non "i più acquistati" o "i più venduti". Per i flussi usa solo capital_flows e country_flows.
+- Ogni segnale di "Prima che accada" è una condizione verificabile e coerente con la tesi ("se..., allora...").
+- Percentuali senza spazio prima del simbolo (es. -2,7%).
 Struttura del corpo (markdown):
 - 1 paragrafo introduttivo senza titolo
 - "## Cosa dicono i dati" — regime di mercato, breadth, settori/regioni migliori e peggiori con i numeri
@@ -149,6 +156,9 @@ COMMENTO TECNICO DELLA PIPELINE (da riscrivere, non copiare):
         raw = resp.choices[0].message.content.strip()
         raw = re.sub(r"^```(json)?\s*|```$", "", raw).strip()
         data = json.loads(raw)
+        # Niente prefisso "Mercati:" nel titolo (la rubrica è già nel chip)
+        title = re.sub(r"^\s*mercati\s*[:\-–—]\s*", "", data.get("title", ""), flags=re.I).strip()
+        data["title"] = title[:1].upper() + title[1:]
         if data.get("title") and data.get("body"):
             print("  Articolo AI: OK")
             return data
