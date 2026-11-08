@@ -475,12 +475,16 @@ print("Building HTML...")
 # AI COMMENTARY via Groq
 # ═══════════════════════════════════════════
 GROQ_API_KEY = os.environ.get('GROQ_API_KEY', '')
+# llama-3.3-70b-versatile è stato spento da Groq il 16/08/2026.
+# Modello sovrascrivibile senza toccare il codice: variabile GROQ_MODEL.
+GROQ_MODEL = os.environ.get('GROQ_MODEL') or 'openai/gpt-oss-120b'
+GROQ_EXTRA = {'reasoning_effort': 'low'} if GROQ_MODEL.startswith('openai/gpt-oss') else {}
 ai_commentary_html = ""
 if GROQ_API_KEY:
     try:
         from groq import Groq
-        print("  Generating AI commentary via Groq...")
-        gclient = Groq(api_key=GROQ_API_KEY)
+        print(f"  Generating AI commentary via Groq ({GROQ_MODEL})...")
+        gclient = Groq(api_key=GROQ_API_KEY, max_retries=4)
         ai_prompt = f"""Sei un analista istituzionale senior specializzato in ETF. Analizza TUTTI i dati forniti e produci un report in italiano strutturato in 5 sezioni HTML con tag <h3>:
 
 1. <h3>Regime di Mercato & Breadth</h3> — Risk-on/off/rotazionale, ampiezza, forza relativa SPY/QQQ
@@ -496,12 +500,12 @@ if GROQ_API_KEY:
 Usa <p>, <strong>, <ul><li> per strutturare. Usa classi CSS: <span class="sig-up">testo</span> per segnali positivi, <span class="sig-dn">testo</span> per negativi. 400-500 parole. Solo HTML grezzo, nessun markdown, nessun backtick.
 
 DATA:
-{json.dumps(analysis_data, ensure_ascii=False)}"""
+{json.dumps(analysis_data, ensure_ascii=False, separators=(',', ':'))}"""
 
         resp = gclient.chat.completions.create(
-            model='llama-3.3-70b-versatile',
+            model=GROQ_MODEL,
             messages=[{"role":"user","content":ai_prompt}],
-            temperature=0.3, max_tokens=2000,
+            temperature=0.3, max_tokens=3000, **GROQ_EXTRA,
         )
         raw = resp.choices[0].message.content.strip()
         # Clean markdown fences if present

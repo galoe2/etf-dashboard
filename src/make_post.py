@@ -97,6 +97,13 @@ def sparkline_points(values, width=64, height=18, pad=2):
     return " ".join(pts)
 
 
+# Sezione fonti aggiunta in coda a ogni articolo settimanale
+FONTI = """## Fonti
+
+- Prezzi e performance degli ETF: Yahoo Finance, elaborazione della pipeline settimanale di Ex Ante.
+- Notizie della settimana: feed RSS di banche centrali (Fed, BCE, Bank of England, Bank of Japan), FMI, BIS e testate finanziarie (CNBC, MarketWatch, Reuters e altre)."""
+
+
 # ── Corpo articolo: AI (Groq) con fallback deterministico ──────────
 
 def ai_article(analysis, commentary_text):
@@ -105,32 +112,39 @@ def ai_article(analysis, commentary_text):
         return None
     try:
         from groq import Groq
-        client = Groq(api_key=key)
+        client = Groq(api_key=key, max_retries=4)
         prompt = f"""Sei l'autore del blog finanziario italiano "Ex Ante" (tagline: "Prima che accada. Mercati, modelli, dati.").
 Scrivi l'articolo settimanale della rubrica MERCATI a partire dai dati quantitativi e dal commento tecnico forniti.
 
 Stile: prima persona, sobrio, analitico, zero sensazionalismo. Tesi sempre condizionali ("se... allora"), mai certezze.
+Chiama settori e mercati per nome, in italiano (es. semiconduttori, petrolio, cloud), non con i ticker degli ETF.
 Struttura del corpo (markdown):
 - 1 paragrafo introduttivo senza titolo
 - "## Cosa dicono i dati" — regime di mercato, breadth, settori/regioni migliori e peggiori con i numeri
 - "## Rotazioni e flussi" — dove entra e da dove esce il capitale, RSI estremi
 - "## La lettura ex ante" — la tesi della settimana come struttura di condizioni; includi una citazione in blockquote (una frase memorabile)
-- "## Cosa guardo da qui" — elenco puntato di 3 segnali verificabili per la settimana successiva
-400-550 parole totali. Numeri con virgola decimale (stile italiano).
+- "## Prima che accada" — la sezione firma che chiude l'articolo: elenco numerato di 3 segnali verificabili per la settimana successiva
+400-550 parole totali. Numeri con virgola decimale (stile italiano). Niente sezione fonti: la aggiunge il sito.
 
 Rispondi SOLO con un JSON valido, senza backtick:
 {{"title": "titolo dell'articolo (max 80 caratteri, niente due punti iniziali tipo 'Mercati:')", "abstract": "abstract di 1-2 frasi (max 160 caratteri)", "body": "corpo in markdown", "table_comment": "commento di 1-2 frasi (max 240 caratteri) al Market Pulse per la home: cosa guida, cosa resta indietro, eccessi da monitorare"}}
 
 DATI QUANTITATIVI:
-{json.dumps(analysis, ensure_ascii=False)}
+{json.dumps(analysis, ensure_ascii=False, separators=(',', ':'))}
 
 COMMENTO TECNICO DELLA PIPELINE (da riscrivere, non copiare):
-{commentary_text[:4000]}"""
+{commentary_text[:3000]}"""
+        # llama-3.3-70b-versatile è stato spento da Groq il 16/08/2026.
+        # Modello sovrascrivibile senza toccare il codice: variabile GROQ_MODEL.
+        model = os.environ.get("GROQ_MODEL") or "openai/gpt-oss-120b"
+        extra = {"reasoning_effort": "low"} if model.startswith("openai/gpt-oss") else {}
         resp = client.chat.completions.create(
-            model="llama-3.3-70b-versatile",
+            model=model,
             messages=[{"role": "user", "content": prompt}],
             temperature=0.4,
-            max_tokens=2500,
+            max_tokens=2800,
+            response_format={"type": "json_object"},
+            **extra,
         )
         raw = resp.choices[0].message.content.strip()
         raw = re.sub(r"^```(json)?\s*|```$", "", raw).strip()
@@ -152,13 +166,21 @@ def deterministic_article(analysis):
     inflow = ", ".join(f["group"] for f in flows.get("inflow", [])[:3]) or "n.d."
     outflow = ", ".join(f["group"] for f in flows.get("outflow", [])[:3]) or "n.d."
     rsi = analysis.get("rsi_extremes", {})
-    ob = ", ".join(x["t"] for x in rsi.get("overbought", [])) or "nessuno"
-    os_ = ", ".join(x["t"] for x in rsi.get("oversold", [])) or "nessuno"
+    ob = ", ".join(x.get("d") or x["t"] for x in rsi.get("overbought", [])) or "nessuno"
+    os_ = ", ".join(x.get("d") or x["t"] for x in rsi.get("oversold", [])) or "nessuno"
 
     title = f"La settimana dei mercati: {bs.get('name','–')} guida, {ws.get('name','–')} in coda"
-    abstract = (
-        f"SPY {fmt_pct(mo.get('spy_1w', 0))} sulla settimana. "
-        f"Capitale in ingresso su {inflow.split(',')[0] if inflow != 'n.d.' else '–'}: la lettura settimanale dei dati su oltre 100 ETF."
+    if inflow != "n.d.":
+        abstract = (
+            f"SPY {fmt_pct(mo.get('spy_1w', 0))} sulla settimana. "
+            f"Capitale in ingresso su {inflow.split(',')[0]}: la lettura settimanale dei dati su oltre 100 ETF."
+        )
+    else:
+        abstract = f"SPY {fmt_pct(mo.get('spy_1w', 0))} sulla settimana: la lettura settimanale dei dati su oltre 100 ETF."
+    flussi = (
+        f"I proxy dei flussi indicano capitale in ingresso su {inflow} e in uscita da {outflow}."
+        if inflow != "n.d."
+        else f"I proxy dei flussi non segnalano ingressi netti; capitale in uscita da {outflow}."
     )
     body = f"""Come ogni settimana, la pipeline ha passato in rassegna oltre 100 ETF tra settori e regioni. Qui sotto la sintesi dei numeri; il dettaglio completo, con tabelle e grafici interattivi, è nel report allegato in fondo.
 
@@ -168,7 +190,7 @@ SPY ha chiuso la settimana a {fmt_pct(mo.get('spy_1w', 0))}, QQQ a {fmt_pct(mo.g
 
 ## Rotazioni e flussi
 
-I proxy dei flussi indicano capitale in ingresso su {inflow} e in uscita da {outflow}. Sul fronte degli eccessi: RSI in ipercomprato per {ob}, in ipervenduto per {os_}.
+{flussi} Sul fronte degli eccessi: RSI in ipercomprato per {ob}, in ipervenduto per {os_}.
 
 ## La lettura ex ante
 
@@ -176,11 +198,11 @@ I proxy dei flussi indicano capitale in ingresso su {inflow} e in uscita da {out
 
 Se i flussi confermano la rotazione e la breadth non si deteriora, la struttura resta costruttiva; in caso contrario, la settimana andrà archiviata come rumore.
 
-## Cosa guardo da qui
+## Prima che accada
 
-- La conferma (o smentita) dei flussi su {inflow.split(',')[0] if inflow != 'n.d.' else 'settori in accumulo'}.
-- Il rientro degli RSI estremi senza danni sui prezzi.
-- La tenuta della breadth settoriale sopra la metà dei settori."""
+1. La conferma (o smentita) dei flussi su {inflow.split(',')[0] if inflow != 'n.d.' else 'settori in accumulo'}.
+2. Il rientro degli RSI estremi senza danni sui prezzi.
+3. La tenuta della breadth settoriale sopra la metà dei settori."""
     return {"title": title, "abstract": abstract, "body": body}
 
 
@@ -242,6 +264,7 @@ def main():
     commentary = strip_html(payload.get("ai_commentary_html", ""))
 
     article = ai_article(analysis, commentary) or deterministic_article(analysis)
+    article["body"] = article["body"].rstrip() + "\n\n" + FONTI
 
     # Copia il report HTML completo in public/reports/
     report_src = find_latest(OUT, "ETF_Report_", ".html")

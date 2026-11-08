@@ -75,9 +75,22 @@ Zero. GitHub Free include 2.000 minuti/mese. Il report usa ~5 minuti a settimana
 il report HTML completo in `public/reports/` del sito. Testo via Groq, con fallback
 deterministico se la chiave manca. Path del sito: env `SITE_DIR` (default `../exante`).
 
-Nel cloud: il workflow settimanale, se sono configurati la variable `SITE_REPO`
-(`tuo-user/repo-sito`) e il secret `SITE_PUSH_TOKEN` (PAT con Contents: read/write sul repo
-del sito), pusha l'articolo nel repo del sito → GitHub Pages rideploya automaticamente.
+Nel cloud il workflow settimanale gira con `SITE_DIR=site_export`: articolo, `market.json` e
+`watchlist.json` vengono salvati in `site_export/` di questo repo (i report restano in
+`output/`). Il sito `galoe2/exante` legge questo repo pubblico con un suo workflow
+programmato (sabato sera + ogni mattina), copia i file nuovi e si ripubblica da solo.
+Nessun token da configurare tra i due repo.
+
+Lancio manuale: Actions → "ETF Weekly Report" → Run workflow (togli la spunta "Invia il
+report via email" per una prova senza email).
+
+## Modelli AI (Groq)
+
+`llama-3.3-70b-versatile` è stato spento da Groq il 16/08/2026. Default attuali:
+`openai/gpt-oss-120b` per commento del report e articolo, `openai/gpt-oss-20b` per
+l'analisi delle news. Per cambiarli senza toccare il codice: variabili del repo
+`GROQ_MODEL` e `GROQ_MODEL_NEWS` (Settings → Secrets and variables → Actions → Variables).
+Elenco aggiornato e dismissioni: https://console.groq.com/docs/deprecations
 
 ## Email
 

@@ -75,10 +75,14 @@ OUTPUT_FILE = os.path.join(SCRIPT_DIR, 'news_data.json')
 
 # LLM
 GROQ_API_KEY = os.environ.get('GROQ_API_KEY', '')
-LLM_MODEL = 'llama-3.3-70b-versatile'
+# llama-3.3-70b-versatile è stato spento da Groq il 16/08/2026.
+# Modello sovrascrivibile senza toccare il codice: variabile GROQ_MODEL_NEWS.
+LLM_MODEL = os.environ.get('GROQ_MODEL_NEWS') or 'openai/gpt-oss-20b'
 LLM_ENABLED = bool(GROQ_API_KEY)
-LLM_DELAY = 2.0
+# Piano gratuito Groq: 8K token/minuto per modello → ~7 chiamate al minuto.
+LLM_DELAY = float(os.environ.get('GROQ_LLM_DELAY') or 8.0)
 LLM_RETRIES = 2
+LLM_EXTRA = {'reasoning_effort': 'low'} if LLM_MODEL.startswith('openai/gpt-oss') else {}
 
 _sector_list = ", ".join(SECTOR_ORDER)
 
@@ -360,7 +364,7 @@ def llm_enrich(articles):
         safe_print("  LLM: skipped (no key)")
         return articles
 
-    try: client = Groq(api_key=GROQ_API_KEY)
+    try: client = Groq(api_key=GROQ_API_KEY, max_retries=4)
     except Exception as e:
         safe_print(f"  LLM error: {e}"); return articles
 
@@ -383,7 +387,7 @@ def llm_enrich(articles):
                 resp = client.chat.completions.create(
                     model=LLM_MODEL,
                     messages=[{"role":"system","content":LLM_SYSTEM_PROMPT},{"role":"user","content":msg}],
-                    temperature=0.15, max_tokens=400,
+                    temperature=0.15, max_tokens=800, **LLM_EXTRA,
                     response_format={"type":"json_object"},
                 )
                 r = json.loads(resp.choices[0].message.content)

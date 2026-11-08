@@ -6,11 +6,16 @@ on:
     - cron: '0 8 * * 6'   # sabato 08:00 UTC = 09:00 CET
   # Pulsante per lancio manuale da GitHub
   workflow_dispatch:
+    inputs:
+      email:
+        description: 'Invia il report via email'
+        type: boolean
+        default: true
 
 jobs:
   build-report:
     runs-on: ubuntu-latest
-    timeout-minutes: 15
+    timeout-minutes: 20
 
     steps:
       - name: Checkout repository
@@ -26,42 +31,27 @@ jobs:
           python -m pip install --upgrade pip
           pip install -r requirements.txt
 
-      # Checkout del repo del sito Ex Ante (per pubblicare l'articolo settimanale).
-      # Config necessaria su questo repo:
-      #   - Variable SITE_REPO (Settings → Secrets and variables → Actions → Variables),
-      #     es. "tuo-user/exante"
-      #   - Secret SITE_PUSH_TOKEN: fine-grained PAT con permesso
-      #     Contents: read/write sul repo del sito
-      - name: Checkout blog repository
-        if: ${{ vars.SITE_REPO != '' }}
-        uses: actions/checkout@v4
-        with:
-          repository: ${{ vars.SITE_REPO }}
-          token: ${{ secrets.SITE_PUSH_TOKEN }}
-          path: site
-
+      # I file per il sito Ex Ante (articolo, market.json, watchlist.json) finiscono
+      # in site_export/ di questo repo. È il sito (galoe2/exante) a prenderli da qui,
+      # leggendo questo repo pubblico: nessun token da configurare.
       - name: Run ETF Report
         env:
           GROQ_API_KEY: ${{ secrets.GROQ_API_KEY }}
+          # Opzionali (Settings → Secrets and variables → Actions → Variables):
+          # per cambiare modello Groq senza toccare il codice.
+          GROQ_MODEL: ${{ vars.GROQ_MODEL }}
+          GROQ_MODEL_NEWS: ${{ vars.GROQ_MODEL_NEWS }}
           EMAIL_TO: ${{ secrets.EMAIL_TO }}
           RESEND_API_KEY: ${{ secrets.RESEND_API_KEY }}
-          SITE_DIR: ${{ github.workspace }}/site
+          SITE_DIR: ${{ github.workspace }}/site_export
+          SEND_EMAIL: ${{ github.event_name == 'schedule' || inputs.email }}
         run: |
-          if [ -d site ]; then
+          rm -rf site_export
+          if [ "$SEND_EMAIL" = "true" ]; then
             python run.py --email --post
           else
-            python run.py --email
+            python run.py --post
           fi
-
-      - name: Publish blog post
-        if: ${{ vars.SITE_REPO != '' }}
-        run: |
-          cd site
-          git config --local user.email "action@github.com"
-          git config --local user.name "GitHub Action"
-          git add src/content/blog/ src/data/ public/reports/
-          git diff --staged --quiet || git commit -m "Articolo settimanale $(date +%Y-W%V)"
-          git push
 
       - name: Upload report artifact
         uses: actions/upload-artifact@v4
@@ -74,6 +64,6 @@ jobs:
         run: |
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
-          git add output/ data/
+          git add output/ data/ site_export/
           git diff --staged --quiet || git commit -m "Report $(date +%Y-W%V)"
           git push

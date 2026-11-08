@@ -4,3 +4,5 @@ archive/
 sample/
 config.json
 src/analysis_data.json
+# I report del sito sono già in output/: il sito li copia da lì
+site_export/public/
