@@ -3,22 +3,28 @@
   "week": "2026-W45",
   "ideas": [
     {
-      "ticker": "VGT",
-      "price": 108.51,
+      "ticker": "ICLN",
+      "price": 16.45,
       "direction": "long",
-      "desc": "Info Technology"
+      "desc": "Clean Energy"
     },
     {
-      "ticker": "XLE",
-      "price": 61.62,
+      "ticker": "SMH",
+      "price": 463.96,
       "direction": "long",
-      "desc": "Oil & Gas"
+      "desc": "Semiconductors"
     },
     {
       "ticker": "QQQ",
       "price": 656.1,
       "direction": "long",
       "desc": "Nasdaq 100"
+    },
+    {
+      "ticker": "VGT",
+      "price": 108.51,
+      "direction": "long",
+      "desc": "Info Technology"
     },
     {
       "ticker": "USO",
@@ -33,34 +39,28 @@
       "desc": "20Y+ Treasury"
     },
     {
-      "ticker": "KWEB",
-      "price": 24.88,
+      "ticker": "XLE",
+      "price": 61.62,
       "direction": "long",
-      "desc": "China Internet"
+      "desc": "Oil & Gas"
     },
     {
-      "ticker": "TAN",
-      "price": 45.58,
+      "ticker": "XLV",
+      "price": 184.8,
       "direction": "long",
-      "desc": "Solar"
-    },
-    {
-      "ticker": "SMH",
-      "price": 463.96,
-      "direction": "long",
-      "desc": "Semiconductors"
-    },
-    {
-      "ticker": "SPY",
-      "price": 735.29,
-      "direction": "long",
-      "desc": "S&P 500"
+      "desc": "Healthcare"
     },
     {
       "ticker": "GDX",
       "price": 87.6,
       "direction": "long",
       "desc": "Gold Miners"
+    },
+    {
+      "ticker": "SPY",
+      "price": 735.29,
+      "direction": "long",
+      "desc": "S&P 500"
     }
   ]
 }

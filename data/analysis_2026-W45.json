@@ -424,22 +424,22 @@
     },
     "news_by_sector": {
       "Broad Market": {
-        "count": 38,
+        "count": 37,
         "top": [
+          {
+            "hl": "Wars May Spur Faster Electrification",
+            "impact": "bullish",
+            "src": "OilPrice"
+          },
           {
             "hl": "Cathay Pacific Airways to give eligible Hong Kong staff bonus worth a month’s pay",
             "impact": "neutral",
             "src": "SCMP"
-          },
-          {
-            "hl": "How Foreign Policy Shaped These 3 Critical Midterm Races",
-            "impact": "neutral",
-            "src": "Foreign Policy"
           }
         ]
       },
       "International": {
-        "count": 39,
+        "count": 37,
         "top": [
           {
             "hl": "10-year Treasury yield slides as traders mull over Democrats' midterm victories, oil prices drop",
@@ -447,14 +447,14 @@
             "src": "CNBC Finance"
           },
           {
-            "hl": "Energy Reliability Is Becoming More Important Than Energy Politics",
-            "impact": "bullish",
-            "src": "OilPrice"
+            "hl": "Vance Blames Iran War for GOP Midterms Wipeout",
+            "impact": "neutral",
+            "src": "Foreign Policy"
           }
         ]
       },
       "Tech & Semiconductors": {
-        "count": 9,
+        "count": 7,
         "top": [
           {
             "hl": "The AI ‘credit card’ is getting costlier as CoreWeave bond yield tops 16%",
@@ -469,7 +469,7 @@
         ]
       },
       "Financials": {
-        "count": 15,
+        "count": 16,
         "top": [
           {
             "hl": "Australia hikes rates to 18-year high to fight inflation",
@@ -477,39 +477,39 @@
             "src": "CNBC Economy"
           },
           {
-            "hl": "Banca d'Inghilterra alza tasso, inflazione al 5%",
-            "impact": "bearish",
-            "src": "CNBC Economy"
+            "hl": "Japanese Government Bonds Held by the Bank of Japan",
+            "impact": "neutral",
+            "src": "Bank of Japan"
           }
         ]
       },
       "Energy": {
-        "count": 32,
+        "count": 31,
         "top": [
+          {
+            "hl": "Stocks making the biggest moves premarket: Shake Shack, Wendy's, Peloton, Unity Software & more",
+            "impact": "neutral",
+            "src": "CNBC Finance"
+          },
           {
             "hl": "Iran executes three men arrested during January anti-government protests",
             "impact": "neutral",
             "src": "CNBC World"
-          },
-          {
-            "hl": "Iran executes three men for 'armed unrest' after January protests",
-            "impact": "neutral",
-            "src": "BBC World"
           }
         ]
       },
       "Commodities": {
-        "count": 33,
+        "count": 32,
         "top": [
           {
-            "hl": "Hoax Bomb Threats Disrupt Air Traffic Across Europe",
+            "hl": "Iran waiting to resume talks after US midterms ‘shock’Iranian Foreign Minis",
             "impact": "neutral",
-            "src": "Foreign Policy"
+            "src": "Al Jazeera"
           },
           {
-            "hl": "Democrats Won Big in the U.S. Midterms. What’s Next?",
-            "impact": "neutral",
-            "src": "Foreign Policy"
+            "hl": "Oil Traders Want U.S. to Release Sanctioned Tankers as Freight Costs Soar",
+            "impact": "mixed",
+            "src": "OilPrice"
           }
         ]
       },
@@ -517,52 +517,52 @@
         "count": 29,
         "top": [
           {
-            "hl": "Infantino’s Japanese challenger claims he could unseat FIFA president",
-            "impact": "bullish",
-            "src": "Al Jazeera"
+            "hl": "Democrats Won Big in the U.S. Midterms. What’s Next?",
+            "impact": "neutral",
+            "src": "Foreign Policy"
           },
           {
-            "hl": "Hundreds of thousands join Amsterdam’s ‘Red Line’ protest against Israel",
-            "impact": "bullish",
-            "src": "Al Jazeera"
+            "hl": "'Flat', 'tired', 'cynical': Unusually gloomy Kiwis deliver New Zealand's tightest election in years",
+            "impact": "neutral",
+            "src": "BBC World"
           }
         ]
       },
       "Bonds": {
-        "count": 16,
+        "count": 17,
         "top": [
           {
-            "hl": "Fed prevede ulteriori rialzi, inflazione in corsa",
+            "hl": "Rilancio tasso da Banca d'Inghilterra",
             "impact": "bearish",
-            "src": "CNBC Finance"
+            "src": "CNBC Economy"
           },
           {
-            "hl": "Rischio di rialzi tassi graduali, mercato in preoccupazione",
+            "hl": "Inflazione eurozona al 4% per la prima volta in 3 anni",
             "impact": "bearish",
-            "src": "CNBC Finance"
+            "src": "CNBC Economy"
           }
         ]
       }
     },
     "rotation_signals": [
       {
-        "signal": "Financials",
+        "signal": "Bonds to equities",
+        "source": "Bank of England"
+      },
+      {
+        "signal": "Financials → Bonds",
         "source": "CNBC Economy"
       },
       {
-        "signal": "rotazione verso settori a basso costo energetico",
+        "signal": "Possibile rotazione da Energy a Broad Market",
         "source": "CNBC Economy"
       },
       {
-        "signal": "shift verso obbligazioni",
+        "signal": "rotazione verso obbligazioni",
         "source": "CNBC Finance"
       },
       {
-        "signal": "Bonds → Broad Market",
-        "source": "CNBC Finance"
-      },
-      {
-        "signal": "rotazione verso ETF internazionali",
+        "signal": "International",
         "source": "CNBC World"
       }
     ],
@@ -637,7 +637,7 @@
       ]
     }
   },
-  "ai_commentary_html": "<h3>Regime di Mercato &amp; Breadth</h3>\n<p>Il mercato mostra un chiaro <span class=\"sig-dn\">regime risk‑off</span> con SPY down <span class=\"sig-dn\">‑2.7%</span> e QQQ down <span class=\"sig-dn\">‑4.98%</span> nell’ultima settimana. L’ampiezza è debole: solo 6 titoli avanzano su 13 (<strong>breadth 6/13</strong>), segnale di <span class=\"sig-dn\">bassa partecipazione</span> al rally. La forza relativa SPY/QQQ indica una maggiore pressione sul tech, con QQQ che perde quasi il doppio di SPY.</p>\n\n<h3>Rotazione Settoriale &amp; Geografica</h3>\n<p>Momentum settoriale evidenzia:</p>\n<ul>\n<li><span class=\"sig-up\">Consumers (score 95)</span> – +3.47% settimanale, +2.9% mensile.</li>\n<li><span class=\"sig-up\">Real Estate (score 89)</span> – +2.31% settimanale, +8.54% mensile.</li>\n<li><span class=\"sig-up\">Utilities (score 80)</span> – leggero +0.69% settimanale, +5.02% mensile.</li>\n<li><span class=\"sig-dn\">Tech &amp; Semiconductors (score 10)</span> – -8.19% settimanale, -14.48% mensile.</li>\n</ul>\n<p>Geograficamente, l’Europa sta guadagnando momentum (<span class=\"sig-up\">score 95</span>, +0.18% settimanale) mentre gli Stati Uniti sono il peso morto (<span class=\"sig-dn\">score 25</span>, -2.65%). L’Asia emergente mostra segni di debolezza, ma l’Africa &amp; Medio Oriente registra un inflow positivo (+6.02% settimanale) grazie a flussi di capitale.</p>\n\n<h3>Movimenti Anticipatori &amp; Correlazioni</h3>\n<p>Gli outflow più marcati provengono da Broad Market (‑68) e Tech &amp; Semiconductors (‑61), indicando che gli investitori stanno disimpegnando il rischio azionario tradizionale. Al contempo, i flussi verso i bond (Bonds con flow_score +2.44) e verso i mercati emergenti africani (+31) suggeriscono una rotazione verso asset più difensivi e verso regioni con valutazioni più basse.</p>\n<p>Le correlazioni mostrano una divergenza: mentre i titoli tech sono in forte ribasso, i commodities (GDX +13.63%) e i consumatori (TAN +13.38%) stanno guidando il rally, creando una potenziale opportunità di “flight‑to‑quality” verso beni reali.</p>\n\n<h3>Impatto News &amp; Catalizzatori</h3>\n<p>Le notizie più influenti:</p>\n<ul>\n<li><strong>Energy</strong>: report neutri su Iran, ma pressione sui prezzi oil a causa di tensioni geopolitiche – impatto <span class=\"sig-dn\">negativo</span> su XLE (-12.0%).</li>\n<li><strong>Tech</strong>: notizie su costi crescenti per AI (CoreWeave bond 16%) – rafforzano il sentiment bearish su SMH e VGT (RSI oversold <30).</li>\n<li><strong>Financials</strong>: rialzi tassi in Australia e UK – spingono verso <span class=\"sig-up\">rotazione verso obbligazioni</span> (TLT overbought ma con trend di consolidamento).</li>\n<li><strong>Commodities</strong>: hype su gold miners (GDX) e solar (TAN) alimentato da flussi di capitali verso asset difensivi.</li>\n</ul>\n\n<h3>Idee di Investimento</h3>\n<ul>\n<li><strong>Long GDX (Gold Miners)</strong> – timeframe medio (3‑6 mesi), <span class=\"sig-up\">convinzione alta</span>. Rischio: volatilità legata a tassi reali.</li>\n<li><strong>Long TAN (Solar)</strong> – breve/medio (1‑4 mesi), <span class=\"sig-up\">convinzione media</span>. Rischio: dipendenza da incentivi politici.</li>\n<li><strong>Short USO (Crude Oil)</strong> – breve (2‑6 settimane), <span class=\"sig-dn\">convinzione alta</span>. Rischio: improvvisa escalation geopolitica.</li>\n<li><strong>Long IEF (7‑10Y Treasury ETF)</strong> – medio (4‑8 mesi), <span class=\"sig-up\">convinzione media</span>. Rischio: sorprese rialziste della Fed.</li>\n<li><strong>Long KWEB (China Internet)</strong> – medio (3‑6 mesi), <span class=\"sig-up\">convinzione media</span>. Rischio: regolamentazione cinese e volatilità del RMB.</li>\n</ul>",
+  "ai_commentary_html": "<h3>Regime di Mercato &amp; Breadth</h3>\n<p>Il mercato globale mostra un <span class=\"sig-dn\">regime risk‑off</span> dominante: SPY -2,7% e QQQ -4,98% su 1 settimana, con un breadth di <span class=\"sig-dn\">6/13</span> (solo 6 titoli in rialzo su 13). La debolezza è più marcata nei titoli tecnologici, mentre i settori difensivi (Healthcare, Utilities) mantengono una leggera resilienza. La forza relativa indica che SPY sta perdendo meno rispetto a QQQ, segnale di una rotazione verso asset meno ciclici.</p>\n\n<h3>Rotazione Settoriale &amp; Geografica</h3>\n<p>Momentum settoriale evidenzia:</p>\n<ul>\n<li><span class=\"sig-up\">Consumers (score 95)</span> e <span class=\"sig-up\">Real Estate (score 89)</span> in forte crescita, supportati da flussi di capitale verso ETF <strong>VCR</strong> e <strong>IYR</strong>.</li>\n<li><span class=\"sig-dn\">Tech &amp; Semiconductors (score 10)</span> in forte declino, con outflow evidenziato da <strong>SMH</strong> (-11,2%).</li>\n<li><span class=\"sig-dn\">Energy (score 36)</span> continua a perdere slancio, trainato da USO (-12,1%).</li>\n</ul>\n<p>Geograficamente, la regione con il miglior momentum è la <span class=\"sig-up\">Cina (+6,08% 1w)</span>, seguita da India (+5,94%). Gli Stati Uniti sono il peggior performer (-2,65%). I flussi di capitale mostrano inflow verso China, EM Africa &amp; Middle East e India, mentre gli USA registrano outflow significativo (-68).</p>\n\n<h3>Movimenti Anticipatori &amp; Correlazioni</h3>\n<p>Le correlazioni emergenti indicano:</p>\n<ul>\n<li>Un lead <span class=\"sig-up\">Bonds → Equities</span> (segnale Bank of England) con i Treasury a 20Y+ (TLT) in overbought (RSI 61,6) e un leggero rimbalzo dei bond (Bonds +0,03% 1w).</li>\n<li>Divergenza tra <strong>Healthcare (XLV)</strong> (overbought ma ancora in crescita) e <strong>Tech (XLK, VGT)</strong> (oversold, RSI ~30) suggerendo una possibile rotazione verso titoli difensivi.</li>\n<li>Outflow concentrato su “Broad Market” e “Tech &amp; Semiconductors” (-68, -61) indica pressione di vendita su ETF ampi come <strong>SPY</strong> e <strong>QQQ</strong>.</li>\n</ul>\n\n<h3>Impatto News &amp; Catalizzatori</h3>\n<p>Le notizie recenti influenzano la rotazione:</p>\n<ul>\n<li><strong>War‑driven electrification</strong> (OilPrice) spinge il settore <span class=\"sig-up\">Commodities</span> (GDX +13,63%).</li>\n<li>Le tensioni geopolitiche in Iran e le discussioni sui tassi USA generano <span class=\"sig-dn\">pressione su Energy</span> (USO, XLE).</li>\n<li>Il risultato delle elezioni mid‑term USA, con un outlook più prudente, alimenta il segnale “rotazione verso obbligazioni”.</li>\n<li>Il rialzo dei tassi in Australia e le mosse della Banca d’Inghilterra (tassi più alti) rafforzano il bias verso <span class=\"sig-up\">Bonds</span> e <span class=\"sig-up\">Financials</span> a breve termine.</li>\n</ul>\n\n<h3>Idee di Investimento</h3>\n<ul>\n<li><strong>Long GDX (Gold Miners)</strong> – timeframe medio (3‑6 mesi) – <span class=\"sig-up\">convinzione alta</span>. Motivo: forte momentum settimanale (+13,63%) e domanda di safe‑haven.</li>\n<li><strong>Short QQQ (Nasdaq 100)</strong> – timeframe breve (1‑2 mesi) – <span class=\"sig-dn\">convinzione alta</span>. Motivo: oversold RSI 31,4, outflow tech e debolezza settoriale.</li>\n<li><strong>Long ICLN (Clean Energy)</strong> – timeframe medio (3‑6 mesi) – <span class=\"sig-up\">convinzione media</span>. Motivo: +7,45% 1w, supportato da news su elettrificazione e flussi verso commodities.</li>\n<li><strong>Long VWO (Emerging Markets ex‑China)</strong> – timeframe medio (4‑8 mesi) – <span class=\"sig-up\">convinzione media</span>. Motivo: inflow verso EM Africa &amp; Middle East (+31) e momentum positivo in India.</li>\n<li><strong>Short USO (Crude Oil)</strong> – timeframe breve (1‑2 mesi) – <span class=\"sig-dn\">convinzione alta</span>. Motivo: -12,1% 1w, pressione geopolitica e outflow settoriale.</li>\n</ul>\n<p>Rischi chiave: volatilità elevata (realized vol 19,7%), potenziali sorprese sui dati inflazionistici USA, e ulteriori escalation geopolitiche che potrebbero invertire il bias risk‑off.</p>",
   "counts": {
     "etfs": 105,
     "sectors": 13,
