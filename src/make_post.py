@@ -167,53 +167,134 @@ COMMENTO TECNICO DELLA PIPELINE (da riscrivere, non copiare):
     return None
 
 
-def deterministic_article(analysis):
+NOMI_IT = {
+    # settori
+    "Bonds": "obbligazioni", "Broad Market": "indici ampi", "Commodities": "materie prime",
+    "Consumers": "consumi", "Crypto": "cripto", "Energy": "energia", "Financials": "finanziari",
+    "Healthcare": "sanità", "Industrials": "industriali", "International": "azionario internazionale",
+    "Real Estate": "immobiliare", "Tech & Semiconductors": "tecnologia e semiconduttori",
+    "Utilities": "utility",
+    # regioni
+    "China": "Cina", "EM Africa & Middle East": "emergenti di Africa e Medio Oriente",
+    "EM Asia": "emergenti asiatici", "EM Latin America": "America Latina", "Europe": "Europa",
+    "India": "India", "Other": "altri mercati", "United States": "Stati Uniti",
+}
+
+CITAZIONI = [
+    "I numeri di una settimana non fanno una tesi: fanno una lista di condizioni da verificare la settimana dopo.",
+    "Una rotazione diventa tendenza solo quando la confermano i flussi, non i titoli dei giornali.",
+    "Il mercato non premia chi indovina, ma chi sa in anticipo cosa gli farebbe cambiare idea.",
+    "Una settimana forte è un indizio; tre settimane nella stessa direzione sono un dato.",
+    "Prima i numeri, poi l'opinione: è l'unico ordine che regge alla verifica.",
+]
+
+
+def it(name):
+    """Nome italiano di settore o regione (se non mappato resta l'originale)."""
+    return NOMI_IT.get(name, name)
+
+
+def cap(text):
+    return text[:1].upper() + text[1:]
+
+
+def fmt_num(v):
+    return f"{v:.1f}".replace(".", ",")
+
+
+def deterministic_article(analysis, week=None):
+    """Articolo fatto solo di dati: ogni frase è verificabile sui numeri della pipeline."""
     mo = analysis.get("market_overview", {})
     bs, ws = mo.get("best_sector", {}), mo.get("worst_sector", {})
     br = analysis.get("best_region", {})
     wr = analysis.get("worst_region", {})
-    flows = analysis.get("capital_flows", {})
-    inflow = ", ".join(f["group"] for f in flows.get("inflow", [])[:3]) or "n.d."
-    outflow = ", ".join(f["group"] for f in flows.get("outflow", [])[:3]) or "n.d."
-    rsi = analysis.get("rsi_extremes", {})
-    ob = ", ".join(x.get("d") or x["t"] for x in rsi.get("overbought", [])) or "nessuno"
-    os_ = ", ".join(x.get("d") or x["t"] for x in rsi.get("oversold", [])) or "nessuno"
+    best, worst = it(bs.get("name", "–")), it(ws.get("name", "–"))
+    regime = {"RISK-ON": "risk-on", "RISK-OFF": "risk-off", "ROTATIONAL": "rotazionale"}[market_regime(mo)]
+    breadth = mo.get("breadth", "n.d.")
 
-    title = f"La settimana dei mercati: {bs.get('name','–')} guida, {ws.get('name','–')} in coda"
-    if inflow != "n.d.":
-        abstract = (
-            f"SPY {fmt_pct(mo.get('spy_1w', 0))} sulla settimana. "
-            f"Capitale in ingresso su {inflow.split(',')[0]}: la lettura settimanale dei dati su oltre 100 ETF."
-        )
-    else:
-        abstract = f"SPY {fmt_pct(mo.get('spy_1w', 0))} sulla settimana: la lettura settimanale dei dati su oltre 100 ETF."
-    flussi = (
-        f"I proxy dei flussi indicano capitale in ingresso su {inflow} e in uscita da {outflow}."
-        if inflow != "n.d."
-        else f"I proxy dei flussi non segnalano ingressi netti; capitale in uscita da {outflow}."
+    flows = analysis.get("capital_flows", {})
+    inflow = [it(f["group"]) for f in flows.get("inflow", [])[:3]]
+    outflow = [it(f["group"]) for f in flows.get("outflow", [])[:3]]
+    cflows = analysis.get("country_flows", {})
+    c_in = [it(f["group"]) for f in cflows.get("inflow", [])[:3]]
+    c_out = [it(f["group"]) for f in cflows.get("outflow", [])[:3]]
+
+    def lista(xs):
+        if len(xs) < 2:
+            return xs[0] if xs else ""
+        e = " ed " if xs[-1][:1].lower() == "e" else " e "
+        return ", ".join(xs[:-1]) + e + xs[-1]
+
+    flussi = "Flussi tra i settori: " + "; ".join([
+        f"in ingresso {lista(inflow)}" if inflow else "nessun ingresso netto",
+        f"in uscita {lista(outflow)}" if outflow else "nessuna uscita netta",
+    ]) + "."
+    if c_in or c_out:
+        flussi += " Tra le regioni: " + "; ".join([
+            f"in ingresso {lista(c_in)}" if c_in else "nessun ingresso netto",
+            f"in uscita {lista(c_out)}" if c_out else "nessuna uscita netta",
+        ]) + "."
+
+    rsi = analysis.get("rsi_extremes", {})
+    alti = rsi.get("overbought", [])[:3]
+    bassi = rsi.get("oversold", [])[:3]
+    def rsi_lista(xs):
+        return lista([f"{x.get('d') or x['t']} ({fmt_num(x['rsi'])})" for x in xs])
+    ipercomprati = [x for x in rsi.get("overbought", []) if x.get("rsi", 0) >= 70]
+    ipervenduti = [x for x in rsi.get("oversold", []) if x.get("rsi", 100) <= 30]
+    eccessi = ""
+    if alti and bassi:
+        eccessi = f"Sugli eccessi, gli RSI più alti sono su {rsi_lista(alti)}, i più bassi su {rsi_lista(bassi)}."
+        soglie = []
+        soglie.append(f"in ipercomprato (RSI da 70 in su) {rsi_lista(ipercomprati)}" if ipercomprati else "nessun ETF in ipercomprato (RSI da 70 in su)")
+        soglie.append(f"in ipervenduto (RSI fino a 30) {rsi_lista(ipervenduti)}" if ipervenduti else "nessuno in ipervenduto (RSI fino a 30)")
+        eccessi += " Oltre le soglie classiche: " + "; ".join(soglie) + "."
+
+    try:
+        n_wk = int((week or WEEK).split("W")[-1])
+    except Exception:
+        n_wk = 0
+    citazione = CITAZIONI[n_wk % len(CITAZIONI)]
+
+    try:
+        pos, tot = breadth.split("/")
+        ampiezza = f"{pos} settori positivi su {tot}"
+    except ValueError:
+        ampiezza = f"ampiezza {breadth}"
+
+    title = f"La settimana dei mercati: {best} in testa, {worst} in coda"
+    abstract = (
+        f"SPY {fmt_pct(mo.get('spy_1w', 0))} sulla settimana, {ampiezza}: "
+        f"in testa {best}, in coda {worst}."
     )
+    segnale_worst = f"Il comportamento del settore in coda, {worst}, dopo il {fmt_pct(ws.get('w1', 0))} della settimana: rimbalzo tecnico o nuovi minimi."
+    if ipervenduti:
+        segnale_worst = (
+            f"Il comportamento degli ETF in ipervenduto, a partire da {ipervenduti[0].get('d') or ipervenduti[0]['t']} "
+            f"(RSI {fmt_num(ipervenduti[0]['rsi'])}): rimbalzo tecnico o nuovi minimi."
+        )
     body = f"""Come ogni settimana, la pipeline ha passato in rassegna oltre 100 ETF tra settori e regioni. Qui sotto la sintesi dei numeri; il dettaglio completo, con tabelle e grafici interattivi, è nel report allegato in fondo.
 
 ## Cosa dicono i dati
 
-SPY ha chiuso la settimana a {fmt_pct(mo.get('spy_1w', 0))}, QQQ a {fmt_pct(mo.get('qqq_1w', 0))}, con una breadth settoriale di {mo.get('breadth', 'n.d.')} settori positivi. Il settore migliore è stato {bs.get('name','–')} ({fmt_pct(bs.get('w1', 0))}), il peggiore {ws.get('name','–')} ({fmt_pct(ws.get('w1', 0))}). Tra le regioni, {br.get('name','–')} ({fmt_pct(br.get('w1', 0))}) contro {wr.get('name','–')} ({fmt_pct(wr.get('w1', 0))}).
+SPY ha chiuso la settimana a {fmt_pct(mo.get('spy_1w', 0))}, QQQ a {fmt_pct(mo.get('qqq_1w', 0))}, con {ampiezza}: regime {regime}. Settori: in testa {best} ({fmt_pct(bs.get('w1', 0))}), in coda {worst} ({fmt_pct(ws.get('w1', 0))}). Regioni: in testa {it(br.get('name', '–'))} ({fmt_pct(br.get('w1', 0))}), in coda {it(wr.get('name', '–'))} ({fmt_pct(wr.get('w1', 0))}).
 
 ## Rotazioni e flussi
 
-{flussi} Sul fronte degli eccessi: RSI in ipercomprato per {ob}, in ipervenduto per {os_}.
+{flussi} {eccessi}
 
 ## La lettura ex ante
 
-> I numeri di una settimana non fanno una tesi: fanno una lista di condizioni da verificare la settimana dopo.
+> {citazione}
 
-Se i flussi confermano la rotazione e la breadth non si deteriora, la struttura resta costruttiva; in caso contrario, la settimana andrà archiviata come rumore.
+Se il settore in testa ({best}) conferma la forza e l'ampiezza torna sopra la metà dei settori, la rotazione della settimana prende corpo; se invece il settore in coda ({worst}) recupera subito il terreno perso, la settimana andrà archiviata come rumore.
 
 ## Prima che accada
 
-1. La conferma (o smentita) dei flussi su {inflow.split(',')[0] if inflow != 'n.d.' else 'settori in accumulo'}.
-2. Il rientro degli RSI estremi senza danni sui prezzi.
-3. La tenuta della breadth settoriale sopra la metà dei settori."""
-    return {"title": title, "abstract": abstract, "body": body}
+1. La tenuta del settore in testa, {best}, dopo il {fmt_pct(bs.get('w1', 0))} della settimana.
+2. {segnale_worst}
+3. L'ampiezza settoriale: oggi {ampiezza}, la soglia da riconquistare è la metà dei settori."""
+    return {"title": cap(title), "abstract": abstract, "body": body}
 
 
 def write_market_json(analysis, article, week, counts=None, spy_weekly=None, report_ref=""):
@@ -223,14 +304,14 @@ def write_market_json(analysis, article, week, counts=None, spy_weekly=None, rep
     if not comment:
         bs, ws = mo.get("best_sector", {}), mo.get("worst_sector", {})
         flows = analysis.get("capital_flows", {})
-        inflow = ", ".join(f["group"] for f in flows.get("inflow", [])[:2])
+        inflow = ", ".join(it(f["group"]) for f in flows.get("inflow", [])[:2])
         comment = (
-            f"Settimana a {fmt_pct(mo.get('spy_1w', 0))} per SPY, breadth {mo.get('breadth', 'n.d.')}: "
-            f"guida {bs.get('name', '–')} ({fmt_pct(bs.get('w1', 0))}), in coda {ws.get('name', '–')} "
+            f"Settimana a {fmt_pct(mo.get('spy_1w', 0))} per SPY, {mo.get('breadth', 'n.d.')} settori positivi: "
+            f"in testa {it(bs.get('name', '–'))} ({fmt_pct(bs.get('w1', 0))}), in coda {it(ws.get('name', '–'))} "
             f"({fmt_pct(ws.get('w1', 0))})."
         )
         if inflow:
-            comment += f" Flussi in ingresso su {inflow}."
+            comment += f" Flussi in ingresso: {inflow}."
     risk = analysis.get("risk", {})
     rsi = analysis.get("rsi_extremes", {})
     data_dir = os.path.join(SITE_DIR, "src", "data")
@@ -273,7 +354,11 @@ def main():
     week = payload.get("week", WEEK)
     commentary = strip_html(payload.get("ai_commentary_html", ""))
 
-    article = ai_article(analysis, commentary) or deterministic_article(analysis)
+    # ARTICLE_MODE: "dati" (default) = articolo fatto solo di numeri, sempre verificabile;
+    # "ai" = testo scritto da Groq, pubblicato senza revisione (fallback sui dati).
+    mode = (os.environ.get("ARTICLE_MODE") or "dati").strip().lower()
+    print(f"  Modalità articolo: {mode}")
+    article = (ai_article(analysis, commentary) if mode == "ai" else None) or deterministic_article(analysis, week)
     article["body"] = article["body"].rstrip() + "\n\n" + FONTI
 
     # Copia il report HTML completo in public/reports/

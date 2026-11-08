@@ -41,6 +41,8 @@ jobs:
           # per cambiare modello Groq senza toccare il codice.
           GROQ_MODEL: ${{ vars.GROQ_MODEL }}
           GROQ_MODEL_NEWS: ${{ vars.GROQ_MODEL_NEWS }}
+          # Articolo per il sito: vuoto o "dati" = solo numeri (default), "ai" = testo Groq
+          ARTICLE_MODE: ${{ vars.ARTICLE_MODE }}
           EMAIL_TO: ${{ secrets.EMAIL_TO }}
           RESEND_API_KEY: ${{ secrets.RESEND_API_KEY }}
           SITE_DIR: ${{ github.workspace }}/site_export

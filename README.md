@@ -84,6 +84,11 @@ Nessun token da configurare tra i due repo.
 Lancio manuale: Actions → "ETF Weekly Report" → Run workflow (togli la spunta "Invia il
 report via email" per una prova senza email).
 
+L'articolo per il sito è fatto solo di numeri (ogni frase verificabile sui dati della
+pipeline): settori e regioni in italiano, RSI con le soglie classiche 70/30, chiusura
+"Prima che accada" e fonti. Il commento AI resta nel report e nell'email. Per pubblicare
+invece il testo scritto da Groq, senza revisione: variabile del repo `ARTICLE_MODE=ai`.
+
 ## Modelli AI (Groq)
 
 `llama-3.3-70b-versatile` è stato spento da Groq il 16/08/2026. Default attuali:
