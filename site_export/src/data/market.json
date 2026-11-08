@@ -1,0 +1,130 @@
+{
+  "week": "2026-W45",
+  "updated": "2026-11-08",
+  "comment": "Il mercato è guidato da un forte outflow da tech e da un rally delle commodity; resta da monitorare l’eccesso di vendite su titoli tech oversold e la continuità dei flussi verso obbligazioni.",
+  "overview": {
+    "spy_1w": -2.7,
+    "qqq_1w": -4.98,
+    "breadth": "6/13",
+    "realized_vol": 19.7,
+    "risk_score": 100
+  },
+  "gainers": [
+    {
+      "t": "GDX",
+      "d": "Gold Miners",
+      "w1": 13.63
+    },
+    {
+      "t": "TAN",
+      "d": "Solar",
+      "w1": 13.38
+    },
+    {
+      "t": "KWEB",
+      "d": "China Internet",
+      "w1": 9.41
+    },
+    {
+      "t": "ICLN",
+      "d": "Clean Energy",
+      "w1": 7.45
+    },
+    {
+      "t": "JETS",
+      "d": "Airlines",
+      "w1": 6.65
+    }
+  ],
+  "losers": [
+    {
+      "t": "USO",
+      "d": "Crude Oil",
+      "w1": -12.1
+    },
+    {
+      "t": "XLE",
+      "d": "Oil & Gas",
+      "w1": -12.0
+    },
+    {
+      "t": "ARKG",
+      "d": "Genomics",
+      "w1": -11.58
+    },
+    {
+      "t": "SMH",
+      "d": "Semiconductors",
+      "w1": -11.2
+    },
+    {
+      "t": "HACK",
+      "d": "Cybersecurity",
+      "w1": -10.95
+    }
+  ],
+  "overbought": [
+    {
+      "t": "XLV",
+      "d": "Healthcare",
+      "rsi": 63.0
+    },
+    {
+      "t": "ESPO",
+      "d": "Gaming",
+      "rsi": 62.4
+    },
+    {
+      "t": "TLT",
+      "d": "20Y+ Treasury",
+      "rsi": 61.6
+    },
+    {
+      "t": "KWEB",
+      "d": "China Internet",
+      "rsi": 60.9
+    },
+    {
+      "t": "XLRE",
+      "d": "Real Estate",
+      "rsi": 60.2
+    }
+  ],
+  "oversold": [
+    {
+      "t": "XLK",
+      "d": "US Tech",
+      "rsi": 29.4
+    },
+    {
+      "t": "VGT",
+      "d": "Info Technology",
+      "rsi": 30.6
+    },
+    {
+      "t": "QQQ",
+      "d": "Nasdaq 100",
+      "rsi": 31.4
+    },
+    {
+      "t": "SMH",
+      "d": "Semiconductors",
+      "rsi": 31.4
+    },
+    {
+      "t": "CIBR",
+      "d": "Cyber Defense",
+      "rsi": 31.5
+    }
+  ],
+  "pipeline": {
+    "week": "2026-W45",
+    "etfs": 105,
+    "sectors": 13,
+    "regions": 8,
+    "regime": "ROTATIONAL",
+    "risk_score": 100,
+    "report": "/reports/ETF_Report_2026-W45.html"
+  },
+  "spy_spark": "2.0,7.2 9.5,7.5 17.0,4.3 24.5,4.9 32.0,2.0 39.5,7.0 47.0,8.0 54.5,9.4 62.0,16.0"
+}

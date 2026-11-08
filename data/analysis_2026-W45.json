@@ -1,8 +1,8 @@
 {
-  "report_date": "November 07, 2026",
+  "report_date": "November 08, 2026",
   "week": "2026-W45",
   "analysis": {
-    "report_date": "November 07, 2026",
+    "report_date": "November 08, 2026",
     "market_overview": {
       "spy_1w": -2.7,
       "qqq_1w": -4.98,
@@ -424,32 +424,32 @@
     },
     "news_by_sector": {
       "Broad Market": {
-        "count": 35,
+        "count": 39,
         "top": [
           {
-            "hl": "Drones are changing warfare. But defense giants are still making billions from old-school weapons",
+            "hl": "Wars May Spur Faster Electrification",
             "impact": "bullish",
-            "src": "CNBC World"
+            "src": "OilPrice"
           },
           {
-            "hl": "What Trump losing power over Congress means for Iran, Ukraine and foreign policy",
+            "hl": "Cathay Pacific Airways to give eligible Hong Kong staff bonus worth a month’s pay",
             "impact": "neutral",
-            "src": "CNBC World"
+            "src": "SCMP"
           }
         ]
       },
       "International": {
-        "count": 34,
+        "count": 37,
         "top": [
           {
-            "hl": "Bank of England hikes interest rate for the first time since Iran war, warns inflation will near 5%",
-            "impact": "neutral",
-            "src": "CNBC Economy"
+            "hl": "10-year Treasury yield slides as traders mull over Democrats' midterm victories, oil prices drop",
+            "impact": "bearish",
+            "src": "CNBC Finance"
           },
           {
-            "hl": "Trump says U.S. carried out ‘minor strikes’ on Iran as missiles hit Qeshm Island",
-            "impact": "bearish",
-            "src": "CNBC World"
+            "hl": "Vance Blames Iran War for GOP Midterms Wipeout",
+            "impact": "neutral",
+            "src": "Foreign Policy"
           }
         ]
       },
@@ -457,104 +457,115 @@
         "count": 8,
         "top": [
           {
-            "hl": "AI stocks hammered by midterm shock as data center buildout becomes a 'war of attrition'",
+            "hl": "The AI ‘credit card’ is getting costlier as CoreWeave bond yield tops 16%",
             "impact": "neutral",
-            "src": "CNBC World"
+            "src": "CNBC Finance"
           },
           {
-            "hl": "Nasdaq sell-off batters Asian chip stocks as SK Hynix, Samsung, Softbank, TSMC tumble",
-            "impact": "bearish",
-            "src": "CNBC World"
+            "hl": "How Big Oil Became the AI Industry's Favorite Customer",
+            "impact": "bullish",
+            "src": "OilPrice"
           }
         ]
       },
       "Financials": {
-        "count": 18,
+        "count": 16,
         "top": [
           {
-            "hl": "Christine Lagarde: Interview with Yomiuri Shimbun",
+            "hl": "Australia hikes rates to 18-year high to fight inflation",
             "impact": "neutral",
-            "src": "ECB"
+            "src": "CNBC Economy"
           },
           {
-            "hl": "ECB publishes consolidated banking data for end-June 2026",
+            "hl": "Japanese Government Bonds Held by the Bank of Japan",
             "impact": "neutral",
-            "src": "ECB"
+            "src": "Bank of Japan"
           }
         ]
       },
       "Energy": {
-        "count": 31,
+        "count": 30,
         "top": [
           {
-            "hl": "Renewed U.S.-Iran tension could push oil past $100: Rapidan Energy",
+            "hl": "Stocks making the biggest moves premarket: Shake Shack, Wendy's, Peloton, Unity Software & more",
             "impact": "neutral",
-            "src": "CNBC World"
+            "src": "CNBC Finance"
           },
           {
-            "hl": "Regulators explore credit union reforms to support growth, innovation and better outcomes for member",
-            "impact": "bullish",
-            "src": "Bank of England"
+            "hl": "Iran executes three men arrested during January anti-government protests",
+            "impact": "neutral",
+            "src": "CNBC World"
           }
         ]
       },
       "Commodities": {
-        "count": 35,
+        "count": 31,
         "top": [
           {
-            "hl": "Euro zone inflation hits 4% for first time in three years as interest rate hike looms",
+            "hl": "Oil Traders Want U.S. to Release Sanctioned Tankers as Freight Costs Soar",
             "impact": "mixed",
-            "src": "CNBC Economy"
+            "src": "OilPrice"
           },
           {
-            "hl": "Americans are on a 'treadmill of high inflation' and more rate hikes are likely, Fed's Daly says",
-            "impact": "bearish",
-            "src": "CNBC Finance"
-          }
-        ]
-      },
-      "Real Estate": {
-        "count": 1,
-        "top": [
-          {
-            "hl": "Equinix points to smaller facilities as scrutiny of U.S. data center construction grows",
+            "hl": "Hoax Bomb Threats Disrupt Air Traffic Across Europe",
             "impact": "neutral",
-            "src": "CNBC World"
+            "src": "Foreign Policy"
           }
         ]
       },
       "Industrials": {
-        "count": 25,
+        "count": 28,
         "top": [
           {
-            "hl": "Buildings damaged in Israeli bombings risk collapse as rain inundates Gaza",
+            "hl": "Houthi strike damages Aramco offices in Riyadh, raising business risks",
             "impact": "bearish",
-            "src": "Al Jazeera"
+            "src": "Seeking Alpha"
           },
           {
-            "hl": "Qeshm island and Hormuz hit, as mediators try to prevent US-Iran escalation",
-            "impact": "neutral",
+            "hl": "Infantino’s Japanese challenger claims he could unseat FIFA president",
+            "impact": "bullish",
             "src": "Al Jazeera"
           }
         ]
       },
       "Bonds": {
-        "count": 15,
+        "count": 17,
         "top": [
           {
-            "hl": "Bank rate increased to 4% - November 2026 Monetary Policy Summary and Minutes",
-            "impact": "neutral",
-            "src": "Bank of England"
+            "hl": "Inflazione alta spinge la Fed a ulteriori rialzi",
+            "impact": "bearish",
+            "src": "CNBC Finance"
           },
           {
-            "hl": "Isabel Schnabel: Navigating stormy waters: reflections on monetary policy",
-            "impact": "neutral",
-            "src": "ECB"
+            "hl": "Tassi in rialzo, mercato e obbligazioni in preoccupazione",
+            "impact": "bearish",
+            "src": "CNBC Finance"
           }
         ]
       }
     },
-    "rotation_signals": [],
+    "rotation_signals": [
+      {
+        "signal": "rotazione verso obbligazioni",
+        "source": "Bank of England"
+      },
+      {
+        "signal": "possibile spostamento verso obbligazioni",
+        "source": "CNBC Finance"
+      },
+      {
+        "signal": "rotazione verso obbligazioni",
+        "source": "CNBC World"
+      },
+      {
+        "signal": "Possibile rotazione da settori tradizionali a Tech & Semiconductors",
+        "source": "CNBC World"
+      },
+      {
+        "signal": "Energy",
+        "source": "Al Jazeera"
+      }
+    ],
     "best_region": {
       "name": "China",
       "w1": 6.08
@@ -626,7 +637,7 @@
       ]
     }
   },
-  "ai_commentary_html": "",
+  "ai_commentary_html": "<h3>Regime di Mercato &amp; Breadth</h3>\n<p>Il mercato globale mostra un <span class=\"sig-dn\">regime risk‑off</span> con SPY -2,7% e QQQ -4,98% nell’ultima settimana. L’ampiezza è <span class=\"sig-dn\">6/13</span>, indicando più titoli in ribasso che in rialzo. La forza relativa tra SPY e QQQ è negativa per entrambi, ma QQQ è più penalizzato, segnale di rotazione fuori dal tech ad alta crescita.</p>\n\n<h3>Rotazione Settoriale &amp; Geografica</h3>\n<p>Momentum settoriale evidenzia <span class=\"sig-up\">Consumers (95), Real Estate (89) e Utilities (80)</span> in forte crescita, mentre <span class=\"sig-dn\">Tech &amp; Semiconductors (10) e Energy (36)</span> perdono slancio. I flussi di capitale mostrano uscite nette da Broad Market (-68) e Tech &amp; Semiconductors (-61). A livello geografico, <span class=\"sig-up\">Europa (95) e India (92)</span> guadagnano momentum, mentre gli Stati Uniti sono in forte outflow (-68) e rimangono la peggiore regione (-2,65% settimanale). La Cina registra un forte rimbalzo settimanale (+6,08%) sostenuto da influssi di capitale (+40).</p>\n\n<h3>Movimenti Anticipatori &amp; Correlazioni</h3>\n<ul>\n<li><strong>Lead/Lag:</strong> I titoli obbligazionari (Bonds) hanno mostrato un lieve rialzo (+0,03% settimanale) e un flusso positivo, anticipando una possibile rotazione verso asset a reddito fisso.</li>\n<li><strong>Divergenze:</strong> Nonostante il forte outflow da Tech, gli ETF di AI (es. SMH) sono <span class=\"sig-dn\">oversold (RSI 31,4)</span>, suggerendo potenziale rimbalzo tecnico.</li>\n<li><strong>Correlazioni settoriali:</strong> Commodities (GDX +13,63%) e Solar (TAN +13,38%) stanno guidando il rally dei beni reali, mentre Oil &amp; Gas (XLE -12,0%) resta debole, evidenziando una rottura nella tradizionale correlazione energia‑commodities.</li>\n</ul>\n\n<h3>Impatto News &amp; Catalizzatori</h3>\n<p>Le notizie recenti hanno spinto la rotazione verso asset difensivi: <span class=\"sig-up\">crescente inflazione e rialzi dei tassi (Fed, BoE)</span> alimentano il flusso verso obbligazioni (<span class=\"sig-up\">rotazione verso obbligazioni</span> segnalata da più fonti). La guerra in Medio Oriente e le tensioni sul prezzo del petrolio hanno generato un impatto misto su Energy, ma la pressione sui prezzi del crudo ha penalizzato USO (-12,1%). D’altro canto, la spinta verso la decarbonizzazione (es. “Wars May Spur Faster Electrification”) sostiene i titoli clean‑energy (ICLN +7,45%).</p>\n\n<h3>Idee di Investimento</h3>\n<ul>\n<li><strong>Long GDX (Gold Miners)</strong> – timeframe medio (3‑6 mesi). <span class=\"sig-up\">Convinzione alta</span>. Rischio: volatilità dei prezzi dell’oro e possibile rialzo dei tassi.</li>\n<li><strong>Long TAN (Solar)</strong> – breve/medio (1‑4 mesi). <span class=\"sig-up\">Convinzione media</span>. Rischio: dipendenza da sussidi governativi e fluttuazioni del prezzo del metallo.</li>\n<li><strong>Short USO (Crude Oil)</strong> – breve (2‑6 settimane). <span class=\"sig-dn\">Convinzione alta</span>. Rischio: improvvisa riduzione delle tensioni geopolitiche che potrebbe far risalire il prezzo del petrolio.</li>\n<li><strong>Long XLV (Healthcare)</strong> – medio (4‑8 mesi). <span class=\"sig-up\">Convinzione media</span>. Rischio: pressione normativa su farmaci e dispositivi.</li>\n<li><strong>Long IEF (7‑10Y Treasury ETF)</strong> – medio (3‑6 mesi). <span class=\"sig-up\">Convinzione alta</span>. Rischio: eventuale sorpresa rialzista sui tassi che potrebbe comprimere i rendimenti.</li>\n</ul>",
   "counts": {
     "etfs": 105,
     "sectors": 13,

@@ -1,0 +1,97 @@
+{
+  "month": "2026-08",
+  "updated": "2026-11-08",
+  "items": [
+    {
+      "ticker": "NOW",
+      "yf_ticker": "NOW",
+      "name": "ServiceNow, Inc.",
+      "type": "stock",
+      "note": "Software enterprise · workflow e AI agent",
+      "price": 101.97,
+      "currency": "USD",
+      "mtd": -3.0,
+      "ytd": -33.44,
+      "m3": -19.99,
+      "from_high": -41.23
+    },
+    {
+      "ticker": "CRM",
+      "yf_ticker": "CRM",
+      "name": "Salesforce, Inc.",
+      "type": "stock",
+      "note": "Software enterprise · CRM e agentic AI",
+      "price": 213.65,
+      "currency": "USD",
+      "mtd": -6.77,
+      "ytd": -18.8,
+      "m3": 8.36,
+      "from_high": -19.2
+    },
+    {
+      "ticker": "NKLR",
+      "yf_ticker": "NKLR",
+      "name": "Terra Innovatum Global N.V.",
+      "type": "stock",
+      "note": "Micro-reattori nucleari (SMR)",
+      "price": 2.36,
+      "currency": "USD",
+      "mtd": 6.31,
+      "ytd": -48.92,
+      "m3": -59.59,
+      "from_high": -69.43
+    },
+    {
+      "ticker": "GFT",
+      "yf_ticker": "GFT.DE",
+      "name": "GFT Technologies SE",
+      "type": "stock",
+      "note": "IT services per banche e assicurazioni",
+      "price": 27.75,
+      "currency": "EUR",
+      "mtd": -0.72,
+      "ytd": 50.16,
+      "m3": 26.71,
+      "from_high": -4.8
+    },
+    {
+      "ticker": "JEDI",
+      "yf_ticker": "JEDI.MI",
+      "name": "VanEck Space Innovators UCITS ETF A USD Acc",
+      "type": "etf",
+      "note": "Space economy · UCITS (Borsa Italiana)",
+      "price": 58.87,
+      "currency": "EUR",
+      "mtd": -7.23,
+      "ytd": 1.19,
+      "m3": -23.88,
+      "from_high": -50.2
+    },
+    {
+      "ticker": "ARKG",
+      "yf_ticker": "ARKG",
+      "name": "ARK Genomic Revolution ETF",
+      "type": "etf",
+      "note": "Genomica e biotech innovativo",
+      "price": 45.45,
+      "currency": "USD",
+      "mtd": -11.58,
+      "ytd": 56.89,
+      "m3": 2.57,
+      "from_high": -19.94
+    },
+    {
+      "ticker": "KOID",
+      "yf_ticker": "KOID",
+      "name": "KraneShares Global Humanoid Robotics and Physical AI Index ETF",
+      "type": "etf",
+      "note": "Robotica umanoide e physical AI",
+      "price": 31.97,
+      "currency": "USD",
+      "mtd": -4.24,
+      "ytd": 0.39,
+      "m3": -17.13,
+      "from_high": -26.1
+    }
+  ]
+}
