@@ -1,0 +1,1376 @@
+{
+  "generated": "2026-11-14T14:38:29.982137",
+  "lookback_days": 7,
+  "total_articles": 50,
+  "sector_news": {
+    "Broad Market": {
+      "count": 38,
+      "top": [
+        {
+          "headline": "Brent Crude Climbs Back Above $96 as Iran Tensions Escalate",
+          "summary": "Oil prices bounced back in early trading on Friday as geopolitical risk returns and optimism surrounding potential peace deals fades. Friday, November 6, 2026The initial days of the US’ post-midterms price collapse are gradually making way for a return to the pre-November status quo, with President Trump insinuating that he ‘doesn’t need a deal with Iran’ amidst intensifying Israeli pressure to resume military strikes against Tehran. A worsening outlook for any peaceful settlement of the Russia-Ukraine war, as well…",
+          "impact": "mixed",
+          "source": "OilPrice",
+          "score": 10.0,
+          "link": "https://oilprice.com/Energy/Energy-General/Brent-Crude-Climbs-Back-Above-96-as-Iran-Tensions-Escalate.html",
+          "etf_tickers": []
+        },
+        {
+          "headline": "Iran Rules Out Return of UN Nuclear Inspectors as U.S. War Talks Stall",
+          "summary": "Iran continues to divert attempts by the International Atomic Energy Agency (IAEA) to access and verify the Iranian stockpile of enriched uranium and rules out any engagement with the UN’s agency’s inspectors amid the standoff in the war with the U.S. “It is more than a year since the agency lost continuity of knowledge in relation to the previously declared inventories of highly-enriched uranium,” IAEA Director General Rafael Mariano Grossi wrote in a restricted report, which was circulated in Vienna on Friday and was seen…",
+          "impact": "neutral",
+          "source": "OilPrice",
+          "score": 10.0,
+          "link": "https://oilprice.com/Latest-Energy-News/World-News/Iran-Rules-Out-Return-of-UN-Nuclear-Inspectors-as-US-War-Talks-Stall.html",
+          "etf_tickers": []
+        },
+        {
+          "headline": "How Global Energy Markets Survived Eight Months of Iran War Disruptions",
+          "summary": "Six months ago, I wrote that Americans were experiencing the Iran war primarily through higher prices, while much of the rest of the world was confronting something more serious: actual shortages of fuel and other critical products.  In “The U.S. Feels Higher Prices While The World Is Facing Fuel Shortages,” I highlighted several pressure points created by the disruption of traffic through the Strait of Hormuz. India was struggling to secure liquefied petroleum gas, or LPG, fertilizer markets were tightening, Europe faced potential…",
+          "impact": "bearish",
+          "source": "OilPrice",
+          "score": 10.0,
+          "link": "https://oilprice.com/Energy/Energy-General/How-Global-Energy-Markets-Survived-Eight-Months-of-Iran-War-Disruptions.html",
+          "etf_tickers": []
+        }
+      ]
+    },
+    "International": {
+      "count": 37,
+      "top": [
+        {
+          "headline": "Iran Braces for a Budget Without Oil Revenue",
+          "summary": "Iran is drafting next year’s budget under the premise that oil revenue could fall to zero, with senior budget official Mohammad Ghasemi telling the government on Monday to prepare for that scenario, as the country appears to be weeks away from that eventuality. Iran has loaded no crude since August 25, according to the US Treasury, and the oil it held at sea outside the US blockade fell from 88.8 million barrels in mid-July to zero by mid-October. Chinese buyers pay one to two months after delivery, so Kpler expects that revenue could stop…",
+          "impact": "bearish",
+          "source": "OilPrice",
+          "score": 10.0,
+          "link": "https://oilprice.com/Energy/Energy-General/Iran-Braces-for-a-Budget-Without-Oil-Revenue.html",
+          "etf_tickers": []
+        },
+        {
+          "headline": "Germany Eyes €4 Billion Buyout of RWE and E.ON’s Urenco Stake",
+          "summary": "Germany’s government plans to buy RWE and E.ON’s one-third stake in uranium enrichment company Urenco for up to €4 billion, German newspapers reported, in a deal Britain requested to keep the stake in European hands as it prepares to use Urenco to make fuel for its military reactors, including those powering its nuclear submarines. Die Welt first reported on Thursday evening that a new line had appeared in the Bundestag’s final deliberations on the 2027 draft budget, setting aside €4 billion for “the acquisition…",
+          "impact": "neutral",
+          "source": "OilPrice",
+          "score": 10.0,
+          "link": "https://oilprice.com/Latest-Energy-News/World-News/Germany-Eyes-4-Billion-Buyout-of-RWE-and-EONs-Urenco-Stake.html",
+          "etf_tickers": []
+        },
+        {
+          "headline": "Iraq’s Oil Production Soars to 2019 High as Hormuz Flows Surge",
+          "summary": "Iraq’s crude oil production hit 4.6 million barrels per day (bpd) in October, the highest since 2019, data from the International Energy Agency’s monthly report showed on Friday, as OPEC’s second-largest producer hiked output by 540,000 bpd from September. Kuwait and Saudi Arabia also boosted their October crude oil output compared to September, as rising volumes of oil are leaving the Strait of Hormuz on smaller tankers, which then transfer the crude cargoes onto supertankers in the Gulf of Oman. Iraq’s October crude oil…",
+          "impact": "bullish",
+          "source": "OilPrice",
+          "score": 10.0,
+          "link": "https://oilprice.com/Latest-Energy-News/World-News/Iraqs-Oil-Production-Soars-to-2019-High-as-Hormuz-Flows-Surge.html",
+          "etf_tickers": []
+        }
+      ]
+    },
+    "Tech & Semiconductors": {
+      "count": 7,
+      "top": [
+        {
+          "headline": "Nasdaq falls on Friday as Nvidia sells off, but index notches best week since August: Live updates",
+          "summary": "Nvidia shares rebounded from its recent pressure and the latest inflation data came in slightly lighter than expected.",
+          "impact": "mixed",
+          "source": "CNBC World",
+          "score": 9.9,
+          "link": "https://www.cnbc.com/2026/11/12/stock-market-today-live-updates.html",
+          "etf_tickers": []
+        },
+        {
+          "headline": "Nvidia Spy Scandal Threatens the Gulf’s AI Ambitions",
+          "summary": "Politics, Geopolitics & Conflict A car bomb killed the chief navigator of Russia’s St. Petersburg-based 6th Guards Air and Air Defence Forces Army on Thursday morning, a day after Ukrainian drones set an oil terminal at Ust-Luga on fire and forced flight restrictions at St. Petersburg’s Pulkovo airport. The colonel’s car exploded about 300 meters from his apartment in Shushary, the same suburb where a car bomb killed a helicopter regiment officer in August. Investigators believe a 31-year-old local planted the device overnight…",
+          "impact": "neutral",
+          "source": "OilPrice",
+          "score": 9.8,
+          "link": "https://oilprice.com/Energy/Energy-General/Nvidia-Spy-Scandal-Threatens-the-Gulfs-AI-Ambitions.html",
+          "etf_tickers": []
+        },
+        {
+          "headline": "Scandalo Nvidia solleva dubbi su Lutnick",
+          "summary": "La controversia può indebolire la fiducia nei titoli tecnologici, influenzando negativamente gli ETF di settore e del mercato ampio.",
+          "impact": "bearish",
+          "source": "CNBC Finance",
+          "score": 8.1,
+          "link": "https://www.cnbc.com/2026/11/13/howard-lutnick-nvidia-jensen-huang-china-cantor-fitzgerald.html",
+          "etf_tickers": [
+            "QQQ",
+            "SMH"
+          ]
+        }
+      ]
+    },
+    "Financials": {
+      "count": 9,
+      "top": [
+        {
+          "headline": "Isabel Schnabel: Made in Europe",
+          "summary": "The European Central Bank (ECB) is the central bank of the European Union countries which have adopted the euro. Our main task is to maintain price stability in the euro area and so preserve the purchasing power of the single currency.",
+          "impact": "neutral",
+          "source": "ECB",
+          "score": 10.0,
+          "link": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp261113~3883f1f187.en.html",
+          "etf_tickers": []
+        },
+        {
+          "headline": "Piero Cipollone: Cash and the digital euro: two sides of the same coin",
+          "summary": "The European Central Bank (ECB) is the central bank of the European Union countries which have adopted the euro. Our main task is to maintain price stability in the euro area and so preserve the purchasing power of the single currency.",
+          "impact": "neutral",
+          "source": "ECB",
+          "score": 10.0,
+          "link": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp261110~9422461bad.en.html",
+          "etf_tickers": []
+        },
+        {
+          "headline": "Philip R. Lane: The science and practice of monetary policy communication: the ECB experience",
+          "summary": "The European Central Bank (ECB) is the central bank of the European Union countries which have adopted the euro. Our main task is to maintain price stability in the euro area and so preserve the purchasing power of the single currency.",
+          "impact": "neutral",
+          "source": "ECB",
+          "score": 10.0,
+          "link": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp261110_1~9725b7aa07.en.html",
+          "etf_tickers": []
+        }
+      ]
+    },
+    "Energy": {
+      "count": 36,
+      "top": [
+        {
+          "headline": "Iran Says Gas Tanker Hit Mine in Strait of Hormuz",
+          "summary": "A tanker carrying liquefied gas hit a mine and suffered an explosion on Friday while attempting to transit the Strait of Hormuz via a route not authorized by Iran, the Islamic Revolutionary Guard Corps (IRGC) Navy said. The vessel was using an “unauthorised and dangerous route” in the Strait of Hormuz, according to Iran’s state media cited by Reuters. The attacks on vessels carrying energy products through the Strait of Hormuz have intensified in the past month, with Iran reporting incidents nearly every day.   On Thursday,…",
+          "impact": "neutral",
+          "source": "OilPrice",
+          "score": 10.0,
+          "link": "https://oilprice.com/Latest-Energy-News/World-News/Iran-Says-Gas-Tanker-Hit-Mine-in-Strait-of-Hormuz.html",
+          "etf_tickers": []
+        },
+        {
+          "headline": "Rosenberg: Uncompromising Putin ups demands for peace with Ukraine",
+          "summary": "The fact the question of European security now features in discussions is viewed in Moscow as a victory, BBC Russia Editor Steve Rosenberg says.",
+          "impact": "neutral",
+          "source": "BBC World",
+          "score": 9.9,
+          "link": "https://www.bbc.co.uk/news/articles/cq39glwprknjo?at_medium=RSS&at_campaign=rss",
+          "etf_tickers": []
+        },
+        {
+          "headline": "Three killed in Russia as Ukraine claims US floated NATO membership option",
+          "summary": "Zelenskyy says the US asked for the first time whether Kyiv would cede land to Moscow in exchange for the NATO bid.",
+          "impact": "neutral",
+          "source": "Al Jazeera",
+          "score": 9.9,
+          "link": "https://www.aljazeera.com/news/2026/11/14/three-killed-in-russia-as-ukraine-claims-us-floated-nato-membership-option?traffic_source=rss",
+          "etf_tickers": []
+        }
+      ]
+    },
+    "Commodities": {
+      "count": 38,
+      "top": [
+        {
+          "headline": "Russia’s Cheapest Weapon in Its Hybrid War Is Fear",
+          "summary": "As Moscow escalates, Europeans must learn to deter attacks that they cannot always attribute.",
+          "impact": "bearish",
+          "source": "Foreign Policy",
+          "score": 9.9,
+          "link": "https://foreignpolicy.com/2026/11/12/europe-bomb-threats-russia-hybrid-war-nato-deterrence-ukraine-military/",
+          "etf_tickers": []
+        },
+        {
+          "headline": "Trump Extends Jones Act Waiver For Another 90 Days",
+          "summary": "President Donald Trump extended the Jones Act waiver for another 90 days on Friday, keeping foreign-flagged tankers eligible to move oil and other commodities between U.S. ports as the war with Iran continues to drive up fuel costs. The extension, confirmed by a White House official who spoke to Reuters, continues what is already the longest waiver in the shipping law's history. Foreign vessels will still need approval for individual voyages due to a restriction introduced in August after earlier blanket exemptions drew opposition from the domestic…",
+          "impact": "neutral",
+          "source": "OilPrice",
+          "score": 9.9,
+          "link": "https://oilprice.com/Latest-Energy-News/World-News/Trump-Extends-Jones-Act-Waiver-For-Another-90-Days.html",
+          "etf_tickers": []
+        },
+        {
+          "headline": "Jojo the gorilla has spent his life alone. Can he finally find a companion?",
+          "summary": "Jojo was poached as an infant and grew up in captivity. His keepers want to find him a friend - but it's not straightforward.",
+          "impact": "neutral",
+          "source": "BBC World",
+          "score": 9.8,
+          "link": "https://www.bbc.co.uk/news/articles/cwm2mn272nqlo?at_medium=RSS&at_campaign=rss",
+          "etf_tickers": []
+        }
+      ]
+    },
+    "Real Estate": {
+      "count": 2,
+      "top": [
+        {
+          "headline": "Appointments to BIS global payments standard-setting body and Consultative Council for the Americas",
+          "summary": "Bank of Korea Governor Hyun Song Shin appointed Chair of the Bank for International Settlements (BIS) Committee on Payments and Market Infrastructures (CPMI) for a three-year term from 1 November. In addition, the Board of Directors has extended the term of Tiff Macklem, Governor of the Bank of Canada, as Chair of the Consultative Council for the Americas (CCA) until 31 March 2027.",
+          "impact": "neutral",
+          "source": "BIS",
+          "score": 9.9,
+          "link": "https://www.bis.org/media-releases/20261110-appointments-bis-global-payments-standard-setting-body-and-consultative-council-americas",
+          "etf_tickers": []
+        },
+        {
+          "headline": "Solomon: appetito AI forte nonostante reset",
+          "summary": "Il CEO di Goldman afferma che la domanda per l’infrastruttura AI rimane solida, ma il recente reset delle azioni AI suggerisce cautela per i fondi settoriali tech e semiconduttori.",
+          "impact": "bullish",
+          "source": "CNBC Finance",
+          "score": 8.1,
+          "link": "https://www.cnbc.com/2026/11/09/goldman-ceo-ai-financing-market.html",
+          "etf_tickers": [
+            "QQQ",
+            "SMH"
+          ]
+        }
+      ]
+    },
+    "Industrials": {
+      "count": 26,
+      "top": [
+        {
+          "headline": "How Lebanon Became the Middle East’s Battleground",
+          "summary": "A new book explores how the 1982 Israeli invasion set the stage for conflicts still unfolding today.",
+          "impact": "neutral",
+          "source": "Foreign Policy",
+          "score": 9.7,
+          "link": "https://foreignpolicy.com/2026/11/13/lebanon-middle-east-hezbollah-history-us-israel-military-war/",
+          "etf_tickers": []
+        },
+        {
+          "headline": "Ucraina: 450.000 morti russi, impatto globale",
+          "summary": "La guerra in Ucraina aumenta la volatilità dei mercati globali e spinge gli investitori verso asset più sicuri. Gli ETF di mercato ampio e internazionale potrebbero subire pressioni a breve termine.",
+          "impact": "bearish",
+          "source": "Al Jazeera",
+          "score": 8.1,
+          "link": "https://www.aljazeera.com/news/2026/11/14/russian-casualties-reach-450000-what-that-means-for-the-ukraine-war?traffic_source=rss",
+          "etf_tickers": [
+            "SPY"
+          ]
+        },
+        {
+          "headline": "Prezzi petrolio salgono dopo commenti Trump",
+          "summary": "L’aumento dei prezzi del petrolio favorisce gli ETF del settore Energy, potenziando i rendimenti delle società petrolifere.",
+          "impact": "bullish",
+          "source": "CNBC Finance",
+          "score": 7.4,
+          "link": "https://www.cnbc.com/2026/11/12/oil-prices-jump-after-trump-says-no-iran-deal-needed-weve-got-their-strait.html",
+          "etf_tickers": [
+            "XLE"
+          ]
+        }
+      ]
+    },
+    "Bonds": {
+      "count": 10,
+      "top": [
+        {
+          "headline": "Consumer prices rose 0.4% in October, more than expected, complicating Fed's inflation fight",
+          "summary": "The report comes at a critical juncture for the Federal Reserve as it considers its next move regarding interest rates.",
+          "impact": "neutral",
+          "source": "CNBC Economy",
+          "score": 9.6,
+          "link": "https://www.cnbc.com/2026/11/10/cpi-inflation-report-october-2026.html",
+          "etf_tickers": []
+        },
+        {
+          "headline": "A key report for where inflation stood in October comes out Tuesday. Here's what to expect",
+          "summary": "The CPI headline reading is expected to show an increase of 0.3% while the core is forecast to increase 0.2%.",
+          "impact": "neutral",
+          "source": "CNBC Economy",
+          "score": 9.6,
+          "link": "https://www.cnbc.com/2026/11/09/october-cpi-report-2026-inflation.html",
+          "etf_tickers": []
+        },
+        {
+          "headline": "China wholesale inflation hits highest in more than four years as consumer measure slows",
+          "summary": "The PPI for October came in at 5.7%, compared to the 5.3% expected by economists polled by Reuters.",
+          "impact": "neutral",
+          "source": "CNBC Economy",
+          "score": 9.6,
+          "link": "https://www.cnbc.com/2026/11/09/china-wholesale-inflation-rises-consumer.html",
+          "etf_tickers": []
+        }
+      ]
+    },
+    "Consumers": {
+      "count": 1,
+      "top": [
+        {
+          "headline": "Rosalía vince terzo premio all'album al Latin Grammys",
+          "summary": "Il successo di Rosalía potrebbe rafforzare il settore dei beni di consumo culturale, ma l'impatto sui principali ETF è minimo.",
+          "impact": "neutral",
+          "source": "BBC World",
+          "score": 4.8,
+          "link": "https://www.bbc.co.uk/news/articles/cr3eg97eqde1o?at_medium=RSS&at_campaign=rss",
+          "etf_tickers": []
+        }
+      ]
+    }
+  },
+  "rotation_signals": [
+    {
+      "signal": "Broad Market e Financials in pressione",
+      "source": "CNBC Finance",
+      "score": 8.1
+    },
+    {
+      "signal": "Energy",
+      "source": "Al Jazeera",
+      "score": 8.1
+    },
+    {
+      "signal": "rotazione verso settori non finanziari",
+      "source": "Federal Reserve",
+      "score": 7.4
+    },
+    {
+      "signal": "Energy to Air Travel",
+      "source": "MarketWatch",
+      "score": 7.4
+    },
+    {
+      "signal": "rotazione verso settori a basso costo energetico",
+      "source": "MarketWatch",
+      "score": 7.4
+    }
+  ],
+  "articles": [
+    {
+      "title": "Isabel Schnabel: Made in Europe",
+      "headline_it": "",
+      "summary_it": "",
+      "summary_en": "The European Central Bank (ECB) is the central bank of the European Union countries which have adopted the euro. Our main task is to maintain price stability in the euro area and so preserve the purchasing power of the single currency.",
+      "source": "ECB",
+      "link": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp261113~3883f1f187.en.html",
+      "date": "2026-11-13 07:20",
+      "score": 10.0,
+      "impact": "neutral",
+      "sectors": [
+        "Financials"
+      ],
+      "primary_sector": "Financials",
+      "etf_tickers": [],
+      "rotation": ""
+    },
+    {
+      "title": "Philip R. Lane: The science and practice of monetary policy communication: the ECB experience",
+      "headline_it": "",
+      "summary_it": "",
+      "summary_en": "The European Central Bank (ECB) is the central bank of the European Union countries which have adopted the euro. Our main task is to maintain price stability in the euro area and so preserve the purchasing power of the single currency.",
+      "source": "ECB",
+      "link": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp261110_1~9725b7aa07.en.html",
+      "date": "2026-11-10 16:45",
+      "score": 10.0,
+      "impact": "neutral",
+      "sectors": [
+        "Bonds",
+        "Broad Market",
+        "Financials"
+      ],
+      "primary_sector": "Bonds",
+      "etf_tickers": [],
+      "rotation": ""
+    },
+    {
+      "title": "Piero Cipollone: Cash and the digital euro: two sides of the same coin",
+      "headline_it": "",
+      "summary_it": "",
+      "summary_en": "The European Central Bank (ECB) is the central bank of the European Union countries which have adopted the euro. Our main task is to maintain price stability in the euro area and so preserve the purchasing power of the single currency.",
+      "source": "ECB",
+      "link": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp261110~9422461bad.en.html",
+      "date": "2026-11-10 14:00",
+      "score": 10.0,
+      "impact": "neutral",
+      "sectors": [
+        "Financials"
+      ],
+      "primary_sector": "Financials",
+      "etf_tickers": [],
+      "rotation": ""
+    },
+    {
+      "title": "Iran Braces for a Budget Without Oil Revenue",
+      "headline_it": "",
+      "summary_it": "",
+      "summary_en": "Iran is drafting next year’s budget under the premise that oil revenue could fall to zero, with senior budget official Mohammad Ghasemi telling the government on Monday to prepare for that scenario, as the country appears to be weeks away from that eventuality. Iran has loaded no crude since August 25, according to the US Treasury, and the oil it held at sea outside the US blockade fell from 88.8 million barrels in mid-July to zero by mid-October. Chinese buyers pay one to two months after delivery, so Kpler expects that revenue could stop…",
+      "source": "OilPrice",
+      "link": "https://oilprice.com/Energy/Energy-General/Iran-Braces-for-a-Budget-Without-Oil-Revenue.html",
+      "date": "2026-11-13 23:00",
+      "score": 10.0,
+      "impact": "bearish",
+      "sectors": [
+        "Bonds",
+        "Commodities",
+        "Energy",
+        "Industrials",
+        "International"
+      ],
+      "primary_sector": "Bonds",
+      "etf_tickers": [],
+      "rotation": ""
+    },
+    {
+      "title": "Germany Eyes €4 Billion Buyout of RWE and E.ON’s Urenco Stake",
+      "headline_it": "",
+      "summary_it": "",
+      "summary_en": "Germany’s government plans to buy RWE and E.ON’s one-third stake in uranium enrichment company Urenco for up to €4 billion, German newspapers reported, in a deal Britain requested to keep the stake in European hands as it prepares to use Urenco to make fuel for its military reactors, including those powering its nuclear submarines. Die Welt first reported on Thursday evening that a new line had appeared in the Bundestag’s final deliberations on the 2027 draft budget, setting aside €4 billion for “the acquisition…",
+      "source": "OilPrice",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/Germany-Eyes-4-Billion-Buyout-of-RWE-and-EONs-Urenco-Stake.html",
+      "date": "2026-11-13 18:30",
+      "score": 10.0,
+      "impact": "neutral",
+      "sectors": [
+        "Energy",
+        "Industrials",
+        "International"
+      ],
+      "primary_sector": "Energy",
+      "etf_tickers": [],
+      "rotation": ""
+    },
+    {
+      "title": "Iraq’s Oil Production Soars to 2019 High as Hormuz Flows Surge",
+      "headline_it": "",
+      "summary_it": "",
+      "summary_en": "Iraq’s crude oil production hit 4.6 million barrels per day (bpd) in October, the highest since 2019, data from the International Energy Agency’s monthly report showed on Friday, as OPEC’s second-largest producer hiked output by 540,000 bpd from September. Kuwait and Saudi Arabia also boosted their October crude oil output compared to September, as rising volumes of oil are leaving the Strait of Hormuz on smaller tankers, which then transfer the crude cargoes onto supertankers in the Gulf of Oman. Iraq’s October crude oil…",
+      "source": "OilPrice",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/Iraqs-Oil-Production-Soars-to-2019-High-as-Hormuz-Flows-Surge.html",
+      "date": "2026-11-13 17:30",
+      "score": 10.0,
+      "impact": "bullish",
+      "sectors": [
+        "Commodities",
+        "Energy",
+        "International"
+      ],
+      "primary_sector": "Commodities",
+      "etf_tickers": [],
+      "rotation": ""
+    },
+    {
+      "title": "Brent Crude Climbs Back Above $96 as Iran Tensions Escalate",
+      "headline_it": "",
+      "summary_it": "",
+      "summary_en": "Oil prices bounced back in early trading on Friday as geopolitical risk returns and optimism surrounding potential peace deals fades. Friday, November 6, 2026The initial days of the US’ post-midterms price collapse are gradually making way for a return to the pre-November status quo, with President Trump insinuating that he ‘doesn’t need a deal with Iran’ amidst intensifying Israeli pressure to resume military strikes against Tehran. A worsening outlook for any peaceful settlement of the Russia-Ukraine war, as well…",
+      "source": "OilPrice",
+      "link": "https://oilprice.com/Energy/Energy-General/Brent-Crude-Climbs-Back-Above-96-as-Iran-Tensions-Escalate.html",
+      "date": "2026-11-13 17:00",
+      "score": 10.0,
+      "impact": "mixed",
+      "sectors": [
+        "Broad Market",
+        "Commodities",
+        "Energy",
+        "Industrials",
+        "International"
+      ],
+      "primary_sector": "Broad Market",
+      "etf_tickers": [],
+      "rotation": ""
+    },
+    {
+      "title": "Iran Rules Out Return of UN Nuclear Inspectors as U.S. War Talks Stall",
+      "headline_it": "",
+      "summary_it": "",
+      "summary_en": "Iran continues to divert attempts by the International Atomic Energy Agency (IAEA) to access and verify the Iranian stockpile of enriched uranium and rules out any engagement with the UN’s agency’s inspectors amid the standoff in the war with the U.S. “It is more than a year since the agency lost continuity of knowledge in relation to the previously declared inventories of highly-enriched uranium,” IAEA Director General Rafael Mariano Grossi wrote in a restricted report, which was circulated in Vienna on Friday and was seen…",
+      "source": "OilPrice",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/Iran-Rules-Out-Return-of-UN-Nuclear-Inspectors-as-US-War-Talks-Stall.html",
+      "date": "2026-11-13 15:30",
+      "score": 10.0,
+      "impact": "neutral",
+      "sectors": [
+        "Broad Market",
+        "Commodities",
+        "Energy",
+        "Industrials",
+        "International"
+      ],
+      "primary_sector": "Broad Market",
+      "etf_tickers": [],
+      "rotation": ""
+    },
+    {
+      "title": "How Global Energy Markets Survived Eight Months of Iran War Disruptions",
+      "headline_it": "",
+      "summary_it": "",
+      "summary_en": "Six months ago, I wrote that Americans were experiencing the Iran war primarily through higher prices, while much of the rest of the world was confronting something more serious: actual shortages of fuel and other critical products.  In “The U.S. Feels Higher Prices While The World Is Facing Fuel Shortages,” I highlighted several pressure points created by the disruption of traffic through the Strait of Hormuz. India was struggling to secure liquefied petroleum gas, or LPG, fertilizer markets were tightening, Europe faced potential…",
+      "source": "OilPrice",
+      "link": "https://oilprice.com/Energy/Energy-General/How-Global-Energy-Markets-Survived-Eight-Months-of-Iran-War-Disruptions.html",
+      "date": "2026-11-13 14:30",
+      "score": 10.0,
+      "impact": "bearish",
+      "sectors": [
+        "Broad Market",
+        "Commodities",
+        "Energy",
+        "Industrials",
+        "International"
+      ],
+      "primary_sector": "Broad Market",
+      "etf_tickers": [],
+      "rotation": ""
+    },
+    {
+      "title": "Iran Says Gas Tanker Hit Mine in Strait of Hormuz",
+      "headline_it": "",
+      "summary_it": "",
+      "summary_en": "A tanker carrying liquefied gas hit a mine and suffered an explosion on Friday while attempting to transit the Strait of Hormuz via a route not authorized by Iran, the Islamic Revolutionary Guard Corps (IRGC) Navy said. The vessel was using an “unauthorised and dangerous route” in the Strait of Hormuz, according to Iran’s state media cited by Reuters. The attacks on vessels carrying energy products through the Strait of Hormuz have intensified in the past month, with Iran reporting incidents nearly every day.   On Thursday,…",
+      "source": "OilPrice",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/Iran-Says-Gas-Tanker-Hit-Mine-in-Strait-of-Hormuz.html",
+      "date": "2026-11-13 12:45",
+      "score": 10.0,
+      "impact": "neutral",
+      "sectors": [
+        "Broad Market",
+        "Commodities",
+        "Energy",
+        "Industrials",
+        "International"
+      ],
+      "primary_sector": "Broad Market",
+      "etf_tickers": [],
+      "rotation": ""
+    },
+    {
+      "title": "Rosenberg: Uncompromising Putin ups demands for peace with Ukraine",
+      "headline_it": "",
+      "summary_it": "",
+      "summary_en": "The fact the question of European security now features in discussions is viewed in Moscow as a victory, BBC Russia Editor Steve Rosenberg says.",
+      "source": "BBC World",
+      "link": "https://www.bbc.co.uk/news/articles/cq39glwprknjo?at_medium=RSS&at_campaign=rss",
+      "date": "2026-11-13 16:40",
+      "score": 9.9,
+      "impact": "neutral",
+      "sectors": [
+        "Commodities",
+        "Energy",
+        "Industrials",
+        "International"
+      ],
+      "primary_sector": "Commodities",
+      "etf_tickers": [],
+      "rotation": ""
+    },
+    {
+      "title": "Appointments to BIS global payments standard-setting body and Consultative Council for the Americas",
+      "headline_it": "",
+      "summary_it": "",
+      "summary_en": "Bank of Korea Governor Hyun Song Shin appointed Chair of the Bank for International Settlements (BIS) Committee on Payments and Market Infrastructures (CPMI) for a three-year term from 1 November. In addition, the Board of Directors has extended the term of Tiff Macklem, Governor of the Bank of Canada, as Chair of the Consultative Council for the Americas (CCA) until 31 March 2027.",
+      "source": "BIS",
+      "link": "https://www.bis.org/media-releases/20261110-appointments-bis-global-payments-standard-setting-body-and-consultative-council-americas",
+      "date": "2026-11-10 00:00",
+      "score": 9.9,
+      "impact": "neutral",
+      "sectors": [
+        "Broad Market",
+        "Financials",
+        "Industrials",
+        "Real Estate"
+      ],
+      "primary_sector": "Broad Market",
+      "etf_tickers": [],
+      "rotation": ""
+    },
+    {
+      "title": "Three killed in Russia as Ukraine claims US floated NATO membership option",
+      "headline_it": "",
+      "summary_it": "",
+      "summary_en": "Zelenskyy says the US asked for the first time whether Kyiv would cede land to Moscow in exchange for the NATO bid.",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/news/2026/11/14/three-killed-in-russia-as-ukraine-claims-us-floated-nato-membership-option?traffic_source=rss",
+      "date": "2026-11-14 11:43",
+      "score": 9.9,
+      "impact": "neutral",
+      "sectors": [
+        "Commodities",
+        "Energy",
+        "Industrials",
+        "International"
+      ],
+      "primary_sector": "Commodities",
+      "etf_tickers": [],
+      "rotation": ""
+    },
+    {
+      "title": "Nasdaq falls on Friday as Nvidia sells off, but index notches best week since August: Live updates",
+      "headline_it": "",
+      "summary_it": "",
+      "summary_en": "Nvidia shares rebounded from its recent pressure and the latest inflation data came in slightly lighter than expected.",
+      "source": "CNBC World",
+      "link": "https://www.cnbc.com/2026/11/12/stock-market-today-live-updates.html",
+      "date": "2026-11-13 21:34",
+      "score": 9.9,
+      "impact": "mixed",
+      "sectors": [
+        "Bonds",
+        "Broad Market",
+        "Commodities",
+        "Tech & Semiconductors"
+      ],
+      "primary_sector": "Bonds",
+      "etf_tickers": [],
+      "rotation": ""
+    },
+    {
+      "title": "Russia’s Cheapest Weapon in Its Hybrid War Is Fear",
+      "headline_it": "",
+      "summary_it": "",
+      "summary_en": "As Moscow escalates, Europeans must learn to deter attacks that they cannot always attribute.",
+      "source": "Foreign Policy",
+      "link": "https://foreignpolicy.com/2026/11/12/europe-bomb-threats-russia-hybrid-war-nato-deterrence-ukraine-military/",
+      "date": "2026-11-12 18:51",
+      "score": 9.9,
+      "impact": "bearish",
+      "sectors": [
+        "Broad Market",
+        "Commodities",
+        "Energy",
+        "International"
+      ],
+      "primary_sector": "Broad Market",
+      "etf_tickers": [],
+      "rotation": ""
+    },
+    {
+      "title": "Trump Extends Jones Act Waiver For Another 90 Days",
+      "headline_it": "",
+      "summary_it": "",
+      "summary_en": "President Donald Trump extended the Jones Act waiver for another 90 days on Friday, keeping foreign-flagged tankers eligible to move oil and other commodities between U.S. ports as the war with Iran continues to drive up fuel costs. The extension, confirmed by a White House official who spoke to Reuters, continues what is already the longest waiver in the shipping law's history. Foreign vessels will still need approval for individual voyages due to a restriction introduced in August after earlier blanket exemptions drew opposition from the domestic…",
+      "source": "OilPrice",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/Trump-Extends-Jones-Act-Waiver-For-Another-90-Days.html",
+      "date": "2026-11-13 19:30",
+      "score": 9.9,
+      "impact": "neutral",
+      "sectors": [
+        "Broad Market",
+        "Commodities",
+        "Energy",
+        "Industrials",
+        "International"
+      ],
+      "primary_sector": "Broad Market",
+      "etf_tickers": [],
+      "rotation": ""
+    },
+    {
+      "title": "German spies handed new powers to tackle 'hybrid threats' from abroad",
+      "headline_it": "",
+      "summary_it": "",
+      "summary_en": "German reforms mean foreign and domestic intelligence services will have greater powers to combat espionage, terrorism and sabotage.",
+      "source": "BBC World",
+      "link": "https://www.bbc.co.uk/news/articles/c6jre3z03w4go?at_medium=RSS&at_campaign=rss",
+      "date": "2026-11-13 15:42",
+      "score": 9.8,
+      "impact": "neutral",
+      "sectors": [
+        "Broad Market",
+        "Energy",
+        "International"
+      ],
+      "primary_sector": "Broad Market",
+      "etf_tickers": [],
+      "rotation": ""
+    },
+    {
+      "title": "Jojo the gorilla has spent his life alone. Can he finally find a companion?",
+      "headline_it": "",
+      "summary_it": "",
+      "summary_en": "Jojo was poached as an infant and grew up in captivity. His keepers want to find him a friend - but it's not straightforward.",
+      "source": "BBC World",
+      "link": "https://www.bbc.co.uk/news/articles/cwm2mn272nqlo?at_medium=RSS&at_campaign=rss",
+      "date": "2026-11-14 00:03",
+      "score": 9.8,
+      "impact": "neutral",
+      "sectors": [
+        "Broad Market",
+        "Commodities",
+        "Energy",
+        "International"
+      ],
+      "primary_sector": "Broad Market",
+      "etf_tickers": [],
+      "rotation": ""
+    },
+    {
+      "title": "Migrant caravan heads to US from Mexico after Democrats’ midterm win",
+      "headline_it": "",
+      "summary_it": "",
+      "summary_en": "A migrant caravan of more than a thousand people is heading towards the US border from southern Mexico.",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/14/migrant-caravan-heads-to-us-from-mexico-after-democrats-midterm-win?traffic_source=rss",
+      "date": "2026-11-14 09:43",
+      "score": 9.8,
+      "impact": "neutral",
+      "sectors": [
+        "Broad Market",
+        "Commodities",
+        "Energy",
+        "International"
+      ],
+      "primary_sector": "Broad Market",
+      "etf_tickers": [],
+      "rotation": ""
+    },
+    {
+      "title": "Warner accuses Cricket Australia of ‘cover-up’ in ball-tampering scandal",
+      "headline_it": "",
+      "summary_it": "",
+      "summary_en": "Former opener Warner was banned for a year for his involvement in the 2018 &#039;Sandpapergate&#039; incident in South Africa.",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/sports/2026/11/14/warner-cricket-australia-ball-tampering-sandpapergate-khawaja-cummins?traffic_source=rss",
+      "date": "2026-11-14 08:10",
+      "score": 9.8,
+      "impact": "neutral",
+      "sectors": [
+        "Broad Market",
+        "Commodities",
+        "Energy",
+        "International"
+      ],
+      "primary_sector": "Broad Market",
+      "etf_tickers": [],
+      "rotation": ""
+    },
+    {
+      "title": "Nvidia Spy Scandal Threatens the Gulf’s AI Ambitions",
+      "headline_it": "",
+      "summary_it": "",
+      "summary_en": "Politics, Geopolitics & Conflict A car bomb killed the chief navigator of Russia’s St. Petersburg-based 6th Guards Air and Air Defence Forces Army on Thursday morning, a day after Ukrainian drones set an oil terminal at Ust-Luga on fire and forced flight restrictions at St. Petersburg’s Pulkovo airport. The colonel’s car exploded about 300 meters from his apartment in Shushary, the same suburb where a car bomb killed a helicopter regiment officer in August. Investigators believe a 31-year-old local planted the device overnight…",
+      "source": "OilPrice",
+      "link": "https://oilprice.com/Energy/Energy-General/Nvidia-Spy-Scandal-Threatens-the-Gulfs-AI-Ambitions.html",
+      "date": "2026-11-13 12:30",
+      "score": 9.8,
+      "impact": "neutral",
+      "sectors": [
+        "Commodities",
+        "Energy",
+        "Industrials",
+        "International",
+        "Tech & Semiconductors"
+      ],
+      "primary_sector": "Commodities",
+      "etf_tickers": [],
+      "rotation": ""
+    },
+    {
+      "title": "How Lebanon Became the Middle East’s Battleground",
+      "headline_it": "",
+      "summary_it": "",
+      "summary_en": "A new book explores how the 1982 Israeli invasion set the stage for conflicts still unfolding today.",
+      "source": "Foreign Policy",
+      "link": "https://foreignpolicy.com/2026/11/13/lebanon-middle-east-hezbollah-history-us-israel-military-war/",
+      "date": "2026-11-13 19:38",
+      "score": 9.7,
+      "impact": "neutral",
+      "sectors": [
+        "Broad Market",
+        "Commodities",
+        "Energy",
+        "Industrials",
+        "International"
+      ],
+      "primary_sector": "Broad Market",
+      "etf_tickers": [],
+      "rotation": ""
+    },
+    {
+      "title": "Consumer prices rose 0.4% in October, more than expected, complicating Fed's inflation fight",
+      "headline_it": "",
+      "summary_it": "",
+      "summary_en": "The report comes at a critical juncture for the Federal Reserve as it considers its next move regarding interest rates.",
+      "source": "CNBC Economy",
+      "link": "https://www.cnbc.com/2026/11/10/cpi-inflation-report-october-2026.html",
+      "date": "2026-11-10 23:53",
+      "score": 9.6,
+      "impact": "neutral",
+      "sectors": [
+        "Bonds",
+        "Broad Market",
+        "Commodities"
+      ],
+      "primary_sector": "Bonds",
+      "etf_tickers": [],
+      "rotation": ""
+    },
+    {
+      "title": "A key report for where inflation stood in October comes out Tuesday. Here's what to expect",
+      "headline_it": "",
+      "summary_it": "",
+      "summary_en": "The CPI headline reading is expected to show an increase of 0.3% while the core is forecast to increase 0.2%.",
+      "source": "CNBC Economy",
+      "link": "https://www.cnbc.com/2026/11/09/october-cpi-report-2026-inflation.html",
+      "date": "2026-11-09 21:03",
+      "score": 9.6,
+      "impact": "neutral",
+      "sectors": [
+        "Bonds",
+        "Broad Market",
+        "Commodities"
+      ],
+      "primary_sector": "Bonds",
+      "etf_tickers": [],
+      "rotation": ""
+    },
+    {
+      "title": "China wholesale inflation hits highest in more than four years as consumer measure slows",
+      "headline_it": "",
+      "summary_it": "",
+      "summary_en": "The PPI for October came in at 5.7%, compared to the 5.3% expected by economists polled by Reuters.",
+      "source": "CNBC Economy",
+      "link": "https://www.cnbc.com/2026/11/09/china-wholesale-inflation-rises-consumer.html",
+      "date": "2026-11-09 02:50",
+      "score": 9.6,
+      "impact": "neutral",
+      "sectors": [
+        "Bonds",
+        "Broad Market",
+        "Commodities",
+        "International"
+      ],
+      "primary_sector": "Bonds",
+      "etf_tickers": [],
+      "rotation": ""
+    },
+    {
+      "title": "Lutnick faces questions over Nvidia spy scandal. His sons' firm has deep ties to the chipmaker",
+      "headline_it": "Scandalo Nvidia solleva dubbi su Lutnick",
+      "summary_it": "La controversia può indebolire la fiducia nei titoli tecnologici, influenzando negativamente gli ETF di settore e del mercato ampio.",
+      "summary_en": "Jensen Huang’s resignation as Nvidia CEO has brought renewed scrutiny to Commerce Secretary Howard Lutnick and his family's financial ties to the chipmaker.",
+      "source": "CNBC Finance",
+      "link": "https://www.cnbc.com/2026/11/13/howard-lutnick-nvidia-jensen-huang-china-cantor-fitzgerald.html",
+      "date": "2026-11-13 23:42",
+      "score": 8.1,
+      "impact": "bearish",
+      "sectors": [
+        "Broad Market",
+        "Commodities",
+        "Energy",
+        "International",
+        "Tech & Semiconductors"
+      ],
+      "primary_sector": "Broad Market",
+      "etf_tickers": [
+        "QQQ",
+        "SMH"
+      ],
+      "rotation": ""
+    },
+    {
+      "title": "Fed Governor Waller sees December hike likely, opens door to possible half-point increase",
+      "headline_it": "Possibile rialzo di 50 punti base a dicembre",
+      "summary_it": "Il potenziale aumento dei tassi potrebbe indebolire i mercati azionari e i titoli finanziari, spingendo gli investitori a ridurre l’esposizione in settori sensibili ai costi di finanziamento.",
+      "summary_en": "The policymaker said he \"is leaning toward\" a rate increase in December and could support a half-point hike depending on inflation data.",
+      "source": "CNBC Finance",
+      "link": "https://www.cnbc.com/2026/11/10/fed-governor-waller-sees-december-hike-likely.html",
+      "date": "2026-11-10 17:13",
+      "score": 8.1,
+      "impact": "bearish",
+      "sectors": [
+        "Bonds",
+        "Broad Market",
+        "Commodities",
+        "Energy",
+        "Financials",
+        "International"
+      ],
+      "primary_sector": "Bonds",
+      "etf_tickers": [
+        "SPY",
+        "XLF"
+      ],
+      "rotation": "Broad Market e Financials in pressione"
+    },
+    {
+      "title": "Goldman CEO Solomon says AI financing remains strong despite market jitters",
+      "headline_it": "Solomon: appetito AI forte nonostante reset",
+      "summary_it": "Il CEO di Goldman afferma che la domanda per l’infrastruttura AI rimane solida, ma il recente reset delle azioni AI suggerisce cautela per i fondi settoriali tech e semiconduttori.",
+      "summary_en": "Goldman CEO David Solomon says investor appetite for AI infrastructure remains strong despite a reset in AI stocks and political uncertainty around data centers.",
+      "source": "CNBC Finance",
+      "link": "https://www.cnbc.com/2026/11/09/goldman-ceo-ai-financing-market.html",
+      "date": "2026-11-09 18:14",
+      "score": 8.1,
+      "impact": "bullish",
+      "sectors": [
+        "Broad Market",
+        "Commodities",
+        "Financials",
+        "Industrials",
+        "Real Estate",
+        "Tech & Semiconductors"
+      ],
+      "primary_sector": "Broad Market",
+      "etf_tickers": [
+        "QQQ",
+        "SMH"
+      ],
+      "rotation": ""
+    },
+    {
+      "title": "Nvidia scandal fallout widens as Trump's treasury secretary blames cabinet colleague",
+      "headline_it": "Scandalo Nvidia espande impatto sul settore tecnologico",
+      "summary_it": "La controversia sulle esportazioni di chip Nvidia solleva preoccupazioni per il settore tecnologico e può influenzare i fondi ETF che seguono le azioni di Nvidia.",
+      "summary_en": "Scott Bessent suggests Howard Lutnick’s commerce department failed to ban exports of Nvidia's chips to a firm thought to have links with China.",
+      "source": "BBC World",
+      "link": "https://www.bbc.co.uk/news/articles/cqvg2d1eg7zro?at_medium=RSS&at_campaign=rss",
+      "date": "2026-11-13 19:53",
+      "score": 8.1,
+      "impact": "bearish",
+      "sectors": [
+        "Bonds",
+        "Broad Market",
+        "Commodities",
+        "Energy",
+        "International",
+        "Tech & Semiconductors"
+      ],
+      "primary_sector": "Bonds",
+      "etf_tickers": [
+        "QQQ",
+        "SMH"
+      ],
+      "rotation": ""
+    },
+    {
+      "title": "Russian casualties ‘reach 450,000’: What that means for the Ukraine war",
+      "headline_it": "Ucraina: 450.000 morti russi, impatto globale",
+      "summary_it": "La guerra in Ucraina aumenta la volatilità dei mercati globali e spinge gli investitori verso asset più sicuri. Gli ETF di mercato ampio e internazionale potrebbero subire pressioni a breve termine.",
+      "summary_en": "Leaked Russian records reveal a war toll that falls hardest on older men, poorer regions and foreign recruits.",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/news/2026/11/14/russian-casualties-reach-450000-what-that-means-for-the-ukraine-war?traffic_source=rss",
+      "date": "2026-11-14 12:57",
+      "score": 8.1,
+      "impact": "bearish",
+      "sectors": [
+        "Broad Market",
+        "Commodities",
+        "Energy",
+        "Industrials",
+        "International"
+      ],
+      "primary_sector": "Broad Market",
+      "etf_tickers": [
+        "SPY"
+      ],
+      "rotation": "Energy"
+    },
+    {
+      "title": "Federal Reserve Board announces pricing, effective January 1, 2027, for payment services the Federal Reserve Banks provide to banks and credit unions, and changes to streamline and adjust their check services",
+      "headline_it": "Aumento costi pagamenti Fed 2027",
+      "summary_it": "L’introduzione di nuovi costi per i servizi di pagamento e la revisione dei servizi di check penalizzano i depositanti e le banche, con impatto negativo sui titoli di settore finanziario e, in misura minore, sul mercato azionario globale.",
+      "summary_en": "Federal Reserve Board announces pricing, effective January 1, 2027, for payment services the Federal Reserve Banks provide to banks and credit unions, and changes to streamline and adjust their check services",
+      "source": "Federal Reserve",
+      "link": "https://www.federalreserve.gov/newsevents/pressreleases/other20261112a.htm",
+      "date": "2026-11-12 18:30",
+      "score": 7.4,
+      "impact": "bearish",
+      "sectors": [
+        "Bonds",
+        "Broad Market",
+        "Financials"
+      ],
+      "primary_sector": "Bonds",
+      "etf_tickers": [
+        "SPY",
+        "XLF"
+      ],
+      "rotation": "rotazione verso settori non finanziari"
+    },
+    {
+      "title": "Oil prices rise after Trump says no Iran deal needed: 'We've got their Strait'",
+      "headline_it": "Prezzi petrolio salgono dopo commenti Trump",
+      "summary_it": "L’aumento dei prezzi del petrolio favorisce gli ETF del settore Energy, potenziando i rendimenti delle società petrolifere.",
+      "summary_en": "Oil prices were mixed on Thursday, after the latest comments from President Donald Trump raised worries that an end to the U.S.-Iran war was not in sight.",
+      "source": "CNBC Finance",
+      "link": "https://www.cnbc.com/2026/11/12/oil-prices-jump-after-trump-says-no-iran-deal-needed-weve-got-their-strait.html",
+      "date": "2026-11-13 00:01",
+      "score": 7.4,
+      "impact": "bullish",
+      "sectors": [
+        "Broad Market",
+        "Commodities",
+        "Energy",
+        "Industrials",
+        "International"
+      ],
+      "primary_sector": "Broad Market",
+      "etf_tickers": [
+        "XLE"
+      ],
+      "rotation": ""
+    },
+    {
+      "title": "U.S. air travel could take days to recover after FAA’s lifting of rare nationwide ground stop",
+      "headline_it": "Recupero del settore aereo rallentato da costi carburante",
+      "summary_it": "La sospensione delle operazioni aeree e l’aumento dei costi del carburante mettono sotto pressione i titoli del settore, con potenziali ribassi nei fondi che seguono l’energia e l’aviazione.",
+      "summary_en": "Homeland Security Secretary Markwayne Mullin says “zero evidence” of cyberattack, while high jet-fuel costs mean fewer flights available to travelers seeking to rebook.",
+      "source": "MarketWatch",
+      "link": "https://www.marketwatch.com/story/faa-declares-rare-widespread-ground-outage-bdc46393?mod=mw_rss_topstories",
+      "date": "2026-11-14 14:27",
+      "score": 7.4,
+      "impact": "bearish",
+      "sectors": [
+        "Broad Market",
+        "Energy",
+        "Industrials",
+        "International"
+      ],
+      "primary_sector": "Broad Market",
+      "etf_tickers": [
+        "QQQ",
+        "XLE"
+      ],
+      "rotation": "Energy to Air Travel"
+    },
+    {
+      "title": "Global oil supplies are suddenly flowing. Why a crude glut won’t mean cheaper diesel.",
+      "headline_it": "Crude glut: prezzi del diesel non scendono",
+      "summary_it": "L’aumento dell’offerta di petrolio potrebbe abbassare i prezzi del diesel, ma l’effetto sui titoli energetici è limitato a causa di costi di produzione e domanda globale.",
+      "summary_en": "It’s official: the world is expected to soon have more oil than it needs for the first time since the Iran war began in February. But more oil doesn’t automatically lead to lower diesel prices.",
+      "source": "MarketWatch",
+      "link": "https://www.marketwatch.com/story/global-oil-supplies-are-suddenly-flowing-why-a-crude-glut-wont-mean-cheaper-diesel-a5fa80c8?mod=mw_rss_topstories",
+      "date": "2026-11-13 22:04",
+      "score": 7.4,
+      "impact": "bearish",
+      "sectors": [
+        "Broad Market",
+        "Commodities",
+        "Energy",
+        "Industrials",
+        "International"
+      ],
+      "primary_sector": "Broad Market",
+      "etf_tickers": [
+        "XLE"
+      ],
+      "rotation": "rotazione verso settori a basso costo energetico"
+    },
+    {
+      "title": "US has floated Ukraine ceding Donbas for Nato membership, Zelensky says",
+      "headline_it": "U.S. propone scambio Donbass per adesione NATO",
+      "summary_it": "L'annuncio di un possibile scambio territoriale potrebbe aumentare l'incertezza geopolitica, pesando sui mercati globali e sui settori legati alla sicurezza.",
+      "summary_en": "The Ukrainian president says US envoys touted the exchange as part of efforts to end the war with Russia.",
+      "source": "BBC World",
+      "link": "https://www.bbc.co.uk/news/articles/cwvg2l312ylqo?at_medium=RSS&at_campaign=rss",
+      "date": "2026-11-14 11:41",
+      "score": 7.4,
+      "impact": "bearish",
+      "sectors": [
+        "Broad Market",
+        "Commodities",
+        "Energy",
+        "Industrials",
+        "International"
+      ],
+      "primary_sector": "Broad Market",
+      "etf_tickers": [],
+      "rotation": ""
+    },
+    {
+      "title": "Estonia bans Russian athletes as backlash intensifies",
+      "headline_it": "Estonia vieta atleti russi e bielori",
+      "summary_it": "La decisione di Estonia di escludere atleti russi e bielorussi potrebbe aumentare l’incertezza geopolitica, influenzando negativamente i mercati globali e i fondi internazionali. Gli investitori potrebbero spostarsi verso asset più sicuri.",
+      "summary_en": "Estonia is the latest country to say it will not allow Russian or Belarusian athletes to compete on its territory as a result of the ongoing war in Ukraine.",
+      "source": "BBC World",
+      "link": "https://www.bbc.co.uk/sport/articles/cm4gn9lvlgy2o?at_medium=RSS&at_campaign=rss",
+      "date": "2026-11-13 17:54",
+      "score": 7.4,
+      "impact": "bearish",
+      "sectors": [
+        "Broad Market",
+        "Commodities",
+        "Energy",
+        "International"
+      ],
+      "primary_sector": "Broad Market",
+      "etf_tickers": [
+        "SPY"
+      ],
+      "rotation": "possibile spostamento verso asset rifugio"
+    },
+    {
+      "title": "'We've got to run': Inside ruined Ukraine power plant under constant drone threat",
+      "headline_it": "Attacco missiloso distrugge centrale energetica ucraina",
+      "summary_it": "La distruzione di una delle più grandi centrali energetiche ucraina aumenta la pressione sui prezzi dell'energia e può spingere gli investitori verso ETF energetici.",
+      "summary_en": "Dan Johnson visits one of the country's largest power stations, barely left standing after a ballistic missile strike by Russia.",
+      "source": "BBC World",
+      "link": "https://www.bbc.co.uk/news/videos/cm93rp3gxn6qo?at_medium=RSS&at_campaign=rss",
+      "date": "2026-11-12 13:02",
+      "score": 7.4,
+      "impact": "bearish",
+      "sectors": [
+        "Commodities",
+        "Energy",
+        "Industrials",
+        "International"
+      ],
+      "primary_sector": "Commodities",
+      "etf_tickers": [
+        "XLE"
+      ],
+      "rotation": "energia"
+    },
+    {
+      "title": "How does Iran view shift in US approach after JD Vance ordered away?",
+      "headline_it": "Iran e US: blocchi marittimi e sanzioni in atto",
+      "summary_it": "Le misure di blocco marittimo e le sanzioni isolanti intensificano la pressione su Iran, con potenziali effetti negativi sui mercati internazionali e sull’energia.",
+      "summary_en": "Washington believes maritime blockade, overland border disruptions, air restrictions and isolating sanctions are working",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/news/2026/11/14/how-does-iran-view-shift-in-us-approach-after-vance-ordered-away?traffic_source=rss",
+      "date": "2026-11-14 13:24",
+      "score": 7.4,
+      "impact": "bearish",
+      "sectors": [
+        "Commodities",
+        "Energy",
+        "Industrials",
+        "International"
+      ],
+      "primary_sector": "Commodities",
+      "etf_tickers": [
+        "XLE"
+      ],
+      "rotation": "rotazione verso settori di difesa e infrastrutture"
+    },
+    {
+      "title": "Trump-Xi-Putin trilateral meeting at APEC: What to expect",
+      "headline_it": "Terapia geopolitica: Trump, Xi e Putin a APEC",
+      "summary_it": "La riunione tripartita solleva incertezza sui mercati globali, con potenziali rallentamenti nei settori tecnologici e nei mercati azionari generali.",
+      "summary_en": "A nuclear treaty and the US&#039;s war on Iran are among priority topics for China, Russia and US leaders.",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/news/2026/11/14/trump-xi-putin-trilateral-meeting-at-apec-what-to-expect?traffic_source=rss",
+      "date": "2026-11-14 12:14",
+      "score": 7.4,
+      "impact": "bearish",
+      "sectors": [
+        "Broad Market",
+        "Commodities",
+        "Energy",
+        "Industrials",
+        "International"
+      ],
+      "primary_sector": "Broad Market",
+      "etf_tickers": [
+        "QQQ"
+      ],
+      "rotation": "International → Broad Market"
+    },
+    {
+      "title": "China's goods surplus tops $1 trillion for a second year amid calls for Beijing to rebalance trade",
+      "headline_it": "Surplus cinese oltre 1 trilione di dollari",
+      "summary_it": "Il surplus commerciale cinese di oltre 1 trilione di dollari rafforza la pressione sui partner commerciali, potenzialmente indebolendo i mercati internazionali e spingendo gli investitori a ridurre l’esposizione a ETF internazionali.",
+      "summary_en": "China's trade surplus topped $1 trillion as of October, potentially intensifying complaints from trading partners already wary over the glut of cheap Chinese goods.",
+      "source": "CNBC Economy",
+      "link": "https://www.cnbc.com/2026/11/10/china-trade-october-exports-imports-surplus-.html",
+      "date": "2026-11-10 10:24",
+      "score": 6.8,
+      "impact": "bearish",
+      "sectors": [
+        "Broad Market",
+        "Commodities",
+        "Energy",
+        "International"
+      ],
+      "primary_sector": "Broad Market",
+      "etf_tickers": [],
+      "rotation": ""
+    },
+    {
+      "title": "Federal Reserve announces revised tentative schedule of Federal Open Market Committee meetings in 2027",
+      "headline_it": "FOMC 2027: nuovo calendario di riunioni",
+      "summary_it": "Il nuovo programma di riunioni del FOMC per il 2027 potrebbe influenzare le aspettative di politica monetaria, con potenziali ripercussioni sui mercati azionari e obbligazionari.",
+      "summary_en": "Federal Reserve announces revised tentative schedule of Federal Open Market Committee meetings in 2027",
+      "source": "Federal Reserve",
+      "link": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20261112a.htm",
+      "date": "2026-11-12 17:45",
+      "score": 6.8,
+      "impact": "neutral",
+      "sectors": [
+        "Broad Market",
+        "Industrials"
+      ],
+      "primary_sector": "Broad Market",
+      "etf_tickers": [],
+      "rotation": ""
+    },
+    {
+      "title": "Federal Reserve Board issues enforcement action with former employee of United Community Bank",
+      "headline_it": "Azioni di enforcement della Fed su ex dipendente",
+      "summary_it": "La decisione della Fed potrebbe aumentare la vigilanza sul settore bancario, con potenziali effetti sul mercato dei titoli di settore finanziario.",
+      "summary_en": "Federal Reserve Board issues enforcement action with former employee of United Community Bank",
+      "source": "Federal Reserve",
+      "link": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20261112a.htm",
+      "date": "2026-11-12 16:00",
+      "score": 6.8,
+      "impact": "neutral",
+      "sectors": [
+        "Financials"
+      ],
+      "primary_sector": "Financials",
+      "etf_tickers": [],
+      "rotation": ""
+    },
+    {
+      "title": "Ukraine, Russia race to build military satellite networks as war rages on",
+      "headline_it": "Conflitto ucraino spinge sviluppo reti satellitari militari",
+      "summary_it": "Il crescente sviluppo di reti satellitari militari da parte di Russia e Ucraina potrebbe influenzare le aziende di tecnologia satellitare, con potenziali impatti sul settore tecnologico e sul mercato ampio.",
+      "summary_en": "Kyiv seeks to break reliance on Starlink as Moscow develops its own satellite constellation for military communications.",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/news/2026/11/14/ukraine-russia-race-to-build-military-satellite-networks-as-war-rages-on?traffic_source=rss",
+      "date": "2026-11-14 11:00",
+      "score": 6.8,
+      "impact": "neutral",
+      "sectors": [
+        "Broad Market",
+        "Commodities",
+        "Energy",
+        "Industrials",
+        "International",
+        "Tech & Semiconductors"
+      ],
+      "primary_sector": "Broad Market",
+      "etf_tickers": [],
+      "rotation": ""
+    },
+    {
+      "title": "Qatar and Turkiye sign a mutual defence pact: What do we know?",
+      "headline_it": "Patto di difesa tra Qatar e Turchia",
+      "summary_it": "Il nuovo accordo mira a deterrere attacchi, senza creare un’alleanza offensiva, con impatto limitato sui mercati globali.",
+      "summary_en": "Analysts say the pact, agreed amid the US-Iran war, aims to deter attacks rather than build an offensive alliance.",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/news/2026/11/14/qatar-and-turkiye-sign-a-mutual-defence-pact-what-do-we-know?traffic_source=rss",
+      "date": "2026-11-14 09:19",
+      "score": 6.8,
+      "impact": "neutral",
+      "sectors": [
+        "Broad Market",
+        "Commodities",
+        "Energy",
+        "Industrials",
+        "International"
+      ],
+      "primary_sector": "Broad Market",
+      "etf_tickers": [],
+      "rotation": ""
+    },
+    {
+      "title": "UN says 25 seafarers killed in, around Hormuz since US-Israel war on Iran",
+      "headline_it": "Seafaring crisis a minaccia globale",
+      "summary_it": "L’aumento degli incidenti nel Golfo di Hormuz potrebbe spingere gli investitori a riconsiderare esposizioni globali, ma l’effetto immediato sui principali ETF è limitato.",
+      "summary_en": "&#039;Situation cannot become new normal&#039;, says UN&#039;s Khaled Khiari, as Iran reports three more vessels hitting mines.",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/news/2026/11/14/un-says-25-seafarers-killed-in-around-hormuz-since-february?traffic_source=rss",
+      "date": "2026-11-14 07:46",
+      "score": 6.8,
+      "impact": "neutral",
+      "sectors": [
+        "Broad Market",
+        "Commodities",
+        "Energy",
+        "Industrials",
+        "International"
+      ],
+      "primary_sector": "Broad Market",
+      "etf_tickers": [],
+      "rotation": ""
+    },
+    {
+      "title": "OpenAI launches ChatGPT Wallet, allowing its 'dots' AI agents to make purchases for users",
+      "headline_it": "OpenAI lancia Wallet per ChatGPT",
+      "summary_it": "Il nuovo wallet di OpenAI, in partnership con Amex, Mastercard e Visa, permette agli utenti di fare acquisti tramite l’IA senza perdere i premi delle carte. Potrebbe aumentare l’adozione di tecnologie AI nei consumi.",
+      "summary_en": "OpenAI's ChatGPT Wallet partners with American Express, Mastercard and Visa, and those cardholders keep their existing credit card rewards.",
+      "source": "CNBC World",
+      "link": "https://www.cnbc.com/2026/11/13/openai-chatgpt-wallet-dot-purchases.html",
+      "date": "2026-11-13 18:56",
+      "score": 6.8,
+      "impact": "neutral",
+      "sectors": [
+        "Bonds",
+        "Broad Market",
+        "Commodities",
+        "Energy",
+        "Financials",
+        "International",
+        "Tech & Semiconductors"
+      ],
+      "primary_sector": "Bonds",
+      "etf_tickers": [
+        "QQQ"
+      ],
+      "rotation": ""
+    },
+    {
+      "title": "Agencies extend comment period for proposed third-party risk management guidance",
+      "headline_it": "Estensione periodo commenti per guida gestione rischi terzi",
+      "summary_it": "La Fed prolunga il periodo di commento su una proposta di linee guida per la gestione del rischio di terze parti, senza impatti immediati sui mercati.",
+      "summary_en": "Agencies extend comment period for proposed third-party risk management guidance",
+      "source": "Federal Reserve",
+      "link": "https://www.federalreserve.gov/newsevents/pressreleases/bcreg20261113a.htm",
+      "date": "2026-11-13 21:15",
+      "score": 5.5,
+      "impact": "neutral",
+      "sectors": [
+        "Broad Market"
+      ],
+      "primary_sector": "Broad Market",
+      "etf_tickers": [],
+      "rotation": ""
+    },
+    {
+      "title": "Rosalía scoops historic third best album award at Latin Grammys",
+      "headline_it": "Rosalía vince terzo premio all'album al Latin Grammys",
+      "summary_it": "Il successo di Rosalía potrebbe rafforzare il settore dei beni di consumo culturale, ma l'impatto sui principali ETF è minimo.",
+      "summary_en": "The Spanish singer is recognised for her fourth album Lux which was released last year to rave reviews.",
+      "source": "BBC World",
+      "link": "https://www.bbc.co.uk/news/articles/cr3eg97eqde1o?at_medium=RSS&at_campaign=rss",
+      "date": "2026-11-13 11:38",
+      "score": 4.8,
+      "impact": "neutral",
+      "sectors": [
+        "Broad Market",
+        "Commodities",
+        "Consumers",
+        "Energy",
+        "Industrials",
+        "International"
+      ],
+      "primary_sector": "Broad Market",
+      "etf_tickers": [],
+      "rotation": ""
+    },
+    {
+      "title": "Federal Reserve Board announces approval of two applications by Mutual Federal Bancorp, MHC, and MFB Bancorp, Inc.",
+      "headline_it": "Approvazione di due banche da parte della Fed",
+      "summary_it": "La Fed ha approvato le domande di Mutual Federal Bancorp e MFB Bancorp, ma l’evento è di natura amministrativa e non ha impatto diretto sui mercati ETF.",
+      "summary_en": "Federal Reserve Board announces approval of two applications by Mutual Federal Bancorp, MHC, and MFB Bancorp, Inc.",
+      "source": "Federal Reserve",
+      "link": "https://www.federalreserve.gov/newsevents/pressreleases/orders20261109a.htm",
+      "date": "2026-11-09 21:00",
+      "score": 4.2,
+      "impact": "neutral",
+      "sectors": [],
+      "primary_sector": null,
+      "etf_tickers": [],
+      "rotation": ""
+    },
+    {
+      "title": "Pacers hold off Knicks in NBA Cup thriller, Spurs rout Warriors",
+      "headline_it": "Pacers battono Knicks, Spurs dominano Warriors",
+      "summary_it": "La sconfitta dei Knicks riduce le prospettive di avanzamento, ma non ha impatto diretto sui mercati ETF.",
+      "summary_en": "The New York Knicks look unlikely to advance to the NBA Cup knockout rounds after falling to the Indiana Pacers.",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/sports/2026/11/14/nba-cup-basketball-pacers-knicks-spurs-warriors?traffic_source=rss",
+      "date": "2026-11-14 08:01",
+      "score": 4.2,
+      "impact": "bearish",
+      "sectors": [
+        "Broad Market",
+        "Commodities",
+        "Energy",
+        "International"
+      ],
+      "primary_sector": "Broad Market",
+      "etf_tickers": [],
+      "rotation": ""
+    }
+  ]
+}

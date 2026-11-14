@@ -1,130 +1,130 @@
 {
-  "week": "2026-W45",
-  "updated": "2026-11-08",
-  "comment": "Settimana a -2,7% per SPY, 6/13 settori positivi: in testa materie prime (+4,0%), in coda tecnologia e semiconduttori (-8,2%).",
+  "week": "2026-W46",
+  "updated": "2026-11-14",
+  "comment": "Settimana a +2,6% per SPY, 6/13 settori positivi: in testa tecnologia e semiconduttori (+2,9%), in coda cripto (-3,9%). Flussi in ingresso: utility.",
   "overview": {
-    "spy_1w": -2.7,
-    "qqq_1w": -4.98,
+    "spy_1w": 2.59,
+    "qqq_1w": 3.63,
     "breadth": "6/13",
-    "realized_vol": 19.7,
+    "realized_vol": 21.8,
     "risk_score": 100
   },
   "gainers": [
     {
-      "t": "GDX",
-      "d": "Gold Miners",
-      "w1": 13.63
-    },
-    {
-      "t": "TAN",
-      "d": "Solar",
-      "w1": 13.38
-    },
-    {
-      "t": "KWEB",
-      "d": "China Internet",
-      "w1": 9.41
-    },
-    {
-      "t": "ICLN",
-      "d": "Clean Energy",
-      "w1": 7.45
-    },
-    {
-      "t": "JETS",
-      "d": "Airlines",
-      "w1": 6.65
-    }
-  ],
-  "losers": [
-    {
-      "t": "USO",
-      "d": "Crude Oil",
-      "w1": -12.1
-    },
-    {
       "t": "XLE",
       "d": "Oil & Gas",
-      "w1": -12.0
-    },
-    {
-      "t": "ARKG",
-      "d": "Genomics",
-      "w1": -11.58
+      "w1": 5.42
     },
     {
       "t": "SMH",
       "d": "Semiconductors",
-      "w1": -11.2
+      "w1": 4.91
     },
     {
       "t": "HACK",
       "d": "Cybersecurity",
-      "w1": -10.95
+      "w1": 4.49
+    },
+    {
+      "t": "CIBR",
+      "d": "Cyber Defense",
+      "w1": 4.39
+    },
+    {
+      "t": "UFO",
+      "d": "Space",
+      "w1": 4.31
+    }
+  ],
+  "losers": [
+    {
+      "t": "BITO",
+      "d": "Bitcoin Futures",
+      "w1": -9.23
+    },
+    {
+      "t": "TAN",
+      "d": "Solar",
+      "w1": -8.62
+    },
+    {
+      "t": "KWEB",
+      "d": "China Internet",
+      "w1": -7.84
+    },
+    {
+      "t": "GDX",
+      "d": "Gold Miners",
+      "w1": -6.8
+    },
+    {
+      "t": "SLV",
+      "d": "Silver",
+      "w1": -5.85
     }
   ],
   "overbought": [
     {
       "t": "XLV",
       "d": "Healthcare",
-      "rsi": 63.0
+      "rsi": 66.9
+    },
+    {
+      "t": "XLU",
+      "d": "Utilities",
+      "rsi": 66.1
+    },
+    {
+      "t": "XLP",
+      "d": "Staples",
+      "rsi": 65.1
     },
     {
       "t": "ESPO",
       "d": "Gaming",
-      "rsi": 62.4
+      "rsi": 64.5
     },
     {
-      "t": "TLT",
-      "d": "20Y+ Treasury",
-      "rsi": 61.6
-    },
-    {
-      "t": "KWEB",
-      "d": "China Internet",
-      "rsi": 60.9
-    },
-    {
-      "t": "XLRE",
-      "d": "Real Estate",
-      "rsi": 60.2
+      "t": "XLF",
+      "d": "Financial Sector",
+      "rsi": 61.8
     }
   ],
   "oversold": [
     {
-      "t": "XLK",
-      "d": "US Tech",
-      "rsi": 29.4
+      "t": "BITO",
+      "d": "Bitcoin Futures",
+      "rsi": 28.1
     },
     {
-      "t": "VGT",
-      "d": "Info Technology",
-      "rsi": 30.6
+      "t": "SLV",
+      "d": "Silver",
+      "rsi": 32.4
     },
     {
-      "t": "QQQ",
-      "d": "Nasdaq 100",
-      "rsi": 31.4
+      "t": "COPX",
+      "d": "Copper Miners",
+      "rsi": 36.2
     },
     {
-      "t": "SMH",
-      "d": "Semiconductors",
-      "rsi": 31.4
+      "t": "REMX",
+      "d": "Rare Earth",
+      "rsi": 36.7
     },
     {
-      "t": "CIBR",
-      "d": "Cyber Defense",
-      "rsi": 31.5
+      "t": "IDRV",
+      "d": "Self-Driving",
+      "rsi": 37.0
     }
   ],
   "pipeline": {
-    "week": "2026-W45",
+    "week": "2026-W46",
     "etfs": 105,
     "sectors": 13,
     "regions": 8,
     "regime": "ROTATIONAL",
     "risk_score": 100,
-    "report": "/reports/ETF_Report_2026-W45.html"
+    "report": "/reports/ETF_Report_2026-W46.html"
   },
-  "spy_spark": "2.0,7.2 9.5,7.5 17.0,4.3 24.5,4.9 32.0,2.0 39.5,7.0 47.0,8.0 54.5,9.4 62.0,16.0"
+  "spy_spark": "2.0,7.5 9.5,4.3 17.0,4.9 24.5,2.0 32.0,7.0 39.5,8.0 47.0,9.4 54.5,16.0 62.0,9.8"
 }

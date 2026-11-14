@@ -1,66 +1,42 @@
 {
-  "date": "November 08, 2026",
-  "week": "2026-W45",
+  "date": "November 14, 2026",
+  "week": "2026-W46",
   "ideas": [
     {
-      "ticker": "ICLN",
-      "price": 16.45,
-      "direction": "long",
-      "desc": "Clean Energy"
-    },
-    {
-      "ticker": "SMH",
-      "price": 463.96,
-      "direction": "long",
-      "desc": "Semiconductors"
-    },
-    {
       "ticker": "QQQ",
-      "price": 656.1,
+      "price": 679.89,
       "direction": "long",
       "desc": "Nasdaq 100"
     },
     {
-      "ticker": "VGT",
-      "price": 108.51,
+      "ticker": "XLU",
+      "price": 44.04,
       "direction": "long",
-      "desc": "Info Technology"
+      "desc": "Utilities"
     },
     {
-      "ticker": "USO",
-      "price": 148.41,
+      "ticker": "SPY",
+      "price": 754.37,
       "direction": "long",
-      "desc": "Crude Oil"
-    },
-    {
-      "ticker": "TLT",
-      "price": 81.92,
-      "direction": "long",
-      "desc": "20Y+ Treasury"
+      "desc": "S&P 500"
     },
     {
       "ticker": "XLE",
-      "price": 61.62,
+      "price": 64.96,
       "direction": "long",
       "desc": "Oil & Gas"
     },
     {
-      "ticker": "XLV",
-      "price": 184.8,
+      "ticker": "BITO",
+      "price": 9.15,
       "direction": "long",
-      "desc": "Healthcare"
+      "desc": "Bitcoin Futures"
     },
     {
       "ticker": "GDX",
-      "price": 87.6,
+      "price": 81.64,
       "direction": "long",
       "desc": "Gold Miners"
-    },
-    {
-      "ticker": "SPY",
-      "price": 735.29,
-      "direction": "long",
-      "desc": "S&P 500"
     }
   ]
 }
