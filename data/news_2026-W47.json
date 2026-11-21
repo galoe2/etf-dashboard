@@ -1,0 +1,1361 @@
+{
+  "generated": "2026-11-21T15:45:15.948079",
+  "lookback_days": 7,
+  "total_articles": 50,
+  "sector_news": {
+    "Broad Market": {
+      "count": 39,
+      "top": [
+        {
+          "headline": "Japan's economy unexpectedly contracts in third-quarter as elevated energy costs bite",
+          "summary": "Energy subsidies for households had reportedly expired in September, exposing the economy to the higher energy prices brought about by the Iran war.",
+          "impact": "neutral",
+          "source": "CNBC Economy",
+          "score": 10.0,
+          "link": "https://www.cnbc.com/2026/11/16/japan-q3-gdp-energy-oil-prices.html",
+          "etf_tickers": []
+        },
+        {
+          "headline": "S&P 500 and Dow close in correction; Nasdaq erases 2026 gain as AI rout picks up steam",
+          "summary": "A decline in Anthropic shares weighed on the broader market following the artificial intelligence giant's public market debut in the previous session.",
+          "impact": "mixed",
+          "source": "CNBC World",
+          "score": 10.0,
+          "link": "https://www.cnbc.com/2026/11/19/stock-market-today-live-updates.html",
+          "etf_tickers": []
+        },
+        {
+          "headline": "UK maritime agency reports two tanker attacks near Oman; Iran says vessel hit mine east of Hormuz",
+          "summary": "The incidents followed a similar attack on a tanker near Khasab on Friday that caused a fire on board, according to the British maritime security agency.",
+          "impact": "neutral",
+          "source": "CNBC World",
+          "score": 10.0,
+          "link": "https://www.cnbc.com/2026/11/21/two-tanker-attacks-reported-near-omans-khasab-ukmto-says.html",
+          "etf_tickers": []
+        }
+      ]
+    },
+    "International": {
+      "count": 34,
+      "top": [
+        {
+          "headline": "Peterson: The Fed's chairman sees an AI revolution coming. Now he has to figure out what it means",
+          "summary": "Kevin Warsh sees AI at a turning point. He faces tough questions on jobs and interest rates.",
+          "impact": "neutral",
+          "source": "CNBC Economy",
+          "score": 10.0,
+          "link": "https://www.cnbc.com/2026/11/16/kevin-warsh-fed-ai-jobs-productivity-interest-rateshtml.html",
+          "etf_tickers": []
+        },
+        {
+          "headline": "AI is changing software engineering — and some developers miss the struggle",
+          "summary": "AI coding tools are making software engineers faster, but developers tell CNBC the work has lost its \"sense of joy and fun.\"",
+          "impact": "bearish",
+          "source": "CNBC World",
+          "score": 10.0,
+          "link": "https://www.cnbc.com/2026/11/20/ai-coding-tools-software-engineers.html",
+          "etf_tickers": []
+        },
+        {
+          "headline": "Oil Prices Caught Between a Looming Glut and Middle East Turmoil",
+          "summary": "Oil prices have traded in a narrow range over the past few sessions as forecasts of a coming surplus collide with continued attacks and stalled diplomacy in the Middle East. A run of agency reports this month has pushed expectations toward oversupply and weighed on crude. Brent crude was up 0.22% at $92.18 per barrel in early trade on Friday, well below its October levels above $110 but little changed from the start of the week, while WTI crude had gained 0.35% to $82.73 per barrel. The International Energy Agency (IEA) said in its November Oil…",
+          "impact": "bullish",
+          "source": "OilPrice",
+          "score": 10.0,
+          "link": "https://oilprice.com/Energy/Energy-General/Oil-Prices-Caught-Between-a-Looming-Glut-and-Middle-East-Turmoil.html",
+          "etf_tickers": []
+        }
+      ]
+    },
+    "Tech & Semiconductors": {
+      "count": 8,
+      "top": [
+        {
+          "headline": "Where Hong Kong has been hit by major data leaks, and how to protect yourself",
+          "summary": "Multiple organisations in Hong Kong have experienced data breaches in the past few weeks, from a department store and a jeweller to a university and airlines, with experts saying artificial intelligence has enabled more targeted attacks.\nThe South China Morning Post rounds up what has been happening in Hong Kong, what the city’s shortcomings are in such situations, as well as how scammers have evolved using the different pieces of information they have managed to access.\nWho has been hit and how...",
+          "impact": "neutral",
+          "source": "SCMP",
+          "score": 10.0,
+          "link": "https://www.scmp.com/news/hong-kong/law-and-crime/article/3374934/explainer-where-hong-kong-has-been-hit-major-data-leaks-and-how-protect-yourself",
+          "etf_tickers": []
+        },
+        {
+          "headline": "U.S. companies from Nvidia to Apple face a growing China dilemma",
+          "summary": "The stakes have just gotten higher for businesses navigating the U.S. and China markets.",
+          "impact": "neutral",
+          "source": "CNBC Finance",
+          "score": 9.9,
+          "link": "https://www.cnbc.com/2026/11/17/us-tech-firms-china-ties-political-pressure.html",
+          "etf_tickers": []
+        },
+        {
+          "headline": "How Nvidia turmoil and a Democratic Congress could reshape the AI trade, according to ETF experts",
+          "summary": "ETF experts say Nvidia’s leadership turmoil and Democratic control of Congress could shift AI demand to the benefit of other Big Tech stocks, rival chipmakers.",
+          "impact": "neutral",
+          "source": "CNBC Finance",
+          "score": 9.9,
+          "link": "https://www.cnbc.com/2026/11/14/nvidia-ai-trade-data-centers-congress.html",
+          "etf_tickers": []
+        }
+      ]
+    },
+    "Financials": {
+      "count": 12,
+      "top": [
+        {
+          "headline": "Boris Vujčić: Risks and resilience in the euro area financial system",
+          "summary": "The European Central Bank (ECB) is the central bank of the European Union countries which have adopted the euro. Our main task is to maintain price stability in the euro area and so preserve the purchasing power of the single currency.",
+          "impact": "neutral",
+          "source": "ECB",
+          "score": 10.0,
+          "link": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp261116~db374b56ab.en.html",
+          "etf_tickers": []
+        },
+        {
+          "headline": "St. Louis Fed's Musalem says four more rate hikes may be needed in coming months",
+          "summary": "The forecast represents one of the most hawkish views among policymakers.",
+          "impact": "bearish",
+          "source": "CNBC Economy",
+          "score": 9.8,
+          "link": "https://www.cnbc.com/2026/11/17/alberto-musalem-fed-interest-rates.html",
+          "etf_tickers": []
+        },
+        {
+          "headline": "Fed punta a più rialzi, AI inflazione",
+          "summary": "Le decisioni di mantenere i tassi elevati e le preoccupazioni sull’IA potrebbero frenare la crescita del mercato azionario, in particolare nei settori tecnologici. Gli ETF di azioni generali e di tecnologia potrebbero subire pressioni, mentre i titoli di settore finanziario potrebbero vedere un leggero rallentamento.",
+          "impact": "bearish",
+          "source": "CNBC Finance",
+          "score": 8.1,
+          "link": "https://www.cnbc.com/2026/11/18/fed-minutes-october-2026.html",
+          "etf_tickers": [
+            "QQQ",
+            "SPY",
+            "XLF"
+          ]
+        }
+      ]
+    },
+    "Energy": {
+      "count": 33,
+      "top": [
+        {
+          "headline": "Tankers Are Being Hit Daily. So Why Is Oil Falling?",
+          "summary": "Brent tumbled 5% to $91 this week, as recovering Gulf oil flows outweigh tanker attacks, Houthi threats and escalating geopolitical tensions. Friday, November 20, 2026  Oil prices are set to post a 5% weekly drop as sentiment is still swayed by ample Middle Eastern barrels flowing to Asian customers. That said, none of the bullish factors of the past months have lost their relevance – Iranian drone strikes on tankers in the Hormuz are running at one clear hit per day; the Russia-Ukraine war is as frenzied as it could be and the Houthis…",
+          "impact": "mixed",
+          "source": "OilPrice",
+          "score": 10.0,
+          "link": "https://oilprice.com/Energy/Crude-Oil/Tankers-Are-Being-Hit-Daily-So-Why-Is-Oil-Falling.html",
+          "etf_tickers": []
+        },
+        {
+          "headline": "China’s Oil Imports from Persian Gulf Jump to Wartime High",
+          "summary": "China’s crude oil imports from the Persian Gulf surged by 42.4% in October from September, to the highest level since the Iran war began, as supply via the Strait of Hormuz rebounded and Gulf producers slashed prices for their crude to attract buyers amid record-high freight rates.  China imported 19.7 million tons of crude oil from the Persian Gulf producers, excluding Iran, in October, a 42.4% jump from the previous month, per calculations by the South China Morning Post based on Chinese customs data released on Friday.  October…",
+          "impact": "bullish",
+          "source": "OilPrice",
+          "score": 10.0,
+          "link": "https://oilprice.com/Latest-Energy-News/World-News/Chinas-Oil-Imports-from-Persian-Gulf-Jump-to-Wartime-High.html",
+          "etf_tickers": []
+        },
+        {
+          "headline": "Trump’s Ukraine Energy Truce Unravels as Russian Missiles Hit Kyiv",
+          "summary": "Politics, Geopolitics & Conflict Trump’s October “energy truce” between Russia and Ukraine in October is over, and Vladimir Putin has taken a new one off the table. After meeting Trump and Xi at the APEC summit on Thursday, Putin said Russia would not negotiate after Ukraine’s strikes on the Crimean Bridge. Russia hit Kyiv with ballistic missiles and drones Friday morning, killing at least three people, damaging three bridges and a critical infrastructure facility, and forcing power cuts in the capital and three western…",
+          "impact": "bearish",
+          "source": "OilPrice",
+          "score": 10.0,
+          "link": "https://oilprice.com/Energy/Energy-General/Trumps-Ukraine-Energy-Truce-Unravels-as-Russian-Missiles-Hit-Kyiv.html",
+          "etf_tickers": []
+        }
+      ]
+    },
+    "Commodities": {
+      "count": 34,
+      "top": [
+        {
+          "headline": "U.S. crude oil declines to $85 a barrel on recovering Middle East exports",
+          "summary": "Oil prices are falling as forecasts project a surplus in oil in the fourth quarter",
+          "impact": "bearish",
+          "source": "CNBC Finance",
+          "score": 9.9,
+          "link": "https://www.cnbc.com/2026/11/16/us-crude-oil-declines-to-87-a-barrel-on-recovering-middle-east-exports.html",
+          "etf_tickers": []
+        },
+        {
+          "headline": "Trump vows to stop U.S. companies from building data centers abroad, threatens 'tremendous tax'",
+          "summary": "Trump spoke at the White House after meeting with Chinese President Xi Jinping and Russian President Vladimir Putin for a historic trilateral summit in China.",
+          "impact": "neutral",
+          "source": "CNBC World",
+          "score": 9.9,
+          "link": "https://www.cnbc.com/2026/11/20/trump-data-centers-ai-companies-tax.html",
+          "etf_tickers": []
+        },
+        {
+          "headline": "Countries agree to U.N. talks aiming to regulate 'killer robots' by 2028",
+          "summary": "Around 100 countries backed legally binding rules within a short timeframe but big arms-producing nations like the U.S., Russia and Israel opposed this position.",
+          "impact": "neutral",
+          "source": "CNBC World",
+          "score": 9.9,
+          "link": "https://www.cnbc.com/2026/11/21/countries-agree-to-un-talks-aiming-to-regulate-killer-robots-by-2028.html",
+          "etf_tickers": []
+        }
+      ]
+    },
+    "Real Estate": {
+      "count": 2,
+      "top": [
+        {
+          "headline": "Iran blocca droni US, tensioni sul Golfo",
+          "summary": "Le sanzioni e la minaccia di blocco del Golfo aumentano l’incertezza sul mercato petrolifero, penalizzando gli ETF energetici e quelli internazionali legati al settore energetico.",
+          "impact": "bearish",
+          "source": "Al Jazeera",
+          "score": 8.1,
+          "link": "https://www.aljazeera.com/news/2026/11/21/irans-irgc-downs-us-drone-over-hormuz-as-efforts-to-end-war-remain-stalled?traffic_source=rss",
+          "etf_tickers": [
+            "USO"
+          ]
+        }
+      ]
+    },
+    "Industrials": {
+      "count": 23,
+      "top": [
+        {
+          "headline": "Without U.S. Military Aid, Can Israel Afford So Many Wars?",
+          "summary": "Deterioration in ties with Washington poses serious trouble.",
+          "impact": "neutral",
+          "source": "Foreign Policy",
+          "score": 9.9,
+          "link": "https://foreignpolicy.com/2026/11/18/israel-military-aid-united-states-trump-netanyahu-wars/",
+          "etf_tickers": []
+        },
+        {
+          "headline": "ID card checks to tackle ticket touting could slow entry to shows: tourism chief",
+          "summary": "Hong Kong’s tourism chief has warned that requiring concertgoers to show identity cards matching the names on their tickets to combat scalping could slow entry to venues, saying arrangements would need to be discussed with organisers for each event.\nSecretary for Culture, Sports and Tourism Rosanna Law Shuk-pui also told a radio programme on Saturday that the city could record around 55 million visitor arrivals this year, 1.2 million more than the government’s earlier forecast of 53.8...",
+          "impact": "neutral",
+          "source": "SCMP",
+          "score": 9.9,
+          "link": "https://www.scmp.com/news/hong-kong/hong-kong-economy/article/3375317/using-ids-check-concert-tickets-combat-scalping-could-slow-entry-tourism-chief",
+          "etf_tickers": []
+        },
+        {
+          "headline": "Iran’s ‘Boiling Frog’ Strategy",
+          "summary": "Why Tehran believes its strategy to hurt the West is working.",
+          "impact": "neutral",
+          "source": "Foreign Policy",
+          "score": 9.7,
+          "link": "https://foreignpolicy.com/2026/11/19/iran-war-us-strikes-dirty-bomb-trump-congress-democrats-vali-nasr/",
+          "etf_tickers": []
+        }
+      ]
+    },
+    "Bonds": {
+      "count": 9,
+      "top": [
+        {
+          "headline": "Fed Waller: potenziale rialzo di 50 punti base",
+          "summary": "Un aumento di 50 punti base potrebbe indebolire i mercati azionari, in particolare i settori tecnologici e di consumo.",
+          "impact": "bearish",
+          "source": "CNBC Finance",
+          "score": 8.1,
+          "link": "https://www.cnbc.com/2026/11/18/federal-reserve-governor-christopher-waller.html",
+          "etf_tickers": [
+            "QQQ"
+          ]
+        },
+        {
+          "headline": "Minuti Fed: tassi più alti in vista",
+          "summary": "Le decisioni della Fed indicano un possibile aumento dei tassi, pressando i mercati azionari e spingendo gli investitori verso obbligazioni a reddito fisso.",
+          "impact": "bearish",
+          "source": "Federal Reserve",
+          "score": 7.4,
+          "link": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20261118a.htm",
+          "etf_tickers": [
+            "SPY"
+          ]
+        },
+        {
+          "headline": "ECB agisce tempestivamente per stabilità dei prezzi",
+          "summary": "L’intervento della BCE mira a mantenere la stabilità dei prezzi, con impatto moderato sui mercati azionari e un potenziale rafforzamento degli ETF obbligazionari euro.",
+          "impact": "neutral",
+          "source": "ECB",
+          "score": 7.4,
+          "link": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp261120~e52bcc4db2.en.html",
+          "etf_tickers": []
+        }
+      ]
+    },
+    "Consumers": {
+      "count": 2,
+      "top": [
+        {
+          "headline": "Bug temporaneo in banca di consumo JPMorgan",
+          "summary": "Il problema software di JPMorgan potrebbe influenzare temporaneamente le operazioni di consumo, ma non sembra avere impatto su altri istituti.",
+          "impact": "neutral",
+          "source": "CNBC Finance",
+          "score": 6.8,
+          "link": "https://www.cnbc.com/2026/11/16/jpmorgan-chase-technical-issue.html",
+          "etf_tickers": []
+        }
+      ]
+    }
+  },
+  "rotation_signals": [
+    {
+      "signal": "rotazione verso settori difensivi",
+      "source": "CNBC Finance",
+      "score": 8.1
+    },
+    {
+      "signal": "rotazione verso ETF energetici",
+      "source": "Al Jazeera",
+      "score": 8.1
+    },
+    {
+      "signal": "Energy",
+      "source": "Al Jazeera",
+      "score": 8.1
+    },
+    {
+      "signal": "rotazione verso obbligazioni",
+      "source": "Federal Reserve",
+      "score": 7.4
+    },
+    {
+      "signal": "International",
+      "source": "CNBC Finance",
+      "score": 7.4
+    }
+  ],
+  "articles": [
+    {
+      "title": "Boris Vujčić: Risks and resilience in the euro area financial system",
+      "headline_it": "",
+      "summary_it": "",
+      "summary_en": "The European Central Bank (ECB) is the central bank of the European Union countries which have adopted the euro. Our main task is to maintain price stability in the euro area and so preserve the purchasing power of the single currency.",
+      "source": "ECB",
+      "link": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp261116~db374b56ab.en.html",
+      "date": "2026-11-16 08:30",
+      "score": 10.0,
+      "impact": "neutral",
+      "sectors": [
+        "Financials"
+      ],
+      "primary_sector": "Financials",
+      "etf_tickers": [],
+      "rotation": ""
+    },
+    {
+      "title": "Peterson: The Fed's chairman sees an AI revolution coming. Now he has to figure out what it means",
+      "headline_it": "",
+      "summary_it": "",
+      "summary_en": "Kevin Warsh sees AI at a turning point. He faces tough questions on jobs and interest rates.",
+      "source": "CNBC Economy",
+      "link": "https://www.cnbc.com/2026/11/16/kevin-warsh-fed-ai-jobs-productivity-interest-rateshtml.html",
+      "date": "2026-11-20 21:07",
+      "score": 10.0,
+      "impact": "neutral",
+      "sectors": [
+        "Bonds",
+        "Broad Market",
+        "Commodities",
+        "Energy",
+        "Industrials",
+        "International"
+      ],
+      "primary_sector": "Bonds",
+      "etf_tickers": [],
+      "rotation": ""
+    },
+    {
+      "title": "Japan's economy unexpectedly contracts in third-quarter as elevated energy costs bite",
+      "headline_it": "",
+      "summary_it": "",
+      "summary_en": "Energy subsidies for households had reportedly expired in September, exposing the economy to the higher energy prices brought about by the Iran war.",
+      "source": "CNBC Economy",
+      "link": "https://www.cnbc.com/2026/11/16/japan-q3-gdp-energy-oil-prices.html",
+      "date": "2026-11-16 02:56",
+      "score": 10.0,
+      "impact": "neutral",
+      "sectors": [
+        "Broad Market",
+        "Commodities",
+        "Energy",
+        "Industrials",
+        "International"
+      ],
+      "primary_sector": "Broad Market",
+      "etf_tickers": [],
+      "rotation": ""
+    },
+    {
+      "title": "S&P 500 and Dow close in correction; Nasdaq erases 2026 gain as AI rout picks up steam",
+      "headline_it": "",
+      "summary_it": "",
+      "summary_en": "A decline in Anthropic shares weighed on the broader market following the artificial intelligence giant's public market debut in the previous session.",
+      "source": "CNBC World",
+      "link": "https://www.cnbc.com/2026/11/19/stock-market-today-live-updates.html",
+      "date": "2026-11-20 23:46",
+      "score": 10.0,
+      "impact": "mixed",
+      "sectors": [
+        "Broad Market",
+        "Industrials",
+        "Tech & Semiconductors"
+      ],
+      "primary_sector": "Broad Market",
+      "etf_tickers": [],
+      "rotation": ""
+    },
+    {
+      "title": "UK maritime agency reports two tanker attacks near Oman; Iran says vessel hit mine east of Hormuz",
+      "headline_it": "",
+      "summary_it": "",
+      "summary_en": "The incidents followed a similar attack on a tanker near Khasab on Friday that caused a fire on board, according to the British maritime security agency.",
+      "source": "CNBC World",
+      "link": "https://www.cnbc.com/2026/11/21/two-tanker-attacks-reported-near-omans-khasab-ukmto-says.html",
+      "date": "2026-11-21 12:23",
+      "score": 10.0,
+      "impact": "neutral",
+      "sectors": [
+        "Broad Market",
+        "Commodities",
+        "Energy",
+        "Industrials",
+        "International"
+      ],
+      "primary_sector": "Broad Market",
+      "etf_tickers": [],
+      "rotation": ""
+    },
+    {
+      "title": "AI is changing software engineering — and some developers miss the struggle",
+      "headline_it": "",
+      "summary_it": "",
+      "summary_en": "AI coding tools are making software engineers faster, but developers tell CNBC the work has lost its \"sense of joy and fun.\"",
+      "source": "CNBC World",
+      "link": "https://www.cnbc.com/2026/11/20/ai-coding-tools-software-engineers.html",
+      "date": "2026-11-20 06:00",
+      "score": 10.0,
+      "impact": "bearish",
+      "sectors": [
+        "Broad Market",
+        "Commodities",
+        "Energy",
+        "Industrials",
+        "International"
+      ],
+      "primary_sector": "Broad Market",
+      "etf_tickers": [],
+      "rotation": ""
+    },
+    {
+      "title": "Oil Prices Caught Between a Looming Glut and Middle East Turmoil",
+      "headline_it": "",
+      "summary_it": "",
+      "summary_en": "Oil prices have traded in a narrow range over the past few sessions as forecasts of a coming surplus collide with continued attacks and stalled diplomacy in the Middle East. A run of agency reports this month has pushed expectations toward oversupply and weighed on crude. Brent crude was up 0.22% at $92.18 per barrel in early trade on Friday, well below its October levels above $110 but little changed from the start of the week, while WTI crude had gained 0.35% to $82.73 per barrel. The International Energy Agency (IEA) said in its November Oil…",
+      "source": "OilPrice",
+      "link": "https://oilprice.com/Energy/Energy-General/Oil-Prices-Caught-Between-a-Looming-Glut-and-Middle-East-Turmoil.html",
+      "date": "2026-11-21 00:00",
+      "score": 10.0,
+      "impact": "bullish",
+      "sectors": [
+        "Broad Market",
+        "Commodities",
+        "Energy",
+        "Industrials",
+        "International"
+      ],
+      "primary_sector": "Broad Market",
+      "etf_tickers": [],
+      "rotation": ""
+    },
+    {
+      "title": "Tankers Are Being Hit Daily. So Why Is Oil Falling?",
+      "headline_it": "",
+      "summary_it": "",
+      "summary_en": "Brent tumbled 5% to $91 this week, as recovering Gulf oil flows outweigh tanker attacks, Houthi threats and escalating geopolitical tensions. Friday, November 20, 2026  Oil prices are set to post a 5% weekly drop as sentiment is still swayed by ample Middle Eastern barrels flowing to Asian customers. That said, none of the bullish factors of the past months have lost their relevance – Iranian drone strikes on tankers in the Hormuz are running at one clear hit per day; the Russia-Ukraine war is as frenzied as it could be and the Houthis…",
+      "source": "OilPrice",
+      "link": "https://oilprice.com/Energy/Crude-Oil/Tankers-Are-Being-Hit-Daily-So-Why-Is-Oil-Falling.html",
+      "date": "2026-11-20 17:11",
+      "score": 10.0,
+      "impact": "mixed",
+      "sectors": [
+        "Broad Market",
+        "Commodities",
+        "Energy",
+        "Industrials",
+        "International"
+      ],
+      "primary_sector": "Broad Market",
+      "etf_tickers": [],
+      "rotation": ""
+    },
+    {
+      "title": "China’s Oil Imports from Persian Gulf Jump to Wartime High",
+      "headline_it": "",
+      "summary_it": "",
+      "summary_en": "China’s crude oil imports from the Persian Gulf surged by 42.4% in October from September, to the highest level since the Iran war began, as supply via the Strait of Hormuz rebounded and Gulf producers slashed prices for their crude to attract buyers amid record-high freight rates.  China imported 19.7 million tons of crude oil from the Persian Gulf producers, excluding Iran, in October, a 42.4% jump from the previous month, per calculations by the South China Morning Post based on Chinese customs data released on Friday.  October…",
+      "source": "OilPrice",
+      "link": "https://oilprice.com/Latest-Energy-News/World-News/Chinas-Oil-Imports-from-Persian-Gulf-Jump-to-Wartime-High.html",
+      "date": "2026-11-20 15:36",
+      "score": 10.0,
+      "impact": "bullish",
+      "sectors": [
+        "Broad Market",
+        "Commodities",
+        "Energy",
+        "Industrials",
+        "International"
+      ],
+      "primary_sector": "Broad Market",
+      "etf_tickers": [],
+      "rotation": ""
+    },
+    {
+      "title": "Trump’s Ukraine Energy Truce Unravels as Russian Missiles Hit Kyiv",
+      "headline_it": "",
+      "summary_it": "",
+      "summary_en": "Politics, Geopolitics & Conflict Trump’s October “energy truce” between Russia and Ukraine in October is over, and Vladimir Putin has taken a new one off the table. After meeting Trump and Xi at the APEC summit on Thursday, Putin said Russia would not negotiate after Ukraine’s strikes on the Crimean Bridge. Russia hit Kyiv with ballistic missiles and drones Friday morning, killing at least three people, damaging three bridges and a critical infrastructure facility, and forcing power cuts in the capital and three western…",
+      "source": "OilPrice",
+      "link": "https://oilprice.com/Energy/Energy-General/Trumps-Ukraine-Energy-Truce-Unravels-as-Russian-Missiles-Hit-Kyiv.html",
+      "date": "2026-11-20 12:30",
+      "score": 10.0,
+      "impact": "bearish",
+      "sectors": [
+        "Commodities",
+        "Energy",
+        "Industrials",
+        "International",
+        "Real Estate"
+      ],
+      "primary_sector": "Commodities",
+      "etf_tickers": [],
+      "rotation": ""
+    },
+    {
+      "title": "Where Hong Kong has been hit by major data leaks, and how to protect yourself",
+      "headline_it": "",
+      "summary_it": "",
+      "summary_en": "Multiple organisations in Hong Kong have experienced data breaches in the past few weeks, from a department store and a jeweller to a university and airlines, with experts saying artificial intelligence has enabled more targeted attacks.\nThe South China Morning Post rounds up what has been happening in Hong Kong, what the city’s shortcomings are in such situations, as well as how scammers have evolved using the different pieces of information they have managed to access.\nWho has been hit and how...",
+      "source": "SCMP",
+      "link": "https://www.scmp.com/news/hong-kong/law-and-crime/article/3374934/explainer-where-hong-kong-has-been-hit-major-data-leaks-and-how-protect-yourself",
+      "date": "2026-11-18 12:56",
+      "score": 10.0,
+      "impact": "neutral",
+      "sectors": [
+        "Broad Market",
+        "Industrials",
+        "International",
+        "Tech & Semiconductors"
+      ],
+      "primary_sector": "Broad Market",
+      "etf_tickers": [],
+      "rotation": ""
+    },
+    {
+      "title": "U.S. companies from Nvidia to Apple face a growing China dilemma",
+      "headline_it": "",
+      "summary_it": "",
+      "summary_en": "The stakes have just gotten higher for businesses navigating the U.S. and China markets.",
+      "source": "CNBC Finance",
+      "link": "https://www.cnbc.com/2026/11/17/us-tech-firms-china-ties-political-pressure.html",
+      "date": "2026-11-17 08:52",
+      "score": 9.9,
+      "impact": "neutral",
+      "sectors": [
+        "Consumers",
+        "International",
+        "Tech & Semiconductors"
+      ],
+      "primary_sector": "Consumers",
+      "etf_tickers": [],
+      "rotation": ""
+    },
+    {
+      "title": "U.S. crude oil declines to $85 a barrel on recovering Middle East exports",
+      "headline_it": "",
+      "summary_it": "",
+      "summary_en": "Oil prices are falling as forecasts project a surplus in oil in the fourth quarter",
+      "source": "CNBC Finance",
+      "link": "https://www.cnbc.com/2026/11/16/us-crude-oil-declines-to-87-a-barrel-on-recovering-middle-east-exports.html",
+      "date": "2026-11-16 22:19",
+      "score": 9.9,
+      "impact": "bearish",
+      "sectors": [
+        "Commodities",
+        "Energy",
+        "International"
+      ],
+      "primary_sector": "Commodities",
+      "etf_tickers": [],
+      "rotation": ""
+    },
+    {
+      "title": "How Nvidia turmoil and a Democratic Congress could reshape the AI trade, according to ETF experts",
+      "headline_it": "",
+      "summary_it": "",
+      "summary_en": "ETF experts say Nvidia’s leadership turmoil and Democratic control of Congress could shift AI demand to the benefit of other Big Tech stocks, rival chipmakers.",
+      "source": "CNBC Finance",
+      "link": "https://www.cnbc.com/2026/11/14/nvidia-ai-trade-data-centers-congress.html",
+      "date": "2026-11-16 12:13",
+      "score": 9.9,
+      "impact": "neutral",
+      "sectors": [
+        "Commodities",
+        "Energy",
+        "Tech & Semiconductors"
+      ],
+      "primary_sector": "Commodities",
+      "etf_tickers": [],
+      "rotation": ""
+    },
+    {
+      "title": "Without U.S. Military Aid, Can Israel Afford So Many Wars?",
+      "headline_it": "",
+      "summary_it": "",
+      "summary_en": "Deterioration in ties with Washington poses serious trouble.",
+      "source": "Foreign Policy",
+      "link": "https://foreignpolicy.com/2026/11/18/israel-military-aid-united-states-trump-netanyahu-wars/",
+      "date": "2026-11-18 20:19",
+      "score": 9.9,
+      "impact": "neutral",
+      "sectors": [
+        "Broad Market",
+        "Commodities",
+        "Energy",
+        "Industrials",
+        "International"
+      ],
+      "primary_sector": "Broad Market",
+      "etf_tickers": [],
+      "rotation": ""
+    },
+    {
+      "title": "Trump vows to stop U.S. companies from building data centers abroad, threatens 'tremendous tax'",
+      "headline_it": "",
+      "summary_it": "",
+      "summary_en": "Trump spoke at the White House after meeting with Chinese President Xi Jinping and Russian President Vladimir Putin for a historic trilateral summit in China.",
+      "source": "CNBC World",
+      "link": "https://www.cnbc.com/2026/11/20/trump-data-centers-ai-companies-tax.html",
+      "date": "2026-11-20 20:47",
+      "score": 9.9,
+      "impact": "neutral",
+      "sectors": [
+        "Commodities",
+        "Energy",
+        "International",
+        "Tech & Semiconductors"
+      ],
+      "primary_sector": "Commodities",
+      "etf_tickers": [],
+      "rotation": ""
+    },
+    {
+      "title": "Countries agree to U.N. talks aiming to regulate 'killer robots' by 2028",
+      "headline_it": "",
+      "summary_it": "",
+      "summary_en": "Around 100 countries backed legally binding rules within a short timeframe but big arms-producing nations like the U.S., Russia and Israel opposed this position.",
+      "source": "CNBC World",
+      "link": "https://www.cnbc.com/2026/11/21/countries-agree-to-un-talks-aiming-to-regulate-killer-robots-by-2028.html",
+      "date": "2026-11-21 08:02",
+      "score": 9.9,
+      "impact": "neutral",
+      "sectors": [
+        "Commodities",
+        "Energy",
+        "Industrials",
+        "International"
+      ],
+      "primary_sector": "Commodities",
+      "etf_tickers": [],
+      "rotation": ""
+    },
+    {
+      "title": "ID card checks to tackle ticket touting could slow entry to shows: tourism chief",
+      "headline_it": "",
+      "summary_it": "",
+      "summary_en": "Hong Kong’s tourism chief has warned that requiring concertgoers to show identity cards matching the names on their tickets to combat scalping could slow entry to venues, saying arrangements would need to be discussed with organisers for each event.\nSecretary for Culture, Sports and Tourism Rosanna Law Shuk-pui also told a radio programme on Saturday that the city could record around 55 million visitor arrivals this year, 1.2 million more than the government’s earlier forecast of 53.8...",
+      "source": "SCMP",
+      "link": "https://www.scmp.com/news/hong-kong/hong-kong-economy/article/3375317/using-ids-check-concert-tickets-combat-scalping-could-slow-entry-tourism-chief",
+      "date": "2026-11-21 06:07",
+      "score": 9.9,
+      "impact": "neutral",
+      "sectors": [
+        "Broad Market",
+        "Commodities",
+        "Energy",
+        "Industrials",
+        "International"
+      ],
+      "primary_sector": "Broad Market",
+      "etf_tickers": [],
+      "rotation": ""
+    },
+    {
+      "title": "Warsh wants Fed officials to talk less. Instead, they’re talking more",
+      "headline_it": "",
+      "summary_it": "",
+      "summary_en": "Fed officials have been rushing to the microphones lately while the Fed chairman stays on the sidelines.",
+      "source": "CNBC Finance",
+      "link": "https://www.cnbc.com/2026/11/20/warsh-fed-forward-guidance-rate-hikes.html",
+      "date": "2026-11-20 21:10",
+      "score": 9.8,
+      "impact": "neutral",
+      "sectors": [
+        "Broad Market",
+        "Commodities",
+        "Energy",
+        "International"
+      ],
+      "primary_sector": "Broad Market",
+      "etf_tickers": [],
+      "rotation": ""
+    },
+    {
+      "title": "Trafalgar Square Christmas tree felled in Norway",
+      "headline_it": "",
+      "summary_it": "",
+      "summary_en": "The 21m tree is Oslo’s annual thank you for Britain’s support during World War Two.",
+      "source": "BBC World",
+      "link": "https://www.bbc.co.uk/news/articles/cx8dv4327dnpo?at_medium=RSS&at_campaign=rss",
+      "date": "2026-11-21 08:10",
+      "score": 9.8,
+      "impact": "neutral",
+      "sectors": [
+        "Broad Market",
+        "Commodities",
+        "Energy",
+        "International"
+      ],
+      "primary_sector": "Broad Market",
+      "etf_tickers": [],
+      "rotation": ""
+    },
+    {
+      "title": "Migrants caravan in Mexico walks towards US border",
+      "headline_it": "",
+      "summary_it": "",
+      "summary_en": "Around 300 migrants have crossed from Guatemala into Mexico, hoping to reach the United States.",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/video/newsfeed/2026/11/21/migrants-caravan-in-mexico-walks-towards-us-border?traffic_source=rss",
+      "date": "2026-11-21 11:04",
+      "score": 9.8,
+      "impact": "neutral",
+      "sectors": [
+        "Broad Market",
+        "Commodities",
+        "Energy",
+        "International"
+      ],
+      "primary_sector": "Broad Market",
+      "etf_tickers": [],
+      "rotation": ""
+    },
+    {
+      "title": "Usman Khawaja and David Warner taken off air over Australia’s Sandpapergate",
+      "headline_it": "",
+      "summary_it": "",
+      "summary_en": "Ex-Australia cricketers Khawaja and Warner taken off air having been most outspoken over 2018 scandal in South Africa.",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/sports/2026/11/21/usman-khawaja-and-david-warner-taken-off-air-over-australias-sandpapergate?traffic_source=rss",
+      "date": "2026-11-21 10:54",
+      "score": 9.8,
+      "impact": "neutral",
+      "sectors": [
+        "Broad Market",
+        "Commodities",
+        "Energy",
+        "International"
+      ],
+      "primary_sector": "Broad Market",
+      "etf_tickers": [],
+      "rotation": ""
+    },
+    {
+      "title": "St. Louis Fed's Musalem says four more rate hikes may be needed in coming months",
+      "headline_it": "",
+      "summary_it": "",
+      "summary_en": "The forecast represents one of the most hawkish views among policymakers.",
+      "source": "CNBC Economy",
+      "link": "https://www.cnbc.com/2026/11/17/alberto-musalem-fed-interest-rates.html",
+      "date": "2026-11-17 13:40",
+      "score": 9.8,
+      "impact": "bearish",
+      "sectors": [
+        "Bonds",
+        "Broad Market",
+        "Financials"
+      ],
+      "primary_sector": "Bonds",
+      "etf_tickers": [],
+      "rotation": ""
+    },
+    {
+      "title": "Warren Buffett quadruples Thanksgiving gifts: A breakdown of how much wealth he's giving away",
+      "headline_it": "",
+      "summary_it": "",
+      "summary_en": "Warren Buffett more than quadrupled his Thanksgiving donations to four family foundations this year to $5.5 billion.",
+      "source": "CNBC World",
+      "link": "https://www.cnbc.com/2026/11/21/warren-buffett-quadruples-thanksgiving-gifts.html",
+      "date": "2026-11-21 13:01",
+      "score": 9.8,
+      "impact": "neutral",
+      "sectors": [
+        "Broad Market",
+        "Commodities",
+        "Energy",
+        "International"
+      ],
+      "primary_sector": "Broad Market",
+      "etf_tickers": [],
+      "rotation": ""
+    },
+    {
+      "title": "Iran’s ‘Boiling Frog’ Strategy",
+      "headline_it": "",
+      "summary_it": "",
+      "summary_en": "Why Tehran believes its strategy to hurt the West is working.",
+      "source": "Foreign Policy",
+      "link": "https://foreignpolicy.com/2026/11/19/iran-war-us-strikes-dirty-bomb-trump-congress-democrats-vali-nasr/",
+      "date": "2026-11-19 17:55",
+      "score": 9.7,
+      "impact": "neutral",
+      "sectors": [
+        "Commodities",
+        "Energy",
+        "Industrials",
+        "International"
+      ],
+      "primary_sector": "Commodities",
+      "etf_tickers": [],
+      "rotation": ""
+    },
+    {
+      "title": "Trump praises ‘great relationship’ with Putin after meeting, as Ukraine war takes center stage",
+      "headline_it": "Trump elogia Putin, guerra Ucraina al centro",
+      "summary_it": "La visita di Trump a Mosca e la discussione sulla guerra in Ucraina aumentano l’incertezza geopolitica, pesando sui mercati internazionali e sul mercato globale.",
+      "summary_en": "U.S. President Donald Trump met individually on Thursday with Russian President Vladimir Putin, as well as Chinese President Xi Jinping.",
+      "source": "CNBC Finance",
+      "link": "https://www.cnbc.com/2026/11/19/trump-xi-putin-china-apec-.html",
+      "date": "2026-11-19 09:02",
+      "score": 8.1,
+      "impact": "bearish",
+      "sectors": [
+        "Broad Market",
+        "Commodities",
+        "Energy",
+        "International"
+      ],
+      "primary_sector": "Broad Market",
+      "etf_tickers": [
+        "VTI"
+      ],
+      "rotation": ""
+    },
+    {
+      "title": "Fed officials expect more rate hikes, worry about AI impact on inflation, minutes show",
+      "headline_it": "Fed punta a più rialzi, AI inflazione",
+      "summary_it": "Le decisioni di mantenere i tassi elevati e le preoccupazioni sull’IA potrebbero frenare la crescita del mercato azionario, in particolare nei settori tecnologici. Gli ETF di azioni generali e di tecnologia potrebbero subire pressioni, mentre i titoli di settore finanziario potrebbero vedere un leggero rallentamento.",
+      "summary_en": "The Federal Reserve on Wednesday released minutes from its October policy meeting at which it voted to hold its benchmark interest rate in a range between 3.75%-4%.",
+      "source": "CNBC Finance",
+      "link": "https://www.cnbc.com/2026/11/18/fed-minutes-october-2026.html",
+      "date": "2026-11-18 19:41",
+      "score": 8.1,
+      "impact": "bearish",
+      "sectors": [
+        "Bonds",
+        "Broad Market",
+        "Commodities",
+        "Financials",
+        "Tech & Semiconductors"
+      ],
+      "primary_sector": "Bonds",
+      "etf_tickers": [
+        "QQQ",
+        "SPY",
+        "XLF"
+      ],
+      "rotation": "rotazione verso settori difensivi"
+    },
+    {
+      "title": "Fed’s Waller says central bank may need to ‘shock people’ with half-point rate hike",
+      "headline_it": "Fed Waller: potenziale rialzo di 50 punti base",
+      "summary_it": "Un aumento di 50 punti base potrebbe indebolire i mercati azionari, in particolare i settori tecnologici e di consumo.",
+      "summary_en": "Continued inflation above the Fed's 2% target is pushing central bank officials into a more aggressive stance.",
+      "source": "CNBC Finance",
+      "link": "https://www.cnbc.com/2026/11/18/federal-reserve-governor-christopher-waller.html",
+      "date": "2026-11-18 15:13",
+      "score": 8.1,
+      "impact": "bearish",
+      "sectors": [
+        "Bonds",
+        "Broad Market",
+        "Commodities",
+        "Financials"
+      ],
+      "primary_sector": "Bonds",
+      "etf_tickers": [
+        "QQQ"
+      ],
+      "rotation": ""
+    },
+    {
+      "title": "Fed Chairman Kevin Warsh stresses importance of AI to economy, but says it could ‘disappoint’",
+      "headline_it": "AI importante ma potenzialmente deludente per l'economia",
+      "summary_it": "Il presidente della Fed sottolinea l'importanza dell'IA ma avverte che i risultati potrebbero non soddisfare le aspettative, mettendo sotto pressione i titoli tecnologici e i fondi legati all'IA.",
+      "summary_en": "",
+      "source": "CNBC Finance",
+      "link": "https://www.cnbc.com/2026/11/16/fed-ai-task-force-kevin-warsh.html",
+      "date": "2026-11-16 18:46",
+      "score": 8.1,
+      "impact": "bearish",
+      "sectors": [
+        "Broad Market",
+        "Commodities",
+        "Energy",
+        "Industrials",
+        "International",
+        "Tech & Semiconductors"
+      ],
+      "primary_sector": "Broad Market",
+      "etf_tickers": [
+        "QQQ",
+        "SMH"
+      ],
+      "rotation": ""
+    },
+    {
+      "title": "Lutnick faces questions over Nvidia spy scandal. His sons' firm has ties to the chipmaker",
+      "headline_it": "Scandalo Nvidia solleva dubbi su Lutnick",
+      "summary_it": "La controversia potrebbe indebolire la fiducia nei titoli tecnologici, spingendo gli investitori a ridurre l’esposizione nei settori chip e tecnologia.",
+      "summary_en": "Jensen Huang’s resignation as Nvidia CEO has brought renewed scrutiny to Commerce Secretary Howard Lutnick and his family's financial ties to the chipmaker.",
+      "source": "CNBC Finance",
+      "link": "https://www.cnbc.com/2026/11/13/howard-lutnick-nvidia-jensen-huang-china-cantor-fitzgerald.html",
+      "date": "2026-11-16 12:14",
+      "score": 8.1,
+      "impact": "bearish",
+      "sectors": [
+        "Broad Market",
+        "Commodities",
+        "Energy",
+        "International",
+        "Tech & Semiconductors"
+      ],
+      "primary_sector": "Broad Market",
+      "etf_tickers": [
+        "QQQ",
+        "SMH"
+      ],
+      "rotation": ""
+    },
+    {
+      "title": "What we know about the latest Russian missile strikes on Ukraine",
+      "headline_it": "Attacchi missilistici russi a Kiev: impatto globale",
+      "summary_it": "Gli attacchi hanno aumentato l’incertezza geopolitica, spingendo i mercati a ribassare. Gli ETF di mercato ampio potrebbero subire pressioni a breve termine.",
+      "summary_en": "Russia struck bridges and railway stations in the capital Kyiv in a major attack.",
+      "source": "BBC World",
+      "link": "https://www.bbc.co.uk/news/videos/c65y19wy3xl8o?at_medium=RSS&at_campaign=rss",
+      "date": "2026-11-20 15:14",
+      "score": 8.1,
+      "impact": "bearish",
+      "sectors": [
+        "Broad Market",
+        "Commodities",
+        "Energy",
+        "Industrials",
+        "International"
+      ],
+      "primary_sector": "Broad Market",
+      "etf_tickers": [
+        "QQQ"
+      ],
+      "rotation": ""
+    },
+    {
+      "title": "Tankers hit in Strait of Hormuz as Iran tightens grip on shipping",
+      "headline_it": "Tanker in fiamme al Golfo d'Hormuz",
+      "summary_it": "L’incidente aumenta la tensione sul traffico petrolifero, spingendo i prezzi del greggio verso l’alto e favorendo gli ETF energetici.",
+      "summary_en": "British maritime agency reports two incidents near Oman, while Iran says a tanker caught fire due to naval mine.",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/news/2026/11/21/tankers-hit-in-strait-of-hormuz-as-iran-tightens-grip-on-shipping?traffic_source=rss",
+      "date": "2026-11-21 15:01",
+      "score": 8.1,
+      "impact": "bearish",
+      "sectors": [
+        "Commodities",
+        "Energy",
+        "Industrials",
+        "International"
+      ],
+      "primary_sector": "Commodities",
+      "etf_tickers": [
+        "USO",
+        "XLE"
+      ],
+      "rotation": "rotazione verso ETF energetici"
+    },
+    {
+      "title": "Russian missiles hit Poland: What happened, and could NATO respond?",
+      "headline_it": "Missili russi che colpiscono la Polonia: rischi per i mercati",
+      "summary_it": "L’attacco aumenta l’incertezza geopolitica, spingendo gli indici globali verso la prudenza e potenzialmente indebolendo i settori legati al commercio internazionale.",
+      "summary_en": "Warsaw accuses Moscow of intentional provocation, but bar for triggering NATO&#039;s collective defence clause remains high.",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/news/2026/11/21/russian-missiles-hit-poland-what-happened-and-could-nato-respond?traffic_source=rss",
+      "date": "2026-11-21 11:02",
+      "score": 8.1,
+      "impact": "bearish",
+      "sectors": [
+        "Broad Market",
+        "Commodities",
+        "Energy",
+        "Industrials",
+        "International"
+      ],
+      "primary_sector": "Broad Market",
+      "etf_tickers": [],
+      "rotation": ""
+    },
+    {
+      "title": "Iran says it downed US drones over Hormuz as bid to end war remains stalled",
+      "headline_it": "Iran blocca droni US, tensioni sul Golfo",
+      "summary_it": "Le sanzioni e la minaccia di blocco del Golfo aumentano l’incertezza sul mercato petrolifero, penalizzando gli ETF energetici e quelli internazionali legati al settore energetico.",
+      "summary_en": "Iran reiterates conditions for Hormuz reopening as US slaps sanctions on four Iranians it says acted as &#039;oil trustees&#039;.",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/news/2026/11/21/irans-irgc-downs-us-drone-over-hormuz-as-efforts-to-end-war-remain-stalled?traffic_source=rss",
+      "date": "2026-11-21 09:30",
+      "score": 8.1,
+      "impact": "bearish",
+      "sectors": [
+        "Broad Market",
+        "Commodities",
+        "Energy",
+        "Industrials",
+        "International",
+        "Real Estate"
+      ],
+      "primary_sector": "Broad Market",
+      "etf_tickers": [
+        "USO"
+      ],
+      "rotation": "Energy"
+    },
+    {
+      "title": "Minutes of the Federal Open Market Committee, October 27-28, 2026",
+      "headline_it": "Minuti Fed: tassi più alti in vista",
+      "summary_it": "Le decisioni della Fed indicano un possibile aumento dei tassi, pressando i mercati azionari e spingendo gli investitori verso obbligazioni a reddito fisso.",
+      "summary_en": "Minutes of the Federal Open Market Committee, October 27-28, 2026",
+      "source": "Federal Reserve",
+      "link": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20261118a.htm",
+      "date": "2026-11-18 19:00",
+      "score": 7.4,
+      "impact": "bearish",
+      "sectors": [
+        "Bonds",
+        "Broad Market"
+      ],
+      "primary_sector": "Bonds",
+      "etf_tickers": [
+        "SPY"
+      ],
+      "rotation": "rotazione verso obbligazioni"
+    },
+    {
+      "title": "Putin says EU is losing industry, falling behind competition, ahead of meeting with Trump and Xi",
+      "headline_it": "Putin avverte l'Europa: industria in declino",
+      "summary_it": "La dichiarazione di Putin sottolinea la resistenza economica russa e la vulnerabilità dell'UE, con potenziali effetti negativi sui mercati statunitensi e sulle aziende europee. Gli investitori potrebbero spostare capitali verso asset internazionali più stabili.",
+      "summary_en": "Putin used the speech to emphasize Russia's economic resilience despite U.S. sanctions, and played up opportunities for APEC members in the country.",
+      "source": "CNBC Finance",
+      "link": "https://www.cnbc.com/2026/11/18/putin-apec-eu-trump-xi-meeting.html",
+      "date": "2026-11-18 08:29",
+      "score": 7.4,
+      "impact": "bearish",
+      "sectors": [
+        "Broad Market",
+        "Commodities",
+        "Energy",
+        "International"
+      ],
+      "primary_sector": "Broad Market",
+      "etf_tickers": [
+        "SPY",
+        "VTI"
+      ],
+      "rotation": "International"
+    },
+    {
+      "title": "Zelensky says Crimean Bridge strikes 'fair response' as he meets UK's Streeting",
+      "headline_it": "Attacchi alle infrastrutture russi che spingono i mercati",
+      "summary_it": "Le recenti aggressioni contro i ponti russi aumentano l’incertezza geopolitica, spingendo i mercati verso la cautela e potenzialmente riducendo i rendimenti di ETF a esposizione globale.",
+      "summary_en": "Ukraine's president says Kyiv acted after 109 separate Russian aerial attacks on bridges in Ukraine.",
+      "source": "BBC World",
+      "link": "https://www.bbc.co.uk/news/articles/c6wy0qj7w5zqo?at_medium=RSS&at_campaign=rss",
+      "date": "2026-11-21 13:17",
+      "score": 7.4,
+      "impact": "bearish",
+      "sectors": [
+        "Broad Market",
+        "Commodities",
+        "Energy",
+        "International"
+      ],
+      "primary_sector": "Broad Market",
+      "etf_tickers": [],
+      "rotation": ""
+    },
+    {
+      "title": "Israeli attacks on Gaza kill at least four Palestinians",
+      "headline_it": "Attacchi israeliani a Gaza causano morti",
+      "summary_it": "L’aumento delle tensioni geopolitiche può spingere i mercati globali verso la volatilità, penalizzando gli ETF a esposizione internazionale e a livello globale.",
+      "summary_en": "Israeli drone attack kills three people in Gaza City; another is shot dead by Israeli forces in Jabalia.",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/news/2026/11/21/at-least-four-palestinians-killed-in-israeli-attacks-on-gaza?traffic_source=rss",
+      "date": "2026-11-21 12:29",
+      "score": 7.4,
+      "impact": "bearish",
+      "sectors": [
+        "Broad Market",
+        "Energy",
+        "Industrials",
+        "International"
+      ],
+      "primary_sector": "Broad Market",
+      "etf_tickers": [],
+      "rotation": "International"
+    },
+    {
+      "title": "Christine Lagarde: Acting in time",
+      "headline_it": "ECB agisce tempestivamente per stabilità dei prezzi",
+      "summary_it": "L’intervento della BCE mira a mantenere la stabilità dei prezzi, con impatto moderato sui mercati azionari e un potenziale rafforzamento degli ETF obbligazionari euro.",
+      "summary_en": "The European Central Bank (ECB) is the central bank of the European Union countries which have adopted the euro. Our main task is to maintain price stability in the euro area and so preserve the purchasing power of the single currency.",
+      "source": "ECB",
+      "link": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp261120~e52bcc4db2.en.html",
+      "date": "2026-11-20 08:30",
+      "score": 7.4,
+      "impact": "neutral",
+      "sectors": [
+        "Bonds",
+        "Broad Market",
+        "Financials"
+      ],
+      "primary_sector": "Bonds",
+      "etf_tickers": [],
+      "rotation": "possibile rotazione verso ETF obbligazionari euro"
+    },
+    {
+      "title": "Philip R. Lane: The practice and science of monetary policy communication: the ECB experience",
+      "headline_it": "ECB comunica politiche monetarie: impatto sui mercati",
+      "summary_it": "La comunicazione dell’ECB suggerisce potenziali cambiamenti nei tassi, favorendo i bond e creando incertezza per le azioni. Gli investitori dovrebbero monitorare la direzione delle politiche per adeguare le posizioni di rischio.",
+      "summary_en": "",
+      "source": "ECB",
+      "link": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp261117~7f5d3b1a0e.en.pdf",
+      "date": "2026-11-17 18:30",
+      "score": 7.4,
+      "impact": "mixed",
+      "sectors": [
+        "Bonds",
+        "Broad Market"
+      ],
+      "primary_sector": "Bonds",
+      "etf_tickers": [
+        "TLT"
+      ],
+      "rotation": ""
+    },
+    {
+      "title": "Federal Reserve Board releases results from survey of senior financial officers at banks about their strategies and practices for managing reserve balances",
+      "headline_it": "Fed pubblica risultati sondaggio sulle riserve bancarie",
+      "summary_it": "I dati indicano che le banche stanno ottimizzando le loro riserve, con impatto moderato sui titoli di settore finanziario e sul mercato azionario complessivo.",
+      "summary_en": "Federal Reserve Board releases results from survey of senior financial officers at banks about their strategies and practices for managing reserve balances",
+      "source": "Federal Reserve",
+      "link": "https://www.federalreserve.gov/newsevents/pressreleases/other20261120a.htm",
+      "date": "2026-11-20 15:00",
+      "score": 6.8,
+      "impact": "neutral",
+      "sectors": [
+        "Broad Market",
+        "Financials"
+      ],
+      "primary_sector": "Broad Market",
+      "etf_tickers": [
+        "SPY",
+        "XLF"
+      ],
+      "rotation": ""
+    },
+    {
+      "title": "Federal Reserve Board issues enforcement action with former employee of First Security Bancorp",
+      "headline_it": "Azioni di enforcement della Fed su ex dipendente di First Security Bancorp",
+      "summary_it": "La sanzione potrebbe influenzare la percezione di rischio del settore bancario, ma l’impatto sui principali ETF di settore è limitato.",
+      "summary_en": "Federal Reserve Board issues enforcement action with former employee of First Security Bancorp",
+      "source": "Federal Reserve",
+      "link": "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20261119a.htm",
+      "date": "2026-11-19 16:00",
+      "score": 6.8,
+      "impact": "neutral",
+      "sectors": [
+        "Financials"
+      ],
+      "primary_sector": "Financials",
+      "etf_tickers": [
+        "XLF"
+      ],
+      "rotation": ""
+    },
+    {
+      "title": "JPMorgan Chase says temporary software bug is affecting consumer banking",
+      "headline_it": "Bug temporaneo in banca di consumo JPMorgan",
+      "summary_it": "Il problema software di JPMorgan potrebbe influenzare temporaneamente le operazioni di consumo, ma non sembra avere impatto su altri istituti.",
+      "summary_en": "CNBC's Eamon Javers reported there was no indication of bad actors involved and likewise no indication that a bug was impacting multiple banks at the same time.",
+      "source": "CNBC Finance",
+      "link": "https://www.cnbc.com/2026/11/16/jpmorgan-chase-technical-issue.html",
+      "date": "2026-11-16 22:14",
+      "score": 6.8,
+      "impact": "neutral",
+      "sectors": [
+        "Broad Market",
+        "Commodities",
+        "Consumers",
+        "Energy",
+        "Financials",
+        "International"
+      ],
+      "primary_sector": "Broad Market",
+      "etf_tickers": [],
+      "rotation": ""
+    },
+    {
+      "title": "Boris Vujčić: Financial Stability Review - November 2026",
+      "headline_it": "Revisione stabilità finanziaria ECB 2026",
+      "summary_it": "La revisione indica rischi moderati per i mercati obbligazionari e per il settore bancario, con potenziali pressioni sui rendimenti a lungo termine.",
+      "summary_en": "",
+      "source": "ECB",
+      "link": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp261118~86f1e8147e.en.pdf",
+      "date": "2026-11-18 09:00",
+      "score": 6.8,
+      "impact": "neutral",
+      "sectors": [
+        "Bonds",
+        "Broad Market",
+        "Financials",
+        "Industrials"
+      ],
+      "primary_sector": "Bonds",
+      "etf_tickers": [
+        "SPY"
+      ],
+      "rotation": ""
+    },
+    {
+      "title": "Risks from AI valuations, fiscal imbalances and geoeconomic tensions weigh on financial stability outlook",
+      "headline_it": "ECB avverte rischi per stabilità finanziaria",
+      "summary_it": "L’ECB sottolinea che valutazioni AI, squilibri fiscali e tensioni geoeconomiche potrebbero indebolire la stabilità finanziaria, influenzando negativamente i mercati finanziari europei.",
+      "summary_en": "The European Central Bank (ECB) is the central bank of the European Union countries which have adopted the euro. Our main task is to maintain price stability in the euro area and so preserve the purchasing power of the single currency.",
+      "source": "ECB",
+      "link": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr261118~83c5c60158.en.html",
+      "date": "2026-11-18 09:00",
+      "score": 6.8,
+      "impact": "bearish",
+      "sectors": [
+        "Broad Market",
+        "Financials"
+      ],
+      "primary_sector": "Broad Market",
+      "etf_tickers": [],
+      "rotation": ""
+    },
+    {
+      "title": "Frank Elderson: Smart supervision for small banks",
+      "headline_it": "Supervisione ECB per le banche piccole",
+      "summary_it": "L’ECB rafforza la vigilanza sulle banche di dimensioni ridotte, potenzialmente aumentando i costi di compliance e influenzando negativamente i titoli bancari.",
+      "summary_en": "The European Central Bank (ECB) is the central bank of the European Union countries which have adopted the euro. Our main task is to maintain price stability in the euro area and so preserve the purchasing power of the single currency.",
+      "source": "ECB",
+      "link": "https://www.ecb.europa.eu//press/inter/date/2026/html/ecb.in261116_1~11dd7f62af.en.html",
+      "date": "2026-11-16 13:00",
+      "score": 6.8,
+      "impact": "bearish",
+      "sectors": [
+        "Financials"
+      ],
+      "primary_sector": "Financials",
+      "etf_tickers": [],
+      "rotation": ""
+    },
+    {
+      "title": "Could Iran reverse its stated policy of a civil-only nuclear programme?",
+      "headline_it": "Iran in dubbio sul programma nucleare civile",
+      "summary_it": "Il dibattito interno su un possibile cambiamento della politica nucleare iraniana potrebbe influenzare i mercati energetici e le valutazioni di ETF legati al settore energetico e ai mercati globali.",
+      "summary_en": "Iran&#039;s FM Araghchi says there is &#039;major strategic debate&#039; about the future of Iran&#039;s nuclear doctrine.",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/news/2026/11/21/could-iran-reverse-its-stated-policy-of-a-civil-only-nuclear-programme?traffic_source=rss",
+      "date": "2026-11-21 14:15",
+      "score": 6.1,
+      "impact": "neutral",
+      "sectors": [
+        "Broad Market",
+        "Commodities",
+        "Energy",
+        "Industrials",
+        "International"
+      ],
+      "primary_sector": "Broad Market",
+      "etf_tickers": [],
+      "rotation": ""
+    },
+    {
+      "title": "Minutes of the Market Participants Group meeting – 18 November 2026",
+      "headline_it": "Banca d'Inghilterra: discussioni MPG su temi di mercato",
+      "summary_it": "Il meeting del MPG ha evidenziato preoccupazioni sul contesto macroeconomico, ma non ha indicato cambiamenti immediati nelle politiche monetarie. Gli ETF di settore potrebbero rimanere stabili a breve termine.",
+      "summary_en": "The Market Participants Group (MPG) is a senior-level forum for financial market participants to share their views on relevant themes and narratives in financial markets with members of the Bank of England’s Monetary Policy Committee.",
+      "source": "Bank of England",
+      "link": "https://www.bankofengland.co.uk/minutes/2026/november/market-participants-group-meeting-18-november-2026",
+      "date": "2026-11-19 07:30",
+      "score": 5.5,
+      "impact": "neutral",
+      "sectors": [
+        "Bonds",
+        "Broad Market",
+        "Financials",
+        "Industrials"
+      ],
+      "primary_sector": "Bonds",
+      "etf_tickers": [],
+      "rotation": ""
+    },
+    {
+      "title": "Rescue efforts under way as drones hit Russian ship off Finland coast",
+      "headline_it": "Attacchi a droni su nave russa al largo della Finlandia",
+      "summary_it": "L’incidente geopolitico potrebbe aumentare la volatilità nei mercati internazionali, ma l’impatto diretto sugli ETF è limitato.",
+      "summary_en": "Two drones attack a cargo ship that Finnish authorities say has links to Russia&#039;s armed forces.",
+      "source": "Al Jazeera",
+      "link": "https://www.aljazeera.com/news/2026/11/21/russia-says-kaliningrad-bound-ship-struck-by-drones-in-gulf-of-finland?traffic_source=rss",
+      "date": "2026-11-21 12:45",
+      "score": 5.5,
+      "impact": "neutral",
+      "sectors": [
+        "Broad Market",
+        "Commodities",
+        "Energy",
+        "International"
+      ],
+      "primary_sector": "Broad Market",
+      "etf_tickers": [],
+      "rotation": ""
+    },
+    {
+      "title": "Federal Reserve announces College Fed Challenge winners",
+      "headline_it": "Fed annuncia vincitori College Fed Challenge",
+      "summary_it": "La notizia è di natura istituzionale e non ha impatto diretto sui mercati ETF.",
+      "summary_en": "Federal Reserve announces College Fed Challenge winners",
+      "source": "Federal Reserve",
+      "link": "https://www.federalreserve.gov/newsevents/pressreleases/other20261120b.htm",
+      "date": "2026-11-20 21:15",
+      "score": 4.8,
+      "impact": "neutral",
+      "sectors": [
+        "Broad Market"
+      ],
+      "primary_sector": "Broad Market",
+      "etf_tickers": [],
+      "rotation": ""
+    }
+  ]
+}

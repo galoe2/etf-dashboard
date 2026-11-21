@@ -1,42 +1,42 @@
 {
-  "date": "November 14, 2026",
-  "week": "2026-W46",
+  "date": "November 21, 2026",
+  "week": "2026-W47",
   "ideas": [
     {
-      "ticker": "QQQ",
-      "price": 679.89,
+      "ticker": "TLT",
+      "price": 81.45,
       "direction": "long",
-      "desc": "Nasdaq 100"
+      "desc": "20Y+ Treasury"
     },
     {
-      "ticker": "XLU",
-      "price": 44.04,
+      "ticker": "COPX",
+      "price": 56.33,
       "direction": "long",
-      "desc": "Utilities"
+      "desc": "Copper Miners"
+    },
+    {
+      "ticker": "LQD",
+      "price": 103.69,
+      "direction": "long",
+      "desc": "Investment Grade"
     },
     {
       "ticker": "SPY",
-      "price": 754.37,
+      "price": 689.81,
       "direction": "long",
       "desc": "S&P 500"
     },
     {
-      "ticker": "XLE",
-      "price": 64.96,
+      "ticker": "QQQ",
+      "price": 608.45,
       "direction": "long",
-      "desc": "Oil & Gas"
+      "desc": "Nasdaq 100"
     },
     {
-      "ticker": "BITO",
-      "price": 9.15,
+      "ticker": "SMH",
+      "price": 400.06,
       "direction": "long",
-      "desc": "Bitcoin Futures"
-    },
-    {
-      "ticker": "GDX",
-      "price": 81.64,
-      "direction": "long",
-      "desc": "Gold Miners"
+      "desc": "Semiconductors"
     }
   ]
 }

@@ -1,130 +1,130 @@
 {
-  "week": "2026-W46",
-  "updated": "2026-11-14",
-  "comment": "Settimana a +2,6% per SPY, 6/13 settori positivi: in testa tecnologia e semiconduttori (+2,9%), in coda cripto (-3,9%). Flussi in ingresso: utility.",
+  "week": "2026-W47",
+  "updated": "2026-11-21",
+  "comment": "Settimana a -8,6% per SPY, 1/13 settori positivi: in testa obbligazioni (+0,9%), in coda cripto (-15,6%). Flussi in ingresso: obbligazioni.",
   "overview": {
-    "spy_1w": 2.59,
-    "qqq_1w": 3.63,
-    "breadth": "6/13",
-    "realized_vol": 21.8,
+    "spy_1w": -8.56,
+    "qqq_1w": -10.51,
+    "breadth": "1/13",
+    "realized_vol": 25.6,
     "risk_score": 100
   },
   "gainers": [
     {
-      "t": "XLE",
-      "d": "Oil & Gas",
-      "w1": 5.42
+      "t": "TLT",
+      "d": "20Y+ Treasury",
+      "w1": 2.61
     },
     {
-      "t": "SMH",
-      "d": "Semiconductors",
-      "w1": 4.91
+      "t": "LQD",
+      "d": "Investment Grade",
+      "w1": 0.86
     },
     {
       "t": "HACK",
       "d": "Cybersecurity",
-      "w1": 4.49
+      "w1": -0.45
     },
     {
-      "t": "CIBR",
-      "d": "Cyber Defense",
-      "w1": 4.39
-    },
-    {
-      "t": "UFO",
-      "d": "Space",
-      "w1": 4.31
-    }
-  ],
-  "losers": [
-    {
-      "t": "BITO",
-      "d": "Bitcoin Futures",
-      "w1": -9.23
-    },
-    {
-      "t": "TAN",
-      "d": "Solar",
-      "w1": -8.62
-    },
-    {
-      "t": "KWEB",
-      "d": "China Internet",
-      "w1": -7.84
-    },
-    {
-      "t": "GDX",
-      "d": "Gold Miners",
-      "w1": -6.8
-    },
-    {
-      "t": "SLV",
-      "d": "Silver",
-      "w1": -5.85
-    }
-  ],
-  "overbought": [
-    {
-      "t": "XLV",
-      "d": "Healthcare",
-      "rsi": 66.9
-    },
-    {
-      "t": "XLU",
-      "d": "Utilities",
-      "rsi": 66.1
+      "t": "HYG",
+      "d": "High Yield",
+      "w1": -0.79
     },
     {
       "t": "XLP",
       "d": "Staples",
-      "rsi": 65.1
+      "w1": -2.05
+    }
+  ],
+  "losers": [
+    {
+      "t": "COPX",
+      "d": "Copper Miners",
+      "w1": -18.63
     },
     {
-      "t": "ESPO",
-      "d": "Gaming",
-      "rsi": 64.5
+      "t": "TAN",
+      "d": "Solar",
+      "w1": -18.44
     },
     {
-      "t": "XLF",
-      "d": "Financial Sector",
-      "rsi": 61.8
+      "t": "SMH",
+      "d": "Semiconductors",
+      "w1": -17.81
+    },
+    {
+      "t": "GDX",
+      "d": "Gold Miners",
+      "w1": -16.22
+    },
+    {
+      "t": "SLV",
+      "d": "Silver",
+      "w1": -16.22
+    }
+  ],
+  "overbought": [
+    {
+      "t": "TLT",
+      "d": "20Y+ Treasury",
+      "rsi": 58.9
+    },
+    {
+      "t": "XLP",
+      "d": "Staples",
+      "rsi": 54.8
+    },
+    {
+      "t": "LQD",
+      "d": "Investment Grade",
+      "rsi": 53.7
+    },
+    {
+      "t": "ITB",
+      "d": "Homebuilders",
+      "rsi": 47.0
+    },
+    {
+      "t": "XLU",
+      "d": "Utilities",
+      "rsi": 46.1
     }
   ],
   "oversold": [
     {
       "t": "BITO",
       "d": "Bitcoin Futures",
-      "rsi": 28.1
+      "rsi": 17.6
     },
     {
       "t": "SLV",
       "d": "Silver",
-      "rsi": 32.4
-    },
-    {
-      "t": "COPX",
-      "d": "Copper Miners",
-      "rsi": 36.2
-    },
-    {
-      "t": "REMX",
-      "d": "Rare Earth",
-      "rsi": 36.7
+      "rsi": 20.4
     },
     {
       "t": "IDRV",
       "d": "Self-Driving",
-      "rsi": 37.0
+      "rsi": 21.8
+    },
+    {
+      "t": "COPX",
+      "d": "Copper Miners",
+      "rsi": 22.3
+    },
+    {
+      "t": "DRIV",
+      "d": "EV & Auto",
+      "rsi": 22.9
     }
   ],
   "pipeline": {
-    "week": "2026-W46",
+    "week": "2026-W47",
     "etfs": 105,
     "sectors": 13,
     "regions": 8,
-    "regime": "ROTATIONAL",
+    "regime": "RISK-OFF",
     "risk_score": 100,
-    "report": "/reports/ETF_Report_2026-W46.html"
+    "report": "/reports/ETF_Report_2026-W47.html"
   },
-  "spy_spark": "2.0,7.5 9.5,4.3 17.0,4.9 24.5,2.0 32.0,7.0 39.5,8.0 47.0,9.4 54.5,16.0 62.0,9.8"
+  "spy_spark": "2.0,3.1 9.5,3.4 17.0,2.0 24.5,4.4 32.0,4.9 39.5,5.6 47.0,8.8 54.5,5.8 62.0,16.0"
 }

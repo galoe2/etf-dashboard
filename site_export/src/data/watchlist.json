@@ -1,6 +1,6 @@
 {
   "month": "2026-08",
-  "updated": "2026-11-14",
+  "updated": "2026-11-21",
   "items": [
     {
       "ticker": "NOW",
@@ -8,12 +8,12 @@
       "name": "ServiceNow, Inc.",
       "type": "stock",
       "note": "Software enterprise · workflow e AI agent",
-      "price": 102.25,
+      "price": 87.61,
       "currency": "USD",
-      "mtd": -2.73,
-      "ytd": -33.25,
-      "m3": -13.13,
-      "from_high": -41.07
+      "mtd": -16.66,
+      "ytd": -42.81,
+      "m3": -31.58,
+      "from_high": -49.5
     },
     {
       "ticker": "CRM",
@@ -21,12 +21,12 @@
       "name": "Salesforce, Inc.",
       "type": "stock",
       "note": "Software enterprise · CRM e agentic AI",
-      "price": 217.84,
+      "price": 180.62,
       "currency": "USD",
-      "mtd": -4.94,
-      "ytd": -17.2,
-      "m3": 14.27,
-      "from_high": -17.61
+      "mtd": -21.19,
+      "ytd": -31.35,
+      "m3": -13.45,
+      "from_high": -31.69
     },
     {
       "ticker": "NKLR",
@@ -34,12 +34,12 @@
       "name": "Terra Innovatum Global N.V.",
       "type": "stock",
       "note": "Micro-reattori nucleari (SMR)",
-      "price": 2.21,
+      "price": 2.01,
       "currency": "USD",
-      "mtd": -0.45,
-      "ytd": -52.16,
-      "m3": -63.11,
-      "from_high": -71.37
+      "mtd": -9.46,
+      "ytd": -56.49,
+      "m3": -64.55,
+      "from_high": -73.96
     },
     {
       "ticker": "GFT",
@@ -47,12 +47,12 @@
       "name": "GFT Technologies SE",
       "type": "stock",
       "note": "IT services per banche e assicurazioni",
-      "price": 26.1,
+      "price": 24.1,
       "currency": "EUR",
-      "mtd": -6.62,
-      "ytd": 41.23,
-      "m3": 14.47,
-      "from_high": -10.46
+      "mtd": -13.77,
+      "ytd": 30.41,
+      "m3": 6.87,
+      "from_high": -17.32
     },
     {
       "ticker": "JEDI",
@@ -60,12 +60,12 @@
       "name": "VanEck Space Innovators UCITS ETF A USD Acc",
       "type": "etf",
       "note": "Space economy · UCITS (Borsa Italiana)",
-      "price": 63.43,
+      "price": 55.33,
       "currency": "EUR",
-      "mtd": -0.05,
-      "ytd": 9.02,
-      "m3": -17.6,
-      "from_high": -46.35
+      "mtd": -12.81,
+      "ytd": -4.9,
+      "m3": -21.8,
+      "from_high": -53.2
     },
     {
       "ticker": "ARKG",
@@ -73,12 +73,12 @@
       "name": "ARK Genomic Revolution ETF",
       "type": "etf",
       "note": "Genomica e biotech innovativo",
-      "price": 43.2,
+      "price": 38.0,
       "currency": "USD",
-      "mtd": -15.95,
-      "ytd": 49.12,
-      "m3": -1.91,
-      "from_high": -23.9
+      "mtd": -26.07,
+      "ytd": 31.17,
+      "m3": -20.85,
+      "from_high": -33.06
     },
     {
       "ticker": "KOID",
@@ -86,12 +86,12 @@
       "name": "KraneShares Global Humanoid Robotics and Physical AI Index ETF",
       "type": "etf",
       "note": "Robotica umanoide e physical AI",
-      "price": 33.11,
+      "price": 28.68,
       "currency": "USD",
-      "mtd": -0.82,
-      "ytd": 3.97,
-      "m3": -16.49,
-      "from_high": -23.46
+      "mtd": -14.09,
+      "ytd": -9.94,
+      "m3": -20.51,
+      "from_high": -33.7
     }
   ]
 }
